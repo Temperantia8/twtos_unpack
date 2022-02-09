@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Shop">
+	<Category Name="PC_Shop">
+		<Class ClassID="101" ShopName="PC_Shop" IDSpace="Item" ItemName="Scroll_WarpKlaipe" Description="워프 주문서" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="102" ShopName="PC_Shop" IDSpace="Item" ItemName="Mic" Description="마이크" NeedProperty="None" SellRate="2" Count="50" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Weapon">
+		<Class ClassID="201" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SWD01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="202" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SWD01_127" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="203" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SWD01_128" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="204" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SWD01_124" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="205" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SWD01_129" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="206" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SWD01_125" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="207" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSW01_102" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="208" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSW01_120" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="209" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSW01_118" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="210" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSW01_121" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="211" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSW01_119" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="212" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="STF01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="213" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="STF01_127" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="214" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="STF01_128" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="215" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="STF01_124" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="216" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="STF01_129" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="217" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="STF01_125" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="218" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSF01_118" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="219" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSF01_119" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="220" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSF01_120" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="221" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSF01_116" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="222" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSF01_121" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="223" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSF01_117" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="224" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TBW01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="225" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TBW01_127" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="226" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TBW01_128" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="227" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TBW01_124" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="228" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TBW01_129" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="229" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TBW01_125" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="230" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="BOW01_120" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="231" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="BOW01_121" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="232" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="BOW01_118" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="233" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="BOW01_122" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="234" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="BOW01_119" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="235" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="MAC01_103" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="236" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="MAC01_126" Description="None" NeedProperty="None" SellRate="1.25" Count="1" Price="1"/>
+		<Class ClassID="237" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="MAC01_127" Description="None" NeedProperty="None" SellRate="1.5" Count="1" Price="1"/>
+		<Class ClassID="238" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="MAC01_124" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="239" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="MAC01_128" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="240" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="MAC01_125" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="241" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TMAC01_101" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="242" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SPR01_109" Description="None" NeedProperty="None" SellRate="1.75" Count="1" Price="1"/>
+		<Class ClassID="243" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SPR01_110" Description="None" NeedProperty="None" SellRate="2" Count="1" Price="1"/>
+		<Class ClassID="244" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="SPR01_111" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="245" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="TSP01_107" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="246" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="RAP01_111" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="247" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="RAP01_112" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="248" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="RAP01_113" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="249" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="PST01_112" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="250" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="PST01_113" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+		<Class ClassID="251" ShopName="Klapeda_Weapon" IDSpace="Item" ItemName="PST01_114" Description="None" NeedProperty="None" SellRate="2.25" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Armor">
+		<Class ClassID="601" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_129" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="602" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_129" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="603" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_129" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="604" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_129" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="605" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="SHD01_111" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="606" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_130" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="607" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_130" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="608" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_130" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="609" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_130" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="610" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_131" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="611" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_131" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="612" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_131" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="613" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_131" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="614" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_132" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="615" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_132" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="616" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_132" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="617" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_132" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="618" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="SHD01_112" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="619" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="620" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="621" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="622" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_126" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="623" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_106" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="624" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_106" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="625" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_106" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="626" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_106" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="627" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_110" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="628" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_110" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="629" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_110" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="630" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_110" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="631" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="SHD01_105" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="632" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_153" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="633" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_153" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="634" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_153" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="635" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_153" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="636" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="637" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="638" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="639" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="640" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="TOP01_137" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="641" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="LEG01_137" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="642" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="FOOT01_137" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="643" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="HAND01_137" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="644" ShopName="Klapeda_Armor" IDSpace="Item" ItemName="SHD01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Misc">
+		<Class ClassID="701" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_HP1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="702" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_HP2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="703" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_HP3" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="704" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_HP4" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="705" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_HP5" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="706" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_SP1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="707" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_SP2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="708" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_SP3" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="709" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_SP4" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="710" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_SP5" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="711" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_STA1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="712" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Drug_STA2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="714" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Scroll_Warp_Klaipe" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="715" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Scroll_Warp_Orsha" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="716" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="Moru_W_01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="717" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="misc_campfireKit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="718" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_BlessedStone_Multi" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="719" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_Premium_boostToken02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="720" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_Premium_boostToken03" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="721" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_Premium_Clear_dungeon_02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="722" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_misc_TruthMirror" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="723" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_misc_ore23_stone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="724" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_God_Potion_ATK" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="725" ShopName="Klapeda_Misc" IDSpace="Item" ItemName="R_God_Potion_DEF" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Accessory">
+		<Class ClassID="801" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="BRC01_111" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="802" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="BRC01_112" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="803" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="BRC01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="804" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="BRC01_114" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="805" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="BRC01_121" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="806" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="NECK01_112" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="807" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="NECK01_113" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="808" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="NECK01_114" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="809" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="NECK01_115" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="810" ShopName="Klapeda_Accessory" IDSpace="Item" ItemName="NECK01_116" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Recipe">
+		<Class ClassID="901" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_misc_ore25" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="902" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_misc_ore24" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="903" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_HAND02_104" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="904" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_FOOT02_104" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="905" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_LEG02_104" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="906" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_TOP02_104" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="907" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_FOOT02_108" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="908" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_LEG02_108" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="909" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_SHD02_103" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="910" ShopName="Klapeda_Recipe" IDSpace="Item" ItemName="R_SHD02_108" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Priest">
+		<Class ClassID="1101" ShopName="Master_Priest" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1102" ShopName="Master_Priest" IDSpace="Item" ItemName="Drug_powder" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1103" ShopName="Master_Priest" IDSpace="Item" ItemName="food_007" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_FireMage">
+		<Class ClassID="1201" ShopName="Master_FireMage" IDSpace="Item" ItemName="misc_jore09" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Companion">
+		<Class ClassID="1301" ShopName="Klapeda_Companion" IDSpace="Item" ItemName="food_companion" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="1302" ShopName="Klapeda_Companion" IDSpace="Item" ItemName="food_penguin2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="1303" ShopName="Klapeda_Companion" IDSpace="Item" ItemName="food_tomato" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="1304" ShopName="Klapeda_Companion" IDSpace="Item" ItemName="food_cereal02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="1305" ShopName="Klapeda_Companion" IDSpace="Item" ItemName="food_Guineapig" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="1306" ShopName="Klapeda_Companion" IDSpace="Item" ItemName="food_Toucan" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Alchemist">
+		<Class ClassID="1401" ShopName="Master_Alchemist" IDSpace="Item" ItemName="misc_catalyst_1" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1402" ShopName="Master_Alchemist" IDSpace="Item" ItemName="misc_flask" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1403" ShopName="Master_Alchemist" IDSpace="Item" ItemName="food_002" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1404" ShopName="Master_Alchemist" IDSpace="Item" ItemName="food_001" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1405" ShopName="Master_Alchemist" IDSpace="Item" ItemName="food_003" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1406" ShopName="Master_Alchemist" IDSpace="Item" ItemName="food_006" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1407" ShopName="Master_Alchemist" IDSpace="Item" ItemName="misc_lensterseum" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1408" ShopName="Master_Alchemist" IDSpace="Item" ItemName="misc_riperium" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1409" ShopName="Master_Alchemist" IDSpace="Item" ItemName="Legend_ExpPotion_2" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1410" ShopName="Master_Alchemist" IDSpace="Item" ItemName="misc_wakepowder" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1411" ShopName="Master_Alchemist" IDSpace="Item" ItemName="Book10_1" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1412" ShopName="Master_Alchemist" IDSpace="Item" ItemName="SubExpOrb" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1413" ShopName="Master_Alchemist" IDSpace="Item" ItemName="misc_darkiron" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Wugushi">
+		<Class ClassID="1501" ShopName="Master_Wugushi" IDSpace="Item" ItemName="misc_poisonpot" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Squire">
+		<Class ClassID="1601" ShopName="Master_Squire" IDSpace="Item" ItemName="misc_whetstone" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1602" ShopName="Master_Squire" IDSpace="Item" ItemName="misc_repairkit_1" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1603" ShopName="Master_Squire" IDSpace="Item" ItemName="misc_campkit" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1604" ShopName="Master_Squire" IDSpace="Item" ItemName="food_033" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1605" ShopName="Master_Squire" IDSpace="Item" ItemName="food_035" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1606" ShopName="Master_Squire" IDSpace="Item" ItemName="food_034" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1607" ShopName="Master_Squire" IDSpace="Item" ItemName="food_020" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1608" ShopName="Master_Squire" IDSpace="Item" ItemName="food_038" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1609" ShopName="Master_Squire" IDSpace="Item" ItemName="food_040" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1610" ShopName="Master_Squire" IDSpace="Item" ItemName="food_041" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Fletcher">
+		<Class ClassID="1701" ShopName="Master_Fletcher" IDSpace="Item" ItemName="wood_01" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1702" ShopName="Master_Fletcher" IDSpace="Item" ItemName="wood_02" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1703" ShopName="Master_Fletcher" IDSpace="Item" ItemName="wood_03" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1704" ShopName="Master_Fletcher" IDSpace="Item" ItemName="wood_04" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1705" ShopName="Master_Fletcher" IDSpace="Item" ItemName="misc_0116" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1706" ShopName="Master_Fletcher" IDSpace="Item" ItemName="misc_gunpowder" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Chronomancer">
+		<Class ClassID="1801" ShopName="Master_Chronomancer" IDSpace="Item" ItemName="misc_spacepiece" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="1802" ShopName="Master_Chronomancer" IDSpace="Item" ItemName="misc_timepiece" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Sapper">
+		<Class ClassID="1901" ShopName="Master_Sapper" IDSpace="Item" ItemName="misc_trapkit" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Fedimian_Misc">
+		<Class ClassID="2001" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_HP2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2002" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_HP3" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2003" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_HP4" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2004" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_HP5" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2005" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_SP2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2006" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_SP3" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2007" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_SP4" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2008" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_SP5" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2009" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Drug_STA2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2011" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Scroll_Warp_Fedimian" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2012" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="Moru_W_01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2015" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="misc_campfireKit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2016" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_misc_TruthMirror" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2017" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_Premium_Clear_dungeon_02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2018" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_BlessedStone_Multi" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2019" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_Premium_boostToken02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2020" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_Premium_boostToken03" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2021" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_misc_ore23_stone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2022" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_God_Potion_ATK" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="2023" ShopName="Fedimian_Misc" IDSpace="Item" ItemName="R_God_Potion_DEF" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Fedimian_Weapon">
+		<Class ClassID="2101" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="SWD01_137" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2102" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="TSW01_129" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2103" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="STF01_137" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2104" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="TSF01_129" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2105" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="TBW01_137" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2106" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="BOW01_130" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2107" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="MAC01_136" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2108" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="TMAC01_102" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2109" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="SPR01_119" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2110" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="TSP01_111" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2111" ShopName="Fedimian_Weapon" IDSpace="Item" ItemName="DAG01_107" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Fedimian_Armor">
+		<Class ClassID="2201" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="TOP01_138" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2202" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="LEG01_138" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2203" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="FOOT01_138" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2204" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="HAND01_138" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2205" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="TOP01_139" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2206" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="LEG01_139" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2207" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="FOOT01_139" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2208" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="HAND01_139" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2209" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="TOP01_140" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2210" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="LEG01_140" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2211" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="FOOT01_140" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2212" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="HAND01_140" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+		<Class ClassID="2213" ShopName="Fedimian_Armor" IDSpace="Item" ItemName="SHD01_115" Description="None" NeedProperty="None" SellRate="2.5" Count="1" Price="1"/>
+	</Category>
+	<Category Name="REQ_SEMPLE_06">
+		<Class ClassID="2301" ShopName="REQ_SEMPLE_06" IDSpace="Item" ItemName="Drug_HPSP3" Description="None" NeedProperty="REQ_LMT_1" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="PARDONER_MASTER">
+		<Class ClassID="2401" ShopName="PARDONER_MASTER" IDSpace="Item" ItemName="misc_parchment" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="2402" ShopName="PARDONER_MASTER" IDSpace="Item" ItemName="PILGRIM51_ITEM_09" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_IceMage">
+		<Class ClassID="2601" ShopName="Master_IceMage" IDSpace="Item" ItemName="misc_jore11" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Pardoner">
+		<Class ClassID="2701" ShopName="Master_Pardoner" IDSpace="Item" ItemName="misc_parchment" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Dievdirbys">
+		<Class ClassID="2801" ShopName="Master_Dievdirbys" IDSpace="Item" ItemName="wood_06" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="PILGRIM51_SHOP">
+		<Class ClassID="2901" ShopName="TO_PARDONER_MASTER" IDSpace="Item" ItemName="PILGRIM51_SQ_9_ITEM_1" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Necromancer">
+		<Class ClassID="3001" ShopName="Master_Necromancer" IDSpace="Item" ItemName="Drug_deadparts" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Klapeda_Guild">
+		<Class ClassID="3101" ShopName="Klapeda_Guild" IDSpace="Item" ItemName="Guild_Tower01" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3102" ShopName="Klapeda_Guild" IDSpace="Item" ItemName="seed_01" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3103" ShopName="Klapeda_Guild" IDSpace="Item" ItemName="Artefact_630009" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3104" ShopName="Klapeda_Guild" IDSpace="Item" ItemName="Guild_Forge01" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3105" ShopName="Klapeda_Guild" IDSpace="Item" ItemName="Guild_ShieldCharger01" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Orsha_Misc">
+		<Class ClassID="3201" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_HP1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3202" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_HP2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3203" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_HP3" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3204" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_HP4" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3205" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_HP5" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3206" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_SP1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3207" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_SP2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3208" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_SP3" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3209" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_SP4" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3210" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_SP5" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3211" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_STA1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3212" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Drug_STA2" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3214" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Scroll_Warp_Orsha" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3215" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Scroll_Warp_Klaipe" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3216" ShopName="Orsha_Misc" IDSpace="Item" ItemName="Moru_W_01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3217" ShopName="Orsha_Misc" IDSpace="Item" ItemName="misc_campfireKit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3218" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_BlessedStone_Multi" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3219" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_Premium_boostToken02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3220" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_Premium_boostToken03" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3221" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_Premium_Clear_dungeon_02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3222" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_misc_TruthMirror" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3223" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_misc_ore23_stone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3224" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_God_Potion_ATK" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="3225" ShopName="Orsha_Misc" IDSpace="Item" ItemName="R_God_Potion_DEF" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Chaplain">
+		<Class ClassID="3301" ShopName="Master_Chaplain" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3302" ShopName="Master_Chaplain" IDSpace="Item" ItemName="food_007" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3303" ShopName="Master_Chaplain" IDSpace="Item" ItemName="misc_cape" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Shinobi">
+		<Class ClassID="3401" ShopName="Master_Shinobi" IDSpace="Item" ItemName="misc_bombShinobi" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_RuneCaster">
+		<Class ClassID="3501" ShopName="Master_RuneCaster" IDSpace="Item" ItemName="misc_runeStone" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Bokor">
+		<Class ClassID="3601" ShopName="Master_Bokor" IDSpace="Item" ItemName="Zombie_Capsule" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Daoshi">
+		<Class ClassID="3701" ShopName="Master_Daoshi" IDSpace="Item" ItemName="misc_guehangji" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Enchanter">
+		<Class ClassID="3801" ShopName="Master_Enchanter" IDSpace="Item" ItemName="misc_emptySpellBook" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3802" ShopName="Master_Enchanter" IDSpace="Item" ItemName="misc_EnchantedPowder" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+		<Class ClassID="3803" ShopName="Master_Enchanter" IDSpace="Item" ItemName="Use_item_enchantBomb" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Inquisitor">
+		<Class ClassID="3901" ShopName="Master_Inquisitor" IDSpace="Item" ItemName="misc_torturetools" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Appraiser">
+		<Class ClassID="4051" ShopName="Master_Appraiser" IDSpace="Item" ItemName="misc_0507" Description="None" NeedProperty="None" SellRate="1.00" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Skill_Misc_Shop_Warrior">
+		<Class ClassID="4100" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="misc_whetstone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4101" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="misc_repairkit_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4102" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="misc_campkit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4103" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_033" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4104" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_035" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4105" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_034" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4106" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_020" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4107" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_038" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4108" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_040" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4109" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="food_041" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4110" ShopName="Skill_Misc_Shop_Warrior" IDSpace="Item" ItemName="misc_bombShinobi" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Skill_Misc_Shop_Archer">
+		<Class ClassID="4200" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="misc_poisonpot" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4201" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="wood_01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4202" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="wood_02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4203" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="wood_03" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4204" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="wood_04" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4205" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="misc_0116" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4206" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="misc_gunpowder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4207" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="misc_claymore" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4208" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="misc_wire" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4209" ShopName="Skill_Misc_Shop_Archer" IDSpace="Item" ItemName="misc_0507" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Skill_Misc_Shop_Mage">
+		<Class ClassID="4300" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_jore09" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4301" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_catalyst_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4302" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_flask" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4303" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="food_002" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4304" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="food_001" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4305" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="food_003" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4306" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="food_006" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4307" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="Book10_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4308" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_spacepiece" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4309" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_jore11" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4310" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="Drug_deadparts" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4311" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_runeStone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4312" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_emptySpellBook" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4313" ShopName="Skill_Misc_Shop_Mage" IDSpace="Item" ItemName="misc_EnchantedPowder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Skill_Misc_Shop_Cleric">
+		<Class ClassID="4400" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4401" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="Drug_powder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4402" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="food_007" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4403" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="PILGRIM51_ITEM_09" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4404" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="misc_parchment" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4405" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="wood_01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4406" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="wood_02" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4407" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="wood_03" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4408" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="wood_04" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4409" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="wood_05" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4410" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="PILGRIM51_SQ_9_ITEM_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4411" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="misc_cape" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4412" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="Zombie_Capsule" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4413" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="misc_guehangji" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="4414" ShopName="Skill_Misc_Shop_Cleric" IDSpace="Item" ItemName="misc_brokenwheel" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Shop_Weapon_Normal_270_315">
+		<Class ClassID="5000" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="SWD01_140" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5001" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TSW01_132" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5002" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="STF01_140" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5003" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TBW01_140" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5004" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="BOW01_133" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5005" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="MAC01_139" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5006" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="SPR01_122" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5007" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TSP01_114" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5008" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="DAG01_110" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5009" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TSF01_132" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5010" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="PST01_107" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5011" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="RAP01_107" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5012" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="CAN01_110" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5013" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="MUS01_106" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5014" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="SWD01_141" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5015" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TSW01_133" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5016" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="STF01_141" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5017" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TBW01_141" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5018" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="BOW01_134" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5019" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="MAC01_140" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5020" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="SPR01_123" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5021" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TSP01_115" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5022" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="DAG01_111" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5023" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="TSF01_133" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5024" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="PST01_108" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5025" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="RAP01_108" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5026" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="CAN01_111" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5027" ShopName="Shop_Weapon_Normal_270_315" IDSpace="Item" ItemName="MUS01_107" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Shop_Armor_Normal_270_315">
+		<Class ClassID="5100" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="SHD01_122" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5101" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="SHD01_123" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5102" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="TOP01_206" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5103" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="LEG01_206" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5104" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="FOOT01_206" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5105" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="HAND01_206" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5106" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="TOP01_207" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5107" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="LEG01_207" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5108" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="FOOT01_207" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5109" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="HAND01_207" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5110" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="TOP01_208" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5111" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="LEG01_208" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5112" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="FOOT01_208" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5113" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="HAND01_208" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5114" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="TOP01_209" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5115" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="LEG01_209" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5116" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="FOOT01_209" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5117" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="HAND01_209" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5118" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="TOP01_210" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5119" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="LEG01_210" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5120" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="FOOT01_210" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5121" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="HAND01_210" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5122" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="TOP01_211" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5123" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="LEG01_211" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5124" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="FOOT01_211" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5125" ShopName="Shop_Armor_Normal_270_315" IDSpace="Item" ItemName="HAND01_211" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Event1902_Fish_Shop">
+		<Class ClassID="5300" ShopName="Event1902_Fish_Shop" IDSpace="Item" ItemName="Event_1902_mudfish" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Fish_Shop_Manager">
+		<Class ClassID="5400" ShopName="Fish_Shop_Manager" IDSpace="Item" ItemName="Fishing_Rod_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5401" ShopName="Fish_Shop_Manager" IDSpace="Item" ItemName="Paste_Bait_basic" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5402" ShopName="Fish_Shop_Manager" IDSpace="Item" ItemName="Paste_Bait_shrimp" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5403" ShopName="Fish_Shop_Manager" IDSpace="Item" ItemName="Paste_Bait_octopus" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5404" ShopName="Fish_Shop_Manager" IDSpace="Item" ItemName="Spread_Bait_basic" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5405" ShopName="Fish_Shop_Manager" IDSpace="Item" ItemName="Fishing_Fire_basic" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Sage">
+		<Class ClassID="5500" ShopName="Master_Sage" IDSpace="Item" ItemName="misc_portalstone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="MASTER_WIZARD">
+		<Class ClassID="5600" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_jore09" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5601" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_jore11" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5602" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_catalyst_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5603" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_paperdoll" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5604" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_guehangji" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5605" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="Drug_deadparts" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5606" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_emptySpellBook" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5607" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="Zombie_Capsule" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5608" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_runeStone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5609" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_flask" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5610" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="food_002" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5611" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="food_001" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5612" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="food_003" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5613" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="food_006" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5614" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_timepiece" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5615" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_spacepiece" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5616" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="Book10_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5617" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_portalstone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="5618" ShopName="MASTER_WIZARD" IDSpace="Item" ItemName="misc_wakepowder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="SORCERER4_1">
+		<Class ClassID="5700" ShopName="SORCERER4_1" IDSpace="Item" ItemName="misc_emptySpellBook" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Thaumaturge">
+		<Class ClassID="5800" ShopName="Master_Thaumaturge" IDSpace="Item" ItemName="misc_EnchantedPowder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Magic_Society">
+		<Class ClassID="6000" ShopName="Magic_Society" IDSpace="Item" ItemName="legend_card_reinforce_misc" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Event_Shop_Moru">
+		<Class ClassID="5201" ShopName="Event_Shop_Moru" IDSpace="Item" ItemName="Moru_W_01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="job_2_thaumaturge_master">
+		<Class ClassID="6100" ShopName="job_2_thaumaturge_master" IDSpace="Item" ItemName="misc_EnchantedPowder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="ONMYOJI_MASTER">
+		<Class ClassID="6200" ShopName="ONMYOJI_MASTER" IDSpace="Item" ItemName="misc_paperdoll" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="RETIARII_MASTER">
+		<Class ClassID="6300" ShopName="RETIARII_MASTER" IDSpace="Item" ItemName="Retiarii_Net" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Teliavelis">
+		<Class ClassID="6400" ShopName="Teliavelis" IDSpace="Item" ItemName="Extract_kit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="6401" ShopName="Teliavelis" IDSpace="Item" ItemName="Dirbtumas_kit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_QuarrelShooter">
+		<Class ClassID="6500" ShopName="Master_QuarrelShooter" IDSpace="Item" ItemName="arrow_stone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Kabbalist">
+		<Class ClassID="6600" ShopName="Master_Kabbalist" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Kriwi">
+		<Class ClassID="6700" ShopName="Master_Kriwi" IDSpace="Item" ItemName="Drug_powder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Paladin">
+		<Class ClassID="6800" ShopName="Master_Paladin" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Exorcist">
+		<Class ClassID="6900" ShopName="Master_Exorcist" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="COLONY_SUTLER">
+		<Class ClassID="7000" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Woodenwall_Trap" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7001" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Ballista" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7002" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Siege_Tower" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7003" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Divine_Flag" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7004" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Scroll_Warp_Colony" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7005" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="R_GuildColony_Item_mysticCristal" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7006" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="R_GuildColony_Item_AoE_Revive_Scroll" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7007" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Observation_Scroll" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7008" ShopName="Shop_Colony_Sutler" IDSpace="Item" ItemName="GuildColony_Item_Resistance_status_Drug" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Swordman">
+		<Class ClassID="7100" ShopName="Master_Swordman" IDSpace="Item" ItemName="Guild_Forge01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7101" ShopName="Master_Swordman" IDSpace="Item" ItemName="Guild_ShieldCharger01" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Archer">
+		<Class ClassID="7200" ShopName="Master_Archer" IDSpace="Item" ItemName="misc_poisonpot" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7209" ShopName="Master_Archer" IDSpace="Item" ItemName="misc_0507" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Cleric">
+		<Class ClassID="7300" ShopName="Master_Cleric" IDSpace="Item" ItemName="Drug_holywater" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7301" ShopName="Master_Cleric" IDSpace="Item" ItemName="Drug_powder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7302" ShopName="Master_Cleric" IDSpace="Item" ItemName="food_007" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7303" ShopName="Master_Cleric" IDSpace="Item" ItemName="misc_parchment" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7304" ShopName="Master_Cleric" IDSpace="Item" ItemName="wood_06" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7305" ShopName="Master_Cleric" IDSpace="Item" ItemName="misc_cape" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Scout">
+		<Class ClassID="7401" ShopName="Master_Scout" IDSpace="Item" ItemName="misc_bombShinobi" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7402" ShopName="Master_Scout" IDSpace="Item" ItemName="misc_EnchantedPowder" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7403" ShopName="Master_Scout" IDSpace="Item" ItemName="Use_item_enchantBomb" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7404" ShopName="Master_Scout" IDSpace="Item" ItemName="misc_whetstone" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7405" ShopName="Master_Scout" IDSpace="Item" ItemName="misc_repairkit_1" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7406" ShopName="Master_Scout" IDSpace="Item" ItemName="misc_campkit" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7407" ShopName="Master_Scout" IDSpace="Item" ItemName="food_033" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7408" ShopName="Master_Scout" IDSpace="Item" ItemName="food_035" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7409" ShopName="Master_Scout" IDSpace="Item" ItemName="food_034" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7410" ShopName="Master_Scout" IDSpace="Item" ItemName="food_020" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7411" ShopName="Master_Scout" IDSpace="Item" ItemName="food_038" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7412" ShopName="Master_Scout" IDSpace="Item" ItemName="food_040" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="7413" ShopName="Master_Scout" IDSpace="Item" ItemName="food_041" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Assassin">
+		<Class ClassID="7500" ShopName="Master_Assassin" IDSpace="Item" ItemName="misc_0529" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Master_Arditi">
+		<Class ClassID="7600" ShopName="Master_Arditi" IDSpace="Item" ItemName="misc_0534" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="D_CASTLE_19_1_PORTAL_NPC_01">
+		<Class ClassID="7701" ShopName="D_CASTLE_19_1_PORTAL_NPC_01" IDSpace="Item" ItemName="ChallengeExpertModeCountUp_Recipe" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Guild_Housing">
+		<Class ClassID="10000" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_street_lamp_01" Description="가로등" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10001" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_street_lamp_02" Description="가로등" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10002" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_street_lamp_03" Description="가로등" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10003" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_street_lamp_04" Description="가로등" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10004" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_castle_ramp_1" Description="가로등" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10100" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_alocasia_white" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10101" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_alocasia_orange" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10102" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_alocasia_pink" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10103" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_alocasia_yellow" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10104" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_keep_water_yellow" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10105" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_keep_water_purple" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10106" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_keep_water_red" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10107" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_keep_water_white" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10108" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_sunflower_yellow" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10109" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_poppyflower_yellow" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10110" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_cannalily_red" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10111" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_dieffenbachia" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10112" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_valleylily_white" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10113" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_tulip_white" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10114" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_small_hydrangea_01_purple" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10115" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_lotus_blue" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10116" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_allium_purple" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10117" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_wild_grass_01" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10118" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_lupine_pink" Description="꽃" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10200" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_barrack_05_bigtree" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10201" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_normaltree_01_green" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10202" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_normaltree_01_pink" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10203" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_normaltree_01_purple" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10204" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_normaltree_01_yellow" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10206" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_01_blue" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10207" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_01_red" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10208" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_01_white" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10209" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_01_yellow" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10210" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_02_blue" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10211" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_02_red" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10212" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_02_white" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10213" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_02_yellow" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10214" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_tree_basic_01" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10215" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_whitetree_tree" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10216" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_whitetree_tree_purple" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10217" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_whitetree_tree_white" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10218" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_whitetree_tree_yellow" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10219" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_tree_basic_02" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10220" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_round_tree_01" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10221" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bush_01" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10222" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fruity_bush_01" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10223" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_tree_basic_03" Description="나무" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10300" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bonfire_01" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10301" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerLight_01_pink" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10302" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerLight_01_red" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10303" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerLight_01_white" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10304" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerLight_02_pink" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10305" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerLight_02_red" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10306" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerLight_02_white" Description="랜턴" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10400" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bench_01_brown" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10401" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bench_01_green" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10402" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bench_01_white" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10403" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bench_01_wine" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10500" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fountain_01" Description="분수대" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10501" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fountain_02" Description="분수대" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10502" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fountain_03" Description="분수대" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10503" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fountain_04" Description="분수대" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10504" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_small_fountain_01" Description="분수대" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10600" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_arch_01_purple" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10601" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_arch_01_red" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10602" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_arch_01_white" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10603" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flower_arch_01_yellow" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10604" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_gate_01" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10700" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_barrack_puddle" Description="연못" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10701" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_barrack_puddle_yellow" Description="연못" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10702" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_barrack_puddle_red" Description="연못" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10703" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_barrack_puddle_blue" Description="연못" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10800" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_arch_01_brown" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10801" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_arch_01_black" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10802" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_arch_01_white" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10803" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_brownfence_01" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10804" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_brownfence_02" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10805" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_brownfence_03" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10806" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_brownfence_04" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10807" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_whitefence_01" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10808" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_whitefence_02" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10809" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_whitefence_03" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10810" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_whitefence_04" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10811" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_whitefence_05" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10812" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_rampartfence_01" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10813" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_plantfence_01" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10814" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_plantfence_02" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10900" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_barrack_gramophone" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10901" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cactus_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10902" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_conch_01_basic" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10903" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_conch_01_pink" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10904" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_conch_01_purple" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10905" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_coral_01_blue" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10906" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_coral_02_red" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10907" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_coral_03_blue" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10908" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_pump_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10909" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_farm_sack_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10910" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fruit_basket_01_basic" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10911" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fruit_basket_01_purple" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10912" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_fruit_basket_01_red" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10913" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_oak_cask_set_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10914" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_scarecrow_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10915" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_sea_anemone_01_red" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10916" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_sea_anemone_01_blue" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10917" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_sea_anemone_01_yellow" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10918" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_shop_set" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10919" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_stone_tower_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10920" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_stone_tower_02" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10921" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_05" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10923" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_horse" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10924" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_kepa" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10925" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_popolion" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10926" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_swan" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10927" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_tree" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10928" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_windmill_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10929" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_fence" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="10930" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_bush" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11000" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_statue_01" Description="조각상" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11001" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_statue_02" Description="조각상" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11002" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_statue_03" Description="조각상" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11003" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_statue_04" Description="조각상" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11004" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_statue_bakarine" Description="조각상" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11100" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_parasol_01_white" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11101" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_parasol_01_blue" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11102" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_parasol_01_red" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11103" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_table_set_01_white" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11104" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_table_set_01_pink" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11105" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_table_set_01_yellow" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11200" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bigplant_set_01_green" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11201" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bigplant_set_01_cyan" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11202" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bigplant_set_02_green" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11203" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bigplant_set_02_cyan" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11204" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bigplant_set_03_green" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11205" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_bigplant_set_03_cyan" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11206" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_smallplant_set_01_green" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11207" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_smallplant_set_01_cyan" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11208" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_set_01_blue" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11209" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_set_01_red" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11210" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_set_01_white" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11211" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_hydrangea_set_01_yellow" Description="화단" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11300" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_01_yellow" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11301" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_01_blue" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11302" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_01_red" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11303" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_01_white" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11304" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_02_green" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11305" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_02_blue" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11306" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_02_red" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11307" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_flowerpot_02_yellow" Description="화분" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11400" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_field" Description="시설" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11401" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_armor_laboratory" Description="시설" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11402" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_attribute_laboratory" Description="시설" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11403" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_weapon_laboratory" Description="시설" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11404" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_manufacture_workshop" Description="시설" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11500" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_GuildHousing_farmer_boy" Description="고용" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11501" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_GuildHousing_farmer_girl" Description="고용" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11600" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_cube" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11601" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_topiary_cube_set" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11602" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_wood_01_beige" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11603" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_wood_01_beige_set" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11604" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_wood_01_brown" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11605" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_wood_01_brown_set" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11606" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_limestone_01_gray" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11607" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_limestone_01_gray_set" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11608" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_limestone_01_beige" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="11609" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_cube_limestone_01_beige_set" Description="큐브" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12001" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_pond_01" Description="연못" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12002" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_pile_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12003" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_rabbit_cage_01" Description="케이지" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12004" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_chicken_cage_01" Description="케이지" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12005" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_pushcart_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12006" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_stump_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12007" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_pile_02" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12008" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_stump_02" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12009" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_dwarf_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12010" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_dwarf_02" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12011" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_scarecrow_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12012" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_bear_shack_01" Description="케이지" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12013" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_bench_01" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12014" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_arch_01" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12015" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_fence_01" Description="울타리" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12016" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_arch_02" Description="아치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12017" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_windmill_01" Description="풍차" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12018" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_bench_02" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12019" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_stall_01" Description="장식" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12020" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_hammock_01" Description="벤치" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="12021" ShopName="Guild_Housing" IDSpace="Item" ItemName="GuildHousing_Item_h_forest_table_01" Description="테이블" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Personal_Housing">
+		<Class ClassID="20000" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_cupboard_01_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20001" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_cupboard_02_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20002" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_candlestick_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20003" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_sign" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20004" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_shelf_01_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20005" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_shelf_02_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20006" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_shelf_03_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20007" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_coffemachine_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20008" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_storage_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20009" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_counter_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20010" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_chair_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20011" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_macaron_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20012" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_cakeStall_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20013" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_boar" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20014" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_fox" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20015" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_rabbit" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20016" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_gunholder" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20017" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_medal" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20018" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_window" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20019" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_bear_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20020" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_chair_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20021" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_desk_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20022" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_fireplace_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20023" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_floorDoor_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20024" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_table_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20025" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_woodholder_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20026" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_alligator" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20027" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_shelf" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20028" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_partition" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20029" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_door_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20030" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_frame_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20031" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_frameSet_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20032" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_lamp_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20033" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_window_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20034" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_candleStand" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20035" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_cart_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20036" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_chair_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20037" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_champagne_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20038" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_dessertTable_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20039" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_diningTable_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20040" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_partition_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20041" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_statue_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20042" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_swan_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20043" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_shelf_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20044" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_alarm_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20045" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_bed_01_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20046" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_woodbed_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20047" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_bread_table_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20048" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_fruit_table_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20049" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_dishp_table_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20050" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_chair_01_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20051" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_longchair_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20052" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_sofa_01_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20053" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_sitting_cushion_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20054" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_side_table_01_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20055" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_side_table_012_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20056" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_stove_01_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20057" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_stove_012_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20058" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_chair_2" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20059" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_table_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20060" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_chair_3" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20061" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_bookshelf_01_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20062" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_bookshelf_02_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20063" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_chair_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20064" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_roundbook_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20065" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_side_table_012_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20066" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_03_dressing_desk_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20067" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_03_cushion_set_1_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20068" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_03_beartoyDesk_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20069" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_partition_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20070" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_partition_2" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20071" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_partition_3" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20072" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_clock_1" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20073" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_table_2" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20074" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_chair_4" Description="지면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20075" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_frame_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20076" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_wallstatue_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20077" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_wallbook_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20078" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_03_mirror_04_1_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20079" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_03_mirror_05_1_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20080" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_03_mirror_03_1_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20081" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_candlestick_1" Description="벽면" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20082" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_mat_01_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20083" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_mat_02_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20084" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_village_rug_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20085" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_06_carpet_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20086" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_06_rug_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20087" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_bearcarpet" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20088" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_tiger_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20089" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_07_tiger_white_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20090" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_08_capet_02_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20091" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_04_mat_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20092" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_carpet_L_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20093" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_09_carpet_M_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20094" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_08_capet_01_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20095" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_carpet_1" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20096" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_barrack_02_carpet_2" Description="카펫" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20097" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_Zawra" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20098" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_helgasercle" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20099" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_Nuaelle" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20100" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_mirtis" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20101" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_Blud" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20102" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_Marnoks" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20103" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_Lecifer" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20104" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_figure_hauberk" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20105" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Blud_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20106" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Blud_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20107" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Blud_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20108" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_hauberk_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20109" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_hauberk_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20110" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_hauberk_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20111" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Zawra_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20112" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Zawra_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20113" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Zawra_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20114" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_helgasercle_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20115" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_helgasercle_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20116" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_helgasercle_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20117" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_lecifer_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20118" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_lecifer_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20119" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_lecifer_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20120" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_mirtis_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20121" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_mirtis_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20122" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_mirtis_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20123" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_nuaelle_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20124" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_nuaelle_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20125" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_nuaelle_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20126" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Marnoks_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20127" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Marnoks_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20128" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_Marnoks_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20129" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_ChiefGuard_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20130" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_ChiefGuard_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20131" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_ChiefGuard_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20132" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_froster_lord_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20133" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_froster_lord_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20134" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_froster_lord_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20135" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_bramble_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20136" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_bramble_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20137" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_bramble_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20138" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_warpulis_bronze" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20139" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_warpulis_silver" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+		<Class ClassID="20140" ShopName="Personal_Housing" IDSpace="Item" ItemName="PersonalHousing_Item_hp_f_warpulis_gold" Description="피규어" NeedProperty="Hide" SellRate="1" Count="1" Price="1"/>
+	</Category>
+	<Category Name="Event2002_Fish_Shop">
+		<Class ClassID="21001" ShopName="Event2002_Fish_Shop" IDSpace="Item" ItemName="Event_2002_mudfish" Description="None" NeedProperty="None" SellRate="1" Count="1" Price="1"/>
+	</Category>
+</idspace>
+<!--Personal_Housing * NeedProperty="Hide" 하면 Shop목록에 노출 안 됨-->

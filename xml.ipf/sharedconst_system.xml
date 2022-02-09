@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- 운영상의 이슈로 조정되는 값들이 아닌 시스템 옵션 값들을 관리하는 sharedconst. 민감한 값들이므로 프로그래머의 확인 후에 수정 하도록 합시다. sharedconst.xml의 classID와 겹치지 않도록 주의 -->
+<idspace id="SharedConst">
+	<Category Name="OnOff">
+		<Class ClassID="400000" ClassName="USE_STEAM_DLC" Value="0" Desc="1이면 사용" UseInScript="NO"/>
+		<Class ClassID="400001" ClassName="USE_GET_ACC_CREATETIME" Value="0" Desc="1이면 사용" UseInScript="NO"/>
+		<Class ClassID="400002" ClassName="USE_MARKET_REPORT" Value="1" Desc="1이면 사용" UseInScript="YES"/>
+		<Class ClassID="400003" ClassName="USE_STEAM_VAC_BAN" Value="0" Desc="스팀 VAC에 의한 밴 기능 사용 여부. 1이면 사용" UseInScript="NO"/>
+		<Class ClassID="400004" ClassName="USE_STEAM_VALVE_LOCK_FROM_PURCHASING_BAN" Value="0" Desc="스팀 Purchasing Lock에 의한 밴 기능 사용 여부. 1이면 사용" UseInScript="NO"/>
+		<Class ClassID="400005" ClassName="STEAM_CONSUME_ITEM_USE_NEW_API" Value="0" Desc="스팀 인벤토리 시스템에서 스팀 유저가 구매 한 아이템을 차감시킬때, 0일 경우 TradeSetUnowned API를 통해, 1일 경우 ConsumeItem API를 통해 차감합니다." UseInScript="NO"/>
+		<Class ClassID="400006" ClassName="USE_CHAT_SERVER_MEMORY_DUMP_REPORT" Value="0" Desc="ChatServer에 MemoryDump txt 파일 저장 여부. 1이면 사용" UseInScript="NO"/>
+		<Class ClassID="400007" ClassName="USE_COUNT_INDUN_USING_RATE" Value="0" Desc="인던, 미션 입장 횟수 DB 집계 여부. 1이면 사용" UseInScript="NO"/>
+		<Class ClassID="400008" ClassName="ENABLE_APPRAISAL_ITEM_MOVE" Value="1" Desc="0일 경우 감정 아이템의 강화, 초월, 소켓추가, 각성, 1:1거래, 마켓 등록, 구매, 취소, NPC 상점 판매, 개인 및 팀 창고 in/out, 컴패니언 장비 슬롯 장착, 해제 불가" UseInScript="YES"/>
+		<Class ClassID="400009" ClassName="ENABLE_RECEIVE_CLIENT_SYSTEM_LOG" Value="1" Desc="1일 경우 클라이언트로부터 시스템 로그 전송받음" UseInScript="NO"/>
+		<Class ClassID="400013" ClassName="EMERGENCY_LOG" Value="1" Desc="긴급하게 자동매칭 안되는거 체크용" UseInScript="NO"/>
+	</Category>
+	<Category Name="System">
+		<Class ClassID="100000" ClassName="SHUTDOWN_TEST" Value="0" Desc="셧다운테스트" UseInScript="NO"/>
+		<Class ClassID="100001" ClassName="MOVE_PKT_TIME" Value="0.25" Desc="이동동기화패킷전송텀" UseInScript="NO"/>
+		<Class ClassID="100002" ClassName="NOT_ZONE_DOWN" Value="0" Desc="존이안떨어지는것을가정한다. 성능에 제한" UseInScript="NO"/>
+		<Class ClassID="100003" ClassName="PC_MAX_SYNC_DIST" Value="10" Desc="PC의 최대 동기화 허용거리" UseInScript="NO"/>
+		<Class ClassID="100004" ClassName="STAMINA_SYNC_TERM" Value="2000" Desc="스태미터 패킷 전송 딜레이" UseInScript="NO"/>
+		<Class ClassID="100005" ClassName="MAX_RANK_PER_PAGE" Value="30" Desc="랭킹 페이지당 최대 PC개수" UseInScript="YES"/>
+		<Class ClassID="100006" ClassName="PC_DIR_CHECK_TIME" Value="0.25" Desc="PC방향전환 동기화 체크시간" UseInScript="NO"/>
+		<Class ClassID="100007" ClassName="BTREE_RECREATE_TIME" Value="30" Desc="몬스터 btree 초기화 대기시간. 몬스터주변에 pc없으면 정해진 시간후에 btree를 다시만든다. btree에 잡혀있는 scriptRefCount를 없애서 좀비pc를 없앤다." UseInScript="NO"/>
+		<Class ClassID="100008" ClassName="SESSION_OBJ_INVALID_CHECKTIME" Value="1000" Desc="세션오브젝트 자동 프로퍼티 전송 체크타임" UseInScript="NO"/>
+		<Class ClassID="100009" ClassName="SESSION_OBJECT_ZOMBIE_CHECK_TIME" Value="1500" Desc="세션오브젝트의 ArgObj 좀비 체크" UseInScript="NO"/>
+		<Class ClassID="100010" ClassName="EXP_SAVE_FREQ" Value="20" Desc="None" UseInScript="NO"/>
+		<Class ClassID="100011" ClassName="ITEM_GET_RANGE" Value="35" Desc="아이템 들어오는 거리" UseInScript="NO"/>
+		<Class ClassID="100012" ClassName="VIS_GET_RANGE" Value="160" Desc="돈 아이템 들어오는 거리" UseInScript="NO"/>
+		<Class ClassID="100013" ClassName="GUILDQUEST_COUNT" Value="36" Desc="None" UseInScript="YES"/>
+		<Class ClassID="100014" ClassName="FORCE_EFT_DESTROY_BLENDTIME" Value="1.5" Desc="포스이펙트 destroy SLOW타입시 블랜드 타임" UseInScript="NO"/>
+		<Class ClassID="100015" ClassName="LIKE_LIST_PAGE" Value="10" Desc="None" UseInScript="NO"/>
+		<Class ClassID="100016" ClassName="CONTENTS_DB_SAVE_TIME" Value="300000" Desc="위키프로퍼티 등 콘텐츠를 주기적으로 저장해주는 시간" UseInScript="NO"/>
+		<Class ClassID="100017" ClassName="MAX_WIKI_MON_DROPITEM" Value="15" Desc="위키 드랍아이템 저장개수" UseInScript="YES"/>
+		<Class ClassID="100018" ClassName="MAX_WIKI_MON_MAPID" Value="10" Desc="위키 맵 아이디 저장개수" UseInScript="YES"/>
+		<Class ClassID="100019" ClassName="MAX_WIKI_TOPATTACK" Value="3" Desc="위키 최고 데미지 저장개수" UseInScript="YES"/>
+		<Class ClassID="100020" ClassName="MAX_WIKI_MON_ATK" Value="3" Desc="위키 최고 몬스터 공격 저장개수" UseInScript="YES"/>
+		<Class ClassID="100021" ClassName="MAX_WIKI_ITEM_MON" Value="15" Desc="위키 아이템 드랍 몬스터 저장개수" UseInScript="YES"/>
+		<Class ClassID="100022" ClassName="MAX_WIKI_ITEM_QUEST" Value="15" Desc="위키 아이템 퀘스트 저장개수" UseInScript="YES"/>
+		<Class ClassID="100023" ClassName="WIKI_RANK_CNT" Value="10" Desc="위키 상위 랭커 카운트" UseInScript="YES"/>
+		<Class ClassID="100024" ClassName="SURVEY_QUEST_COUNT" Value="10" Desc="설문조사 지문 최대개수" UseInScript="NO"/>
+		<Class ClassID="100025" ClassName="MAX_GAME_DIST_RATIO" Value="0.5" Desc="3DMax와 실제게임간의 거리비율" UseInScript="NO"/>
+		<Class ClassID="100026" ClassName="SERV_MSPD_FIX" Value="1.0" Desc="서버전체이동속도픽스" UseInScript="YES"/>
+		<Class ClassID="100027" ClassName="READY_ANIM_FIX" Value="3.0" Desc="레디애니속도" UseInScript="NO"/>
+		<Class ClassID="100028" ClassName="CAST_ANIM_FIX" Value="2.0" Desc="CAST애니속도" UseInScript="NO"/>
+		<Class ClassID="100029" ClassName="SHOT_ANIM_FIX" Value="1.0" Desc="공격애니속도" UseInScript="NO"/>
+		<Class ClassID="100030" ClassName="TRAFFIC_UPDATE_PRERIOD" Value="10000" Desc="채널 업데이트 Term" UseInScript="NO"/>
+		<Class ClassID="100031" ClassName="MON_SKILL_CHASE_TIME" Value="500" Desc="몬스터의Chase업데이트타임" UseInScript="NO"/>
+		<Class ClassID="100032" ClassName="MON_SKILL_CHASE_MAX_TIME" Value="10000" Desc="보스몬스터의 skill Chase 최대 시간. 이시간 지나가면 타겟을 해제한다." UseInScript="NO"/>
+		<Class ClassID="100033" ClassName="MON_WEAKINFO_DIST" Value="300" Desc="몬스터 약점스킬 ui보여주는 거리" UseInScript="NO"/>
+		<Class ClassID="100035" ClassName="MON_WEAKINFO_LEVEL" Value="15" Desc="몬스터 약점 보여줄 PC레벨 제한" UseInScript="NO"/>
+		<Class ClassID="100037" ClassName="MAX_MIC_LEN" Value="1024" Desc="외치기 최대길이(바이트)" UseInScript="YES"/>
+		<Class ClassID="100038" ClassName="AD_TRIGGER_MIN_DIST" Value="20" Desc="AD_TRIGGER일때 최소 대화거리" UseInScript="NO"/>
+		<Class ClassID="100039" ClassName="WIKI_RANK_PER_PAGE" Value="10" Desc="위키 랭킹 한페이지당 개수" UseInScript="YES"/>
+		<Class ClassID="100040" ClassName="DROP_DIV_CNT" Value="3" Desc="보이지않는손의 매직넘버" UseInScript="NO"/>
+		<Class ClassID="100041" ClassName="SKL_TGT_ANI_FORCE_DIST" Value="100" Desc="허공시전(스킬타겟애니패킷)일때 화면 밖까지 포스를 더 보내기위한 거리" UseInScript="NO"/>
+		<Class ClassID="100043" ClassName="PAD_DESTROY_EFFECT_BLENDTIME" Value="1.0" Desc="장판 소멸시 장판에 붙은 이펙트 블랜드시간 설정(초)" UseInScript="NO"/>
+		<Class ClassID="100044" ClassName="COMPANION_NODE_OFFSET_Y" Value="-13" Desc="컴패티언 탔을때 링크안걸린 노드들 높이위치 조절 값" UseInScript="NO"/>
+		<Class ClassID="100045" ClassName="GROUND_EFFECT_LV" Value="20" Desc="PlayEffectToGround 이펙트 안보이기 레벨제한" UseInScript="NO"/>
+		<Class ClassID="100046" ClassName="WORLD_MAX_MONSTER_COUNT" Value="500" Desc="ServerMonsterLimitCount" UseInScript="NO"/>
+		<Class ClassID="100047" ClassName="CONTENTS_SERVER_FORCE_AUTH" Value="1" Desc="None" UseInScript="NO"/>
+		<Class ClassID="100048" ClassName="BOKOR_MAX_ZOMBIE_COUNT" Value="20" Desc="보코르 좀비 개수" UseInScript="YES"/>
+		<Class ClassID="100049" ClassName="OTHER_BLOW_SOUND_VOL" Value="0.55" Desc="내캐릭제외한 blowSound volume" UseInScript="NO"/>
+		<Class ClassID="100050" ClassName="JOB_CHANGE_MAX_RANK" Value="4" Desc="전직 횟수 제한" UseInScript="YES"/>
+		<Class ClassID="100051" ClassName="TRACK_NORMAL_DROP_RATE" Value="10" Desc="연출 퀘스트 일반 몹 드랍 확률 1/10" UseInScript="NO"/>
+		<Class ClassID="100052" ClassName="ZONE_MEMORY_INFO_MONGO" Value="0" Desc="ENABLE_NEW_DEBUG일 때, 존서버 메모리정보 몽고로그 기록" UseInScript="NO"/>
+		<Class ClassID="100053" ClassName="PREMIUM_BUFF_SAVE_TIME" Value="60000" Desc="None" UseInScript="NO"/>
+		<Class ClassID="100054" ClassName="USE_LOGIN_LOG" Value="0" Desc="로그인 관련 로그를 배럭서버에 INFO로 남깁니다." UseInScript="NO"/>
+		<Class ClassID="100055" ClassName="DAILY_TIME_EVENT_FLAG" Value="0" Desc="타임 이벤트를 실행할 것인가 체크 값" UseInScript="YES"/>
+		<Class ClassID="100056" ClassName="DLC_GET_DELAY" Value="259200" Desc="계정 생성 후 DLC 수령까지의 Delay (초)" UseInScript="NO"/>
+		<Class ClassID="100057" ClassName="TRADABLE_DELAY" Value="0" Desc="계정 생성 후 거래가능까지의 Delay (초)" UseInScript="NO"/>
+		<Class ClassID="100058" ClassName="USE_STEAM_INVENTORY" Value="0" Desc="스팀 인벤토리 기능 사용 여부" UseInScript="NO"/>
+		<Class ClassID="100059" ClassName="TRADABLE_LEVEL" Value="0" Desc="거래가능한 최소 레벨" UseInScript="NO"/>
+		<Class ClassID="100060" ClassName="FORCE_DESTROY_ZOMBIE_INSTANCE_TIME" Value="180" Desc="반환되지 않는 미션 인스턴스를 해당 시간 후 강제로 반환하게 합니다(초)" UseInScript="NO"/>
+		<Class ClassID="100061" ClassName="IMCLOGGING_TEST" Value="0" Desc="로깅라이브러리의 테스트함수를 동작시킵니다(초)" UseInScript="NO"/>
+		<Class ClassID="100062" ClassName="ALLOWED_GROUP_ID_EXCEEDING_CHAR_COUNT" Value="0" Desc="캐릭터 갯수가 슬롯 갯수를 초과해도 접속을 허용할 그룹 아이디" UseInScript="NO"/>
+		<Class ClassID="100065" ClassName="UPDATE_TACTICS_TIME" Value="500" Desc="택틱스 업데이트 ms 주기" UseInScript="NO"/>
+		<Class ClassID="100066" ClassName="HEALTHCHECK_TEST" Value="0" Desc="헬스체크의 테스트모드를 동작시킵니다." UseInScript="NO"/>
+		<Class ClassID="100067" ClassName="HEALTHCHECK_PACKETLOGGING" Value="0" Desc="헬스체크 데이터중 패킷에 대한 정보를 로그로 남깁니다." UseInScript="NO"/>
+		<Class ClassID="100069" ClassName="ZOMBIE_TRIGGER_TIME" Value="300000" Desc="pc 좀비 로깅 타임(ms)" UseInScript="NO"/>
+		<Class ClassID="100070" ClassName="FIND_UNOBSTRUCTED_DISTANCE_MOVE_PATH" Value="5" Desc="유효하지 않은 위치일 경우 경로 찾기에 사용할 오차 거리" UseInScript="NO"/>
+    	<Class ClassID="100071" ClassName="WORLD_EVENT_CLICK_DELAY" Value="0.5" Desc="월드 이벤트 클릭 딜레이" UseInScript="YES"/>
+		<Class ClassID="100072" ClassName="ENABLE_QUIZ_QUIZ_EVENT" Value="1" Desc="퀴즈퀴즈 이벤트 실행 여부[1:실행]" UseInScript="YES"/>
+		<Class ClassID="100073" ClassName="DAY_COUNT_AT_INGAMES" Value="48" Desc="현실에서의 하루는 인게임의 며칠인가? ex) 4 -> 현실의 하루는 인게임에서 4일이다. 즉 인게임에서의 하루는 360분을 의미한다." UseInScript="NO"/>
+		<Class ClassID="100074" ClassName="CASUAL_GAMBLE_CLICK_DELAY" Value="0.2" Desc="캐쥬얼 던전 겜블 클릭 딜레이" UseInScript="YES"/>
+		<Class ClassID="100075" ClassName="MAX_TAB_TARGETTING_RANGE" Value="250" Desc="대상 선택 최대 거리" UseInScript="NO"/>
+		<Class ClassID="100076" ClassName="COMMON_GAMBLE_SHUTDOWN" Value="0" Desc="겜블 셧다운 할려면 1" UseInScript="NO"/>    
+		<Class ClassID="100077" ClassName="MAX_WEEKLY_PVP_MINE_COUNT" Value="100000" Desc="일반 유저 용병단 증표 최대 획득량" UseInScript="YES"/>
+		<Class ClassID="100078" ClassName="WEEKLY_PVP_MINE_COUNT_TOKEN_BONUS" Value="100000" Desc="토큰 유저 용병단 증표 추가 획득량" UseInScript="YES"/>
+		<Class ClassID="100079" ClassName="MAX_GUILD_MEMBER_INFO_COUNT" Value="20" Desc="존서버에서 클라로 최대 보낼 수 있는 길드원 정보 리스트" UseInScript="NO"/>
+  </Category>
+	<Category Name="Test">
+		<!--임시로 TEST_VAL_1==1일 경우에 길드창고가 동작 안하도록 수정-->
+		<Class ClassID="110000" ClassName="TEST_VAL_1" Value="0" Desc="테스트용" UseInScript="NO"/>
+		<Class ClassID="110001" ClassName="TEST_VAL_2" Value="0" Desc="테스트용" UseInScript="NO"/>
+		<Class ClassID="110002" ClassName="TEST_VAL_3" Value="1" Desc="테스트용" UseInScript="NO"/>
+		<Class ClassID="110003" ClassName="BOTTEST_MAP_ID" Value="0" Value2="1041" Desc="테스트용" UseInScript="NO"/>
+		<Class ClassID="110004" ClassName="BOTTEST_CHANNEL" Value="0" Desc="테스트용" UseInScript="NO"/>
+		<Class ClassID="110005" ClassName="BOTTEST_RANDOM_POS" Value="0" Desc="테스트용" UseInScript="NO"/>
+		<Class ClassID="110006" ClassName="NGS_TEST_LOG" Value="0" Desc="이 값을 1로 두면 NGS관련한 로그가 info로그로 남습니다." UseInScript="NO"/>
+		<Class ClassID="110007" ClassName="USE_NEW_NGS" Value="1" Desc="이 값을 1로 두면 새로운 NGS 소스를 이용합니다" UseInScript="NO"/>
+		<Class ClassID="110008" ClassName="USE_NGS_KICK" Value="1" Desc="NGS에 의한 유저킥 사용유무" UseInScript="NO"/>
+		<Class ClassID="110009" ClassName="READ_NOW_COM_TIME" Value="0" Desc="현재 컴퓨터 시간으로 읽을 것이냐" UseInScript="NO"/>
+		<Class ClassID="110010" ClassName="GUILD_MISSION_TEST_LOG" Value="0" Desc="길드미션 테스트 로그 출력" UseInScript="YES"/>
+		<Class ClassID="110011" ClassName="CLIENT_PLAYER_STAY" Value="0" Desc="클라이언트 연결이 끊어져도 그대로 있게하는 기능 사용 여부" UseInScript="NO"/>
+		<Class ClassID="110012" ClassName="BILLINGSHOP_NISMS_TEST_IGNORE_HTTP" Value="0" Desc="BillingShop에서 HTTP통신 없이 Test용 내부 값 사용여부 (사용시,cash 사용이 무한해진다)" UseInScript="NO"/>
+		<Class ClassID="110013" ClassName="BILLINGSHOP_NISMS_TEST_IGNORE_DB" Value="0" Desc="BillingShop에서 DB관리 없이 Test용 내부 값 사용여부 (사용시, 아이템 지급 감사가 이루어지지 않는다.)" UseInScript="NO"/>
+		<Class ClassID="110014" ClassName="USE_SHOW_BANDI_CAM_TEXT" Value="1" Desc="반디캠" UseInScript="YES"/>
+		<Class ClassID="110015" ClassName="INGAMESHOP_CONSUME_FORCE_RESULT" Value="0" Desc="0일경우 사용하지 않음, 1일 경우 항상 실패, 2일 경우 항상 성공. 구매 요청 통신 실패 시의 정상작동 여부를 검사하기 위해 사용됩니다." UseInScript="NO"/>
+		<Class ClassID="110016" ClassName="USE_LOCAL_TIME_FOR_TEST" Value="0" Desc="이 값을 1로 두면 시간을 imc 네임스페이스의 로컬 시스템 시간으로 가져옵니다. 이 값은 스크립트에서 변경 가능한 시간임" UseInScript="NO"/>
+		<Class ClassID="110017" ClassName="FORCE_DB_LOGIN" Value="0" Desc="이 값을 1로 두면 설정된 국가 옵션에 관계없이 무조건 DB로그인(사내서버처럼)합니다" UseInScript="NO"/>
+		<Class ClassID="110018" ClassName="STEAM_INV_LIST_LOAD_BY_FILE" Value="0" Desc="이 값을 1로 두면 스팀 인벤토리 리스트를 가져올 떄 스팀 서버와의 통신 대신 release\steamInvList.txt 파일을 읽어와서 사용합니다." UseInScript="NO"/>
+		<Class ClassID="110020" ClassName="USE_REAL_NGS" Value="1" Desc="4.0버전NGS" UseInScript="NO"/>
+		<Class ClassID="110021" ClassName="USE_RANDOM_OPTION_LOG" Value="1" Desc="랜덤 옵션 비교 로그 사용" UseInScript="NO"/>
+		<Class ClassID="110022" ClassName="BILLINGSHOP_NISMS_TEST_DEBUG_PRINT" Value="0" Desc="BillingShop에서 사용하는 NISMS 관련 데이터를 로깅한다.(디버그용)" UseInScript="NO"/>
+		<Class ClassID="110023" ClassName="BARRACK_CLIENT_FORCE_DELETE_DURATION" Value="360" Desc="배럭 서버에서 Zombie상태가 된 클라이언트의 강제 삭제 시간(단위:초)" UseInScript="NO"/>
+		<Class ClassID="110024" ClassName="ZONE_COMMANDER_FORCE_DELETE_DURATION" Value="360" Desc="존 서버에서 Zombie상태가 된 커맨더의 강제 삭제 시간(단위:초)" UseInScript="NO"/>
+		<Class ClassID="110025" ClassName="USE_EXTRA_EFFECT" Value="1" Desc="공격에 대한 부가 효과 적용 여부" UseInScript="NO"/>
+	</Category>
+	<Category Name="CommonEfect">
+		<Class ClassID="120000" ClassName="HITDELAY_COLOR" Value="0.7" Desc="히트시에PC몸체컬러 (0~1.0)" UseInScript="NO"/>
+		<Class ClassID="120001" ClassName="SHADOW_DOFFSET" Value="10" Desc="그림자, 스킬 이펙트 * offset" UseInScript="NO"/>
+	</Category>
+	<Category Name="CaptionColor">
+		<Class ClassID="130000" ClassName="Color_Friend" Value="0" Desc="{#33FF33}" UseInScript="NO"/>
+		<Class ClassID="130001" ClassName="Color_Neutral" Value="0" Desc="{#FFFFFF}" UseInScript="NO"/>
+		<Class ClassID="130002" ClassName="Color_Enemy" Value="0" Desc="{#FFFFFF}" UseInScript="NO"/>
+		<Class ClassID="130003" ClassName="Color_MyPC" Value="0" Desc="{#FFFFFF}" UseInScript="NO"/>
+	</Category>
+	<Category Name="SprayColor">
+		<Class ClassID="140000" ClassName="SPRAY_ALPHA" Value="50" Desc="기본 알파값" UseInScript="NO"/>
+		<Class ClassID="140001" ClassName="Color_1" Value="0" Desc="#FF000000" UseInScript="NO"/>
+		<Class ClassID="140002" ClassName="Color_2" Value="0" Desc="#FFFF0000" UseInScript="NO"/>
+		<Class ClassID="140003" ClassName="Color_3" Value="0" Desc="#FFFFFFFF" UseInScript="NO"/>
+		<Class ClassID="140004" ClassName="Color_4" Value="0" Desc="#FFFF7F27" UseInScript="NO"/>
+		<Class ClassID="140005" ClassName="Color_5" Value="0" Desc="#FFFFF200" UseInScript="NO"/>
+		<Class ClassID="140006" ClassName="Color_6" Value="0" Desc="#FF00FF00" UseInScript="NO"/>
+		<Class ClassID="140007" ClassName="Color_7" Value="0" Desc="#FF22B14C" UseInScript="NO"/>
+		<Class ClassID="140008" ClassName="Color_8" Value="0" Desc="#FFC8BFE7" UseInScript="NO"/>
+		<Class ClassID="140009" ClassName="Color_9" Value="0" Desc="#FF880015" UseInScript="NO"/>
+		<Class ClassID="140010" ClassName="Color_10" Value="0" Desc="#FF3F48CC" UseInScript="NO"/>
+		<Class ClassID="140011" ClassName="Color_11" Value="0" Desc="#FFB97A57" UseInScript="NO"/>
+		<Class ClassID="140012" ClassName="Color_12" Value="0" Desc="#FFFFAEC9" UseInScript="NO"/>
+		<Class ClassID="140013" ClassName="Color_13" Value="0" Desc="#FF99D9EA" UseInScript="NO"/>
+		<Class ClassID="140014" ClassName="Color_14" Value="0" Desc="#FFB5E61D" UseInScript="NO"/>
+		<Class ClassID="140015" ClassName="Color_15" Value="0" Desc="#FF7092BE" UseInScript="NO"/>
+		<Class ClassID="140016" ClassName="USER_SPRAY_SIZE" Value="80" Desc="컬러스프레이 프레임 사이즈" UseInScript="NO"/>
+	</Category>
+	<Category Name="Animation">
+		<Class ClassID="150000" ClassName="RAISE_ANI_HEIGHT" Value="50" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150001" ClassName="FALL_ANI_HEIGHT" Value="20" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150002" ClassName="DASH_BREAK_SPEED" Value="100" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150003" ClassName="DASH_ACCEL_SPEED" Value="810" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150004" ClassName="ONAIR_ANI_SPD" Value="1" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150005" ClassName="MONSTER_JUMP_DOWN_HEIGHT" Value="3" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150006" ClassName="MONSTER_JUMP_UP_HEIGHT" Value="20" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150007" ClassName="MONSTER_DOWN_JUMP_POWER" Value="50" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150008" ClassName="PC_RUN_MOVESPEED" Value="45" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150009" ClassName="PC_RUN_ANIM_SPD_RATIO" Value="1.0" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150010" ClassName="PC_WLK_ANIM_SPD_RATIO" Value="0.98" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150011" ClassName="LOOK_AT_BLENDTIME_PC" Value="0.05" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150012" ClassName="LOOK_AT_BLENDTIME" Value="0.1" Desc="None" UseInScript="NO"/>
+		<Class ClassID="150013" ClassName="PC_DASH_ANISPD" Value="180" Desc="None" UseInScript="NO"/>
+	</Category>
+	<Category Name="Etc">
+		<Class ClassID="160000" ClassName="RULLET_ROLL_TIME" Value="2" Desc="None" UseInScript="YES"/>
+		<Class ClassID="160001" ClassName="RULLET_PER_PAGE" Value="8" Desc="None" UseInScript="YES"/>
+		<Class ClassID="160002" ClassName="RULLET_FREEZE_TIME" Value="3" Desc="None" UseInScript="YES"/>
+		<Class ClassID="160003" ClassName="OVERKILL_LEVEL_LIMIT" Value="2" Desc="None" UseInScript="NO"/>
+		<Class ClassID="160004" ClassName="OVERKILL_DAMAGE_RATIO" Value="100" Desc="None" UseInScript="NO"/>
+		<Class ClassID="160005" ClassName="JUMP_SKL_CONST" Value="0.33" Desc="None" UseInScript="NO"/>
+		<Class ClassID="160006" ClassName="OBJ_SNAP_DIST" Value="20" Desc="None" UseInScript="NO"/>
+		<Class ClassID="160007" ClassName="ZONE_SLEEP_PER_FRAME" Value="0" Desc="존서버의 각 프레임에 해당 시간만큼 Sleep을 줍니다.(msec) 존서버 프레임이 낮은 경우의 테스트를 위해 사용됩니다." UseInScript="NO"/>
+		<Class ClassID="160008" ClassName="RUN_ABIL_MAX_COUNT" Value="5" Desc="pc_nonbattle.xml에 등록되어있는 어빌개수" UseInScript="YES"/>
+		<Class ClassID="160009" ClassName="SAGE_PORTAL_BASE_CNT" Value="3" Desc="세이지 포탈 기본 갯수" UseInScript="YES"/>
+	</Category>
+	<Category Name="MiniGame">
+		<Class ClassID="170000" ClassName="BOARD_SIZE" Value="25" Desc="None" UseInScript="YES"/>
+	</Category>
+	<Category Name="SpecialSkill">
+		<Class ClassID="180000" ClassName="TELE_THROW_HEIGHT" Value="50" Desc="텔레키네시스 높이" UseInScript="NO"/>
+		<Class ClassID="180001" ClassName="TELE_THROW_TIME" Value="0.4" Desc="텔레키네시스 던지는 시간" UseInScript="NO"/>
+		<Class ClassID="180002" ClassName="THROW_SERVER_HOLD_TIME" Value="0.3" Desc="텔레키네시스 던지기딜레이" UseInScript="NO"/>
+		<Class ClassID="180003" ClassName="TELE_THROW_START_DELAY" Value="0.5" Desc="텔레키네시스 던지시작딜레이" UseInScript="NO"/>
+		<Class ClassID="180004" ClassName="FLUTING_DISTANCE" Value="120" Desc="피리 연주 들리는 거리" UseInScript="NO"/>
+		<Class ClassID="180005" ClassName="FLUTING_LOOP_ANIM_MS" Value="2000" Desc="피리 연주하는 애니메이션 재생 시간" UseInScript="NO"/>
+		<Class ClassID="180006" ClassName="FLUTING_AUDIBLE_MAX_COUNT" Value="5" Desc="한 캐릭터가 한 번에 피리 연주 할 수 있는 최대 갯수" UseInScript="NO"/>
+		<Class ClassID="180007" ClassName="FLUTING_ENABLED" Value="1" Desc="피리 연주 사용 가능" UseInScript="YES"/>
+	</Category>
+	<Category Name="Pet">
+		<Class ClassID="190000" ClassName="PET_COOLDOWN" Value="2" Desc="펫 쿨 타임" UseInScript="YES"/>
+		<Class ClassID="190001" ClassName="MORU_DISTANCE" Value="100" Desc="모루와 최대로 멀어지면 없애버림" UseInScript="YES"/>
+		<Class ClassID="190002" ClassName="MORU_DISTANCE_NEAR" Value="30" Desc="모루와 조금이라도 멀어지면 경고글 띄움" UseInScript="YES"/>
+		<Class ClassID="190003" ClassName="ATTACH_CHANGE_TIME" Value="10" Desc="매 횟대에서 애니 변경 텀 시간" UseInScript="NO"/>
+		<Class ClassID="190004" ClassName="REQUSET_HISTORY_SKILL_STAT_COUNT" Value="27" Desc="히스토리 리스트로 호출할 개수" UseInScript="YES"/>
+	</Category>
+	<Category Name="Market">
+		<Class ClassID="200000" ClassName="MARKET_ITEM_PER_PAGE" Value="11" Desc="한페이지당 마켓 아이템 리스트 개수" UseInScript="YES"/>
+		<Class ClassID="200001" ClassName="MARKET_SELL_ITEM_PER_PAGE" Value="10" Desc="한페이지당 판매 아이템 리스트 개수" UseInScript="YES"/>
+		<Class ClassID="200002" ClassName="TOKEN_MARKET_REG_LIMIT_PRICE" Value="5000000" Desc="토큰 마켓 올릴때 최소 실버가격" UseInScript="YES"/>
+		<Class ClassID="200003" ClassName="MARKET_TIME_HOUR" Value="86400" Desc="1일" UseInScript="NO"/>
+		<Class ClassID="200004" ClassName="TOKEN_MARKET_REG_MAX_PRICE" Value="40000000" Desc="토큰 마켓 올릴때 최대 실버가격" UseInScript="YES"/>
+		<Class ClassID="200005" ClassName="JAEDDURY_MARKET_MAXPRICE" Value="5" Desc="마켓 상한가 조절" UseInScript="YES"/>
+		<Class ClassID="200006" ClassName="MARKET_IMME_REG" Value="0" Desc="마켓 즉시 등록할지" UseInScript="NO"/>
+		<Class ClassID="200007" ClassName="MARKET_BUY_CHECK_ITEM_TABLE" Value="1" Desc="sp_market_item_get 체크할지" UseInScript="NO"/>
+		<Class ClassID="200008" ClassName="JAEDDURY_MARKET_MINPRICE" Value="0.5" Desc="마켓 하한가 조절" UseInScript="YES"/>
+		<Class ClassID="200009" ClassName="SCROLL_MARKET_REG_LIMIT_PRICE" Value="30000" Desc="마법 부여 스크롤 마켓 올릴때 최소 실버가격" UseInScript="YES"/>
+		<Class ClassID="200010" ClassName="CABINET_VIS_DELAY_TIME" Value="172800" Desc="마켓 판매 실버대금 딜레이 48시간." UseInScript="NO"/>
+		<Class ClassID="200011" ClassName="CABINET_VIS_TOKEN_DELAY_TIME" Value="0" Desc="마켓 판매 실버대금 딜레이 48시간.(토큰전용)" UseInScript="NO"/>
+		<Class ClassID="200012" ClassName="IGNORE_ITEM_AVG_TABLE_FOR_TOKEN" Value="1" Desc="토큰 사용자는 상/하안가에 영향을 받지 않는다." UseInScript="YES"/>
+		<Class ClassID="200013" ClassName="UNLIMIT_TRADE_TOKEN" Value="1" Desc="토큰은 마켓에서 거래한 이후에도 계속 거래 가능하게 할 것인가?(1:거래가능, 0:거래불가)" UseInScript="NO"/>
+		<Class ClassID="200014" ClassName="MAX_CABINET_ITEM_COUNT" Value="100" Desc="존서버에서 클라로 최대 보낼 수 있는 캐비넷 아이템 개수. 너무 크면 서버 죽는대여" UseInScript="NO"/>
+		<Class ClassID="200015" ClassName="MAX_REQUEST_MARKET_SEARCH" Value="5" Desc="초당 최대 요청 개수" UseInScript="YES"/>
+		<Class ClassID="200016" ClassName="MARKET_SEARCH_RATE_LIMIT_SECOND" Value="1" Desc="요청 리셋 단위(1초)" UseInScript="YES"/>
+		<Class ClassID="200017" ClassName="MARKET_NEWBIE_DURATION_TIME" Value="43200" Desc="신규 유저 유지시간(1분)" UseInScript="YES"/>
+		<Class ClassID="200018" ClassName="MARKET_RETURN_USER_DURATION_TIME" Value="43200" Desc="복귀 유저 유지시간(1분)" UseInScript="YES"/>
+		<Class ClassID="200019" ClassName="MARKET_EVENT_USER_TYPE_CHECK_TIME" Value="30" Desc="이벤트 유저 조회 가능 시간(1초, 이시간동안 캐싱된 데이터를 반환)" UseInScript="NO"/>
+	</Category>
+	<Category Name="Party">
+		<Class ClassID="210000" ClassName="PARTY_SHARE_RANGE" Value="950" Desc="파티 공유거리" UseInScript="YES"/>
+		<Class ClassID="210001" ClassName="PARTY_AUCTION_SEC" Value="30" Desc="파티 경매 제한 시간" UseInScript="NO"/>
+		<Class ClassID="210002" ClassName="PARTY_MEMBER_LOC_UPDATE" Value="1000" Desc="파티 멤버 위치 정보 전송" UseInScript="NO"/>
+		<Class ClassID="210003" ClassName="PARTY_CHECKRANGE" Value="300" Desc="파티원 해당 거리 안에 들어왔을 때 킬/수집 카운트 공유 / 거리 벗어나면 자동파티 해제거리" UseInScript="YES"/>
+		<Class ClassID="210004" ClassName="PARTY_KICKMEMBER_INITTIME" Value="10" Desc="파티탈퇴후 다시 초대가능해지는 시간(초)" UseInScript="NO"/>
+		<Class ClassID="210005" ClassName="PARTY_EXP_RANGE" Value="500" Desc="None" UseInScript="NO"/>
+		<Class ClassID="210006" ClassName="PARTY_EXP_BONUS" Value="0.05" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210007" ClassName="PARTY_QUEST_LOGOUT_RECONNECT" Value="600" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210008" ClassName="PARTY_DEFAULT_EXP_TYPE" Value="1" Desc="경험치 디폴트 값 : 균등분배" UseInScript="YES"/>
+		<Class ClassID="210009" ClassName="GUILD_WAR_AUTO_END_MINUTE" Value="10080" Desc="GuildWarAutoEndTime" UseInScript="YES"/>
+		<Class ClassID="210010" ClassName="GUILD_WAR_REST_MINUTE" Value="10080" Desc="GuildWarRestTimeAfterEnd" UseInScript="YES"/>
+		<Class ClassID="210011" ClassName="GUILD_BASIC_MAX_MEMBER" Value="50" Desc="GuildBasicMaxMemberExceptAbility" UseInScript="YES"/>
+		<Class ClassID="210012" ClassName="GUILD_TOWER_LIFE_MIN" Value="10080" Desc="GuildTowerAutoDestroyMinute" UseInScript="YES"/>
+		<Class ClassID="210013" ClassName="INDUN_AUTO_FIND_EXP_BONUS" Value="0.6" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210014" ClassName="INDUN_AUTO_FIND_MIN_MSECOND" Value="10000" Desc="None" UseInScript="NO"/>
+		<Class ClassID="210015" ClassName="INDUN_AUTOMATCHING_PCCOUNT" Value="5" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210016" ClassName="PARTY_EXP_BONUS_MEMBER_COUNT_FOUR" Value="0.2" Desc="None" UseInScript="NO"/>
+		<Class ClassID="210017" ClassName="PARTY_EXP_BONUS_MEMBER_COUNT_FIVE" Value="0.5" Desc="None" UseInScript="NO"/>
+		<Class ClassID="210018" ClassName="PARTY_EXP_JOB_BALANCE_BONUS_COUNT_THREE" Value="0.1" Desc="None" UseInScript="NO"/>
+		<Class ClassID="210019" ClassName="PARTY_EXP_JOB_BALANCE_BONUS_COUNT_FOUR" Value="0.5" Desc="None" UseInScript="NO"/>
+		<Class ClassID="210020" ClassName="GUILD_WAR_CANCEL_ABLE_MINUTE" Value="120" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210021" ClassName="GUILD_WAR_FIGHT_START_MINUTE" Value="60" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210022" ClassName="GUILD_TOWER_DESTROY_REBUILD_ABLE_MIN" Value="1440" Desc="None" UseInScript="YES"/>
+		<Class ClassID="210023" ClassName="GUILD_NEUTRALITY_TIME" Value="604800" Desc="중립화 시간(초)" UseInScript="YES"/>
+		<Class ClassID="210024" ClassName="GUILD_ADDITIONAL_MEMBER_COUNT_BY_ABILITY" Value="3" Desc="길드 멤버 특성 레벨에 의해 추가될 멤버 수" UseInScript="NO"/>
+		<Class ClassID="210025" ClassName="GUILD_EMBLEM_REGISTER_DELAY_DAYS" Value="168" Desc="단위: 시간(예: 7일 * 24 = 168)" UseInScript="YES"/>
+		<Class ClassID="210026" ClassName="GUILD_EMBLEM_REGISTER_COST_TYPE" Value="1" Desc="1:실버 2:TP" UseInScript="YES"/>
+		<Class ClassID="210027" ClassName="GUILD_EMBLEM_COST_AMOUNT" Value="12000000" Desc="소모량 COST 양(예:실버 1000000)" UseInScript="YES"/>
+		<Class ClassID="210028" ClassName="GUILD_EMBLEM_REGISTER_DELAY_USE_CHANGE_ITEM" Value="120" Desc="단위: 초(최소 2분)" UseInScript="YES"/>
+		<Class ClassID="210029" ClassName="MAX_GUILD_NOTICE_LENGTH" Value="300" Desc="DB 에는 varchar(512)" UseInScript="YES"/>
+		<Class ClassID="210030" ClassName="MAX_GUILD_PROFILE_LENGTH" Value="300" Desc="DB 에는 varchar(512)" UseInScript="YES"/>
+		<Class ClassID="210031" ClassName="GUILD_JOINT_INV_MAX_SLOT_COUNT" Value="100" Desc="길드 창고 최대 슬롯 갯수" UseInScript="YES"/>
+	</Category>
+	<Category Name="Redis">
+		<Class ClassID="220000" ClassName="MON_KILL_RANKING_COUNT" Value="100" Desc="모험일지 킬 랭킹 기록범위. 최소 10이상" UseInScript="YES"/>
+		<Class ClassID="220001" ClassName="MON_DAMAGE_RANKING_COUNT" Value="100" Desc="모험일지 대미지 랭킹 기록범위. 최소 10이상" UseInScript="YES"/>
+		<Class ClassID="220002" ClassName="ITEM_REINFORCE_RANKING_COUNT" Value="100" Desc="아이템 강화 랭킹 기록범위. 최소 10이상" UseInScript="YES"/>
+		<Class ClassID="220003" ClassName="USE_RAID_WORLD_RECORD" Value="1" Desc="레이드 킬 기록 사용(오퍼 계정 사용 : 1 / 사용 안함 : 0)" UseInScript="NO"/>
+	</Category>
+	<Category Name="GameMessage">
+		<Class ClassID="230000" ClassName="MSG_DIRECT_START" Value="0" Desc="None" UseInScript="NO"/>
+		<Class ClassID="230001" ClassName="MSG_DIRECT_END" Value="0" Desc="None" UseInScript="NO"/>
+		<Class ClassID="230002" ClassName="MAIN_SOBJ_ADD" Value="0" Desc="None" UseInScript="NO"/>
+		<Class ClassID="230003" ClassName="MSG_DIRECTOR_MODE_ON" Value="0" Desc="None" UseInScript="NO"/>
+		<Class ClassID="230004" ClassName="MSG_DIRECTOR_MODE_OFF" Value="0" Desc="None" UseInScript="NO"/>
+		<Class ClassID="230005" ClassName="GEN_MONSTER_LIFE_TIME" Value="100" Desc="필드에 생성되는 몹, 아무 입력없을시 발생하는 lifeTIme;" UseInScript="NO"/>
+		<Class ClassID="230006" ClassName="FIELD_MON_MAXPOP_GEN" Value="2.5" Desc="필드 맥스 pop 배수" UseInScript="NO"/>
+		<Class ClassID="230007" ClassName="BOSS_BORN_KILL_RANGE" Value="300" Desc="그림리퍼 나올 때 주변 몹 죽일 범위 " UseInScript="NO"/>
+		<Class ClassID="230008" ClassName="INDUN_RESET_TIME" Value="6" Desc="인던 초기화 시간 오전 6시(IndunResetTime.xml 에 의해 덮어써질수 있음.)" UseInScript="YES"/>
+		<Class ClassID="230009" ClassName="INDUN_RESET_DAY_OF_WEEK" Value="2" Desc="주간 인던 초기화 요일. 1(일)~7(토)" UseInScript="YES"/>
+	</Category>
+	<Category Name="WorldPVP">
+		<Class ClassID="240000" ClassName="PVP_DAY_MAX_EXP_POINT" Value="50" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240001" ClassName="PVP_MAX_EXP_POINT" Value="150" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240002" ClassName="PVP_DAY_MAX_SHOP_POINT" Value="50" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240003" ClassName="WORLDPVP_RANK_PER_PAGE" Value="10" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240004" ClassName="WORLDPVP_RANK_PC_COUNT" Value="200" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240005" ClassName="WORLDPVP_WIN_GET_POINT" Value="10" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240006" ClassName="WORLDPVP_LOSE_GET_POINT" Value="5" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240007" ClassName="WORLDPVP_STATUE_COUNT" Value="5" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240008" ClassName="WORLDPVP_MIN_LEVEL" Value="300" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240009" ClassName="GUILD_BATTLE_FIRSTSERVER_FREETP" Value="3" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240010" ClassName="GUILD_BATTLE_ALL_SEASON_TOP_RANK_COUNT" Value="30" Desc="None" UseInScript="YES"/>
+		<Class ClassID="240011" ClassName="GUILD_BATTLE_AVOID_RECENT_MATCHED" Value="1" Desc="길드 배틀 최근 매칭된 길드 매칭불가 옵션 (0이면 사용 안함)" UseInScript="NO"/>
+		<Class ClassID="240012" ClassName="GUILD_BATTLE_MIN_SEASON_PLAY_CNT" Value="4" Desc="길드 배틀 랭킹 등록 최소 플레이 횟수" UseInScript="NO"/>
+		<Class ClassID="240015" ClassName="MAX_LEAGUE_COUNT" Value="9" Desc="None" UseInScript="NO"/>
+		<Class ClassID="240016" ClassName="MAX_ALL_SEASON_RANKER_COUNT" Value="30" Desc="None" UseInScript="NO"/>
+	</Category>
+	<Category Name="RelationScore">
+		<Class ClassID="260000" ClassName="RC_LIKE_IT" Value="1000" Desc="좋아요 시 추가 점수" UseInScript="NO"/>
+		<Class ClassID="260001" ClassName="RC_TRADE" Value="10" Desc="거래 1회당" UseInScript="NO"/>
+		<Class ClassID="260002" ClassName="RC_WHISPER" Value="5" Desc="귓말 1회당" UseInScript="NO"/>
+		<Class ClassID="260003" ClassName="RC_GROUPCHAT" Value="2" Desc="그룹/파티챗 1회당" UseInScript="NO"/>
+		<Class ClassID="260004" ClassName="RC_REFUSE_PARTY_MATCH" Value="-100" Desc="파티매칭 거절 1회당(사용안함)" UseInScript="NO"/>
+		<Class ClassID="260005" ClassName="RC_UNLIKE_IT" Value="-10000" Desc="좋아요 했다가 취소" UseInScript="NO"/>
+		<Class ClassID="260006" ClassName="RC_FRIEND" Value="2000" Desc="친구 신청" UseInScript="NO"/>
+		<Class ClassID="260007" ClassName="RC_BLOCK" Value="-100000" Desc="차단" UseInScript="NO"/>
+		<Class ClassID="260008" ClassName="RC_QUICKEXIT" Value="-100" Desc="파티 가입 후 빠른 탈퇴(미사용)" UseInScript="NO"/>
+		<Class ClassID="260009" ClassName="RC_GOODPARTY" Value="300" Desc="좋은 파티플 가짐(미사용)" UseInScript="NO"/>
+		<Class ClassID="260010" ClassName="RC_BADPARTY" Value="-100" Desc="안좋은 파티플 가짐(미사용)" UseInScript="NO"/>
+		<Class ClassID="260011" ClassName="RC_NORMALPARTY_PER_HOUR" Value="100" Desc="파티 유지 1시간당 추가 점수" UseInScript="NO"/>
+		<Class ClassID="260012" ClassName="QUICK_EXIT_PENALTY_TIME" Value="5" Desc="빠른 탈퇴 기준 시간(분)(사용안하는중)" UseInScript="NO"/>
+		<Class ClassID="260013" ClassName="RC_PARTY_ENTER" Value="-100" Desc="파티 가입 시 기본 페널티 점수" UseInScript="NO"/>
+		<Class ClassID="260014" ClassName="RC_DEL_FRIEND" Value="-2000" Desc="친구 삭제(구현중)" UseInScript="NO"/>
+		<Class ClassID="260015" ClassName="RC_DECLINE_FRIEND" Value="-2000" Desc="친구 신청 거절(구현중)" UseInScript="NO"/>
+		<Class ClassID="260016" ClassName="RC_BADWORD" Value="-100" Desc="금지언어사용" UseInScript="NO"/>
+	</Category>
+	<Category Name="Chat">
+		<Class ClassID="270000" ClassName="CHAT_CLUSTER_MAX_COUNT_IN_CHATLIST" Value="500" Desc="표시 가능한 최대 채팅 갯수" UseInScript="NO"/>
+		<Class ClassID="270001" ClassName="CHAT_MSG_MAX_COUNT_IN_CLUSTER" Value="10" Desc="몇개의 메시지 까지 하나의 말풍선에 묶일 것인지" UseInScript="NO"/>
+		<Class ClassID="270002" ClassName="TEST_CHAT_ADD_SEC" Value="0" Desc="채팅 테스트용. 현재 시간에 add하여 메시지 출력 가능" UseInScript="NO"/>
+	</Category>
+	<Category Name="IndunOption">
+		<Class ClassID="280000" ClassName="USE_INTEG_INDUN" Value="1" Desc="1일 경우 통합인던. 0이라면 서버별 인던" UseInScript="NO"/>
+		<Class ClassID="280001" ClassName="AUTOMATCH_RELAX_TIME1" Value="30000" Desc="자동매칭 레벨 제한 완화 시간1(MS)" UseInScript="NO"/>
+		<Class ClassID="280003" ClassName="UNDERSTAFF_ENTER_ALLOW_TIME" Value="60000" Desc="4인 이하 매칭 가능 시간(MS)" UseInScript="NO"/>
+	</Category>
+	<Category Name="BotReport">
+		<Class ClassID="290000" ClassName="USE_REPORT_BOT_TO_STEAM" Value="0" Desc="1일 경우 스팀 VAC에 봇 신고 기능 사용" UseInScript="NO"/>
+		<Class ClassID="290001" ClassName="USE_REPORT_BOT_TO_CLASSIFIER" Value="0" Desc="1일 경우 분류기를 통한 봇 검출 기능 사용" UseInScript="NO"/>
+	</Category>
+	<Category Name="ColonyWar">
+		<Class ClassID="300000" ClassName="COLONY_WAR_OPEN" Value="1" Desc="콜로니전 열꺼면 1 아니면 0" UseInScript="NO"/>
+		<Class ClassID="300001" ClassName="COLONY_CHANGE_STATE_INTERVAL_MS" Value="100" Desc="콜로니전 상태전이 간격(ms)" UseInScript="NO"/>
+		<Class ClassID="300005" ClassName="COLONY_WAR_OPER_EXCEPTION" Value="1" Desc="콜로니전 오퍼 계정에 대한 예외처리 설정 여부. 1일 경우 가능." UseInScript="YES"/>
+		<Class ClassID="300006" ClassName="AFTER_GUILD_OUT_COLONY_WAR_PARTICIPATE_PERIOD_DELAY" Value="20160" Desc="최근 길트 탈퇴일을 기준으로 콜로니전에 참가할 수 없는 기간 딜레이 (min)" UseInScript="YES"/>
+	</Category>
+	<Category Name="ColonyTax">
+		<Class ClassID="301000" ClassName="ENABLE_COLONY_TAX_REWARD" Value="1" Desc="콜로니 세금 보상 요청 가능 여부. Disable 되어 있는 동안 분배 / 지급 막음. (Enable:1)" UseInScript="YES"/>
+		<Class ClassID="301001" ClassName="ENABLE_COLONY_TAX_TO_SHOP" Value="1" Desc="상점 이용시 콜로니 세금 적용 여부. Disable 되어 있는 동안 세금 누적하지 않음. (Enable:1)" UseInScript="YES"/>
+		<Class ClassID="301002" ClassName="ENABLE_COLONY_TAX_TO_MARKET" Value="1" Desc="마켓 이용시 콜로니 세금 적용 여부. Disable 되어 있는 동안 세금 누적하지 않음. (Enable:1)" UseInScript="YES"/>
+		<Class ClassID="301003" ClassName="COLONY_TAX_RATE_DEFAULT" Value="10" Desc="콜로니 세금 표준 세율" UseInScript="YES"/>
+		<Class ClassID="301004" ClassName="COLONY_TAX_RATE_MEMBER" Value="0" Desc="콜로니 세금 길드원 세율" UseInScript="YES"/>
+		<Class ClassID="301005" ClassName="COLONY_TAX_RATE_MIN" Value="0" Desc="콜로니 세금 최소 세율" UseInScript="YES"/>
+		<Class ClassID="301006" ClassName="COLONY_TAX_RATE_MAX" Value="20" Desc="콜로니 세금 최대 세율" UseInScript="YES"/>
+		<Class ClassID="301007" ClassName="COLONY_TAX_MARKET_RATE_A" Value="4" Desc="A 등급 지역 마켓 수수료 세금 지급율" UseInScript="YES"/>
+		<Class ClassID="301008" ClassName="COLONY_TAX_MARKET_RATE_B" Value="3" Desc="B 등급 지역 마켓 수수료 세금 지급율" UseInScript="YES"/>
+		<Class ClassID="301009" ClassName="COLONY_TAX_LORD_DEALY_MIN" Value="5" Desc="세금 징수 기간 시작 전 딜레이 (min)" UseInScript="YES"/>
+		<Class ClassID="301010" ClassName="COLONY_TAX_LORD_PERIOD_MIN" Value="10080" Desc="세금 징수 기간 (min)" UseInScript="YES"/>
+		<Class ClassID="301011" ClassName="COLONY_TAX_DISTRIBUTE_DELAY_MIN" Value="60" Desc="세금 분배 시작 전 딜레이 (min)" UseInScript="YES"/>
+		<Class ClassID="301012" ClassName="COLONY_TAX_DISTRIBUTE_PERIOD_MIN" Value="10080" Desc="세금 분배 기간 (min)" UseInScript="YES"/>
+		<Class ClassID="301014" ClassName="COLONY_TAX_RECEIVE_PERIOD_MIN" Value="20160" Desc="길드원이 분배받은 세금을 받을 수 있는 기간 (min)" UseInScript="YES"/>
+		<Class ClassID="301015" ClassName="COLONY_TAX_RATE_MODIFY_AFTER_DELAY_MIN" Value="60" Desc="콜로니 세율 재조정이 가능한 딜레이(min)" UseInScript="YES"/>
+		<Class ClassID="301016" ClassName="DISABLE_COLONY_TAX_RATE_MODIFY_DELAY_MIN" Value="60" Desc="콜로니전 시작 전 세율 조정 제한 딜레이 (min)" UseInScript="YES"/>
+		<Class ClassID="301017" ClassName="COLONY_TAX_HISTORY_PRERIOD_MIN" Value="40320" Desc="콜로니 세금 이력 UI에서 확인 가능한 기간 (min)" UseInScript="YES"/>
+		<Class ClassID="301018" ClassName="COLONY_TAX_TOTAL_AMOUNT_REFRESH_INTERVAL" Value="60" Desc="콜로니 세금 모은 양 갱신 주기 (min)" UseInScript="YES"/>
+	</Category>
+	<Category Name="PVP">
+		<Class ClassID="310000" ClassName="PVP_TEAMBATTLE_ITEM_LV" Value="350" Desc="팀 배틀리그 가상 아이템 레벨" UseInScript="YES"/>
+		<Class ClassID="310001" ClassName="PVP_TEAMBATTLE_ITEM_GRADE" Value="4" Desc="팀 배틀리그 가상 아이템 등급" UseInScript="YES"/>
+		<Class ClassID="310002" ClassName="PVP_TEAMBATTLE_ITEM_REINFORCE" Value="11" Desc="팀 배틀리그 가상 아이템 강화" UseInScript="YES"/>
+		<Class ClassID="310003" ClassName="PVP_TEAMBATTLE_ITEM_TRANSCEND" Value="0" Desc="팀 배틀리그 가상 아이템 초월" UseInScript="YES"/>
+		<Class ClassID="310004" ClassName="PVP_TEAMBATTLE_ITEM_REINFORCERATIO" Value="100" Desc="팀 배틀리그 가상 아이템 강화 비율" UseInScript="YES"/>
+		<Class ClassID="310005" ClassName="USE_DELAYED_POSITION" Value="0" Desc="지연시간 대비 지연 위치 계산 적용(1/0)" UseInScript="YES"/>
+		<Class ClassID="310006" ClassName="PVP_ADD_DAMAGE_RATE" Value="0.1" Desc="아트갈 반사 대미지의 추가 대미지 레이트" UseInScript="YES"/>
+	</Category>
+	<Category Name="RvR">
+		<Class ClassID="320000" ClassName="RVR_OPEN" Value="0" Desc="RvR 열꺼면 1 아니면 0" UseInScript="NO"/>
+		<Class ClassID="320001" ClassName="RVR_CHANGE_STATE_INTERVAL_MS" Value="100" Desc="RVR 상태전이 간격(ms)" UseInScript="NO"/>
+		<Class ClassID="320002" ClassName="USE_FIELDBOSS_DPK_SYSTEM" Value="0" Desc="1 or 0" UseInScript="NO"/>
+    <Class ClassID="320003" ClassName="USE_DPK_QUEST_SYSTEM" Value="1" Desc="1 or 0" UseInScript="NO"/>    
+	</Category>
+	<Category Name="WebService">
+		<Class ClassID="500000" ClassName="GUILD_INFO_UPDATE_DELAY_MINUTE" Value="360" Desc="제공하는 길드 정보의 업데이트 딜레이(6시간)" UseInScript="YES"/>
+		<Class ClassID="500001" ClassName="LIMIT_ONELINE_MESSAGE_LENGTH" Value="140" Desc="한줄 게시판 최대 길이" UseInScript="YES"/>
+		<Class ClassID="500002" ClassName="TEAMNAME_UPDATE_DELAY_MINUTE" Value="720" Desc="제공하는 팀이름 정보의 업데이트 딜레이(12시간)" UseInScript="NO"/>
+		<Class ClassID="500003" ClassName="GUILD_MEMBER_ACTIVITY_CONNECTION_TIME" Value="30" Desc="지정 기간내에 접속인지 확인(default:30일)" UseInScript="NO"/>
+		<Class ClassID="500004" ClassName="GUILD_APPLICATION_LIFE_TIME" Value="1440" Desc="길드 가입 신청서의 유지 시간(MINUTE)" UseInScript="NO"/>
+		<Class ClassID="500005" ClassName="PERIOD_POPULAR_RANK_SEARCH" Value="30" Desc="인기 트리 조회 기간(30일)" UseInScript="NO"/>
+		<Class ClassID="500006" ClassName="NUMBER_OF_MAX_RANK" Value="10" Desc="최대 랭크" UseInScript="NO"/>
+		<Class ClassID="500007" ClassName="NUMBER_OF_SHOW_HIGH_RANK_TREE" Value="3" Desc="상위 3개의 트리" UseInScript="NO"/>
+		<Class ClassID="500008" ClassName="USE_POPULAR_RANK_TREE" Value="1" Desc="웹서버에서 인기랭크 집계 사용 여부(0/1)" UseInScript="NO"/>
+	</Category>
+	<Category Name="Test_NewHead_And_SkinColor">
+		<Class ClassID="600001" ClassName="SKIN_BLEND_COLOR_R" Value="128" Desc="피부 혼합 색상" UseInScript="NO"/>
+		<Class ClassID="600002" ClassName="SKIN_BLEND_COLOR_G" Value="128" Desc="피부 혼합 색상" UseInScript="NO"/>
+		<Class ClassID="600003" ClassName="SKIN_BLEND_COLOR_B" Value="128" Desc="피부 혼합 색상" UseInScript="NO"/>
+	</Category>
+	<Category Name="Housing">
+		<Class ClassID="610000" ClassName="HOUSING_SHOW_ARRANGEABLE_RECT" Value="0" Desc="레벨 별 배치 가능 공간 확인용" UseInScript="NO"/>
+	</Category>
+	<Category Name="WeeklyBoss">
+		<Class ClassID="620000" ClassName="WEEKLY_BOSS_OPER_ABLE_RANKER" Value="0" Desc="오퍼 계정도 주간 레이드에 참가할 수 있는지 여부" UseInScript="NO"/>
+		<Class ClassID="620001" ClassName="WEEKLY_BOSS_CAN_ENTER" Value="1" Desc="주간보스 입장 가능 여부(가능:1/불가능:0)" UseInScript="YES"/>
+	</Category>
+</idspace>

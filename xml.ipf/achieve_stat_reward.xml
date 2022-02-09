@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="AchieveStatReward">
+	<Category>
+		<Class ClassID="1" ClassName="achieve_grade000" AchieveCount="0" STR_BM="0" CON_BM="0" INT_BM="0" MNA_BM="0" DEX_BM="0" PATK_BM="0" MATK_BM="0" DEF_BM="0" MDEF_BM="0" MSP_BM="0"/>
+		<Class ClassID="2" ClassName="achieve_grade001" AchieveCount="1" STR_BM="1" CON_BM="0" INT_BM="0" MNA_BM="0" DEX_BM="0" PATK_BM="5" MATK_BM="0" DEF_BM="0" MDEF_BM="0" MSP_BM="0"/>
+		<Class ClassID="3" ClassName="achieve_grade002" AchieveCount="2" STR_BM="1" CON_BM="1" INT_BM="0" MNA_BM="0" DEX_BM="0" PATK_BM="5" MATK_BM="0" DEF_BM="10" MDEF_BM="0" MSP_BM="0"/>
+		<Class ClassID="4" ClassName="achieve_grade003" AchieveCount="3" STR_BM="1" CON_BM="1" INT_BM="1" MNA_BM="0" DEX_BM="0" PATK_BM="5" MATK_BM="5" DEF_BM="10" MDEF_BM="0" MSP_BM="0"/>
+		<Class ClassID="5" ClassName="achieve_grade004" AchieveCount="4" STR_BM="1" CON_BM="1" INT_BM="1" MNA_BM="1" DEX_BM="0" PATK_BM="5" MATK_BM="5" DEF_BM="10" MDEF_BM="10" MSP_BM="0"/>
+		<Class ClassID="6" ClassName="achieve_grade005" AchieveCount="5" STR_BM="1" CON_BM="1" INT_BM="1" MNA_BM="1" DEX_BM="1" PATK_BM="5" MATK_BM="5" DEF_BM="10" MDEF_BM="10" MSP_BM="25"/>
+		<Class ClassID="7" ClassName="achieve_grade006" AchieveCount="6" STR_BM="2" CON_BM="1" INT_BM="1" MNA_BM="1" DEX_BM="1" PATK_BM="10" MATK_BM="5" DEF_BM="10" MDEF_BM="10" MSP_BM="25"/>
+		<Class ClassID="8" ClassName="achieve_grade007" AchieveCount="7" STR_BM="2" CON_BM="2" INT_BM="1" MNA_BM="1" DEX_BM="1" PATK_BM="10" MATK_BM="5" DEF_BM="20" MDEF_BM="10" MSP_BM="25"/>
+		<Class ClassID="9" ClassName="achieve_grade008" AchieveCount="8" STR_BM="2" CON_BM="2" INT_BM="2" MNA_BM="1" DEX_BM="1" PATK_BM="10" MATK_BM="10" DEF_BM="20" MDEF_BM="10" MSP_BM="25"/>
+		<Class ClassID="10" ClassName="achieve_grade009" AchieveCount="9" STR_BM="2" CON_BM="2" INT_BM="2" MNA_BM="2" DEX_BM="1" PATK_BM="10" MATK_BM="10" DEF_BM="20" MDEF_BM="20" MSP_BM="25"/>
+		<Class ClassID="11" ClassName="achieve_grade010" AchieveCount="10" STR_BM="2" CON_BM="2" INT_BM="2" MNA_BM="2" DEX_BM="2" PATK_BM="10" MATK_BM="10" DEF_BM="20" MDEF_BM="20" MSP_BM="50"/>
+		<Class ClassID="12" ClassName="achieve_grade011" AchieveCount="11" STR_BM="3" CON_BM="2" INT_BM="2" MNA_BM="2" DEX_BM="2" PATK_BM="15" MATK_BM="10" DEF_BM="20" MDEF_BM="20" MSP_BM="50"/>
+		<Class ClassID="13" ClassName="achieve_grade012" AchieveCount="12" STR_BM="3" CON_BM="3" INT_BM="2" MNA_BM="2" DEX_BM="2" PATK_BM="15" MATK_BM="10" DEF_BM="30" MDEF_BM="20" MSP_BM="50"/>
+		<Class ClassID="14" ClassName="achieve_grade013" AchieveCount="13" STR_BM="3" CON_BM="3" INT_BM="3" MNA_BM="2" DEX_BM="2" PATK_BM="15" MATK_BM="15" DEF_BM="30" MDEF_BM="20" MSP_BM="50"/>
+		<Class ClassID="15" ClassName="achieve_grade014" AchieveCount="14" STR_BM="3" CON_BM="3" INT_BM="3" MNA_BM="3" DEX_BM="2" PATK_BM="15" MATK_BM="15" DEF_BM="30" MDEF_BM="30" MSP_BM="50"/>
+		<Class ClassID="16" ClassName="achieve_grade015" AchieveCount="15" STR_BM="3" CON_BM="3" INT_BM="3" MNA_BM="3" DEX_BM="3" PATK_BM="15" MATK_BM="15" DEF_BM="30" MDEF_BM="30" MSP_BM="75"/>
+		<Class ClassID="17" ClassName="achieve_grade016" AchieveCount="16" STR_BM="4" CON_BM="3" INT_BM="3" MNA_BM="3" DEX_BM="3" PATK_BM="20" MATK_BM="15" DEF_BM="30" MDEF_BM="30" MSP_BM="75"/>
+		<Class ClassID="18" ClassName="achieve_grade017" AchieveCount="17" STR_BM="4" CON_BM="4" INT_BM="3" MNA_BM="3" DEX_BM="3" PATK_BM="20" MATK_BM="15" DEF_BM="40" MDEF_BM="30" MSP_BM="75"/>
+		<Class ClassID="19" ClassName="achieve_grade018" AchieveCount="18" STR_BM="4" CON_BM="4" INT_BM="4" MNA_BM="3" DEX_BM="3" PATK_BM="20" MATK_BM="20" DEF_BM="40" MDEF_BM="30" MSP_BM="75"/>
+		<Class ClassID="20" ClassName="achieve_grade019" AchieveCount="19" STR_BM="4" CON_BM="4" INT_BM="4" MNA_BM="4" DEX_BM="3" PATK_BM="20" MATK_BM="20" DEF_BM="40" MDEF_BM="40" MSP_BM="75"/>
+		<Class ClassID="21" ClassName="achieve_grade020" AchieveCount="20" STR_BM="4" CON_BM="4" INT_BM="4" MNA_BM="4" DEX_BM="4" PATK_BM="20" MATK_BM="20" DEF_BM="40" MDEF_BM="40" MSP_BM="100"/>
+		<Class ClassID="22" ClassName="achieve_grade021" AchieveCount="22" STR_BM="5" CON_BM="4" INT_BM="4" MNA_BM="4" DEX_BM="4" PATK_BM="25" MATK_BM="20" DEF_BM="40" MDEF_BM="40" MSP_BM="100"/>
+		<Class ClassID="23" ClassName="achieve_grade022" AchieveCount="24" STR_BM="5" CON_BM="5" INT_BM="4" MNA_BM="4" DEX_BM="4" PATK_BM="25" MATK_BM="20" DEF_BM="50" MDEF_BM="40" MSP_BM="100"/>
+		<Class ClassID="24" ClassName="achieve_grade023" AchieveCount="26" STR_BM="5" CON_BM="5" INT_BM="5" MNA_BM="4" DEX_BM="4" PATK_BM="25" MATK_BM="25" DEF_BM="50" MDEF_BM="40" MSP_BM="100"/>
+		<Class ClassID="25" ClassName="achieve_grade024" AchieveCount="28" STR_BM="5" CON_BM="5" INT_BM="5" MNA_BM="5" DEX_BM="4" PATK_BM="25" MATK_BM="25" DEF_BM="50" MDEF_BM="50" MSP_BM="100"/>
+		<Class ClassID="26" ClassName="achieve_grade025" AchieveCount="30" STR_BM="5" CON_BM="5" INT_BM="5" MNA_BM="5" DEX_BM="5" PATK_BM="25" MATK_BM="25" DEF_BM="50" MDEF_BM="50" MSP_BM="125"/>
+		<Class ClassID="27" ClassName="achieve_grade026" AchieveCount="32" STR_BM="6" CON_BM="5" INT_BM="5" MNA_BM="5" DEX_BM="5" PATK_BM="30" MATK_BM="25" DEF_BM="50" MDEF_BM="50" MSP_BM="125"/>
+		<Class ClassID="28" ClassName="achieve_grade027" AchieveCount="34" STR_BM="6" CON_BM="6" INT_BM="5" MNA_BM="5" DEX_BM="5" PATK_BM="30" MATK_BM="25" DEF_BM="60" MDEF_BM="50" MSP_BM="125"/>
+		<Class ClassID="29" ClassName="achieve_grade028" AchieveCount="36" STR_BM="6" CON_BM="6" INT_BM="6" MNA_BM="5" DEX_BM="5" PATK_BM="30" MATK_BM="30" DEF_BM="60" MDEF_BM="50" MSP_BM="125"/>
+		<Class ClassID="30" ClassName="achieve_grade029" AchieveCount="38" STR_BM="6" CON_BM="6" INT_BM="6" MNA_BM="6" DEX_BM="5" PATK_BM="30" MATK_BM="30" DEF_BM="60" MDEF_BM="60" MSP_BM="125"/>
+		<Class ClassID="31" ClassName="achieve_grade030" AchieveCount="40" STR_BM="6" CON_BM="6" INT_BM="6" MNA_BM="6" DEX_BM="6" PATK_BM="30" MATK_BM="30" DEF_BM="60" MDEF_BM="60" MSP_BM="150"/>
+		<Class ClassID="32" ClassName="achieve_grade031" AchieveCount="42" STR_BM="7" CON_BM="6" INT_BM="6" MNA_BM="6" DEX_BM="6" PATK_BM="35" MATK_BM="30" DEF_BM="60" MDEF_BM="60" MSP_BM="150"/>
+		<Class ClassID="33" ClassName="achieve_grade032" AchieveCount="44" STR_BM="7" CON_BM="7" INT_BM="6" MNA_BM="6" DEX_BM="6" PATK_BM="35" MATK_BM="30" DEF_BM="70" MDEF_BM="60" MSP_BM="150"/>
+		<Class ClassID="34" ClassName="achieve_grade033" AchieveCount="46" STR_BM="7" CON_BM="7" INT_BM="7" MNA_BM="6" DEX_BM="6" PATK_BM="35" MATK_BM="35" DEF_BM="70" MDEF_BM="60" MSP_BM="150"/>
+		<Class ClassID="35" ClassName="achieve_grade034" AchieveCount="48" STR_BM="7" CON_BM="7" INT_BM="7" MNA_BM="7" DEX_BM="6" PATK_BM="35" MATK_BM="35" DEF_BM="70" MDEF_BM="70" MSP_BM="150"/>
+		<Class ClassID="36" ClassName="achieve_grade035" AchieveCount="50" STR_BM="7" CON_BM="7" INT_BM="7" MNA_BM="7" DEX_BM="7" PATK_BM="35" MATK_BM="35" DEF_BM="70" MDEF_BM="70" MSP_BM="175"/>
+		<Class ClassID="37" ClassName="achieve_grade036" AchieveCount="52" STR_BM="8" CON_BM="7" INT_BM="7" MNA_BM="7" DEX_BM="7" PATK_BM="40" MATK_BM="35" DEF_BM="70" MDEF_BM="70" MSP_BM="175"/>
+		<Class ClassID="38" ClassName="achieve_grade037" AchieveCount="54" STR_BM="8" CON_BM="8" INT_BM="7" MNA_BM="7" DEX_BM="7" PATK_BM="40" MATK_BM="35" DEF_BM="80" MDEF_BM="70" MSP_BM="175"/>
+		<Class ClassID="39" ClassName="achieve_grade038" AchieveCount="56" STR_BM="8" CON_BM="8" INT_BM="8" MNA_BM="7" DEX_BM="7" PATK_BM="40" MATK_BM="40" DEF_BM="80" MDEF_BM="70" MSP_BM="175"/>
+		<Class ClassID="40" ClassName="achieve_grade039" AchieveCount="58" STR_BM="8" CON_BM="8" INT_BM="8" MNA_BM="8" DEX_BM="7" PATK_BM="40" MATK_BM="40" DEF_BM="80" MDEF_BM="80" MSP_BM="175"/>
+		<Class ClassID="41" ClassName="achieve_grade040" AchieveCount="60" STR_BM="8" CON_BM="8" INT_BM="8" MNA_BM="8" DEX_BM="8" PATK_BM="40" MATK_BM="40" DEF_BM="80" MDEF_BM="80" MSP_BM="200"/>
+	</Category>
+</idspace>

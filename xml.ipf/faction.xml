@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by LEE (EMBRACE) -->
+<idspace id="Faction">
+	<Category>
+		<Class ClassID="1" ClassName="Law" CT_HostileTo="Chaos;Monster;Trap_Sin;Pvp;HitMe;IceWall;Dice;RootCrystal;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;CrazyMonster;Mon_Enemy;Monster_Forces;Monster_Telepath;HitMe;Team_1_mine;Team_2_mine;GimmckMonster;Colony_Defense;Colony_Offense;GimmckMonster_Pad" CT_IsHitByPad="YES"/>
+		<Class ClassID="2" ClassName="Chaos" CT_HostileTo="Law;Monster;Trap_Sin;IceWall;RootCrystal;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="YES"/>
+		<Class ClassID="3" ClassName="Neutral" CT_HostileTo="Monster;IceWall;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;CrazyMonster;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="4" ClassName="Monster" CT_HostileTo="Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;Summon;FreeForAll;CrazyMonster;Mon_Our_Forces;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="YES"/>
+		<Class ClassID="5" ClassName="Trigger" CT_HostileTo="Monster;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="6" ClassName="Peaceful" CT_HostileTo="None" CT_IsHitByPad="NO"/>
+		<Class ClassID="7" ClassName="Trap" CT_HostileTo="Law;Chaos;Neutral;Monster;IceWall;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="8" ClassName="Trap_Sin" CT_HostileTo="Law;Chaos;Neutral;Monster;IceWall;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="9" ClassName="TurnRaid_Mon" CT_HostileTo="TurnRaid_Pc;IceWall" CT_IsHitByPad="NO"/>
+		<Class ClassID="10" ClassName="TurnRaid_Pc" CT_HostileTo="IceWall" CT_IsHitByPad="NO"/>
+		<Class ClassID="11" ClassName="Defenseless_Pc" CT_HostileTo="IceWall" CT_IsHitByPad="NO"/>
+		<Class ClassID="12" ClassName="CrazyMonster" CT_HostileTo="Chaos;Monster;Defenseless_Pc;Pvp;IceWall;Summon;FreeForAll;Bomb;Law;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="YES"/>
+		<Class ClassID="13" ClassName="Pet" CT_HostileTo="None" CT_IsHitByPad="NO"/>
+		<Class ClassID="14" ClassName="MissionMon" CT_HostileTo="Team_2;Team_1;IceWall" CT_IsHitByPad="NO"/>
+		<Class ClassID="15" ClassName="Pvp" CT_HostileTo="Pvp;Monster;Law;Summon;HitMe;IceWall;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="16" ClassName="Our_Forces" CT_HostileTo="Monster;IceWall;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="YES"/>
+		<Class ClassID="17" ClassName="Summon" CT_HostileTo="Pvp;Monster;IceWall;Mon_Dummy;Monster_Telepath;MissionMon;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="YES"/>
+		<Class ClassID="18" ClassName="HitMe" CT_HostileTo="None" CT_IsHitByPad="NO"/>
+		<Class ClassID="19" ClassName="LifeStream" CT_HostileTo="Law;Neutral;Summon;Our_Forces;Defenseless_Pc" CT_IsHitByPad="NO"/>
+		<Class ClassID="20" ClassName="IceWall" CT_HostileTo="Monster;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="21" ClassName="Bomb" CT_HostileTo="Pvp;Monster;IceWall;Monster_Telepath;MissionMon;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="22" ClassName="Dice" CT_HostileTo="None" CT_IsHitByPad="NO"/>
+		<Class ClassID="23" ClassName="Law_Alliance" CT_HostileTo="Chaos;Monster;Trap_Sin;Pvp;IceWall;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="24" ClassName="Monster_Chaos1" CT_HostileTo="Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;Hidden_tgt" CT_IsHitByPad="YES"/>
+		<Class ClassID="25" ClassName="Monster_Chaos2" CT_HostileTo="Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos1;Monster_Chaos3;Monster_Chaos4;Hidden_tgt" CT_IsHitByPad="YES"/>
+		<Class ClassID="26" ClassName="Monster_Chaos3" CT_HostileTo="Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos1;Monster_Chaos2;Monster_Chaos4;Hidden_tgt" CT_IsHitByPad="YES"/>
+		<Class ClassID="27" ClassName="Monster_Chaos4" CT_HostileTo="Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Hidden_tgt" CT_IsHitByPad="YES"/>
+		<Class ClassID="28" ClassName="RootCrystal" CT_HostileTo="None" CT_IsHitByPad="NO"/>
+		<Class ClassID="40" ClassName="Team_1" CT_HostileTo="MissionMon;Monster;Team_2;TeamMon_2;MCy_Treasure;IceWall;Law;Monster_Telepath" CT_IsHitByPad="NO"/>
+		<Class ClassID="41" ClassName="Team_2" CT_HostileTo="MissionMon;Monster;Team_1;TeamMon_1;MCy_Treasure;IceWall;Law;Monster_Telepath" CT_IsHitByPad="NO"/>
+		<Class ClassID="42" ClassName="TeamMon_1" CT_HostileTo="MissionMon;Monster;Team_2;TeamMon_2;IceWall;Monster_Telepath" CT_IsHitByPad="NO"/>
+		<Class ClassID="43" ClassName="TeamMon_2" CT_HostileTo="MissionMon;Monster;Team_1;TeamMon_1;IceWall;Monster_Telepath" CT_IsHitByPad="NO"/>
+		<Class ClassID="44" ClassName="MCy_Treasure" CT_HostileTo="Team_1;Team_2" CT_IsHitByPad="NO"/>
+		<Class ClassID="45" ClassName="FreeForAll" CT_HostileTo="FreeForAll;Monster;Law;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="46" ClassName="Hidden_tgt" CT_HostileTo="Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4" CT_IsHitByPad="NO"/>
+		<Class ClassID="47" ClassName="Monster_Forces" CT_HostileTo="Law;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Summon;FreeForAll;CrazyMonster" CT_IsHitByPad="NO"/>
+		<Class ClassID="48" ClassName="Force_Hit" CT_HostileTo="Our_Forces" CT_IsHitByPad="NO"/>
+		<Class ClassID="49" ClassName="Mon_Our_Forces" CT_HostileTo="Mon_Enemy" CT_IsHitByPad="NO"/>
+		<Class ClassID="50" ClassName="Mon_Enemy" CT_HostileTo="Mon_Our_Forces;Law;Mon_Enemy1;Mon_Enemy2" CT_IsHitByPad="NO"/>
+		<Class ClassID="51" ClassName="Mon_Dummy" CT_HostileTo="None" CT_IsHitByPad="NO"/>
+		<Class ClassID="52" ClassName="Mon_Enemy1" CT_HostileTo="Mon_Our_Forces;Law;Mon_Enemy;Mon_Enemy2" CT_IsHitByPad="NO"/>
+		<Class ClassID="53" ClassName="Mon_Enemy2" CT_HostileTo="Mon_Our_Forces;Law;Mon_Enemy;Mon_Enemy1" CT_IsHitByPad="NO"/>
+		<Class ClassID="54" ClassName="Monster_Telepath" CT_HostileTo="Chaos;Monster;Trap_Sin;Pvp;HitMe;IceWall;Dice;RootCrystal;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;CrazyMonster;Mon_Enemy;Monster_Forces" CT_IsHitByPad="YES"/>
+		<Class ClassID="61" ClassName="Team_1_mine" CT_HostileTo="MissionMon;Monster;TeamMon_2;MCy_Treasure;IceWall;Law;Monster_Telepath;Team_2_mine;RootCrystal" CT_IsHitByPad="YES"/>
+		<Class ClassID="62" ClassName="Team_2_mine" CT_HostileTo="MissionMon;Monster;TeamMon_1;MCy_Treasure;IceWall;Law;Monster_Telepath;Team_1_mine;RootCrystal" CT_IsHitByPad="YES"/>
+		<Class ClassID="63" ClassName="Team_1_Soccer" CT_HostileTo="Monster" CT_IsHitByPad="NO"/>
+		<Class ClassID="64" ClassName="Team_2_Soccer" CT_HostileTo="Monster" CT_IsHitByPad="NO"/>
+		<Class ClassID="65" ClassName="GimmckMonster" CT_HostileTo="Monster;Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;Summon;FreeForAll;CrazyMonster;Mon_Our_Forces;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="NO"/>
+		<Class ClassID="66" ClassName="Colony_Defense" CT_HostileTo="Law;Chaos;Monster;CrazyMonster;MissionMon;Pvp;Summon;IceWall;FreeForAll;Monster_Telepath;GimmckMonster;Colony_Offense;GimmckMonster_Pad" CT_IsHitByPad="YES"/>
+		<Class ClassID="67" ClassName="Colony_Offense" CT_HostileTo="Law;Chaos;Monster;CrazyMonster;MissionMon;Pvp;Summon;IceWall;FreeForAll;Monster_Telepath;GimmckMonster;Colony_Defense;Colony_Offense;GimmckMonster_Pad" CT_IsHitByPad="YES"/>
+		<Class ClassID="68" ClassName="GuildAgitPC" CT_HostileTo="GuildAgitBOSS;IceWall;RootCrystal" CT_IsHitByPad="YES"/>
+		<Class ClassID="69" ClassName="GuildAgitBOSS" CT_HostileTo="GuildAgitPC;IceWall;RootCrystal" CT_IsHitByPad="YES"/>
+		<Class ClassID="70" ClassName="EVENT_1812_GILTINE_PC1" CT_HostileTo="EVENT_1812_GILTINE_MON2" CT_IsHitByPad="YES"/>
+		<Class ClassID="71" ClassName="EVENT_1812_GILTINE_PC2" CT_HostileTo="EVENT_1812_GILTINE_MON1" CT_IsHitByPad="YES"/>
+		<Class ClassID="72" ClassName="EVENT_1812_GILTINE_MON1" CT_HostileTo="EVENT_1812_GILTINE_MON2;EVENT_1812_GILTINE_PC2" CT_IsHitByPad="YES"/>
+		<Class ClassID="73" ClassName="EVENT_1812_GILTINE_MON2" CT_HostileTo="EVENT_1812_GILTINE_MON1;EVENT_1812_GILTINE_PC1" CT_IsHitByPad="YES"/>
+		<Class ClassID="74" ClassName="EVENT_BLUE_ORB_BOSS" CT_HostileTo="EVENT_BLUE_ORB_SUMMON" CT_IsHitByPad="YES"/>
+		<Class ClassID="75" ClassName="EVENT_BLUE_ORB_SUMMON" CT_HostileTo="EVENT_BLUE_ORB_BOSS" CT_IsHitByPad="YES"/>
+		<Class ClassID="76" ClassName="OnlyLawHit" CT_HostileTo="Law" CT_IsHitByPad="YES"/>
+		<Class ClassID="77" ClassName="GimmckMonster_Pad" CT_HostileTo="Monster;Law;Chaos;Defenseless_Pc;Pvp;Our_Forces;IceWall;Law_Alliance;Monster_Chaos1;Monster_Chaos2;Monster_Chaos3;Monster_Chaos4;Summon;FreeForAll;CrazyMonster;Mon_Our_Forces;Monster_Telepath;Team_1_mine;Team_2_mine;Colony_Defense;Colony_Offense" CT_IsHitByPad="YES"/>
+		<Class ClassID="78" ClassName="EventObj_PC_1" CT_HostileTo="EventObj_Mon_1" CT_IsHitByPad="NO"/>
+		<Class ClassID="79" ClassName="EventObj_Mon_1" CT_HostileTo="EventObj_PC_1" CT_IsHitByPad="NO"/>
+		<Class ClassID="80" ClassName="EventObj_PC_2" CT_HostileTo="EventObj_Mon_2" CT_IsHitByPad="NO"/>
+		<Class ClassID="81" ClassName="EventObj_Mon_2" CT_HostileTo="EventObj_PC_2" CT_IsHitByPad="NO"/>
+		<Class ClassID="82" ClassName="EVENT_1910_HALLOWEEN_MON" CT_HostileTo="Law" CT_IsHitByPad="NO"/>
+		<Class ClassID="83" ClassName="EVENT_1910_HALLOWEEN_OBJ" CT_HostileTo="EVENT_1910_HALLOWEEN_MON" CT_IsHitByPad="NO"/>
+		<Class ClassID="84" ClassName="FightTeam1" CT_HostileTo="FightTeam2" CT_IsHitByPad="YES"/>
+		<Class ClassID="85" ClassName="FightTeam2" CT_HostileTo="FightTeam1" CT_IsHitByPad="YES"/>
+		<Class ClassID="86" ClassName="EVENT_2004_UPHILL_MISSION_PC" CT_HostileTo="EVENT_2004_UPHILL_MISSION_MON;EVENT_2004_UPHILL_MISSION_MON_DIRECT" CT_IsHitByPad="YES"/>
+		<Class ClassID="87" ClassName="EVENT_2004_UPHILL_MISSION_MON" CT_HostileTo="EVENT_2004_UPHILL_MISSION_TREE;EVENT_2004_UPHILL_MISSION_PC" CT_IsHitByPad="YES"/>
+		<Class ClassID="88" ClassName="EVENT_2004_UPHILL_MISSION_MON_DIRECT" CT_HostileTo="EVENT_2004_UPHILL_MISSION_TREE" CT_IsHitByPad="YES"/>
+		<Class ClassID="89" ClassName="EVENT_2004_UPHILL_MISSION_TREE" CT_HostileTo="None" CT_IsHitByPad="YES"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->

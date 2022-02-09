@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Administrator (EMBRACE) -->
+<!--PoseID는 맨위쪽 첫번째가 1번입니다. PoseID가 0이고 Text가 None일 경우 등록되지 않습니다.-->
+<idspace id="Chatmacro_Default">
+	<Category>
+		<Class ClassID="1" ClassName="Set1" PoseID="8" Text="{img emoticon_0022 30 30} 미안"/>
+		<Class ClassID="2" ClassName="Set2" PoseID="9" Text="{img emoticon_0001 30 30} 고마워"/>
+		<Class ClassID="3" ClassName="Set3" PoseID="10" Text="{img emoticon_0002 30 30} 좋아"/>
+		<Class ClassID="4" ClassName="Set4" PoseID="16" Text="{img emoticon_0010 30 30} 놀람"/>
+		<Class ClassID="5" ClassName="Set5" PoseID="17" Text="{img emoticon_0016 30 30} 울기"/>
+		<Class ClassID="6" ClassName="Set6" PoseID="1" Text="{img emoticon_0007 30 30} 사랑"/>
+		<Class ClassID="7" ClassName="Set7" PoseID="6" Text="{img emoticon_0006 30 30} 안녕"/>
+		<Class ClassID="8" ClassName="Set8" PoseID="0" Text="None"/>
+		<Class ClassID="9" ClassName="Set9" PoseID="0" Text="None"/>
+		<Class ClassID="10" ClassName="Set10" PoseID="0" Text="None"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->

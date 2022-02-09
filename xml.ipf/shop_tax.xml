@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Shop_tax">
+	<Category Name="Shop">
+		<Class ClassID="1" ClassName="Klapeda_Misc" ApplyTax="YES"/>
+		<Class ClassID="2" ClassName="Fedimian_Misc" ApplyTax="YES"/>
+		<Class ClassID="3" ClassName="Klapeda_Weapon" ApplyTax="YES"/>
+		<Class ClassID="4" ClassName="Fedimian_Weapon" ApplyTax="YES"/>
+		<Class ClassID="5" ClassName="Klapeda_Armor" ApplyTax="YES"/>
+		<Class ClassID="6" ClassName="Klapeda_Accessory" ApplyTax="YES"/>
+		<Class ClassID="7" ClassName="Klapeda_Companion" ApplyTax="YES"/>
+		<Class ClassID="8" ClassName="Klapeda_Recipe" ApplyTax="YES"/>
+		<Class ClassID="9" ClassName="Magic_Society" ApplyTax="YES"/>
+		<Class ClassID="10" ClassName="Fish_Shop_Manager" ApplyTax="YES"/>
+		<Class ClassID="11" ClassName="Teliavelis" ApplyTax="YES"/>
+		<Class ClassID="12" ClassName="Orsha_Misc" ApplyTax="YES"/>
+		<Class ClassID="13" ClassName="Fedimian_Armor" ApplyTax="YES"/>
+	</Category>
+	<!--각 Shop 관련 comment
+ Klapeda_Misc : 클라페다 잡화 상인의 잡화 상점
+ Fedimian_Misc : 페디미안 잡화 상인의 잡화 상점
+ Klapeda_Weapon : 클라페다, 오르샤 장비 상인의 무기류 상점
+ Fedimian_Weapon : 페디미안 장비 상인의 무기류 상점
+ Klapeda_Armor : 클라페다, 오르샤 장비 상인의 방어구류 상점
+ Klapeda_Accessory : 클라페다, 오르샤, 페디미안 악세서리 상인의 악세서리 상점
+ Klapeda_Companion : 클라페다, 오르샤 컴패니언 상인의 컴패니언 먹이 상점
+ Klapeda_Recipe : 클라페다, 오르샤, 페디미안 대장장이의 제작서 상점
+ Magic_Society : 클라페다, 오르샤 마법 협회 소속 NPC의 잡화 상점
+ Fish_Shop_Manager : 클라페다 [낚시터 관리인] 요하의 낚시 용품 상점
+ Teliavelis : 페디미안 [대장장이] 테리아베리스의 잡화 상점
+ Orsha_Misc : 오르샤 잡화 상인의 잡화 상점
+ Fedimian_Armor : 페디미안 장비 상인의 방어구류 상점
+
+** 해당 xml은 세율 적용 항목 중, 상점 관련 항목에 대한 부분이며, 별도 스크립트로 실버가 소비되는 경우에는 스크립트 단에서 예외처리가 진행되고 있음.  
+-->
+</idspace>

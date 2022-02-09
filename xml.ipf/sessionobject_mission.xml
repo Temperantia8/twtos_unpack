@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="SessionObject">
+	<Category Name="몬스터">
+		<Class ClassID="10017" ClassName="ssn_mission" CT_Name="미션" CT_Script="SSN_MISSION" CT_Scp_Client="None" CT_UseTx="NO" CT_UseDB="NO" Coin_NT="0" Point_NT="0" Kill_NT="0" Destroy_NT="0" Buy1_NT="0" Buy2_NT="0" Buy3_NT="0" Buy1_Price_NT="100" Buy2_Price_NT="100" Buy3_Price_NT="100" Quest_1_NT="0" Quest_2_NT="0" Quest_3_NT="0" Quest_4_NT="0" Quest_5_NT="0" Kill_First_NT="0" First_EMon_NT="0" First_Mon_NT="0" First_TMon_NT="0" Step1_NT="0" Goal1_NT="0" Step2_NT="0" Goal2_NT="0" Step3_NT="0" Goal3_NT="0" Step4_NT="0" Goal4_NT="0" Step5_NT="0" Goal5_NT="0" Step6_NT="0" Goal6_NT="0" Step7_NT="0" Goal7_NT="0" Step8_NT="0" Goal8_NT="0" Step9_NT="0" Goal9_NT="0" Step10_NT="0" Goal10_NT="0" Step11_NT="0" Goal11_NT="0" Step12_NT="0" Goal12_NT="0" Step13_NT="0" Goal13_NT="0" Step14_NT="0" Goal14_NT="0" Step15_NT="0" Goal15_NT="0" Step16_NT="0" Goal16_NT="0" Step17_NT="0" Goal17_NT="0" Step18_NT="0" Goal18_NT="0" Step19_NT="0" Goal19_NT="0" Step20_NT="0" Goal20_NT="0" Step21_NT="0" Goal21_NT="0" Step22_NT="0" Goal22_NT="0" Step23_NT="0" Goal23_NT="0" Step24_NT="0" Goal24_NT="0" Step25_NT="0" Goal25_NT="0"/>
+	</Category>
+</idspace>

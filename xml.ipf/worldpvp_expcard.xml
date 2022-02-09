@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="WorldPVP_ExpCard">
+	<Class ClassID="1" ClassName="1" Level="1" ExpCard="expCard1" CardCount="3"/>
+	<Class ClassID="2" ClassName="2" Level="15" ExpCard="expCard2" CardCount="3"/>
+	<Class ClassID="3" ClassName="3" Level="30" ExpCard="expCard3" CardCount="3"/>
+	<Class ClassID="4" ClassName="4" Level="65" ExpCard="expCard5" CardCount="5"/>
+	<Class ClassID="5" ClassName="5" Level="85" ExpCard="expCard6" CardCount="7"/>
+	<Class ClassID="6" ClassName="6" Level="110" ExpCard="expCard7" CardCount="1"/>
+	<Class ClassID="7" ClassName="7" Level="135" ExpCard="expCard8" CardCount="1"/>
+	<Class ClassID="8" ClassName="8" Level="160" ExpCard="expCard9" CardCount="1"/>
+	<Class ClassID="9" ClassName="9" Level="185" ExpCard="expCard10" CardCount="1"/>
+	<Class ClassID="10" ClassName="10" Level="210" ExpCard="expCard11" CardCount="1"/>
+	<Class ClassID="11" ClassName="11" Level="230" ExpCard="expCard12" CardCount="1"/>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->

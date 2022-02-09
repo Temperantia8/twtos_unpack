@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="DrawCastingRange">
+	<Category Name="Front">
+		<Class ClassID="11603" ClassName="Rancer_Joust" DrawType="Front" Dist="0" Width="30" StartRange="80" EndRange="240" Color="0,250,0,255" BlinkColor="0,250,0,255" CondScp="SCR_CHECK_JOUST_ABIL"/>
+		<Class ClassID="30107" ClassName="Ranger_SpiralArrow" DrawType="Front" Dist="0" Width="15" StartRange="0" EndRange="155" Color="0,250,0,255" BlinkColor="0,250,0,255" CondScp="SCR_CHECK_SPIRALARROW_ABIL"/>
+	</Category>
+	<Category Name="Fan">
+	</Category>
+	<Category Name="Circle">
+	</Category>
+</idspace>

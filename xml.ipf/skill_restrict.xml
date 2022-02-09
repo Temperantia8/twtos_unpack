@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by tachyon (EMBRACE) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="SkillRestrict">
+	<Category Name="Raid">
+		<Class ClassID="1" ClassName="Thaumaturge_Reversi" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="YES" Raid_CoolDown="None" Custom="None" Keyword="IsRaidField" CT_Desc="사용 불가능"/>
+		<Class ClassID="2" ClassName="Psychokino_Swap" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="YES" Raid_CoolDown="None" Custom="None" Keyword="IsRaidField" CT_Desc="사용 불가능"/>
+		<Class ClassID="3" ClassName="Priest_Resurrection" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="NO" Raid_CoolDown="None" Custom="1회 횟수로 제한" Keyword="IsRaidField" CT_Desc="타겟 대상당 1회 횟수 제한(부활 스킬은 횟수 공유)"/>
+		<Class ClassID="4" ClassName="Priest_Revive" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="NO" Raid_CoolDown="Fix/300000" Custom="None" Keyword="IsRaidField" CT_Desc="재사용 대기시간 5분으로 증가"/>
+		<Class ClassID="5" ClassName="Chronomancer_BackMasking" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="NO" Raid_CoolDown="None" Custom="SCR_ENABLE_RESURRECT_BY_BACKMASKING" Keyword="IsRaidField" CT_Desc="타겟 대상당 1회 횟수 제한(부활 스킬은 횟수 공유)"/>
+		<Class ClassID="6" ClassName="PlagueDoctor_Modafinil" BuffClassName="Modafinil_Buff" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="Percent/33" Raid_NotAvailable="NO" Raid_CoolDown="None" Custom="None" Keyword="IsRaidField" CT_Desc="버프 지속시간 1/3적용"/>
+		<Class ClassID="7" ClassName="Chronomancer_Samsara" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="NO" Raid_CoolDown="None" Custom="None" Keyword="IsRaidField" CT_Desc="타겟 대상당 1회 횟수 제한(부활 스킬은 횟수 공유)"/>
+		<Class ClassID="8" ClassName="Cryomancer_IceWall" BuffClassName="None" PVP_BuffTime="None" PVP_NotAvailable="NO" PVP_CoolDown="None" Raid_BuffTime="None" Raid_NotAvailable="NO" Raid_CoolDown="None" Custom="None" Keyword="IsRaidField" CT_Desc="지속시간 1/2적용.{nl}[아츠] 아이스월 : 마법 이글루 지속시간 1/2적용."/>
+	</Category>
+</idspace>

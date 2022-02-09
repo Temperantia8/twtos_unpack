@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="worldmap2_submap_data">
+	<Category Name="city_klapeda">
+		<Class ClassID="101" ClassName="city_klapeda_1" MapName="f_siauliai_west" Episode="city_klapeda" Coordinate_X="-56" Coordinate_Y="-138" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="102" ClassName="city_klapeda_2" MapName="c_Klaipe" Episode="city_klapeda" Coordinate_X="-50" Coordinate_Y="87" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="103" ClassName="city_klapeda_3" MapName="f_siauliai_2" Episode="city_klapeda" Coordinate_X="-3" Coordinate_Y="287" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="104" ClassName="city_klapeda_4" MapName="f_siauliai_out" Episode="city_klapeda" Coordinate_X="177" Coordinate_Y="226" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="105" ClassName="city_klapeda_5" MapName="d_cmine_01" Episode="city_klapeda" Coordinate_X="220" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_01"/>
+		<Class ClassID="106" ClassName="city_klapeda_6" MapName="d_cmine_02" Episode="city_klapeda" Coordinate_X="220" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_01"/>
+		<Class ClassID="107" ClassName="city_klapeda_7" MapName="d_cmine_6" Episode="city_klapeda" Coordinate_X="220" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_01"/>
+		<Class ClassID="108" ClassName="city_klapeda_8" MapName="f_siauliai_50_1" Episode="city_klapeda" Coordinate_X="337" Coordinate_Y="-162" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="109" ClassName="city_klapeda_9" MapName="f_gele_57_1" Episode="city_klapeda" Coordinate_X="363" Coordinate_Y="154" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="110" ClassName="city_klapeda_10" MapName="d_cmine_8" Episode="city_klapeda" Coordinate_X="220" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_01"/>
+		<Class ClassID="111" ClassName="city_klapeda_11" MapName="d_cmine_9" Episode="city_klapeda" Coordinate_X="220" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_01"/>
+	</Category>
+	<Category Name="city_fedimian">
+		<Class ClassID="201" ClassName="city_fedimian_1" MapName="d_firetower_41" Episode="city_fedimian" Coordinate_X="190" Coordinate_Y="339" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_41"/>
+		<Class ClassID="202" ClassName="city_fedimian_2" MapName="d_firetower_42" Episode="city_fedimian" Coordinate_X="190" Coordinate_Y="339" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_41"/>
+		<Class ClassID="203" ClassName="city_fedimian_3" MapName="d_firetower_43" Episode="city_fedimian" Coordinate_X="190" Coordinate_Y="339" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_41"/>
+		<Class ClassID="204" ClassName="city_fedimian_4" MapName="d_firetower_44" Episode="city_fedimian" Coordinate_X="190" Coordinate_Y="339" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_41"/>
+		<Class ClassID="205" ClassName="city_fedimian_5" MapName="d_firetower_45" Episode="city_fedimian" Coordinate_X="190" Coordinate_Y="339" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_41"/>
+		<Class ClassID="206" ClassName="city_fedimian_6" MapName="c_fedimian" Episode="city_fedimian" Coordinate_X="10" Coordinate_Y="15" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="207" ClassName="city_fedimian_7" MapName="f_remains_37" Episode="city_fedimian" Coordinate_X="-222" Coordinate_Y="-203" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="208" ClassName="city_fedimian_8" MapName="f_remains_38" Episode="city_fedimian" Coordinate_X="-116" Coordinate_Y="-105" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="209" ClassName="city_fedimian_9" MapName="f_remains_39" Episode="city_fedimian" Coordinate_X="-282" Coordinate_Y="61" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="210" ClassName="city_fedimian_10" MapName="f_remains_40" Episode="city_fedimian" Coordinate_X="-51" Coordinate_Y="167" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="211" ClassName="city_fedimian_11" MapName="d_firetower_69_1" Episode="city_fedimian" Coordinate_X="87" Coordinate_Y="-300" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_69_1"/>
+		<Class ClassID="212" ClassName="city_fedimian_12" MapName="d_firetower_69_2" Episode="city_fedimian" Coordinate_X="87" Coordinate_Y="-300" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_69_1"/>
+		<Class ClassID="214" ClassName="city_fedimian_14" MapName="f_rokas_31" Episode="city_fedimian" Coordinate_X="-447" Coordinate_Y="-232" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="215" ClassName="city_fedimian_15" MapName="f_rokas_30" Episode="city_fedimian" Coordinate_X="-498" Coordinate_Y="-37" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="216" ClassName="city_fedimian_16" MapName="d_thorn_20" Episode="city_fedimian" Coordinate_X="-804" Coordinate_Y="196" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="217" ClassName="city_fedimian_17" MapName="f_orchard_32_4" Episode="city_fedimian" Coordinate_X="-448" Coordinate_Y="279" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="218" ClassName="city_fedimian_18" MapName="f_pilgrimroad_46" Episode="city_fedimian" Coordinate_X="574" Coordinate_Y="252" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="219" ClassName="city_fedimian_19" MapName="f_remains_37_1" Episode="city_fedimian" Coordinate_X="-252" Coordinate_Y="-396" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="220" ClassName="city_fedimian_20" MapName="p_cathedral_1" Episode="city_fedimian" Coordinate_X="-597" Coordinate_Y="102" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="city_orsha">
+		<Class ClassID="301" ClassName="city_orsha_1" MapName="f_siauliai_16" Episode="city_orsha" Coordinate_X="-425" Coordinate_Y="235" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="302" ClassName="city_orsha_2" MapName="f_siauliai_15_re" Episode="city_orsha" Coordinate_X="-200" Coordinate_Y="422" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="303" ClassName="city_orsha_3" MapName="f_siauliai_11_re" Episode="city_orsha" Coordinate_X="-95" Coordinate_Y="351" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="304" ClassName="city_orsha_4" MapName="d_prison_62_1" Episode="city_orsha" Coordinate_X="-13" Coordinate_Y="441" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_prison_62_1"/>
+		<Class ClassID="305" ClassName="city_orsha_5" MapName="d_prison_62_2" Episode="city_orsha" Coordinate_X="-13" Coordinate_Y="441" TooltipDirection="left" IsInEpisode="YES" DungeonName="d_prison_62_1"/>
+		<Class ClassID="306" ClassName="city_orsha_6" MapName="d_prison_62_3" Episode="city_orsha" Coordinate_X="-13" Coordinate_Y="441" TooltipDirection="left" IsInEpisode="YES" DungeonName="d_prison_62_1"/>
+		<Class ClassID="307" ClassName="city_orsha_7" MapName="d_zachariel_79_1" Episode="city_orsha" Coordinate_X="-190" Coordinate_Y="357" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="308" ClassName="city_orsha_8" MapName="d_zachariel_79_2" Episode="city_orsha" Coordinate_X="-190" Coordinate_Y="300" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="309" ClassName="city_orsha_9" MapName="f_bracken_63_1" Episode="city_orsha" Coordinate_X="73" Coordinate_Y="270" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="310" ClassName="city_orsha_10" MapName="f_bracken_63_2" Episode="city_orsha" Coordinate_X="-83" Coordinate_Y="196" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="311" ClassName="city_orsha_11" MapName="f_bracken_63_3" Episode="city_orsha" Coordinate_X="-141" Coordinate_Y="115" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="312" ClassName="city_orsha_12" MapName="d_abbey_64_1" Episode="city_orsha" Coordinate_X="-243" Coordinate_Y="84" TooltipDirection="left" IsInEpisode="YES" DungeonName="d_abbey_64_1"/>
+		<Class ClassID="313" ClassName="city_orsha_13" MapName="d_abbey_64_2" Episode="city_orsha" Coordinate_X="-243" Coordinate_Y="84" TooltipDirection="left" IsInEpisode="YES" DungeonName="d_abbey_64_1"/>
+		<Class ClassID="314" ClassName="city_orsha_14" MapName="d_abbey_64_3" Episode="city_orsha" Coordinate_X="-243" Coordinate_Y="84" TooltipDirection="left" IsInEpisode="YES" DungeonName="d_abbey_64_1"/>
+		<Class ClassID="315" ClassName="city_orsha_15" MapName="f_katyn_10" Episode="city_orsha" Coordinate_X="-241" Coordinate_Y="-20" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="316" ClassName="city_orsha_16" MapName="f_katyn_12" Episode="city_orsha" Coordinate_X="-246" Coordinate_Y="-192" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="317" ClassName="city_orsha_17" MapName="f_3cmlake_83" Episode="city_orsha" Coordinate_X="-136" Coordinate_Y="-103" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="318" ClassName="city_orsha_18" MapName="f_3cmlake_84" Episode="city_orsha" Coordinate_X="-78" Coordinate_Y="-190" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="319" ClassName="city_orsha_19" MapName="d_cmine_66_1" Episode="city_orsha" Coordinate_X="-100" Coordinate_Y="15" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_66_1"/>
+		<Class ClassID="320" ClassName="city_orsha_20" MapName="d_cmine_66_2" Episode="city_orsha" Coordinate_X="-100" Coordinate_Y="15" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cmine_66_1"/>
+		<Class ClassID="321" ClassName="city_orsha_21" MapName="f_castle_65_1" Episode="city_orsha" Coordinate_X="-22" Coordinate_Y="-287" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="322" ClassName="city_orsha_22" MapName="f_castle_65_2" Episode="city_orsha" Coordinate_X="87" Coordinate_Y="-267" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="323" ClassName="city_orsha_23" MapName="f_castle_65_3" Episode="city_orsha" Coordinate_X="200" Coordinate_Y="-313" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="324" ClassName="city_orsha_24" MapName="id_catacomb_33_1" Episode="city_orsha" Coordinate_X="3" Coordinate_Y="-91" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="325" ClassName="city_orsha_25" MapName="id_catacomb_33_2" Episode="city_orsha" Coordinate_X="97" Coordinate_Y="-17" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="326" ClassName="city_orsha_26" MapName="d_castle_67_1" Episode="city_orsha" Coordinate_X="273" Coordinate_Y="-396" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_castle_67_1"/>
+		<Class ClassID="327" ClassName="city_orsha_27" MapName="d_castle_67_2" Episode="city_orsha" Coordinate_X="273" Coordinate_Y="-396" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_castle_67_1"/>
+		<Class ClassID="328" ClassName="city_orsha_28" MapName="f_orchard_32_3" Episode="city_orsha" Coordinate_X="339" Coordinate_Y="-271" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="329" ClassName="city_orsha_29" MapName="f_pilgrimroad_31_1" Episode="city_orsha" Coordinate_X="197" Coordinate_Y="-165" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="330" ClassName="city_orsha_30" MapName="f_orchard_34_2" Episode="city_orsha" Coordinate_X="413" Coordinate_Y="-192" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="331" ClassName="city_orsha_31" MapName="f_orchard_32_4" Episode="city_orsha" Coordinate_X="533" Coordinate_Y="-147" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="332" ClassName="city_orsha_32" MapName="f_pilgrimroad_31_3" Episode="city_orsha" Coordinate_X="293" Coordinate_Y="-55" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="333" ClassName="city_orsha_33" MapName="f_pilgrimroad_31_2" Episode="city_orsha" Coordinate_X="342" Coordinate_Y="95" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="334" ClassName="city_orsha_34" MapName="d_underfortress_68_1" Episode="city_orsha" Coordinate_X="539" Coordinate_Y="-73" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_68_1"/>
+		<Class ClassID="335" ClassName="city_orsha_35" MapName="d_underfortress_68_2" Episode="city_orsha" Coordinate_X="539" Coordinate_Y="-73" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_68_1"/>
+		<Class ClassID="336" ClassName="city_orsha_36" MapName="c_fedimian" Episode="city_orsha" Coordinate_X="538" Coordinate_Y="-392" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="337" ClassName="city_orsha_37" MapName="f_rokas_24" Episode="city_orsha" Coordinate_X="-46" Coordinate_Y="-393" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="338" ClassName="city_orsha_38" MapName="f_bracken_42_1" Episode="city_orsha" Coordinate_X="-499" Coordinate_Y="41" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="339" ClassName="city_orsha_39" MapName="f_rokas_36_1" Episode="city_orsha" Coordinate_X="607" Coordinate_Y="-2" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="340" ClassName="city_orsha_40" MapName="f_bracken_43_1" Episode="city_orsha" Coordinate_X="508" Coordinate_Y="365" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="341" ClassName="city_orsha_41" MapName="d_limestonecave_73_1" Episode="city_orsha" Coordinate_X="589" Coordinate_Y="-217" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="342" ClassName="city_orsha_42" MapName="c_orsha" Episode="city_orsha" Coordinate_X="-290" Coordinate_Y="313" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="343" ClassName="city_orsha_43" MapName="d_limestonecave_71_1" Episode="city_orsha" Coordinate_X="241" Coordinate_Y="31" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+	</Category>
+	<Category Name="EP2">
+		<Class ClassID="10101" ClassName="EP2_1" MapName="f_gele_57_1" Episode="EP2" Coordinate_X="-275" Coordinate_Y="-136" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10102" ClassName="EP2_2" MapName="f_gele_57_2" Episode="EP2" Coordinate_X="-165" Coordinate_Y="28" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10103" ClassName="EP2_3" MapName="f_gele_57_3" Episode="EP2" Coordinate_X="-13" Coordinate_Y="-92" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10104" ClassName="EP2_4" MapName="f_gele_57_4" Episode="EP2" Coordinate_X="93" Coordinate_Y="-21" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10105" ClassName="EP2_5" MapName="d_chapel_57_5" Episode="EP2" Coordinate_X="89" Coordinate_Y="226" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_chapel_57_5"/>
+		<Class ClassID="10106" ClassName="EP2_6" MapName="d_chapel_57_6" Episode="EP2" Coordinate_X="89" Coordinate_Y="226" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_chapel_57_5"/>
+		<Class ClassID="10107" ClassName="EP2_7" MapName="d_chapel_57_7" Episode="EP2" Coordinate_X="89" Coordinate_Y="226" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_chapel_57_5"/>
+		<Class ClassID="10108" ClassName="EP2_8" MapName="id_catacomb_01" Episode="EP2" Coordinate_X="237" Coordinate_Y="78" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10109" ClassName="EP2_9" MapName="f_huevillage_58_1" Episode="EP2" Coordinate_X="-286" Coordinate_Y="-425" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10110" ClassName="EP2_10" MapName="f_siauliai_out" Episode="EP2" Coordinate_X="-436" Coordinate_Y="-107" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10111" ClassName="EP2_11" MapName="f_katyn_7" Episode="EP2" Coordinate_X="265" Coordinate_Y="-104" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10112" ClassName="EP2_12" MapName="f_katyn_45_1" Episode="EP2" Coordinate_X="-488" Coordinate_Y="237" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10113" ClassName="EP2_13" MapName="f_pilgrimroad_41_1" Episode="EP2" Coordinate_X="-212" Coordinate_Y="394" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP3">
+		<Class ClassID="10201" ClassName="EP3_1" MapName="f_huevillage_58_1" Episode="EP3" Coordinate_X="-380" Coordinate_Y="-30" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10202" ClassName="EP3_2" MapName="f_huevillage_58_2" Episode="EP3" Coordinate_X="-262" Coordinate_Y="-91" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10203" ClassName="EP3_3" MapName="f_huevillage_58_3" Episode="EP3" Coordinate_X="-67" Coordinate_Y="-148" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10204" ClassName="EP3_4" MapName="f_huevillage_58_4" Episode="EP3" Coordinate_X="61" Coordinate_Y="-224" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10205" ClassName="EP3_5" MapName="d_thorn_19" Episode="EP3" Coordinate_X="185" Coordinate_Y="-101" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10206" ClassName="EP3_6" MapName="d_thorn_20" Episode="EP3" Coordinate_X="188" Coordinate_Y="-4" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10207" ClassName="EP3_7" MapName="p_cathedral_1" Episode="EP3" Coordinate_X="422" Coordinate_Y="368" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10208" ClassName="EP3_8" MapName="d_thorn_21" Episode="EP3" Coordinate_X="213" Coordinate_Y="89" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10209" ClassName="EP3_9" MapName="f_katyn_7" Episode="EP3" Coordinate_X="-133" Coordinate_Y="241" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10210" ClassName="EP3_10" MapName="f_katyn_7_2" Episode="EP3" Coordinate_X="-43" Coordinate_Y="170" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10211" ClassName="EP3_11" MapName="f_katyn_13" Episode="EP3" Coordinate_X="-15" Coordinate_Y="2" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10212" ClassName="EP3_12" MapName="f_katyn_14" Episode="EP3" Coordinate_X="61" Coordinate_Y="76" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10213" ClassName="EP3_13" MapName="d_thorn_22" Episode="EP3" Coordinate_X="100" Coordinate_Y="148" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10214" ClassName="EP3_14" MapName="d_thorn_23" Episode="EP3" Coordinate_X="186" Coordinate_Y="245" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10215" ClassName="EP3_15" MapName="f_gele_57_3" Episode="EP3" Coordinate_X="-430" Coordinate_Y="167" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10216" ClassName="EP3_16" MapName="f_rokas_24" Episode="EP3" Coordinate_X="360" Coordinate_Y="220" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10217" ClassName="EP3_17" MapName="f_remains_37" Episode="EP3" Coordinate_X="800" Coordinate_Y="204" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10218" ClassName="EP3_18" MapName="f_siauliai_46_4" Episode="EP3" Coordinate_X="64" Coordinate_Y="-364" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10219" ClassName="EP3_19" MapName="f_farm_47_1" Episode="EP3" Coordinate_X="-235" Coordinate_Y="-240" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10220" ClassName="EP3_20" MapName="f_siauliai_50_1" Episode="EP3" Coordinate_X="-424" Coordinate_Y="-158" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10221" ClassName="EP3_21" MapName="f_siauliai_46_1" Episode="EP3" Coordinate_X="351" Coordinate_Y="-159" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10222" ClassName="EP3_22" MapName="d_thorn_39_1" Episode="EP3" Coordinate_X="424" Coordinate_Y="-8" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10223" ClassName="EP3_23" MapName="f_gele_57_4" Episode="EP3" Coordinate_X="-316" Coordinate_Y="305" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP4">
+		<Class ClassID="10301" ClassName="EP4_1" MapName="f_rokas_29" Episode="EP4" Coordinate_X="142" Coordinate_Y="215" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10302" ClassName="EP4_2" MapName="f_rokas_30" Episode="EP4" Coordinate_X="300" Coordinate_Y="191" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10303" ClassName="EP4_3" MapName="f_rokas_31" Episode="EP4" Coordinate_X="354" Coordinate_Y="56" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10304" ClassName="EP4_4" MapName="d_zachariel_32" Episode="EP4" Coordinate_X="219" Coordinate_Y="-42" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_zachariel_32"/>
+		<Class ClassID="10305" ClassName="EP4_5" MapName="d_zachariel_33" Episode="EP4" Coordinate_X="219" Coordinate_Y="-42" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_zachariel_32"/>
+		<Class ClassID="10306" ClassName="EP4_6" MapName="d_zachariel_34" Episode="EP4" Coordinate_X="219" Coordinate_Y="-42" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_zachariel_32"/>
+		<Class ClassID="10307" ClassName="EP4_7" MapName="d_zachariel_35" Episode="EP4" Coordinate_X="219" Coordinate_Y="-42" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_zachariel_32"/>
+		<Class ClassID="10308" ClassName="EP4_8" MapName="d_zachariel_36" Episode="EP4" Coordinate_X="219" Coordinate_Y="-42" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_zachariel_32"/>
+		<Class ClassID="10309" ClassName="EP4_9" MapName="p_catacomb_1" Episode="EP4" Coordinate_X="460" Coordinate_Y="294" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10310" ClassName="EP4_10" MapName="d_thorn_39_2" Episode="EP4" Coordinate_X="-156" Coordinate_Y="-216" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10311" ClassName="EP4_11" MapName="d_thorn_39_1" Episode="EP4" Coordinate_X="-312" Coordinate_Y="-116" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10312" ClassName="EP4_12" MapName="d_thorn_39_3" Episode="EP4" Coordinate_X="10" Coordinate_Y="-179" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10313" ClassName="EP4_13" MapName="d_abbey_39_4" Episode="EP4" Coordinate_X="189" Coordinate_Y="-210" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10314" ClassName="EP4_14" MapName="f_rokas_24" Episode="EP4" Coordinate_X="-342" Coordinate_Y="226" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10315" ClassName="EP4_15" MapName="f_rokas_25" Episode="EP4" Coordinate_X="-188" Coordinate_Y="306" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10316" ClassName="EP4_16" MapName="f_rokas_26" Episode="EP4" Coordinate_X="-113" Coordinate_Y="137" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10317" ClassName="EP4_17" MapName="f_rokas_27" Episode="EP4" Coordinate_X="-6" Coordinate_Y="52" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10318" ClassName="EP4_18" MapName="f_rokas_28" Episode="EP4" Coordinate_X="48" Coordinate_Y="135" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10325" ClassName="EP4_25" MapName="d_underfortress_59_1" Episode="EP4" Coordinate_X="56" Coordinate_Y="352" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_59_1"/>
+		<Class ClassID="10326" ClassName="EP4_26" MapName="d_underfortress_59_2" Episode="EP4" Coordinate_X="56" Coordinate_Y="352" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_59_1"/>
+		<Class ClassID="10327" ClassName="EP4_27" MapName="d_underfortress_59_3" Episode="EP4" Coordinate_X="56" Coordinate_Y="352" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_59_1"/>
+		<Class ClassID="10328" ClassName="EP4_28" MapName="f_siauliai_46_1" Episode="EP4" Coordinate_X="-357" Coordinate_Y="-343" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10329" ClassName="EP4_29" MapName="f_siauliai_46_2" Episode="EP4" Coordinate_X="-238" Coordinate_Y="-407" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10330" ClassName="EP4_30" MapName="id_catacomb_38_2" Episode="EP4" Coordinate_X="114" Coordinate_Y="-390" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10331" ClassName="EP4_31" MapName="d_thorn_20" Episode="EP4" Coordinate_X="-632" Coordinate_Y="-28" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10332" ClassName="EP4_32" MapName="f_remains_37" Episode="EP4" Coordinate_X="559" Coordinate_Y="-73" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10333" ClassName="EP4_33" MapName="f_remains_39" Episode="EP4" Coordinate_X="551" Coordinate_Y="159" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10334" ClassName="EP4_34" MapName="d_thorn_23" Episode="EP4" Coordinate_X="-628" Coordinate_Y="307" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10335" ClassName="EP4_35" MapName="f_katyn_12" Episode="EP4" Coordinate_X="-436" Coordinate_Y="429" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10336" ClassName="EP4_36" MapName="f_pilgrimroad_47" Episode="EP4" Coordinate_X="494" Coordinate_Y="433" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP6">
+		<Class ClassID="10401" ClassName="EP6_1" MapName="d_cathedral_53" Episode="EP6" Coordinate_X="53" Coordinate_Y="235" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cathedral_53"/>
+		<Class ClassID="10402" ClassName="EP6_2" MapName="d_cathedral_54" Episode="EP6" Coordinate_X="53" Coordinate_Y="235" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cathedral_53"/>
+		<Class ClassID="10403" ClassName="EP6_3" MapName="f_pilgrimroad_55" Episode="EP6" Coordinate_X="53" Coordinate_Y="235" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cathedral_53"/>
+		<Class ClassID="10404" ClassName="EP6_4" MapName="d_cathedral_56" Episode="EP6" Coordinate_X="53" Coordinate_Y="235" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_cathedral_53"/>
+		<Class ClassID="10405" ClassName="EP6_5" MapName="f_rokas_36_1" Episode="EP6" Coordinate_X="-333" Coordinate_Y="6" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10406" ClassName="EP6_6" MapName="f_pilgrimroad_36_2" Episode="EP6" Coordinate_X="-127" Coordinate_Y="43" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10407" ClassName="EP6_7" MapName="f_pilgrimroad_48" Episode="EP6" Coordinate_X="-202" Coordinate_Y="-58" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10408" ClassName="EP6_8" MapName="f_pilgrimroad_49" Episode="EP6" Coordinate_X="-253" Coordinate_Y="-145" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10409" ClassName="EP6_9" MapName="f_pilgrimroad_46" Episode="EP6" Coordinate_X="-73" Coordinate_Y="-317" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10410" ClassName="EP6_10" MapName="f_pilgrimroad_47" Episode="EP6" Coordinate_X="-28" Coordinate_Y="-221" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10411" ClassName="EP6_11" MapName="f_pilgrimroad_50" Episode="EP6" Coordinate_X="-46" Coordinate_Y="-69" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10412" ClassName="EP6_12" MapName="f_pilgrimroad_51" Episode="EP6" Coordinate_X="-14" Coordinate_Y="99" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10413" ClassName="EP6_13" MapName="f_pilgrimroad_52" Episode="EP6" Coordinate_X="135" Coordinate_Y="89" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10414" ClassName="EP6_14" MapName="d_firetower_61_1" Episode="EP6" Coordinate_X="252" Coordinate_Y="37" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_61_1"/>
+		<Class ClassID="10415" ClassName="EP6_15" MapName="d_firetower_61_2" Episode="EP6" Coordinate_X="252" Coordinate_Y="37" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_firetower_61_1"/>
+		<Class ClassID="10416" ClassName="EP6_16" MapName="d_startower_60_1" Episode="EP6" Coordinate_X="-64" Coordinate_Y="165" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10417" ClassName="EP6_17" MapName="f_flash_59" Episode="EP6" Coordinate_X="-174" Coordinate_Y="-431" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10418" ClassName="EP6_18" MapName="c_fedimian" Episode="EP6" Coordinate_X="-340" Coordinate_Y="-330" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10419" ClassName="EP6_19" MapName="f_rokas_29" Episode="EP6" Coordinate_X="-660" Coordinate_Y="-194" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10420" ClassName="EP6_20" MapName="f_pilgrimroad_31_2" Episode="EP6" Coordinate_X="-762" Coordinate_Y="167" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10421" ClassName="EP6_21" MapName="d_abbey_35_4" Episode="EP6" Coordinate_X="-443" Coordinate_Y="233" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10422" ClassName="EP6_22" MapName="f_orchard_34_1" Episode="EP6" Coordinate_X="-26" Coordinate_Y="344" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10423" ClassName="EP6_23" MapName="f_siauliai_35_1" Episode="EP6" Coordinate_X="193" Coordinate_Y="453" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10424" ClassName="EP6_24" MapName="f_orchard_34_3" Episode="EP6" Coordinate_X="294" Coordinate_Y="387" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10425" ClassName="EP6_25" MapName="c_nunnery" Episode="EP6" Coordinate_X="55" Coordinate_Y="-149" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10426" ClassName="EP6_26" MapName="p_catacomb_1" Episode="EP6" Coordinate_X="-361" Coordinate_Y="-213" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP7_1">
+		<Class ClassID="10501" ClassName="EP7_1_1" MapName="d_velniasprison_51_1" Episode="EP7_1" Coordinate_X="-114" Coordinate_Y="-66" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_velniasprison_51_1"/>
+		<Class ClassID="10502" ClassName="EP7_1_2" MapName="d_velniasprison_51_2" Episode="EP7_1" Coordinate_X="-114" Coordinate_Y="-66" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_velniasprison_51_1"/>
+		<Class ClassID="10503" ClassName="EP7_1_3" MapName="d_velniasprison_51_4" Episode="EP7_1" Coordinate_X="-114" Coordinate_Y="-66" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_velniasprison_51_1"/>
+		<Class ClassID="10504" ClassName="EP7_1_4" MapName="d_velniasprison_51_3" Episode="EP7_1" Coordinate_X="-114" Coordinate_Y="-66" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_velniasprison_51_1"/>
+		<Class ClassID="10505" ClassName="EP7_1_5" MapName="d_velniasprison_51_5" Episode="EP7_1" Coordinate_X="-114" Coordinate_Y="-66" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_velniasprison_51_1"/>
+		<Class ClassID="10506" ClassName="EP7_1_6" MapName="f_siauliai_50_1" Episode="EP7_1" Coordinate_X="-354" Coordinate_Y="368" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10507" ClassName="EP7_1_7" MapName="f_siauliai_47_4" Episode="EP7_1" Coordinate_X="-243" Coordinate_Y="294" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10508" ClassName="EP7_1_8" MapName="f_farm_47_3" Episode="EP7_1" Coordinate_X="-239" Coordinate_Y="154" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10509" ClassName="EP7_1_9" MapName="f_farm_47_2" Episode="EP7_1" Coordinate_X="-85" Coordinate_Y="85" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10510" ClassName="EP7_1_10" MapName="f_farm_47_1" Episode="EP7_1" Coordinate_X="-103" Coordinate_Y="230" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10511" ClassName="EP7_1_11" MapName="f_farm_49_1" Episode="EP7_1" Coordinate_X="53" Coordinate_Y="0" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10512" ClassName="EP7_1_12" MapName="f_farm_49_2" Episode="EP7_1" Coordinate_X="239" Coordinate_Y="24" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10513" ClassName="EP7_1_13" MapName="f_farm_49_3" Episode="EP7_1" Coordinate_X="306" Coordinate_Y="-110" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10514" ClassName="EP7_1_14" MapName="d_velniasprison_54_1" Episode="EP7_1" Coordinate_X="260" Coordinate_Y="-233" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10515" ClassName="EP7_1_15" MapName="f_huevillage_58_1" Episode="EP7_1" Coordinate_X="-312" Coordinate_Y="459" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10516" ClassName="EP7_1_16" MapName="f_huevillage_58_2" Episode="EP7_1" Coordinate_X="-169" Coordinate_Y="448" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10517" ClassName="EP7_1_17" MapName="f_huevillage_58_3" Episode="EP7_1" Coordinate_X="18" Coordinate_Y="396" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10518" ClassName="EP7_1_18" MapName="f_siauliai_46_4" Episode="EP7_1" Coordinate_X="122" Coordinate_Y="215" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10519" ClassName="EP7_1_19" MapName="c_Klaipe" Episode="EP7_1" Coordinate_X="-487" Coordinate_Y="401" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10520" ClassName="EP7_1_20" MapName="d_prison_75_1" Episode="EP7_1" Coordinate_X="-379" Coordinate_Y="304" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+	</Category>
+	<Category Name="EP7_2">
+		<Class ClassID="10601" ClassName="EP7_2_1" MapName="f_siauliai_46_4" Episode="EP7_2" Coordinate_X="-230" Coordinate_Y="-47" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10602" ClassName="EP7_2_2" MapName="f_siauliai_46_3" Episode="EP7_2" Coordinate_X="90" Coordinate_Y="-125" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10603" ClassName="EP7_2_3" MapName="f_siauliai_46_2" Episode="EP7_2" Coordinate_X="176" Coordinate_Y="82" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10604" ClassName="EP7_2_4" MapName="f_siauliai_46_1" Episode="EP7_2" Coordinate_X="70" Coordinate_Y="220" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10605" ClassName="EP7_2_5" MapName="f_farm_49_2" Episode="EP7_2" Coordinate_X="-252" Coordinate_Y="-430" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10606" ClassName="EP7_2_6" MapName="f_huevillage_58_4" Episode="EP7_2" Coordinate_X="-422" Coordinate_Y="378" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10607" ClassName="EP7_2_7" MapName="d_thorn_19" Episode="EP7_2" Coordinate_X="-111" Coordinate_Y="429" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10608" ClassName="EP7_2_8" MapName="d_thorn_39_2" Episode="EP7_2" Coordinate_X="284" Coordinate_Y="474" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10609" ClassName="EP7_2_9" MapName="d_thorn_39_3" Episode="EP7_2" Coordinate_X="498" Coordinate_Y="389" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10610" ClassName="EP7_2_10" MapName="d_startower_76_1" Episode="EP7_2" Coordinate_X="-218" Coordinate_Y="61" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10611" ClassName="EP7_2_11" MapName="d_startower_76_2" Episode="EP7_2" Coordinate_X="-184" Coordinate_Y="128" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+	</Category>
+	<Category Name="EP7_3">
+		<Class ClassID="10701" ClassName="EP7_3_1" MapName="f_flash_64" Episode="EP7_3" Coordinate_X="55" Coordinate_Y="28" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10702" ClassName="EP7_3_2" MapName="d_underfortress_65" Episode="EP7_3" Coordinate_X="222" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_65"/>
+		<Class ClassID="10703" ClassName="EP7_3_3" MapName="d_underfortress_66" Episode="EP7_3" Coordinate_X="222" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_65"/>
+		<Class ClassID="10704" ClassName="EP7_3_4" MapName="d_underfortress_67" Episode="EP7_3" Coordinate_X="222" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_65"/>
+		<Class ClassID="10705" ClassName="EP7_3_5" MapName="d_underfortress_68" Episode="EP7_3" Coordinate_X="222" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_65"/>
+		<Class ClassID="10706" ClassName="EP7_3_6" MapName="d_underfortress_69" Episode="EP7_3" Coordinate_X="222" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_underfortress_65"/>
+		<Class ClassID="10707" ClassName="EP7_3_7" MapName="f_flash_59" Episode="EP7_3" Coordinate_X="-195" Coordinate_Y="-141" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10708" ClassName="EP7_3_8" MapName="f_flash_60" Episode="EP7_3" Coordinate_X="-190" Coordinate_Y="-225" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10709" ClassName="EP7_3_9" MapName="f_flash_61" Episode="EP7_3" Coordinate_X="-50" Coordinate_Y="-75" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10710" ClassName="EP7_3_10" MapName="f_flash_63" Episode="EP7_3" Coordinate_X="-160" Coordinate_Y="-26" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10711" ClassName="EP7_3_11" MapName="f_flash_29_1" Episode="EP7_3" Coordinate_X="-178" Coordinate_Y="71" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10712" ClassName="EP7_3_12" MapName="f_flash_58" Episode="EP7_3" Coordinate_X="-73" Coordinate_Y="154" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10713" ClassName="EP7_3_13" MapName="f_tableland_11_1" Episode="EP7_3" Coordinate_X="20" Coordinate_Y="-179" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10714" ClassName="EP7_3_14" MapName="f_tableland_28_1" Episode="EP7_3" Coordinate_X="12" Coordinate_Y="-276" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10715" ClassName="EP7_3_15" MapName="f_tableland_28_2" Episode="EP7_3" Coordinate_X="-106" Coordinate_Y="-306" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10716" ClassName="EP7_3_16" MapName="d_underfortress_30_1" Episode="EP7_3" Coordinate_X="193" Coordinate_Y="191" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10717" ClassName="EP7_3_17" MapName="d_underfortress_30_2" Episode="EP7_3" Coordinate_X="91" Coordinate_Y="280" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10718" ClassName="EP7_3_18" MapName="d_underfortress_30_3" Episode="EP7_3" Coordinate_X="-101" Coordinate_Y="254" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10719" ClassName="EP7_3_19" MapName="d_cathedral_78_1" Episode="EP7_3" Coordinate_X="-110" Coordinate_Y="-366" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10720" ClassName="EP7_3_20" MapName="f_maple_25_2" Episode="EP7_3" Coordinate_X="-208" Coordinate_Y="-415" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10721" ClassName="EP7_3_21" MapName="f_tableland_71" Episode="EP7_3" Coordinate_X="67" Coordinate_Y="-356" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10722" ClassName="EP7_3_22" MapName="f_tableland_72" Episode="EP7_3" Coordinate_X="172" Coordinate_Y="-426" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10723" ClassName="EP7_3_23" MapName="f_tableland_70" Episode="EP7_3" Coordinate_X="147" Coordinate_Y="-237" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10724" ClassName="EP7_3_24" MapName="f_pilgrimroad_52" Episode="EP7_3" Coordinate_X="10" Coordinate_Y="415" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10725" ClassName="EP7_3_25" MapName="d_velniasprison_77_1" Episode="EP7_3" Coordinate_X="23" Coordinate_Y="-68" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+	</Category>
+	<Category Name="EP8_1">
+		<Class ClassID="10801" ClassName="EP8_1_1" MapName="d_abbey_35_3" Episode="EP8_1" Coordinate_X="114" Coordinate_Y="122" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10802" ClassName="EP8_1_2" MapName="d_abbey_35_4" Episode="EP8_1" Coordinate_X="-103" Coordinate_Y="19" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10803" ClassName="EP8_1_3" MapName="f_rokas_36_1" Episode="EP8_1" Coordinate_X="115" Coordinate_Y="-173" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10804" ClassName="EP8_1_4" MapName="f_coral_44_3" Episode="EP8_1" Coordinate_X="131" Coordinate_Y="440" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10805" ClassName="EP8_1_5" MapName="f_siauliai_35_1" Episode="EP8_1" Coordinate_X="650" Coordinate_Y="459" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP8_2">
+		<Class ClassID="10901" ClassName="EP8_2_1" MapName="d_prison_78" Episode="EP8_2" Coordinate_X="90" Coordinate_Y="202" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_prison_78"/>
+		<Class ClassID="10902" ClassName="EP8_2_2" MapName="d_prison_79" Episode="EP8_2" Coordinate_X="90" Coordinate_Y="202" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_prison_78"/>
+		<Class ClassID="10903" ClassName="EP8_2_3" MapName="d_prison_80" Episode="EP8_2" Coordinate_X="90" Coordinate_Y="202" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_prison_78"/>
+		<Class ClassID="10904" ClassName="EP8_2_4" MapName="d_prison_81" Episode="EP8_2" Coordinate_X="90" Coordinate_Y="202" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_prison_78"/>
+		<Class ClassID="10905" ClassName="EP8_2_5" MapName="d_prison_82" Episode="EP8_2" Coordinate_X="90" Coordinate_Y="202" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_prison_78"/>
+		<Class ClassID="10906" ClassName="EP8_2_6" MapName="f_tableland_70" Episode="EP8_2" Coordinate_X="-189" Coordinate_Y="-44" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10907" ClassName="EP8_2_7" MapName="f_tableland_71" Episode="EP8_2" Coordinate_X="-210" Coordinate_Y="-177" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10908" ClassName="EP8_2_8" MapName="f_tableland_72" Episode="EP8_2" Coordinate_X="-3" Coordinate_Y="-274" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10909" ClassName="EP8_2_9" MapName="f_tableland_73" Episode="EP8_2" Coordinate_X="155" Coordinate_Y="-133" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10910" ClassName="EP8_2_10" MapName="f_tableland_74" Episode="EP8_2" Coordinate_X="44" Coordinate_Y="-6" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="10911" ClassName="EP8_2_11" MapName="f_castle_20_3" Episode="EP8_2" Coordinate_X="458" Coordinate_Y="-104" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10912" ClassName="EP8_2_12" MapName="f_tableland_11_1" Episode="EP8_2" Coordinate_X="-320" Coordinate_Y="54" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10913" ClassName="EP8_2_13" MapName="f_flash_64" Episode="EP8_2" Coordinate_X="-276" Coordinate_Y="268" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="10914" ClassName="EP8_2_14" MapName="d_underfortress_65" Episode="EP8_2" Coordinate_X="-118" Coordinate_Y="440" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP9_1">
+		<Class ClassID="11001" ClassName="EP9_1_1" MapName="d_limestonecave_52_1" Episode="EP9_1" Coordinate_X="176" Coordinate_Y="-39" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_limestonecave_52_1"/>
+		<Class ClassID="11002" ClassName="EP9_1_2" MapName="d_limestonecave_52_2" Episode="EP9_1" Coordinate_X="176" Coordinate_Y="-39" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_limestonecave_52_1"/>
+		<Class ClassID="11003" ClassName="EP9_1_3" MapName="d_limestonecave_52_3" Episode="EP9_1" Coordinate_X="176" Coordinate_Y="-39" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_limestonecave_52_1"/>
+		<Class ClassID="11004" ClassName="EP9_1_4" MapName="d_limestonecave_52_4" Episode="EP9_1" Coordinate_X="176" Coordinate_Y="-39" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_limestonecave_52_1"/>
+		<Class ClassID="11005" ClassName="EP9_1_5" MapName="d_limestonecave_52_5" Episode="EP9_1" Coordinate_X="176" Coordinate_Y="-39" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_limestonecave_52_1"/>
+		<Class ClassID="11006" ClassName="EP9_1_6" MapName="f_katyn_45_1" Episode="EP9_1" Coordinate_X="-211" Coordinate_Y="-293" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11007" ClassName="EP9_1_7" MapName="f_katyn_45_2" Episode="EP9_1" Coordinate_X="-349" Coordinate_Y="-318" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11008" ClassName="EP9_1_8" MapName="f_katyn_45_3" Episode="EP9_1" Coordinate_X="-387" Coordinate_Y="-165" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11009" ClassName="EP9_1_9" MapName="f_pilgrimroad_41_1" Episode="EP9_1" Coordinate_X="-30" Coordinate_Y="-202" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11010" ClassName="EP9_1_10" MapName="f_pilgrimroad_41_2" Episode="EP9_1" Coordinate_X="-120" Coordinate_Y="-16" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11011" ClassName="EP9_1_11" MapName="f_pilgrimroad_41_4" Episode="EP9_1" Coordinate_X="-246" Coordinate_Y="-104" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11012" ClassName="EP9_1_12" MapName="f_pilgrimroad_41_3" Episode="EP9_1" Coordinate_X="-97" Coordinate_Y="128" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11013" ClassName="EP9_1_13" MapName="f_pilgrimroad_41_5" Episode="EP9_1" Coordinate_X="-297" Coordinate_Y="76" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11014" ClassName="EP9_1_14" MapName="d_abbey_41_6" Episode="EP9_1" Coordinate_X="-33" Coordinate_Y="266" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11015" ClassName="EP9_1_15" MapName="f_bracken_42_1" Episode="EP9_1" Coordinate_X="173" Coordinate_Y="104" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11016" ClassName="EP9_1_16" MapName="f_bracken_42_2" Episode="EP9_1" Coordinate_X="196" Coordinate_Y="219" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11017" ClassName="EP9_1_17" MapName="f_gele_57_2" Episode="EP9_1" Coordinate_X="-97" Coordinate_Y="-391" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11018" ClassName="EP9_1_18" MapName="f_gele_57_3" Episode="EP9_1" Coordinate_X="54" Coordinate_Y="-316" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11019" ClassName="EP9_1_19" MapName="f_bracken_63_2" Episode="EP9_1" Coordinate_X="506" Coordinate_Y="47" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11020" ClassName="EP9_1_20" MapName="d_catacomb_80_1" Episode="EP9_1" Coordinate_X="-365" Coordinate_Y="-106" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11021" ClassName="EP9_1_21" MapName="d_catacomb_80_2" Episode="EP9_1" Coordinate_X="-364" Coordinate_Y="-38" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11022" ClassName="EP9_1_22" MapName="d_catacomb_80_3" Episode="EP9_1" Coordinate_X="-400" Coordinate_Y="20" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+	</Category>
+	<Category Name="EP9_2">
+		<Class ClassID="11101" ClassName="EP9_2_1" MapName="d_fantasylibrary_48_1" Episode="EP9_2" Coordinate_X="68" Coordinate_Y="-23" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_fantasylibrary_48_1"/>
+		<Class ClassID="11102" ClassName="EP9_2_2" MapName="d_fantasylibrary_48_2" Episode="EP9_2" Coordinate_X="68" Coordinate_Y="-23" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_fantasylibrary_48_1"/>
+		<Class ClassID="11103" ClassName="EP9_2_3" MapName="d_fantasylibrary_48_3" Episode="EP9_2" Coordinate_X="68" Coordinate_Y="-23" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_fantasylibrary_48_1"/>
+		<Class ClassID="11104" ClassName="EP9_2_4" MapName="d_fantasylibrary_48_4" Episode="EP9_2" Coordinate_X="68" Coordinate_Y="-23" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_fantasylibrary_48_1"/>
+		<Class ClassID="11105" ClassName="EP9_2_5" MapName="d_fantasylibrary_48_5" Episode="EP9_2" Coordinate_X="68" Coordinate_Y="-23" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_fantasylibrary_48_1"/>
+		<Class ClassID="11106" ClassName="EP9_2_6" MapName="f_whitetrees_21_2" Episode="EP9_2" Coordinate_X="-100" Coordinate_Y="-125" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11107" ClassName="EP9_2_7" MapName="f_whitetrees_21_1" Episode="EP9_2" Coordinate_X="-99" Coordinate_Y="141" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11108" ClassName="EP9_2_8" MapName="f_whitetrees_22_1" Episode="EP9_2" Coordinate_X="-36" Coordinate_Y="-385" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11109" ClassName="EP9_2_9" MapName="f_whitetrees_23_1" Episode="EP9_2" Coordinate_X="-591" Coordinate_Y="110" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP10">
+		<Class ClassID="11201" ClassName="EP10_1" MapName="f_3cmlake_85" Episode="EP10" Coordinate_X="-15" Coordinate_Y="-133" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11202" ClassName="EP10_2" MapName="f_3cmlake_86" Episode="EP10" Coordinate_X="-169" Coordinate_Y="-41" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11203" ClassName="EP10_3" MapName="f_3cmlake_87" Episode="EP10" Coordinate_X="-65" Coordinate_Y="28" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11204" ClassName="EP10_4" MapName="d_startower_88" Episode="EP10" Coordinate_X="92" Coordinate_Y="139" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_startower_88"/>
+		<Class ClassID="11205" ClassName="EP10_5" MapName="d_startower_89" Episode="EP10" Coordinate_X="92" Coordinate_Y="139" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_startower_88"/>
+		<Class ClassID="11206" ClassName="EP10_6" MapName="d_startower_90" Episode="EP10" Coordinate_X="92" Coordinate_Y="139" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_startower_88"/>
+		<Class ClassID="11207" ClassName="EP10_7" MapName="d_startower_91" Episode="EP10" Coordinate_X="92" Coordinate_Y="139" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_startower_88"/>
+		<Class ClassID="11208" ClassName="EP10_8" MapName="d_startower_92" Episode="EP10" Coordinate_X="92" Coordinate_Y="139" TooltipDirection="right" IsInEpisode="YES" DungeonName="d_startower_88"/>
+		<Class ClassID="11209" ClassName="EP10_9" MapName="f_3cmlake_26_1" Episode="EP10" Coordinate_X="-16" Coordinate_Y="-271" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11210" ClassName="EP10_10" MapName="f_3cmlake_26_2" Episode="EP10" Coordinate_X="-176" Coordinate_Y="-220" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11211" ClassName="EP10_11" MapName="f_castle_20_1" Episode="EP10" Coordinate_X="141" Coordinate_Y="-391" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11212" ClassName="EP10_12" MapName="f_castle_93" Episode="EP10" Coordinate_X="570" Coordinate_Y="78" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11213" ClassName="EP10_13" MapName="f_3cmlake_27_1" Episode="EP10" Coordinate_X="-329" Coordinate_Y="442" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP11">
+		<Class ClassID="11301" ClassName="EP11_1_1" MapName="f_3cmlake_27_1" Episode="EP11_1" Coordinate_X="-105" Coordinate_Y="-219" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11302" ClassName="EP11_1_2" MapName="f_3cmlake_27_2" Episode="EP11_1" Coordinate_X="163" Coordinate_Y="6" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11303" ClassName="EP11_1_3" MapName="f_3cmlake_27_3" Episode="EP11_1" Coordinate_X="66" Coordinate_Y="195" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11304" ClassName="EP11_1_4" MapName="f_3cmlake_87" Episode="EP11_1" Coordinate_X="49" Coordinate_Y="-380" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11305" ClassName="EP11_1_5" MapName="f_castle_95" Episode="EP11_1" Coordinate_X="551" Coordinate_Y="-326" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11401" ClassName="EP11_2_1" MapName="f_castle_93" Episode="EP11_2" Coordinate_X="-443" Coordinate_Y="-23" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11402" ClassName="EP11_2_2" MapName="f_castle_94" Episode="EP11_2" Coordinate_X="-284" Coordinate_Y="-104" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11403" ClassName="EP11_2_3" MapName="f_castle_95" Episode="EP11_2" Coordinate_X="-196" Coordinate_Y="119" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11404" ClassName="EP11_2_4" MapName="f_castle_96" Episode="EP11_2" Coordinate_X="64" Coordinate_Y="145" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11405" ClassName="EP11_2_5" MapName="f_castle_98" Episode="EP11_2" Coordinate_X="421" Coordinate_Y="146" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11406" ClassName="EP11_2_6" MapName="d_underaqueduct" Episode="EP11_2" Coordinate_X="68" Coordinate_Y="4" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11407" ClassName="EP11_2_7" MapName="f_castle_20_2" Episode="EP11_2" Coordinate_X="-424" Coordinate_Y="-328" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11408" ClassName="EP11_2_8" MapName="f_castle_20_1" Episode="EP11_2" Coordinate_X="-588" Coordinate_Y="-220" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11409" ClassName="EP11_2_9" MapName="f_3cmlake_87" Episode="EP11_2" Coordinate_X="-669" Coordinate_Y="71" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11410" ClassName="EP11_2_10" MapName="f_3cmlake_27_2" Episode="EP11_2" Coordinate_X="-460" Coordinate_Y="381" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11501" ClassName="EP11_3_1" MapName="f_maple_24_3" Episode="EP11_3" Coordinate_X="-56" Coordinate_Y="-33" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11502" ClassName="EP11_3_2" MapName="f_maple_24_1" Episode="EP11_3" Coordinate_X="-133" Coordinate_Y="-113" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11503" ClassName="EP11_3_3" MapName="f_maple_24_2" Episode="EP11_3" Coordinate_X="-207" Coordinate_Y="-241" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11504" ClassName="EP11_3_4" MapName="f_maple_25_1" Episode="EP11_3" Coordinate_X="-65" Coordinate_Y="390" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11505" ClassName="EP11_3_5" MapName="f_maple_25_2" Episode="EP11_3" Coordinate_X="-234" Coordinate_Y="241" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11506" ClassName="EP11_3_6" MapName="f_maple_25_3" Episode="EP11_3" Coordinate_X="-214" Coordinate_Y="95" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11507" ClassName="EP11_3_7" MapName="id_catacomb_25_4" Episode="EP11_3" Coordinate_X="-308" Coordinate_Y="-8" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11508" ClassName="EP11_3_8" MapName="f_katyn_18" Episode="EP11_3" Coordinate_X="64" Coordinate_Y="250" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11509" ClassName="EP11_3_9" MapName="f_whitetrees_23_1" Episode="EP11_3" Coordinate_X="261" Coordinate_Y="110" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11510" ClassName="EP11_3_10" MapName="f_maple_23_2" Episode="EP11_3" Coordinate_X="138" Coordinate_Y="4" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11511" ClassName="EP11_3_11" MapName="f_whitetrees_23_3" Episode="EP11_3" Coordinate_X="86" Coordinate_Y="-186" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11512" ClassName="EP11_3_12" MapName="f_whitetrees_56_1" Episode="EP11_3" Coordinate_X="354" Coordinate_Y="-391" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11513" ClassName="EP11_3_13" MapName="f_whitetrees_22_2" Episode="EP11_3" Coordinate_X="543" Coordinate_Y="-280" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11514" ClassName="EP11_3_14" MapName="f_whitetrees_21_2" Episode="EP11_3" Coordinate_X="553" Coordinate_Y="10" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11515" ClassName="EP11_3_15" MapName="f_tableland_28_1" Episode="EP11_3" Coordinate_X="-504" Coordinate_Y="189" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="11516" ClassName="EP11_3_16" MapName="f_castle_20_3" Episode="EP11_3" Coordinate_X="-204" Coordinate_Y="468" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="EP12">
+		<Class ClassID="11601" ClassName="EP12_1" MapName="d_castle_19_1" Episode="EP12" Coordinate_X="-396" Coordinate_Y="-65" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11602" ClassName="EP12_2" MapName="f_castle_97" Episode="EP12" Coordinate_X="-302" Coordinate_Y="50" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11603" ClassName="EP12_3" MapName="f_castle_99" Episode="EP12" Coordinate_X="-259" Coordinate_Y="187" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11604" ClassName="EP12_4" MapName="f_castle_102" Episode="EP12" Coordinate_X="-49" Coordinate_Y="154" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11605" ClassName="EP12_5" MapName="f_desolated_capital_53_1" Episode="EP12" Coordinate_X="44" Coordinate_Y="28" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11606" ClassName="EP12_6" MapName="f_dcapital_104" Episode="EP12" Coordinate_X="28" Coordinate_Y="-106" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="11609" ClassName="EP12_9" MapName="f_dcapital_107" Episode="EP12" Coordinate_X="-602" Coordinate_Y="40" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode1">
+		<Class ClassID="20101" ClassName="sub_episode1_1" MapName="id_catacomb_38_2" Episode="sub_episode1" Coordinate_X="-428" Coordinate_Y="-95" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20102" ClassName="sub_episode1_2" MapName="id_catacomb_04" Episode="sub_episode1" Coordinate_X="-175" Coordinate_Y="-179" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20103" ClassName="sub_episode1_3" MapName="id_catacomb_38_1" Episode="sub_episode1" Coordinate_X="-215" Coordinate_Y="80" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20104" ClassName="sub_episode1_4" MapName="id_catacomb_02" Episode="sub_episode1" Coordinate_X="-32" Coordinate_Y="87" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20105" ClassName="sub_episode1_5" MapName="f_remains_37_1" Episode="sub_episode1" Coordinate_X="81" Coordinate_Y="244" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20106" ClassName="sub_episode1_6" MapName="f_remains_37_2" Episode="sub_episode1" Coordinate_X="223" Coordinate_Y="289" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20107" ClassName="sub_episode1_7" MapName="f_remains_37_3" Episode="sub_episode1" Coordinate_X="361" Coordinate_Y="170" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20108" ClassName="sub_episode1_8" MapName="f_nicopolis_81_1" Episode="sub_episode1" Coordinate_X="304" Coordinate_Y="43" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20109" ClassName="sub_episode1_9" MapName="d_thorn_39_3" Episode="sub_episode1" Coordinate_X="-426" Coordinate_Y="370" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20110" ClassName="sub_episode1_10" MapName="f_remains_37" Episode="sub_episode1" Coordinate_X="274" Coordinate_Y="448" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode2">
+		<Class ClassID="20201" ClassName="sub_episode2_1" MapName="f_orchard_34_1" Episode="sub_episode2" Coordinate_X="-133" Coordinate_Y="-160" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20202" ClassName="sub_episode2_2" MapName="f_orchard_34_3" Episode="sub_episode2" Coordinate_X="-213" Coordinate_Y="-55" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20203" ClassName="sub_episode2_3" MapName="f_siauliai_35_1" Episode="sub_episode2" Coordinate_X="-366" Coordinate_Y="21" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20204" ClassName="sub_episode2_4" MapName="f_coral_35_2" Episode="sub_episode2" Coordinate_X="-216" Coordinate_Y="191" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20205" ClassName="sub_episode2_5" MapName="f_coral_32_1" Episode="sub_episode2" Coordinate_X="103" Coordinate_Y="156" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20206" ClassName="sub_episode2_6" MapName="f_coral_32_2" Episode="sub_episode2" Coordinate_X="412" Coordinate_Y="34" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20207" ClassName="sub_episode2_7" MapName="f_pilgrimroad_51" Episode="sub_episode2" Coordinate_X="-451" Coordinate_Y="-352" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20208" ClassName="sub_episode2_8" MapName="d_cathedral_53" Episode="sub_episode2" Coordinate_X="-550" Coordinate_Y="-260" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20209" ClassName="sub_episode2_9" MapName="f_pilgrimroad_36_2" Episode="sub_episode2" Coordinate_X="-624" Coordinate_Y="-153" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20210" ClassName="sub_episode2_10" MapName="d_abbey_35_3" Episode="sub_episode2" Coordinate_X="-485" Coordinate_Y="50" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode3">
+		<Class ClassID="20301" ClassName="sub_episode3_1" MapName="f_castle_20_3" Episode="sub_episode3" Coordinate_X="-143" Coordinate_Y="-94" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20302" ClassName="sub_episode3_2" MapName="f_castle_20_2" Episode="sub_episode3" Coordinate_X="88" Coordinate_Y="130" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20303" ClassName="sub_episode3_3" MapName="f_castle_20_1" Episode="sub_episode3" Coordinate_X="-28" Coordinate_Y="239" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20304" ClassName="sub_episode3_4" MapName="f_castle_20_4" Episode="sub_episode3" Coordinate_X="55" Coordinate_Y="-63" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20305" ClassName="sub_episode3_5" MapName="f_dcapital_20_5" Episode="sub_episode3" Coordinate_X="281" Coordinate_Y="15" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20306" ClassName="sub_episode3_6" MapName="f_dcapital_20_6" Episode="sub_episode3" Coordinate_X="376" Coordinate_Y="145" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20307" ClassName="sub_episode3_7" MapName="f_dcapital_103" Episode="sub_episode3" Coordinate_X="82" Coordinate_Y="-243" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20308" ClassName="sub_episode3_8" MapName="f_maple_25_1" Episode="sub_episode3" Coordinate_X="-127" Coordinate_Y="-408" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20309" ClassName="sub_episode3_9" MapName="f_tableland_74" Episode="sub_episode3" Coordinate_X="-569" Coordinate_Y="-130" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20310" ClassName="sub_episode3_10" MapName="f_dcapital_105" Episode="sub_episode3" Coordinate_X="398" Coordinate_Y="-206" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20311" ClassName="sub_episode3_11" MapName="f_3cmlake_26_1" Episode="sub_episode3" Coordinate_X="-240" Coordinate_Y="348" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20312" ClassName="sub_episode3_12" MapName="f_castle_93" Episode="sub_episode3" Coordinate_X="269" Coordinate_Y="442" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20313" ClassName="sub_episode3_13" MapName="f_castle_94" Episode="sub_episode3" Coordinate_X="414" Coordinate_Y="303" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode4">
+		<Class ClassID="20401" ClassName="sub_episode4_1" MapName="f_bracken_43_1" Episode="sub_episode4" Coordinate_X="-388" Coordinate_Y="-170" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20402" ClassName="sub_episode4_2" MapName="f_bracken_43_2" Episode="sub_episode4" Coordinate_X="-189" Coordinate_Y="-20" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20403" ClassName="sub_episode4_3" MapName="f_bracken_43_3" Episode="sub_episode4" Coordinate_X="-346" Coordinate_Y="102" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20404" ClassName="sub_episode4_4" MapName="f_bracken_43_4" Episode="sub_episode4" Coordinate_X="-436" Coordinate_Y="-26" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20405" ClassName="sub_episode4_5" MapName="d_limestonecave_55_1" Episode="sub_episode4" Coordinate_X="-193" Coordinate_Y="256" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20406" ClassName="sub_episode4_6" MapName="f_coral_44_1" Episode="sub_episode4" Coordinate_X="-16" Coordinate_Y="147" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20407" ClassName="sub_episode4_7" MapName="f_coral_44_2" Episode="sub_episode4" Coordinate_X="191" Coordinate_Y="61" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20408" ClassName="sub_episode4_8" MapName="f_coral_44_3" Episode="sub_episode4" Coordinate_X="336" Coordinate_Y="-55" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20409" ClassName="sub_episode4_9" MapName="d_abbey_35_4" Episode="sub_episode4" Coordinate_X="-117" Coordinate_Y="-367" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20410" ClassName="sub_episode4_10" MapName="f_3cmlake_83" Episode="sub_episode4" Coordinate_X="-594" Coordinate_Y="-235" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode5">
+		<Class ClassID="20501" ClassName="sub_episode5_1" MapName="f_whitetrees_22_1" Episode="sub_episode5" Coordinate_X="-9" Coordinate_Y="294" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20502" ClassName="sub_episode5_2" MapName="f_whitetrees_22_2" Episode="sub_episode5" Coordinate_X="-133" Coordinate_Y="180" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20503" ClassName="sub_episode5_3" MapName="f_whitetrees_22_3" Episode="sub_episode5" Coordinate_X="-93" Coordinate_Y="50" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20504" ClassName="sub_episode5_4" MapName="d_abbey_22_4" Episode="sub_episode5" Coordinate_X="90" Coordinate_Y="-68" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20505" ClassName="sub_episode5_5" MapName="d_abbey_22_5" Episode="sub_episode5" Coordinate_X="-26" Coordinate_Y="-194" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20506" ClassName="sub_episode5_6" MapName="f_whitetrees_56_1" Episode="sub_episode5" Coordinate_X="-284" Coordinate_Y="-55" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20507" ClassName="sub_episode5_7" MapName="f_whitetrees_23_3" Episode="sub_episode5" Coordinate_X="-539" Coordinate_Y="300" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20508" ClassName="sub_episode5_8" MapName="f_whitetrees_23_1" Episode="sub_episode5" Coordinate_X="-331" Coordinate_Y="428" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20509" ClassName="sub_episode5_9" MapName="f_whitetrees_21_2" Episode="sub_episode5" Coordinate_X="9" Coordinate_Y="418" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode6">
+		<Class ClassID="20601" ClassName="sub_episode6_1" MapName="f_nicopolis_81_1" Episode="sub_episode6" Coordinate_X="-80" Coordinate_Y="191" TooltipDirection="left" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20602" ClassName="sub_episode6_2" MapName="f_nicopolis_81_2" Episode="sub_episode6" Coordinate_X="108" Coordinate_Y="85" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20603" ClassName="sub_episode6_3" MapName="f_nicopolis_81_3" Episode="sub_episode6" Coordinate_X="55" Coordinate_Y="-107" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20604" ClassName="sub_episode6_4" MapName="d_irredians_113_1" Episode="sub_episode6" Coordinate_X="-181" Coordinate_Y="-293" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20605" ClassName="sub_episode6_5" MapName="f_remains_37_3" Episode="sub_episode6" Coordinate_X="142" Coordinate_Y="441" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+	<Category Name="sub_episode7">
+		<Class ClassID="20701" ClassName="sub_episode7_1" MapName="f_dcapital_105" Episode="sub_episode7" Coordinate_X="-177" Coordinate_Y="0" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20702" ClassName="sub_episode7_2" MapName="f_dcapital_106" Episode="sub_episode7" Coordinate_X="31" Coordinate_Y="63" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20703" ClassName="sub_episode7_3" MapName="f_dcapital_107" Episode="sub_episode7" Coordinate_X="209" Coordinate_Y="-102" TooltipDirection="right" IsInEpisode="YES" DungeonName="None"/>
+		<Class ClassID="20704" ClassName="sub_episode7_4" MapName="f_dcapital_103" Episode="sub_episode7" Coordinate_X="-460" Coordinate_Y="110" TooltipDirection="right" IsInEpisode="NO" DungeonName="None"/>
+		<Class ClassID="20705" ClassName="sub_episode7_5" MapName="d_castle_19_1" Episode="sub_episode7" Coordinate_X="530" Coordinate_Y="-18" TooltipDirection="left" IsInEpisode="NO" DungeonName="None"/>
+	</Category>
+</idspace>

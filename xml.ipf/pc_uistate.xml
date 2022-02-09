@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="PC">
+	<Category>
+		<Name>PC</Name>
+		<Class ClassID="2" ClassName="PC" inventory_NT="1" status_NT="1" skillvan_NT="1" sysmenu_NT="1" quest_NT="1" quickslotnexpbar_NT="1" map_NT="1" minimap_NT="1" targetinfo_NT="1" targetbuff_NT="1" monsterbaseinfo_NT="1" changejobbutton_NT="1"/>
+	</Category>
+</idspace>

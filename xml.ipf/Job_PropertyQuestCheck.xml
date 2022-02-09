@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Job_PropertyQuestCheck">
+	<Category>
+		<Class ClassID="1" JobStep="1" JobName="Char1_1" QuestProperty="M2_SWORD_TECH_05" CheckValue="300"/>
+		<Class ClassID="2" JobStep="1" JobName="Char2_1" QuestProperty="M2_WIZARD_TECH_05" CheckValue="300"/>
+		<Class ClassID="3" JobStep="1" JobName="Char3_1" QuestProperty="M2_ARCHER_TECH_05" CheckValue="300"/>
+		<Class ClassID="4" JobStep="1" JobName="Char4_1" QuestProperty="M2_CLERIC_TECH_05" CheckValue="300"/>
+	</Category>
+</idspace>

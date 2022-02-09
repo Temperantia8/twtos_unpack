@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- shop.xml의 상점 이름과 같아야 함,-->
+<idspace id="repairableshoplist">
+	<Category>
+		<Class ClassID="1" ClassName="PC_Shop" RepairAble="true"/>
+		<Class ClassID="2" ClassName="Klapeda_Weapon" RepairAble="false"/>
+		<Class ClassID="3" ClassName="Klapeda_Armor" RepairAble="false"/>
+		<Class ClassID="4" ClassName="Klapeda_Misc" RepairAble="false"/>
+		<Class ClassID="5" ClassName="Klapeda_Accessory" RepairAble="false"/>
+		<Class ClassID="6" ClassName="Klapeda_Recipe_Equip" RepairAble="false"/>
+		<Class ClassID="7" ClassName="Siauliai_15_Equip" RepairAble="false"/>
+		<Class ClassID="8" ClassName="ROKAS27_Equip" RepairAble="false"/>
+	</Category>
+</idspace>

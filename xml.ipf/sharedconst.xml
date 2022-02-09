@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="SharedConst">
+	<Category Name="Battle">
+		<Class ClassID="1" ClassName="USE_SKL_READY" Value="1" Desc="게임내에서 스킬레디를 사용함" UseInScript="NO"/>
+		<Class ClassID="2" ClassName="USE_LAG_DELAY" Value="0" Desc="패킷이 오기전까지 스킬레디를 않함" UseInScript="NO"/>
+		<Class ClassID="3" ClassName="OVERKILL_EXP_RATIO" Value="0" Desc="오버킬 경험치 획득량 (0~2)" UseInScript="NO"/>
+		<Class ClassID="4" ClassName="TARGET_ANGLE_SCORE" Value="-8000" Desc="자동타겟시 각도의 중요도 (-10000~-1000)" UseInScript="NO"/>
+		<Class ClassID="5" ClassName="TARGET_DIST_SCORE" Value="-100" Desc="자동타겟시 거리의 중요도 (-100~-1000)" UseInScript="NO"/>
+		<Class ClassID="6" ClassName="TARGET_HEIGHT_SCORE" Value="-300" Desc="자동타겟시 높이의 중요도 (-100~-1000)" UseInScript="NO"/>
+		<Class ClassID="7" ClassName="TARGET_LOOK_DIST" Value="150" Desc="타겟을 쳐다보는 거리(100~200)" UseInScript="NO"/>
+		<Class ClassID="8" ClassName="TARGET_DECAL_MOVE_SPD" Value="200" Desc="키보드 타겟시에 데칼 이동속도" UseInScript="NO"/>
+		<Class ClassID="9" ClassName="KDRANK_RESET_TIME" Value="5000" Desc="넉다운 랭크 리셋시간" UseInScript="NO"/>
+		<Class ClassID="10" ClassName="SKILL_COMBO_TIME" Value="5000" Desc="스킬콤보시간" UseInScript="YES"/>
+		<Class ClassID="11" ClassName="COMBO_SHOT_COUNT" Value="3" Desc="최소콤보개수" UseInScript="NO"/>
+		<Class ClassID="12" ClassName="HITEFFECT_DEAD_POWER" Value="100" Desc="적을 죽였을 때 파편날라가는 보너스 파워" UseInScript="NO"/>
+		<Class ClassID="13" ClassName="SPLASH_MAX_HIT" Value="7" Desc="스플래쉬 최고 히트개수" UseInScript="NO"/>
+		<Class ClassID="14" ClassName="GUARD_COUNTER_TIME" Value="1" Desc="반격가능 타임" UseInScript="NO"/>
+		<Class ClassID="15" ClassName="BATTLE_STATE_TIME" Value="10" Desc="전투상태 유지시간" UseInScript="NO"/>
+		<Class ClassID="16" ClassName="JUST_FRAME_TOLERANCE" Value="0.1" Desc="HIT 이후 저스트 프레임 캔슬 허용시간" UseInScript="NO"/>
+		<Class ClassID="17" ClassName="USE_MOVE_ACCEL" Value="0" Desc="PC가 이동시에 가속도를 사용하는가" UseInScript="NO"/>
+		<Class ClassID="18" ClassName="SKILL_CANCLE_COOLTIME" Value="500" Desc="스킬 캔슬 재사용시간 설정, 시간 단위 : ms (테스트용)" UseInScript="NO"/>
+		<Class ClassID="19" ClassName="AIMING_BUFF_RATE" Value="0.7" Desc="에이밍 비율" UseInScript="NO"/>
+		<Class ClassID="20" ClassName="MAX_MESSAGE_NUM_PER_FRAME" Value="10" Desc="한 프레임에 처리 가능한 최대 대미지 메세지 수. 0이면 제한 없음." UseInScript="NO"/>
+		<Class ClassID="21" ClassName="MAX_DAMAGE" Value="10000000" Desc="최대 대미지" UseInScript="YES"/>
+		<Class ClassID="22" ClassName="OVER_MAX_DAMAGE" Value="11000000" Desc="최대 대미지에서 오버될 수 있는 대미지" UseInScript="YES"/>
+		<Class ClassID="23" ClassName="SUMMON_FINAL_DAMAGE_RATE" Value="0.25" Desc="소환수 최종 대미지 레이트" UseInScript="YES"/>
+		<Class ClassID="24" ClassName="SUMMON_DAMAGE_RATE_AMPLIFY" Value="2" Desc="소환수 대미지 레이트 증폭값" UseInScript="YES"/>
+	</Category>
+	<Category Name="ServerPC">
+		<Class ClassID="100" ClassName="PC_INIT_INVINCIBLE_TIME" Value="60000" Desc="PC최초 접속시 무적시간" UseInScript="NO"/>
+		<Class ClassID="101" ClassName="PC_WARP_INVINCIBLE_TIME" Value="10000" Desc="PC Warp (SetPos등) 무적시간" UseInScript="NO"/>
+		<Class ClassID="102" ClassName="PC_MAX_LEVEL" Value="450" Desc="플레이어의 최대 레벨" UseInScript="YES"/>
+		<Class ClassID="103" ClassName="COMPANION_MAX_LEVEL" Value="450" Desc="컴패니언의 최대 레벨" UseInScript="YES"/>
+		<Class ClassID="104" ClassName="BASIC_CLASS_MAX_LEVEL" Value="15" Desc="기본 클래스의 최대 레벨" UseInScript="YES"/>
+		<Class ClassID="105" ClassName="CLASS_MAX_LEVEL" Value="45" Desc="일반 클래스의 최대 레벨" UseInScript="YES"/>
+	</Category>
+	<Category Name="Item">
+		<Class ClassID="170" ClassName="OPT_COUNT" Value="5" Desc="옵션 최대개수" UseInScript="YES"/>
+		<Class ClassID="171" ClassName="SKT_COUNT" Value="10" Desc="소켓 최대개수" UseInScript="YES"/>
+		<Class ClassID="172" ClassName="ITEM_FLY_SPEED" Value="300" Desc="아이템 빨려들어오는속도" UseInScript="NO"/>
+		<Class ClassID="173" ClassName="ITEM_FLY_EASING" Value="1" Desc="아이템 빨려들어오는가속도" UseInScript="YES"/>
+		<Class ClassID="174" ClassName="ITEM_MEMO_LEN" Value="50" Desc="아이템 메모 최대길이" UseInScript="YES"/>
+		<Class ClassID="175" ClassName="RECIPE_ITEM_NAME_LEN" Value="10" Desc="제작 아이템 이름 최대길이" UseInScript="YES"/>
+		<Class ClassID="176" ClassName="MAGICAMULET_SKT_COUNT" Value="3" Desc="매직어뮬렛 소켓 최대개수" UseInScript="YES"/>
+		<Class ClassID="177" ClassName="WAREHOUSE_PRICE" Value="20" Desc="창고 이용비용" UseInScript="YES"/>
+		<Class ClassID="178" ClassName="RECIPE_SELLPRICE_RATE" Value="0.5" Desc="레시피 판매 비율" UseInScript="NO"/>
+		<Class ClassID="179" ClassName="RECIPE_PRICE_RATE" Value="0.5" Desc="레시피 구입 비율" UseInScript="NO"/>
+		<Class ClassID="180" ClassName="SOLD_ITEM_MAX_VIEW_COUNT" Value="10" Desc="SoldItemMaxViewCount" UseInScript="NO"/>
+		<Class ClassID="181" ClassName="USER_MAX_MONEY_COUNT" Value="200000000" Desc="이거안씀 item.xml에있는 maxcnt따라감" UseInScript="NO"/>
+		<Class ClassID="182" ClassName="MIC_LEVEL_LIMIT" Value="0" Desc="마이크 레벨 제한" UseInScript="NO"/>
+		<Class ClassID="183" ClassName="INDUN_MULTIPLE_USE_MAX_COUNT" Value="3" Desc="인던 배수권 사용 맥스 카운트" UseInScript="YES"/>
+		<Class ClassID="184" ClassName="VALID_DUP_GEM_CNT" Value="5" Desc="일반 젬 중복 적용가능한 숫자" UseInScript="YES"/>
+		<Class ClassID="185" ClassName="MAX_ABILITY_POINT" Value="100000000" Desc="최대 특성 포인트" UseInScript="YES"/>
+		<Class ClassID="189" ClassName="MAXDUR_DECREASE_POINT_PER_RANDOM_RESET" Value="0" Desc="아이템 랜덤리셋할때마다 줄어드는 MAXDUR 정도" UseInScript="YES"/>
+		<Class ClassID="190" ClassName="MONSTER_CARD_SLOT_COUNT_PER_TYPE" Value="3" Desc="타입별 몬스터카드 슬롯 수" UseInScript="YES"/>
+		<Class ClassID="191" ClassName="MAX_NORMAL_MONSTER_CARD_SLOT_COUNT" Value="12" Desc="일반 몬스터카드 최대 슬롯 개수" UseInScript="YES"/>
+		<Class ClassID="192" ClassName="CONSUME_TP_WHEN_UNEQUIP_MONSTER_CARD" Value="5" Desc="몬스터카드 뺄때 소모되는 TP" UseInScript="YES"/>
+		<Class ClassID="193" ClassName="MAX_RANDOM_OPTION_COUNT" Value="6" Desc="아이템 재감정에서 최대 보여지는 옵션 개수" UseInScript="YES"/>
+		<Class ClassID="194" ClassName="JUNK_SILVER_GACHA_BUY_COUNT_RESET_HOUR" Value="6" Desc="일일 젬 가챠 누적 횟수가 초기화되는 시간" UseInScript="YES"/>
+		<Class ClassID="195" ClassName="LEGEND_CARD_SLOT_COUNT" Value="1" Desc="레전드 카드 슬롯수" UseInScript="YES"/>
+		<Class ClassID="196" ClassName="CONSUME_SILVER_WHEN_UNEQUIP_MONSTER_CARD" Value="2000" Desc="일반 몬스터카드 뺄때 등급 떨어지지않으려면 별당 소모되는 실버" UseInScript="YES"/>
+		<Class ClassID="197" ClassName="CONSUME_SILVER_WHEN_UNEQUIP_LEGEND_CARD" Value="10000" Desc="전설 몬스터카드 뺄때 등급 떨어지지않으려면 별당 소모되는 실버" UseInScript="YES"/>
+		<Class ClassID="198" ClassName="MAX_OPTION_EXTRACT_COUNT" Value="6" Desc="아이템 옵션 추출 UI 에서 보여지는 최대 옵션 개수" UseInScript="YES"/>
+		<Class ClassID="199" ClassName="MAX_RECIPE_MATERIAL_COUNT" Value="5" Desc="제작서 제작 재료 최대 개수" UseInScript="YES"/>
+	</Category>
+	<Category Name="System">
+		<Class ClassID="207" ClassName="RANK_RESET_HOUR" Value="6" Desc="일일 랭킹 리셋시간" UseInScript="YES"/>
+		<Class ClassID="208" ClassName="RANK_RESET_DAY" Value="5" Desc="주간 랭킹 리셋 요일" UseInScript="NO"/>
+		<Class ClassID="245" ClassName="JAEDDURY_GOLD_RATE" Value="1" Desc="드랍된 골드량을 조종." UseInScript="YES"/>
+		<Class ClassID="246" ClassName="JAEDDURY_DROP_ITEM_RATE" Value="1" Desc="아이템 드랍율을 조종." UseInScript="YES"/>
+		<Class ClassID="247" ClassName="JAEDDURY_ZONE_ITEM_RATE" Value="1" Desc="존 드랍율을 뒤에서 조종." UseInScript="YES"/>
+		<Class ClassID="249" ClassName="JAEDDURY_BOSSDROP_RATE" Value="1" Desc="보스 드랍율을 조종." UseInScript="YES"/>
+		<Class ClassID="251" ClassName="JAEDDURY_MON_EXP_RATE" Value="0" Desc="몬스터 경험치을 조종." UseInScript="YES"/>
+		<Class ClassID="252" ClassName="JAEDDURY_MON_MHP_RATE" Value="1" Desc="몬스터 체력을 조종." UseInScript="YES"/>
+		<Class ClassID="253" ClassName="JAEDDURY_MON_ATK_RATE" Value="1" Desc="몬스터의 공격력을 조종." UseInScript="YES"/>
+		<Class ClassID="254" ClassName="JAEDDURY_MON_DEF_RATE" Value="1" Desc="몬스터의 방어력을 조종." UseInScript="YES"/>
+		<Class ClassID="255" ClassName="JAEDDURY_DPK" Value="1" Desc="DPK조절" UseInScript="YES"/>
+		<Class ClassID="257" ClassName="JAEDDURY_NEXON_PC_EXP_RATE" Value="0" Desc="넥슨 PC방 추가 경험치" UseInScript="YES"/>
+		<Class ClassID="258" ClassName="COMPANION_EXP_RATE" Value="0.13" Desc="컴패니언 경험치율" UseInScript="NO"/>
+		<Class ClassID="259" ClassName="GUILD_REJOIN_CHECK_TIME" Value="7" Desc="길드 재가입 시, 패널티 여부를 체크하는 기간" UseInScript="NO"/>
+		<Class ClassID="260" ClassName="GUILD_BATTLE_NEXT_JOINABLE_TIME" Value="7" Desc="길드 재가입 후, 길드배틀 참여를 제한하는 기간" UseInScript="NO"/>
+		<Class ClassID="261" ClassName="GUILD_MAX_LEVEL" Value="20" Desc="길드의 최대 레벨" UseInScript="YES"/>
+		<Class ClassID="262" ClassName="GROUPCHAT_MAX_USER_CNT" Value="20" Desc="그룹 채팅에 참여 가능한 최대 인원수" UseInScript="YES"/>
+		<Class ClassID="263" ClassName="GROUPCHAT_MAX_CNT" Value="150" Desc="한 유저가 소유 가능한 최대 그룹 채팅 갯수" UseInScript="NO"/>
+		<Class ClassID="264" ClassName="SILVER_BY_ONE_ABILITY_POINT" Value="1000" Desc="특성 포인트 하나를 구매하기 위한 실버" UseInScript="YES"/>
+		<Class ClassID="265" ClassName="MIN_LEVEL_FOR_GUILD_TASK" Value="40" Desc="길드 관련 작업을 할 수 있는 최소 레벨" UseInScript="YES"/>
+		<Class ClassID="266" ClassName="MIN_LEVEL_FOR_GUILD_NEUTRALITY" Value="2" Desc="길드 중립 선포 가능한 최소 길드 레벨" UseInScript="YES"/>
+		<Class ClassID="267" ClassName="UPHILL_RANKING_RESET_DAY_OF_WEEK" Value="3" Desc="업힐 디펜스 랭킹 초기화 요일" UseInScript="NO"/>
+		<Class ClassID="268" ClassName="UPHILL_RANKING_RESET_HOUR" Value="0" Desc="업힐 디펜스 랭킹 초기화 시간" UseInScript="NO"/>
+		<Class ClassID="270" ClassName="JAEDDURY_NEXON_PC_PARTY_EXP_RATE" Value="0" Desc="넥슨 PC방 파티 추가 경험치" UseInScript="YES"/>
+		<Class ClassID="271" ClassName="ABILITY_POINT_EXTRACTOR_FEE" Value="100000" Desc="특성 포인트 추출 수수료" UseInScript="YES"/>
+		<Class ClassID="272" ClassName="ABILITY_POINT_SCROLL_RATE" Value="1000" Desc="특성 포인트 스크롤 교환 비율" UseInScript="YES"/>
+		<Class ClassID="273" ClassName="ENABLE_GUILD_REJOIN_CHECK_TIME" Value="0" Desc="길드 재가입 시, 패널티 체크 여부(YES:1 or NO:0)" UseInScript="NO"/>
+		<Class ClassID="274" ClassName="CLIENT_MOVE_SYNC_NEW" Value="0" Desc="수정된 이동 동기화 사용(YES:1 or NO:0)" UseInScript="NO"/>
+		<Class ClassID="275" ClassName="CHALLENGE_MODE_RESET_HOUR" Value="6" Desc="챌린지 모드 입장 횟수 초기화 시간" UseInScript="YES"/>
+		<Class ClassID="276" ClassName="ANCIENT_MON_EXP_RATE" Value="1" Desc="트켓몬 경험치율" UseInScript="NO"/>
+		<Class ClassID="277" ClassName="ANCIENT_CARD_SLOT_MAX" Value="30" Desc="트켓몬 최대 보유 수" UseInScript="YES"/>
+		<Class ClassID="278" ClassName="WEEKLY_BOSS_EXIT_TIME" Value="5" Desc="주간보스 포기 대기 시간(초)" UseInScript="YES"/>
+		<Class ClassID="279" ClassName="TOKEN_WARP_COOLTIME" Value="300" Desc="토큰이동 대기 시간(초)" UseInScript="YES"/>
+	</Category>
+	<Category Name="SilverLimit">
+		<Class ClassID="500" ClassName="REGISTER_SILVER_LIMIT" Value="1000000000" Desc="등록 금액 제한" UseInScript="YES"/>
+		<Class ClassID="502" ClassName="MAX_GUILD_ASSET_DEPOSIT_AMOUNT" Value="1000000000" Desc="길드 자금 입금 최대 금액" UseInScript="YES"/>
+	</Category>
+	<Category Name="Premium">
+		<Class ClassID="10001" ClassName="MAX_FREE_TP" Value="5" Desc="무료로 제공하는 TP 최대 개수" UseInScript="YES"/>
+		<Class ClassID="10002" ClassName="FREE_RESPECT_TIME" Value="3600" Desc="무료로 롤백할 수 있는 제한 시간" UseInScript="YES"/>
+		<Class ClassID="10003" ClassName="CHARGE_FREE_TP_TIME" Value="7200" Desc="7200초(2시간)마다 무료TP 충전" UseInScript="YES"/>
+		<Class ClassID="10004" ClassName="WAREHOUSE_EXTEND_PRICE" Value="20" Desc="창고 확장 가격" UseInScript="YES"/>
+		<!-- AUTOSELLER_SILVER_FEE: 소수점 사용하니까 0.7일때 100원에 대하여 69원이 들어오길래 정수로 바꿨습니다. 코드에서 사용하실 때에는 반드시 / 100 해주세요. 현재 사용중인 코드에는 제가 다 작업해뒀으니, %단위라고 생각하시고 정수 값 써주시면 됩니당. -->
+		<Class ClassID="10005" ClassName="AUTOSELLER_SILVER_FEE" Value="70" Desc="상점 스킬들 실버 수수료 제외한 비율(%)" UseInScript="YES"/>
+		<Class ClassID="10006" ClassName="WAREHOUSE_EXTEND_SLOT_COUNT" Value="10" Desc="개인 창고 한 번 확장할 때 늘어나는 개수" UseInScript="YES"/>
+		<Class ClassID="10007" ClassName="CHANGE_FAMILY_NAME_TP" Value="150" Desc="팀 이름 변경시 소비될 TP" UseInScript="YES"/>
+		<Class ClassID="10008" ClassName="CHANGE_CAHR_NAME_TP" Value="9" Desc="캐릭터 이름 변경시 소비될 TP" UseInScript="YES"/>
+		<Class ClassID="10010" ClassName="WAREHOUSE_MAX_COUNT" Value="5" Desc="창고 최대 확장 횟수" UseInScript="YES"/>
+		<Class ClassID="10011" ClassName="NEED_INDUN_MIN_TP" Value="3" Desc="인던 초기 사용 TP" UseInScript="YES"/>
+		<Class ClassID="10012" ClassName="ACCOUNT_WAREHOUSE_EXTEND_PRICE" Value="200000" Desc="팀창고 한번 확장할 때 가격" UseInScript="YES"/>
+		<Class ClassID="10013" ClassName="ACCOUNT_WAREHOUSE_MAX_EXTEND_COUNT" Value="9" Desc="팀창고 최대 확장 가능 횟수" UseInScript="YES"/>
+		<Class ClassID="10014" ClassName="APPRRISE_MAX_UNIT_MONEY" Value="1000" Desc="PC 감정 상점 최대 입력 가능한 금액" UseInScript="YES"/>
+		<Class ClassID="10015" ClassName="ADDITIONAL_SLOT_COUNT_BY_TOKEN" Value="30" Desc="토큰 상태일 때 추가되는 팀창고 슬롯 개수" UseInScript="YES"/>
+		<Class ClassID="10016" ClassName="VALVE_PURCHASESTATUS_ACTIVE_MONTHLY_PREMIUM_TP_SPENDLIMIT" Value="500" Desc="결제 한도" UseInScript="YES"/>
+		<Class ClassID="10017" ClassName="CHANGE_PET_NAME_TP" Value="9" Desc="컴패니언 이름 변경시 소비될 TP" UseInScript="YES"/>
+		<Class ClassID="10018" ClassName="NEXON_PC_EXP_RATE" Value="0.5" Desc="넥슨 PC방 기본 혜택 경험치" UseInScript="NO"/>
+		<Class ClassID="10019" ClassName="TOKEN_BENEFIT_EXPUP" Value="50" Desc="토큰 경험치 추가혜택(%)_한국. 그외 국가는 아직 데이타 안빠져있음. 이 값을 참조해서 고치세요" UseInScript="NO"/>
+		<Class ClassID="10020" ClassName="NEXON_PC_PARTY_EXP_RATE" Value="0.5" Desc="넥슨 PC방 파티원 혜택 경험치" UseInScript="YES"/>
+		<Class ClassID="10021" ClassName="ACCOUNT_WAREHOUSE_LIMIT_LEVEL" Value="15" Desc="팀창고 이용 가능 레벨" UseInScript="NO"/>
+		<Class ClassID="10022" ClassName="USE_STEAM_PURCHASE_BLOCK" Value="0" Desc="TP 구매제한 여부[1:제한사용, 0:사용안함]" UseInScript="YES"/>
+	</Category>
+	<Category Name="Fishing">
+		<Class ClassID="10100" ClassName="MAX_FISHING_ITEM_BAG_SLOT_COUNT" Value="20" Desc="살림통 슬롯 최대 개수" UseInScript="YES"/>
+		<Class ClassID="10101" ClassName="FISHING_SLOT_EXPAND_UNIT" Value="5" Desc="살림통 업그레이드시 추가되는 슬롯의 개수" UseInScript="YES"/>
+		<Class ClassID="10102" ClassName="FISHING_UPDATE_INTERVAL" Value="5000" Desc="낚시 업데이트 주기. 단위는 ms" UseInScript="YES"/>
+		<Class ClassID="10104" ClassName="FISHING_COUNT_RESET_TIME" Value="6" Desc="낚시 횟수 초기화 시간. 0~23(시)" UseInScript="NO"/>
+		<Class ClassID="10105" ClassName="GOLDEN_FISH_EXP_RATE" Value="50" Desc="황금 어장 이벤트 발동시 적용될 추가 경험치(%)" UseInScript="YES"/>
+		<Class ClassID="10106" ClassName="FISHING_TIME_SAVE_INTERVAL_MIN" Value="10" Desc="낚시 시간 저장 주기(분)" UseInScript="NO"/>
+		<Class ClassID="10107" ClassName="FISHING_MAX_RANK" Value="10" Desc="낚시 랭킹 최대 등수" UseInScript="NO"/>
+		<Class ClassID="10108" ClassName="FISHING_RANK_RESET_TIME" Value="6" Desc="낚시 랭킹 초기화 시간(0~23)" UseInScript="NO"/>
+		<Class ClassID="10109" ClassName="FISHING_RANK_RESET_DAYOFWEEK" Value="5" Desc="낚시 랭킹 초기화 요일(1일~7토)" UseInScript="NO"/>
+		<Class ClassID="10110" ClassName="FISH_RUBBING_MAX_RANK" Value="10" Desc="탁본 랭킹 최대 등수" UseInScript="NO"/>
+	</Category>
+	<Category Name="ColonyWar">
+		<Class ClassID="10200" ClassName="COLONY_REWARD_DAY" Value="3" Desc="콜로니전 보상 지급 요일. 1(일)~7(토)" UseInScript="YES"/>
+		<Class ClassID="10201" ClassName="COLONY_REWARD_HOUR" Value="6" Desc="콜로니전 보상 지급 시간. 0~23(시)" UseInScript="YES"/>
+		<Class ClassID="10202" ClassName="MAX_COLONY_REWARD_SILVER" Value="2.5" Desc="콜로니전 보상 지급 상한선 실버(억)" UseInScript="YES"/>
+		<Class ClassID="10203" ClassName="COLONY_EXIT_TIME" Value="30" Desc="콜로니전 지역에서 로그아웃 대기 시간(초)" UseInScript="YES"/>
+	</Category>
+	<Category Name="MonsterCardBook">
+		<Class ClassID="10300" ClassName="MAX_CARDBOOKMONSTER_COUNT_IN_ZONE" Value="5" Desc="존 내에 몬스터카드북으로 소환된 보스몹의 최대 수" UseInScript="YES"/>
+	</Category>
+	<Category Name="PCBang">
+		<Class ClassID="10400" ClassName="PCBANG_POINT_TIME_EXCHANGE_RATE" Value="100" Desc="모인 시간과 몇 PC방 포인트를 교환할지" UseInScript="YES"/>
+		<Class ClassID="10401" ClassName="PCBANG_CONNECT_REWARD_CRITERION_HOUR" Value="0" Desc="PC방 접속 보상 지급 기준 시각" UseInScript="YES"/>
+		<Class ClassID="10402" ClassName="PCBANG_POINT_MAX_VALUE" Value="20000" Desc="PC방 포인트 최대치" UseInScript="YES"/>
+		<Class ClassID="10403" ClassName="ENABLE_USE_PCBANG_POINT_SHOP_EVERYBODY" Value="0" Desc="PC방 포인트샵을 모든 유저가 사용 가능하게 할지." UseInScript="YES"/>
+	</Category>
+	<Category Name="SoloDungeon">
+		<Class ClassID="10500" ClassName="SOLO_DUNGEON_MAX_RANK" Value="10" Desc="1인던전 랭킹 최대 등수" UseInScript="YES"/>
+		<Class ClassID="10501" ClassName="SOLO_DUNGEON_RESET_DAY_OF_WEEK" Value="1" Desc="1인 던전 주간 초기화 요일(wDayOfWeek)" UseInScript="YES"/>
+		<Class ClassID="10502" ClassName="SOLO_DUNGEON_RESET_HOUR" Value="6" Desc="1인 던전 주간 초기화 시간" UseInScript="YES"/>
+		<Class ClassID="10503" ClassName="SOLO_DUNGEON_REWARD_DELAY_HOUR" Value="3" Desc="1인 던전 주간 보상 지급 지연 시간" UseInScript="YES"/>
+		<Class ClassID="10504" ClassName="SOLO_DUNGEON_PERMANENT_MAX_RANK" Value="100" Desc="1인던전 통합 랭킹 최대 등수" UseInScript="YES"/>
+		<Class ClassID="10505" ClassName="SOLO_DUNGEON_MAX_RANK_FOR_REWARD" Value="3" Desc="1인던전 랭킹 보상 지급 최대 등수" UseInScript="YES"/>
+	</Category>
+	<Category Name="Housing">
+		<Class ClassID="10600" ClassName="HOUSING_GUILDMILEAGE_TO_CONTRIBUTION_CONVERSION_RATIO" Value="10" Desc="길드 마일리지를 기여도로 전환 비율" UseInScript="YES"/>
+		<Class ClassID="10601" ClassName="HOUSING_CONTRIBUTION_TO_GUILDMILEAGE_CONVERSION_RATIO" Value="1" Desc="기여도를 길드 마일리지로 전환 비율" UseInScript="YES"/>
+		<Class ClassID="10602" ClassName="HOUSING_GUILDMILEAGE_TO_HOUSING_POINT" Value="5" Desc="길드 마일리지를 하우징 포인트로 전환 비율" UseInScript="YES"/>
+	</Category>
+	<Category Name="contents_abillityPoint">
+		<Class ClassID="10700" ClassName="LegendRaid" Value="1" Desc="레전드 레이드 클리어시 지급 특성 포인트" UseInScript="YES"/>
+		<Class ClassID="10701" ClassName="UphillDefense" Value="2" Desc="업힐 디펜스 클리어시 지급 특성 포인트" UseInScript="YES"/>
+		<Class ClassID="10702" ClassName="SaalusMission" Value="5" Desc="살러스 수녀원 클리어시 지급 특성 포인트" UseInScript="YES"/>
+		<Class ClassID="10703" ClassName="DailyQuest" Value="5" Desc="일일 퀘스트 클리어시 지급 특성 포인트" UseInScript="YES"/>
+	</Category>
+	<Category Name="action">
+		<Class ClassID="10800" ClassName="BACK_POS_DISTANCE" Value="3" Desc="Hidden Wall 충돌시 뒤로 물러나는 거리 설정" UseInScript="YES"/>
+		<Class ClassID="10801" ClassName="VIEW_RESET_DISTANCE" Value="525" Desc="위치 이동시 View Reset 시키는 거리 설정(PC_VIEW_RANGE * 1.5f)" UseInScript="YES"/>
+	</Category>
+	<Category Name="event_steam_new_server">
+		<Class ClassID="10900" ClassName="EVENT_NEW_SEASON_SERVER_COIN_MAX_COUNT" Value="600" Desc="이벤트 기간동안 유저가 획득할 수 있는 코인 수량" UseInScript="YES"/>
+		<Class ClassID="10901" ClassName="EVENT_NEW_SEASON_SERVER_DAY_PLAY_TIME_VALUE" Value="60" Desc="1일 접속 코인 주는 시간 (분)" UseInScript="YES"/>
+		<Class ClassID="10902" ClassName="EVENT_NEW_SEASON_SERVER_DAY_PLAY_TIME_COIN_COUNT" Value="2" Desc="1일 접속 시간 달성시 주는 코인 수량" UseInScript="YES"/>
+		<Class ClassID="10903" ClassName="EVENT_NEW_SEASON_SERVER_STAMP_TOUR_MAX_COUNT" Value="36" Desc="스탬프 투어 목표 진행률" UseInScript="YES"/>
+		<Class ClassID="10904" ClassName="EVENT_NEW_SEASON_SERVER_STAMP_TOUR_CLEAR_COIN_COUNT" Value="10" Desc="스탬프 투어 목표 달성시 주는 코인 수량" UseInScript="YES"/>
+		<Class ClassID="10905" ClassName="EVENT_NEW_SEASON_SERVER_CONTENT_MISSION_MAX_COUNT" Value="36" Desc="콘텐츠 미션 진행률" UseInScript="YES"/>
+		<Class ClassID="10906" ClassName="EVENT_NEW_SEASON_SERVER_ROULETTE_MAX_COUNT" Value="60" Desc="룰렛 사용 가능 횟수" UseInScript="YES"/>
+	</Category>
+	<Category Name="goddess_roulette_korea">
+		<Class ClassID="11000" ClassName="GODDESS_ROULETTE_COIN_MAX_COUNT" Value="2000" Desc="이벤트 기간동안 유저가 획득할 수 있는 코인 수량" UseInScript="YES"/>
+		<Class ClassID="11001" ClassName="GODDESS_ROULETTE_DAILY_PLAY_TIME_VALUE" Value="60" Desc="1일 접속 코인 주는 시간 (분)" UseInScript="YES"/>
+		<Class ClassID="11002" ClassName="GODDESS_ROULETTE_DAILY_PLAY_TIME_COIN_COUNT" Value="5" Desc="1일 접속 시간 달성시 주는 코인 수량" UseInScript="YES"/>
+		<Class ClassID="11003" ClassName="GODDESS_ROULETTE_STAMP_TOUR_MAX_COUNT" Value="33" Desc="스탬프 투어 목표 진행률" UseInScript="YES"/>
+		<Class ClassID="11004" ClassName="GODDESS_ROULETTE_STAMP_TOUR_CLEAR_COIN_COUNT" Value="10" Desc="스탬프 투어 목표 달성시 주는 코인 수량" UseInScript="YES"/>
+		<Class ClassID="11005" ClassName="GODDESS_ROULETTE_DAILY_CONTENTS_MAX_COIN_COUNT" Value="20" Desc="1일 콘텐츠 미션 획득 가능 코인 수량" UseInScript="YES"/>
+		<Class ClassID="11006" ClassName="GODDESS_ROULETTE_MAX_COUNT" Value="150" Desc="룰렛 사용 가능 횟수" UseInScript="YES"/>
+	</Category>
+</idspace>

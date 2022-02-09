@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="ItemGroupEffect">
+	<Category>
+		<Class ClassID="15" ClassName="Consume" EnterEffect="None"/>
+		<Class ClassID="16" ClassName="SkillBook" EnterEffect="None"/>
+		<Class ClassID="17" ClassName="Misc" EnterEffect="None"/>
+		<Class ClassID="18" ClassName="Quest" EnterEffect="None"/>
+		<Class ClassID="19" ClassName="Money" EnterEffect="None"/>
+		<Class ClassID="20" ClassName="ItemBox" EnterEffect="None"/>
+		<Class ClassID="21" ClassName="Sign" EnterEffect="None"/>
+		<Class ClassID="22" ClassName="Weapon" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="23" ClassName="Hat" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="24" ClassName="Shirt" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="25" ClassName="Outer" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="26" ClassName="Pants" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="27" ClassName="Gloves" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="28" ClassName="Boots" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="29" ClassName="Ring" EnterEffect="F_item_drop_violet"/>
+		<Class ClassID="30" ClassName="Armor" EnterEffect="F_item_drop_violet"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Jung (IMCGames Co., Ltd) -->

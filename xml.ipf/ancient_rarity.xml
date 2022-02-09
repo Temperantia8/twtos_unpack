@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by asdasd (IMCGames Co., Ltd) -->
+<idspace id="Ancient_Rarity">
+	<Category Name="Ancient_Rarity">
+		<Class ClassID="1" ClassName="Normal" Rarity="1" CT_Cost="1" CT_Probability_TypeA="70" CT_Probability_TypeB="70" CT_AtkRate="1" CT_DefRate="1" CT_HPRate="1"/>
+		<Class ClassID="2" ClassName="Magic" Rarity="2" CT_Cost="2" CT_Probability_TypeA="25" CT_Probability_TypeB="25" CT_AtkRate="1.15" CT_DefRate="1.15" CT_HPRate="1.15"/>
+		<Class ClassID="3" ClassName="Unique" Rarity="3" CT_Cost="3" CT_Probability_TypeA="4" CT_Probability_TypeB="4" CT_AtkRate="1.3" CT_DefRate="1.3" CT_HPRate="1.3"/>
+		<Class ClassID="4" ClassName="Legend" Rarity="4" CT_Cost="4" CT_Probability_TypeA="1" CT_Probability_TypeB="1" CT_AtkRate="1.45" CT_DefRate="1.45" CT_HPRate="1.45"/>
+	</Category>
+</idspace>

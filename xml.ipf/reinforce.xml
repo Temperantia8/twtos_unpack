@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Reinforce">
+	<Class ClassID="1" ClassName="Card" SlotSkin="invenslot2" SlotWidth="60" SlotHeight="60" SlotSpaceX="3" SlotSpaceY="3" MaterialScript="SCR_CHECK_CARD_MATERIAL"/>
+	<Class ClassID="2" ClassName="Gem" SlotSkin="invenslot2" SlotWidth="60" SlotHeight="60" SlotSpaceX="3" SlotSpaceY="3" MaterialScript="SCR_CHECK_GEM_MATERIAL"/>
+	<Class ClassID="3" ClassName="Hethran" SlotSkin="invenslot2" SlotWidth="60" SlotHeight="60" SlotSpaceX="3" SlotSpaceY="3" MaterialScript="SCR_CHECK_HETHRAN_MATERIAL"/>
+	<Class ClassID="4" ClassName="ReinForceCard" SlotSkin="invenslot2" SlotWidth="60" SlotHeight="60" SlotSpaceX="3" SlotSpaceY="3" MaterialScript="SCR_CHECK_REINFORCE_CARD_MATERIAL"/>
+	<Class ClassID="5" ClassName="LegendCard" SlotSkin="invenslot2" SlotWidth="60" SlotHeight="60" SlotSpaceX="3" SlotSpaceY="3" MaterialScript="SCR_CHECK_LEGEND_CARD_MATERIAL"/>
+</idspace>

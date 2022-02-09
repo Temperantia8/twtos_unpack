@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Beauty_Shop_Preview_Leticia">
+	<Category Name="레티샤 상품 입어보기">
+		<SecondCategory Name="헬멧">
+			<Class ClassID="1" ClassName="EP12_helmet_m_ep12demonlord" Category="None" Gender="M" ItemClassName="EP12_helmet_m_ep12demonlord" EquipType="wig" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="2" ClassName="EP12_helmet_f_ep12demonlord" Category="None" Gender="F" ItemClassName="EP12_helmet_f_ep12demonlord" EquipType="wig" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="코스튬(남)">
+			<Class ClassID="11" ClassName="EP12_costume_Com_078" Category="None" Gender="M" ItemClassName="EP12_costume_Com_078" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="12" ClassName="EP12_costume_Com_080" Category="None" Gender="M" ItemClassName="EP12_costume_Com_080" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="코스튬(여)">
+			<Class ClassID="21" ClassName="EP12_costume_Com_079" Category="None" Gender="F" ItemClassName="EP12_costume_Com_079" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="22" ClassName="EP12_costume_Com_081" Category="None" Gender="F" ItemClassName="EP12_costume_Com_081" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="코스튬(남여 공용)"/>
+		<SecondCategory Name="인형(구 페어리)"/>
+		<SecondCategory Name="외형 변경 장비">
+			<Class ClassID="31" ClassName="EP12_Artefact_097" Category="None" Gender="None" ItemClassName="EP12_Artefact_097" EquipType="weapon" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="32" ClassName="EP12_Artefact_098" Category="None" Gender="None" ItemClassName="EP12_Artefact_098" EquipType="weapon" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="33" ClassName="EP12_Artefact_099" Category="None" Gender="None" ItemClassName="EP12_Artefact_099" EquipType="weapon" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="등 코스튬"/>
+		<SecondCategory Name="이펙트 코스튬"/>
+		<SecondCategory Name="헤어 액세서리">
+			<Class ClassID="71" ClassName="EP12_Hat_048" Category="None" Gender="None" ItemClassName="EP12_Hat_048" EquipType="hair_costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="72" ClassName="EP12_Hat_049" Category="None" Gender="None" ItemClassName="EP12_Hat_049" EquipType="hair_costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-17 00:00:00" SellEndTime="2020-12-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+	</Category>
+</idspace>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="GuildExp">
+	<Category Name="Guild">
+		<Class ClassID="1" ClassName="1" Exp="0" Desc="None"/>
+		<Class ClassID="2" ClassName="2" Exp="1000" Desc="특성 포인트 획득"/>
+		<Class ClassID="3" ClassName="3" Exp="2500" Desc="특성 포인트 획득"/>
+		<Class ClassID="4" ClassName="4" Exp="5000" Desc="특성 포인트 획득"/>
+		<Class ClassID="5" ClassName="5" Exp="9000" Desc="특성 포인트 획득"/>
+		<Class ClassID="6" ClassName="6" Exp="17720" Desc="특성 포인트 획득"/>
+		<Class ClassID="7" ClassName="7" Exp="31960" Desc="특성 포인트 획득"/>
+		<Class ClassID="8" ClassName="8" Exp="58140" Desc="특성 포인트 획득"/>
+		<Class ClassID="9" ClassName="9" Exp="95720" Desc="특성 포인트 획득"/>
+		<Class ClassID="10" ClassName="10" Exp="149660" Desc="특성 포인트 획득"/>
+		<Class ClassID="11" ClassName="11" Exp="227060" Desc="특성 포인트 획득"/>
+		<Class ClassID="12" ClassName="12" Exp="338140" Desc="특성 포인트 획득"/>
+		<Class ClassID="13" ClassName="13" Exp="497540" Desc="특성 포인트 획득"/>
+		<Class ClassID="14" ClassName="14" Exp="726280" Desc="특성 포인트 획득"/>
+		<Class ClassID="15" ClassName="15" Exp="1054520" Desc="특성 포인트 획득"/>
+		<Class ClassID="16" ClassName="16" Exp="2109040" Desc="특성 포인트 획득"/>
+		<Class ClassID="17" ClassName="17" Exp="4218080" Desc="특성 포인트 획득"/>
+		<Class ClassID="18" ClassName="18" Exp="8436160" Desc="특성 포인트 획득"/>
+		<Class ClassID="19" ClassName="19" Exp="16872320" Desc="특성 포인트 획득"/>
+		<Class ClassID="20" ClassName="20" Exp="33744640" Desc="특성 포인트 획득"/>
+	</Category>
+</idspace>

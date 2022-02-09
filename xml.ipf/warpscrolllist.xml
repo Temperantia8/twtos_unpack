@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- 워프스크롤인지 아닌지 판단하기 위해. 새로운 워프 스크롤이 추가된다면 여기에 등록하고 사용해야 함 -->
+<idspace id="warpscrolllist">
+	<Category>
+		<Class ClassID="1" ClassName="Scroll_WarpKlaipe"/>
+    <Class ClassID="2" ClassName="Scroll_Warp_quest"/>
+    <Class ClassID="3" ClassName="Premium_WarpScroll"/>
+    <Class ClassID="4" ClassName="Premium_WarpScroll_14d"/>
+	</Category>
+</idspace>

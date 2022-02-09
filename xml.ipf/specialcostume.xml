@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="SpecialCostume">
+	<Category>
+<Class ClassID="1" ClassName="SpecialCostume_1" Group="costume_Char4_20_04" SpecialItem="SpecialCostume_Zealot" ChangeCostume="costume_Char4_20_04_sp"/>
+		<Class ClassID="2" ClassName="SpecialCostume_2" Group="costume_Char3_18" SpecialItem="SpecialCostume_BulletMarker" ChangeCostume="costume_Char3_18_sp"/>
+		<Class ClassID="3" ClassName="SpecialCostume_3" Group="costume_Char3_18_02" SpecialItem="SpecialCostume_BulletMarker" ChangeCostume="costume_Char3_18_02_sp"/>
+		<Class ClassID="4" ClassName="SpecialCostume_4" Group="costume_Char3_18_03" SpecialItem="SpecialCostume_BulletMarker" ChangeCostume="costume_Char3_18_03_sp"/>
+		<Class ClassID="5" ClassName="SpecialCostume_5" Group="costume_Char3_18_04" SpecialItem="SpecialCostume_BulletMarker" ChangeCostume="costume_Char3_18_04_sp"/>
+		<Class ClassID="6" ClassName="SpecialCostume_6" Group="costume_Char1_19" SpecialItem="SpecialCostume_Matador" ChangeCostume="costume_Char1_19_sp"/>
+		<Class ClassID="7" ClassName="SpecialCostume_7" Group="costume_Char1_19_2" SpecialItem="SpecialCostume_Matador" ChangeCostume="costume_Char1_19_2_sp"/>
+		<Class ClassID="8" ClassName="SpecialCostume_8" Group="costume_Char1_19_3" SpecialItem="SpecialCostume_Matador" ChangeCostume="costume_Char1_19_3_sp"/>
+		<Class ClassID="9" ClassName="SpecialCostume_9" Group="costume_Char1_19_4" SpecialItem="SpecialCostume_Matador" ChangeCostume="costume_Char1_19_4_sp"/>
+		<Class ClassID="10" ClassName="SpecialCostume_10" Group="costume_Char2_19" SpecialItem="SpecialCostume_ShadowMancer" ChangeCostume="costume_Char2_19_sp"/>
+		<Class ClassID="11" ClassName="SpecialCostume_11" Group="costume_Char2_19_02" SpecialItem="SpecialCostume_ShadowMancer" ChangeCostume="costume_Char2_19_02_sp"/>
+		<Class ClassID="12" ClassName="SpecialCostume_12" Group="costume_Char2_19_03" SpecialItem="SpecialCostume_ShadowMancer" ChangeCostume="costume_Char2_19_03_sp"/>
+		<Class ClassID="13" ClassName="SpecialCostume_13" Group="costume_Char2_19_04" SpecialItem="SpecialCostume_ShadowMancer" ChangeCostume="costume_Char2_19_04_sp"/>
+		<Class ClassID="14" ClassName="SpecialCostume_14" Group="costume_Char4_20" SpecialItem="SpecialCostume_Zealot" ChangeCostume="costume_Char4_20_sp"/>
+		<Class ClassID="15" ClassName="SpecialCostume_15" Group="costume_Char4_20_02" SpecialItem="SpecialCostume_Zealot" ChangeCostume="costume_Char4_20_02_sp"/>
+		<Class ClassID="16" ClassName="SpecialCostume_16" Group="costume_Char4_20_03" SpecialItem="SpecialCostume_Zealot" ChangeCostume="costume_Char4_20_03_sp"/>
+		<Class ClassID="17" ClassName="SpecialCostume_17" Group="costume_Char1_18_1" SpecialItem="SpecialCostume_Retiarii" ChangeCostume="costume_Char1_18_1_sp"/>
+		<Class ClassID="18" ClassName="SpecialCostume_18" Group="costume_Char1_18_2" SpecialItem="SpecialCostume_Retiarii" ChangeCostume="costume_Char1_18_2_sp"/>
+		<Class ClassID="19" ClassName="SpecialCostume_19" Group="costume_Char1_18_3" SpecialItem="SpecialCostume_Retiarii" ChangeCostume="costume_Char1_18_3_sp"/>
+	<Class ClassID="20" ClassName="SpecialCostume_20" Group="costume_Char2_20_01" SpecialItem="SpecialCostume_Onmyoji" ChangeCostume="costume_Char2_20_01_sp"/>
+		<Class ClassID="21" ClassName="SpecialCostume_21" Group="costume_Char2_20_02" SpecialItem="SpecialCostume_Onmyoji" ChangeCostume="costume_Char2_20_02_sp"/>
+		<Class ClassID="22" ClassName="SpecialCostume_22" Group="costume_Char2_20_03" SpecialItem="SpecialCostume_Onmyoji" ChangeCostume="costume_Char2_20_03_sp"/>
+		<Class ClassID="23" ClassName="SpecialCostume_23" Group="costume_Char2_20_04" SpecialItem="SpecialCostume_Onmyoji" ChangeCostume="costume_Char2_20_04_sp"/>
+		<Class ClassID="24" ClassName="SpecialCostume_24" Group="costume_Char2_20_05" SpecialItem="SpecialCostume_Onmyoji" ChangeCostume="costume_Char2_20_04_sp"/>
+		<Class ClassID="25" ClassName="SpecialCostume_25" Group="costume_Char2_20_06" SpecialItem="SpecialCostume_Onmyoji" ChangeCostume="costume_Char2_20_04_sp"/>
+		<Class ClassID="26" ClassName="SpecialCostume_26" Group="costume_Char1_18_4" SpecialItem="SpecialCostume_Retiarii" ChangeCostume="costume_Char1_18_4_sp"/>
+		<Class ClassID="27" ClassName="SpecialCostume_27" Group="costume_Char1_18_5" SpecialItem="SpecialCostume_Retiarii" ChangeCostume="costume_Char1_18_4_sp"/>
+		<Class ClassID="28" ClassName="SpecialCostume_28" Group="costume_Char1_18_6" SpecialItem="SpecialCostume_Retiarii" ChangeCostume="costume_Char1_18_4_sp"/>
+		<Class ClassID="29" ClassName="SpecialCostume_29" Group="costume_Char1_19_5" SpecialItem="SpecialCostume_Matador" ChangeCostume="costume_Char1_19_4_sp"/>
+		<Class ClassID="30" ClassName="SpecialCostume_30" Group="costume_Char2_19_05" SpecialItem="SpecialCostume_ShadowMancer" ChangeCostume="costume_Char2_19_04_sp"/>
+		<Class ClassID="31" ClassName="SpecialCostume_31" Group="costume_Char3_18_05" SpecialItem="SpecialCostume_BulletMarker" ChangeCostume="costume_Char3_18_04_sp"/>
+		<Class ClassID="32" ClassName="SpecialCostume_32" Group="costume_Char4_20_05" SpecialItem="SpecialCostume_Zealot" ChangeCostume="costume_Char4_20_04_sp"/>
+		<Class ClassID="33" ClassName="SpecialCostume_33" Group="costume_exorcist01" SpecialItem="SpecialCostume_Exorcist" ChangeCostume="costume_exorcist01_sp"/>
+		<Class ClassID="34" ClassName="SpecialCostume_34" Group="costume_exorcist02" SpecialItem="SpecialCostume_Exorcist" ChangeCostume="costume_exorcist02_sp"/>
+		<Class ClassID="35" ClassName="SpecialCostume_35" Group="costume_exorcist02_red" SpecialItem="SpecialCostume_Exorcist" ChangeCostume="costume_exorcist02_red_sp"/>
+		<Class ClassID="36" ClassName="SpecialCostume_36" Group="costume_exorcist03" SpecialItem="SpecialCostume_Exorcist" ChangeCostume="costume_exorcist03_sp"/>
+		<Class ClassID="37" ClassName="SpecialCostume_37" Group="costume_Char3_12_01" SpecialItem="SpecialCostume_PiedPiper" ChangeCostume="costume_Char3_12_01_sp"/>
+		<Class ClassID="38" ClassName="SpecialCostume_38" Group="costume_Char3_12_02" SpecialItem="SpecialCostume_PiedPiper" ChangeCostume="costume_Char3_12_02_sp"/>
+		<Class ClassID="39" ClassName="SpecialCostume_39" Group="costume_Char3_12_03" SpecialItem="SpecialCostume_PiedPiper" ChangeCostume="costume_Char3_12_03_sp"/>
+		<Class ClassID="40" ClassName="SpecialCostume_40" Group="costume_Char3_12_04" SpecialItem="SpecialCostume_PiedPiper" ChangeCostume="costume_Char3_12_04_sp"/>
+		<Class ClassID="41" ClassName="SpecialCostume_41" Group="costume_exorcist04" SpecialItem="SpecialCostume_Exorcist" ChangeCostume="costume_exorcist03_sp"/>
+		<Class ClassID="42" ClassName="SpecialCostume_42" Group="costume_exorcist05" SpecialItem="SpecialCostume_Exorcist" ChangeCostume="costume_exorcist03_sp"/>
+		<Class ClassID="43" ClassName="SpecialCostume_43" Group="costume_Char3_12_05" SpecialItem="SpecialCostume_PiedPiper" ChangeCostume="costume_Char3_12_04_sp"/>
+		<Class ClassID="44" ClassName="SpecialCostume_44" Group="costume_Char3_12_06" SpecialItem="SpecialCostume_PiedPiper" ChangeCostume="costume_Char3_12_04_sp"/>
+		<Class ClassID="45" ClassName="SpecialCostume_45" Group="costume_sct_001" SpecialItem="SpecialCostume_Outlaw" ChangeCostume="costume_sct_001sp"/>
+		<Class ClassID="46" ClassName="SpecialCostume_46" Group="costume_sct_002" SpecialItem="SpecialCostume_Outlaw" ChangeCostume="costume_sct_002sp"/>
+		<Class ClassID="47" ClassName="SpecialCostume_47" Group="costume_sct_003" SpecialItem="SpecialCostume_Outlaw" ChangeCostume="costume_sct_003sp"/>
+		<Class ClassID="48" ClassName="SpecialCostume_48" Group="costume_sct_004" SpecialItem="SpecialCostume_Outlaw" ChangeCostume="costume_sct_004sp"/>
+		<Class ClassID="49" ClassName="SpecialCostume_49" Group="costume_Char3_19_01" SpecialItem="SpecialCostume_sanpo" ChangeCostume="costume_Char3_19_sp"/>
+		<Class ClassID="50" ClassName="SpecialCostume_50" Group="costume_Char3_19_02" SpecialItem="SpecialCostume_sanpo" ChangeCostume="costume_Char3_19_sp_02"/>
+		<Class ClassID="51" ClassName="SpecialCostume_51" Group="costume_Char3_19_02_Evnet" SpecialItem="SpecialCostume_sanpo" ChangeCostume="costume_Char3_19_sp_02"/>
+		<Class ClassID="52" ClassName="SpecialCostume_52" Group="costume_Char3_18_MAT_02_Evnet" SpecialItem="SpecialCostume_mat" ChangeCostume="costume_Char3_18_MAT_sp_02"/>
+		<Class ClassID="53" ClassName="SpecialCostume_53" Group="costume_Char3_18_MAT_01" SpecialItem="SpecialCostume_mat" ChangeCostume="costume_Char3_18_MAT_sp"/>
+		<Class ClassID="54" ClassName="SpecialCostume_54" Group="costume_Char3_18_MAT_02" SpecialItem="SpecialCostume_mat" ChangeCostume="costume_Char3_18_MAT_sp_02"/>
+		<Class ClassID="55" ClassName="SpecialCostume_55" Group="costume_Char5_13_01" SpecialItem="SpecialCostume_ardit" ChangeCostume="costume_Char5_13_sp"/>
+		<Class ClassID="56" ClassName="SpecialCostume_56" Group="costume_Char5_13_02" SpecialItem="SpecialCostume_ardit" ChangeCostume="costume_Char5_13_sp_02"/>
+		<Class ClassID="57" ClassName="SpecialCostume_57" Group="costume_Char5_13_02_Event" SpecialItem="SpecialCostume_ardit" ChangeCostume="costume_Char5_13_sp_02"/>
+		<Class ClassID="58" ClassName="SpecialCostume_58" Group="costume_Char5_14_01" SpecialItem="SpecialCostume_serip" ChangeCostume="costume_Char5_14_sp"/>
+		<Class ClassID="59" ClassName="SpecialCostume_59" Group="costume_Char5_14_02" SpecialItem="SpecialCostume_serip" ChangeCostume="costume_Char5_14_sp_02"/>
+		<Class ClassID="60" ClassName="SpecialCostume_60" Group="costume_Char5_14_02_Event" SpecialItem="SpecialCostume_serip" ChangeCostume="costume_Char5_14_sp_02"/>
+		<Class ClassID="61" ClassName="SpecialCostume_61" Group="costume_sct_014" SpecialItem="SpecialCostume_Outlaw" ChangeCostume="costume_sct_004sp"/>
+		<Class ClassID="62" ClassName="SpecialCostume_62" Group="costume_sct_015" SpecialItem="SpecialCostume_Outlaw" ChangeCostume="costume_sct_004sp"/>
+	</Category>
+</idspace>

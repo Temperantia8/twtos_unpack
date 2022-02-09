@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="ItemTranscend">
+	<Category>
+		<Class ClassID="1" ClassName="1" Silver="20000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="10" DefRatio="10" MdefRatio="10" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="2" ClassName="2" Silver="40000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="20" DefRatio="20" MdefRatio="20" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="3" ClassName="3" Silver="60000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="30" DefRatio="30" MdefRatio="30" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="4" ClassName="4" Silver="80000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="40" DefRatio="40" MdefRatio="40" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="5" ClassName="5" Silver="100000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="50" DefRatio="50" MdefRatio="50" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="6" ClassName="6" Silver="120000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="60" DefRatio="60" MdefRatio="60" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="7" ClassName="7" Silver="140000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="70" DefRatio="70" MdefRatio="70" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="8" ClassName="8" Silver="160000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="80" DefRatio="80" MdefRatio="80" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="9" ClassName="9" Silver="180000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="90" DefRatio="90" MdefRatio="90" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+		<Class ClassID="10" ClassName="10" Silver="200000" WeaponItemCount="None" ArmorItemCount="None" AccesoryItemCount="None" SubArmorItemCount="None" AtkRatio="100" DefRatio="100" MdefRatio="100" HrRatio="None" DrRatio="None" MhrRatio="None" MhpRatio="None"/>
+	</Category>
+</idspace>

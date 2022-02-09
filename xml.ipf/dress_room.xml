@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+ClassName - Account Property Name
+Thema     - 해당 아이템의 카테고리, UI 그릴때 카테고리로 활용
+ItemClassName - 아이템화할 아이템 이름
+-->
+<idspace id="dress_room">  
+  <!-- 10월 8일 ~ 11월 5일 -->
+	<Class ClassID="1" ClassName="dress_honored_rose_1" Thema="honored_rose_thema" ItemClassName="EP12_costume_Com_037" />
+  <Class ClassID="2" ClassName="dress_honored_rose_2" Thema="honored_rose_thema" ItemClassName="EP12_costume_Com_040" />
+  <Class ClassID="3" ClassName="dress_honored_rose_3" Thema="honored_rose_thema" ItemClassName="EP12_costume_Com_043" />
+  <Class ClassID="4" ClassName="dress_honored_rose_4" Thema="honored_rose_thema" ItemClassName="EP12_costume_Com_046" />
+  <Class ClassID="5" ClassName="dress_honored_rose_5" Thema="honored_rose_thema" ItemClassName="EP12_costume_Com_049" />
+  <Class ClassID="6" ClassName="dress_honored_rose_6" Thema="honored_rose_thema" ItemClassName="EP12_costume_Com_052" />
+  <Class ClassID="7" ClassName="dress_curtain_call_1" Thema="curtain_call_thema" ItemClassName="EP12_costume_Com_072" />
+  <Class ClassID="8" ClassName="dress_curtain_call_2" Thema="curtain_call_thema" ItemClassName="EP12_costume_Com_073" />
+  <Class ClassID="9" ClassName="dress_curtain_call_3" Thema="curtain_call_thema" ItemClassName="EP12_costume_Com_074" />
+  <Class ClassID="10" ClassName="dress_curtain_call_4" Thema="curtain_call_thema" ItemClassName="EP12_costume_Com_075" />
+  <Class ClassID="11" ClassName="dress_curtain_call_5" Thema="curtain_call_thema" ItemClassName="EP12_costume_Com_076" />
+  <Class ClassID="12" ClassName="dress_curtain_call_6" Thema="curtain_call_thema" ItemClassName="EP12_costume_Com_077" />
+  <!-- 11월 5일 ~ 12월 3일 -->
+  <!-- 12월 3일 ~ 12월 31일 -->  
+</idspace>

@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="reward_indun">
+	<category Name="Cube-ID type">
+		<subcategory Name="Cube-ID_Lastboss_Manticen">
+			<Class ClassID="101" Group="ID_Lastboss_Manticen" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="102" Group="ID_Lastboss_Manticen" ItemName="misc_talt"/>
+			<Class ClassID="103" Group="ID_Lastboss_Manticen" ItemName="card_Manticen"/>
+			<Class ClassID="104" Group="ID_Lastboss_Manticen" ItemName="R_TSW03_105"/>
+			<Class ClassID="105" Group="ID_Lastboss_Manticen" ItemName="R_BOW03_103"/>
+			<Class ClassID="106" Group="ID_Lastboss_Manticen" ItemName="R_TBW03_104"/>
+			<Class ClassID="107" Group="ID_Lastboss_Manticen" ItemName="R_MAC03_103"/>
+			<Class ClassID="108" Group="ID_Lastboss_Manticen" ItemName="R_BOW04_101"/>
+			<Class ClassID="109" Group="ID_Lastboss_Manticen" ItemName="R_PST04_101"/>
+			<Class ClassID="110" Group="ID_Lastboss_Manticen" ItemName="R_TSW03_114"/>
+			<Class ClassID="111" Group="ID_Lastboss_Manticen" ItemName="R_STF03_111"/>
+			<Class ClassID="112" Group="ID_Lastboss_Manticen" ItemName="R_TBW03_112"/>
+			<Class ClassID="113" Group="ID_Lastboss_Manticen" ItemName="R_SPR03_109"/>
+			<Class ClassID="114" Group="ID_Lastboss_Manticen" ItemName="R_SWD04_106"/>
+			<Class ClassID="115" Group="ID_Lastboss_Manticen" ItemName="R_TSF04_106"/>
+			<Class ClassID="116" Group="ID_Lastboss_Manticen" ItemName="R_BOW04_106"/>
+			<Class ClassID="117" Group="ID_Lastboss_Manticen" ItemName="R_MAC04_108"/>
+			<Class ClassID="118" Group="ID_Lastboss_Manticen" ItemName="R_TSP04_107"/>
+			<Class ClassID="119" Group="ID_Lastboss_Manticen" ItemName="R_RAP04_103"/>
+			<Class ClassID="120" Group="ID_Lastboss_Manticen" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="121" Group="ID_Lastboss_Manticen" ItemName="R_SWD02_140"/>
+			<Class ClassID="122" Group="ID_Lastboss_Manticen" ItemName="R_TSW02_136"/>
+			<Class ClassID="123" Group="ID_Lastboss_Manticen" ItemName="R_TBW02_138"/>
+			<Class ClassID="124" Group="ID_Lastboss_Manticen" ItemName="R_BOW02_134"/>
+			<Class ClassID="125" Group="ID_Lastboss_Manticen" ItemName="R_MAC02_137"/>
+			<Class ClassID="126" Group="ID_Lastboss_Manticen" ItemName="R_SPR02_132"/>
+			<Class ClassID="127" Group="ID_Lastboss_Manticen" ItemName="R_TSP02_127"/>
+			<Class ClassID="128" Group="ID_Lastboss_Manticen" ItemName="R_TSF02_135"/>
+			<Class ClassID="129" Group="ID_Lastboss_Manticen" ItemName="R_RAP02_108"/>
+			<Class ClassID="130" Group="ID_Lastboss_Manticen" ItemName="R_MUS02_103"/>
+			<Class ClassID="131" Group="ID_Lastboss_Manticen" ItemName="R_RAP02_108"/>
+			<Class ClassID="132" Group="ID_Lastboss_Manticen" ItemName="R_MUS02_103"/>
+			<Class ClassID="133" Group="ID_Lastboss_Manticen" ItemName="R_STF02_135"/>
+			<Class ClassID="134" Group="ID_Lastboss_Manticen" ItemName="R_PST02_105"/>
+			<Class ClassID="135" Group="ID_Lastboss_Manticen" ItemName="R_CAN02_103"/>
+			<Class ClassID="136" Group="ID_Lastboss_Manticen" ItemName="R_SHD02_119"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_ShadowGaoler">
+			<Class ClassID="201" Group="ID_boss_ShadowGaoler" ItemName="misc_talt"/>
+			<Class ClassID="202" Group="ID_boss_ShadowGaoler" ItemName="card_ShadowGaoler"/>
+			<Class ClassID="203" Group="ID_boss_ShadowGaoler" ItemName="misc_silverbar"/>
+			<Class ClassID="204" Group="ID_boss_ShadowGaoler" ItemName="misc_goldbar"/>
+			<Class ClassID="205" Group="ID_boss_ShadowGaoler" ItemName="misc_jore04"/>
+			<Class ClassID="206" Group="ID_boss_ShadowGaoler" ItemName="misc_jore17"/>
+			<Class ClassID="207" Group="ID_boss_ShadowGaoler" ItemName="SWD02_106"/>
+			<Class ClassID="208" Group="ID_boss_ShadowGaoler" ItemName="SWD02_107"/>
+			<Class ClassID="209" Group="ID_boss_ShadowGaoler" ItemName="STF02_102"/>
+			<Class ClassID="210" Group="ID_boss_ShadowGaoler" ItemName="TBW02_102"/>
+			<Class ClassID="211" Group="ID_boss_ShadowGaoler" ItemName="BOW02_102"/>
+			<Class ClassID="212" Group="ID_boss_ShadowGaoler" ItemName="MAC02_101"/>
+			<Class ClassID="213" Group="ID_boss_ShadowGaoler" ItemName="SHD02_113"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Lastboss_Fireload">
+			<Class ClassID="301" Group="ID_Lastboss_Fireload" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="302" Group="ID_Lastboss_Fireload" ItemName="misc_talt"/>
+			<Class ClassID="303" Group="ID_Lastboss_Fireload" ItemName="card_Fireload"/>
+			<Class ClassID="304" Group="ID_Lastboss_Fireload" ItemName="misc_ore05"/>
+			<Class ClassID="305" Group="ID_Lastboss_Fireload" ItemName="MAC02_109"/>
+			<Class ClassID="306" Group="ID_Lastboss_Fireload" ItemName="R_NECK04_102"/>
+			<Class ClassID="307" Group="ID_Lastboss_Fireload" ItemName="R_BRC04_101"/>
+			<Class ClassID="308" Group="ID_Lastboss_Fireload" ItemName="misc_jore18"/>
+			<Class ClassID="309" Group="ID_Lastboss_Fireload" ItemName="misc_jore08"/>
+			<Class ClassID="310" Group="ID_Lastboss_Fireload" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="311" Group="ID_Lastboss_Fireload" ItemName="SWD02_138"/>
+			<Class ClassID="312" Group="ID_Lastboss_Fireload" ItemName="TSW02_134"/>
+			<Class ClassID="313" Group="ID_Lastboss_Fireload" ItemName="STF02_133"/>
+			<Class ClassID="314" Group="ID_Lastboss_Fireload" ItemName="TBW02_136"/>
+			<Class ClassID="315" Group="ID_Lastboss_Fireload" ItemName="BOW02_132"/>
+			<Class ClassID="316" Group="ID_Lastboss_Fireload" ItemName="MAC02_135"/>
+			<Class ClassID="317" Group="ID_Lastboss_Fireload" ItemName="SHD02_118"/>
+			<Class ClassID="318" Group="ID_Lastboss_Fireload" ItemName="SPR02_130"/>
+			<Class ClassID="319" Group="ID_Lastboss_Fireload" ItemName="TSP02_125"/>
+			<Class ClassID="320" Group="ID_Lastboss_Fireload" ItemName="TSF02_133"/>
+			<Class ClassID="321" Group="ID_Lastboss_Fireload" ItemName="PST02_105"/>
+			<Class ClassID="322" Group="ID_Lastboss_Fireload" ItemName="RAP02_106"/>
+			<Class ClassID="323" Group="ID_Lastboss_Fireload" ItemName="CAN01_105"/>
+			<Class ClassID="324" Group="ID_Lastboss_Fireload" ItemName="R_SWD02_140"/>
+			<Class ClassID="325" Group="ID_Lastboss_Fireload" ItemName="R_TSW02_136"/>
+			<Class ClassID="326" Group="ID_Lastboss_Fireload" ItemName="R_TBW02_138"/>
+			<Class ClassID="327" Group="ID_Lastboss_Fireload" ItemName="R_BOW02_134"/>
+			<Class ClassID="328" Group="ID_Lastboss_Fireload" ItemName="R_MAC02_137"/>
+			<Class ClassID="329" Group="ID_Lastboss_Fireload" ItemName="R_SPR02_132"/>
+			<Class ClassID="330" Group="ID_Lastboss_Fireload" ItemName="R_TSP02_127"/>
+			<Class ClassID="331" Group="ID_Lastboss_Fireload" ItemName="R_TSF02_135"/>
+			<Class ClassID="332" Group="ID_Lastboss_Fireload" ItemName="R_RAP02_108"/>
+			<Class ClassID="333" Group="ID_Lastboss_Fireload" ItemName="R_MUS02_103"/>
+			<Class ClassID="334" Group="ID_Lastboss_Fireload" ItemName="R_STF02_135"/>
+			<Class ClassID="335" Group="ID_Lastboss_Fireload" ItemName="R_PST02_105"/>
+			<Class ClassID="336" Group="ID_Lastboss_Fireload" ItemName="R_CAN02_103"/>
+			<Class ClassID="337" Group="ID_Lastboss_Fireload" ItemName="R_SHD02_119"/>
+			<Class ClassID="338" Group="ID_Lastboss_Fireload" ItemName="R_SHD04_102"/>
+			<Class ClassID="339" Group="ID_Lastboss_Fireload" ItemName="R_TSP04_103"/>
+			<Class ClassID="340" Group="ID_Lastboss_Fireload" ItemName="R_STF03_102"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Kerberos">
+			<Class ClassID="401" Group="ID_boss_Kerberos" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="402" Group="ID_boss_Kerberos" ItemName="misc_talt"/>
+			<Class ClassID="403" Group="ID_boss_Kerberos" ItemName="card_Kerberos"/>
+			<Class ClassID="404" Group="ID_boss_Kerberos" ItemName="misc_ore05"/>
+			<Class ClassID="405" Group="ID_boss_Kerberos" ItemName="MAC02_109"/>
+			<Class ClassID="406" Group="ID_boss_Kerberos" ItemName="R_NECK04_102"/>
+			<Class ClassID="407" Group="ID_boss_Kerberos" ItemName="R_BRC04_101"/>
+			<Class ClassID="408" Group="ID_boss_Kerberos" ItemName="misc_jore18"/>
+			<Class ClassID="409" Group="ID_boss_Kerberos" ItemName="misc_jore08"/>
+			<Class ClassID="410" Group="ID_boss_Kerberos" ItemName="R_DAG04_101"/>
+			<Class ClassID="411" Group="ID_boss_Kerberos" ItemName="R_SWD03_113"/>
+			<Class ClassID="412" Group="ID_boss_Kerberos" ItemName="R_TSF03_112"/>
+			<Class ClassID="413" Group="ID_boss_Kerberos" ItemName="R_BOW03_113"/>
+			<Class ClassID="414" Group="ID_boss_Kerberos" ItemName="R_MAC03_113"/>
+			<Class ClassID="415" Group="ID_boss_Kerberos" ItemName="R_TSP03_109"/>
+			<Class ClassID="416" Group="ID_boss_Kerberos" ItemName="R_RAP03_103"/>
+			<Class ClassID="417" Group="ID_boss_Kerberos" ItemName="R_TSW04_106"/>
+			<Class ClassID="418" Group="ID_boss_Kerberos" ItemName="R_STF04_107"/>
+			<Class ClassID="419" Group="ID_boss_Kerberos" ItemName="R_TBW04_106"/>
+			<Class ClassID="420" Group="ID_boss_Kerberos" ItemName="R_SPR04_107"/>
+			<Class ClassID="421" Group="ID_boss_Kerberos" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="422" Group="ID_boss_Kerberos" ItemName="TOP02_188"/>
+			<Class ClassID="423" Group="ID_boss_Kerberos" ItemName="TOP02_189"/>
+			<Class ClassID="424" Group="ID_boss_Kerberos" ItemName="LEG02_188"/>
+			<Class ClassID="425" Group="ID_boss_Kerberos" ItemName="LEG02_189"/>
+			<Class ClassID="426" Group="ID_boss_Kerberos" ItemName="FOOT02_188"/>
+			<Class ClassID="427" Group="ID_boss_Kerberos" ItemName="FOOT02_189"/>
+			<Class ClassID="428" Group="ID_boss_Kerberos" ItemName="HAND02_188"/>
+			<Class ClassID="429" Group="ID_boss_Kerberos" ItemName="HAND02_189"/>
+			<Class ClassID="430" Group="ID_boss_Kerberos" ItemName="BRC02_115"/>
+			<Class ClassID="431" Group="ID_boss_Kerberos" ItemName="SWD02_150"/>
+			<Class ClassID="432" Group="ID_boss_Kerberos" ItemName="TSW02_150"/>
+			<Class ClassID="433" Group="ID_boss_Kerberos" ItemName="STF02_150"/>
+			<Class ClassID="434" Group="ID_boss_Kerberos" ItemName="TBW02_150"/>
+			<Class ClassID="435" Group="ID_boss_Kerberos" ItemName="BOW02_150"/>
+			<Class ClassID="436" Group="ID_boss_Kerberos" ItemName="MAC02_150"/>
+			<Class ClassID="437" Group="ID_boss_Kerberos" ItemName="SPR02_150"/>
+			<Class ClassID="438" Group="ID_boss_Kerberos" ItemName="TSP02_150"/>
+			<Class ClassID="439" Group="ID_boss_Kerberos" ItemName="TSF02_150"/>
+			<Class ClassID="440" Group="ID_boss_Kerberos" ItemName="RAP02_111"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_mineloader">
+			<Class ClassID="501" Group="ID_boss_mineloader" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="502" Group="ID_boss_mineloader" ItemName="misc_talt"/>
+			<Class ClassID="503" Group="ID_boss_mineloader" ItemName="card_mineloader"/>
+			<Class ClassID="504" Group="ID_boss_mineloader" ItemName="misc_jore18"/>
+			<Class ClassID="505" Group="ID_boss_mineloader" ItemName="misc_jore08"/>
+			<Class ClassID="506" Group="ID_boss_mineloader" ItemName="TSF03_104"/>
+			<Class ClassID="507" Group="ID_boss_mineloader" ItemName="R_ABAND01_102"/>
+			<Class ClassID="508" Group="ID_boss_mineloader" ItemName="misc_jore04"/>
+			<Class ClassID="509" Group="ID_boss_mineloader" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="510" Group="ID_boss_mineloader" ItemName="SWD02_122"/>
+			<Class ClassID="511" Group="ID_boss_mineloader" ItemName="TSW02_118"/>
+			<Class ClassID="512" Group="ID_boss_mineloader" ItemName="STF02_117"/>
+			<Class ClassID="513" Group="ID_boss_mineloader" ItemName="TBW02_120"/>
+			<Class ClassID="514" Group="ID_boss_mineloader" ItemName="BOW02_116"/>
+			<Class ClassID="515" Group="ID_boss_mineloader" ItemName="MAC02_118"/>
+			<Class ClassID="516" Group="ID_boss_mineloader" ItemName="SPR02_114"/>
+			<Class ClassID="517" Group="ID_boss_mineloader" ItemName="TSP02_111"/>
+			<Class ClassID="518" Group="ID_boss_mineloader" ItemName="TSF02_117"/>
+			<Class ClassID="519" Group="ID_boss_mineloader" ItemName="RAP02_101"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Harpeia_orange">
+			<Class ClassID="601" Group="ID_boss_Harpeia_orange" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="602" Group="ID_boss_Harpeia_orange" ItemName="misc_talt"/>
+			<Class ClassID="603" Group="ID_boss_Harpeia_orange" ItemName="card_Harpeia"/>
+			<Class ClassID="604" Group="ID_boss_Harpeia_orange" ItemName="misc_jore18"/>
+			<Class ClassID="605" Group="ID_boss_Harpeia_orange" ItemName="misc_jore08"/>
+			<Class ClassID="606" Group="ID_boss_Harpeia_orange" ItemName="R_NECK03_102"/>
+			<Class ClassID="607" Group="ID_boss_Harpeia_orange" ItemName="R_ABAND01_102"/>
+			<Class ClassID="608" Group="ID_boss_Harpeia_orange" ItemName="misc_jore04"/>
+			<Class ClassID="609" Group="ID_boss_Harpeia_orange" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="610" Group="ID_boss_Harpeia_orange" ItemName="NECK03_102"/>
+			<Class ClassID="611" Group="ID_boss_Harpeia_orange" ItemName="gem_circle_1"/>
+			<Class ClassID="612" Group="ID_boss_Harpeia_orange" ItemName="gem_square_1"/>
+			<Class ClassID="613" Group="ID_boss_Harpeia_orange" ItemName="gem_diamond_1"/>
+			<Class ClassID="614" Group="ID_boss_Harpeia_orange" ItemName="gem_star_1"/>
+			<Class ClassID="615" Group="ID_boss_Harpeia_orange" ItemName="R_SPR04_103"/>
+			<Class ClassID="616" Group="ID_boss_Harpeia_orange" ItemName="TOP02_184"/>
+			<Class ClassID="617" Group="ID_boss_Harpeia_orange" ItemName="TOP02_185"/>
+			<Class ClassID="618" Group="ID_boss_Harpeia_orange" ItemName="TOP02_186"/>
+			<Class ClassID="619" Group="ID_boss_Harpeia_orange" ItemName="LEG02_184"/>
+			<Class ClassID="620" Group="ID_boss_Harpeia_orange" ItemName="LEG02_185"/>
+			<Class ClassID="621" Group="ID_boss_Harpeia_orange" ItemName="LEG02_186"/>
+			<Class ClassID="622" Group="ID_boss_Harpeia_orange" ItemName="FOOT02_184"/>
+			<Class ClassID="623" Group="ID_boss_Harpeia_orange" ItemName="FOOT02_185"/>
+			<Class ClassID="624" Group="ID_boss_Harpeia_orange" ItemName="FOOT02_186"/>
+			<Class ClassID="625" Group="ID_boss_Harpeia_orange" ItemName="HAND02_184"/>
+			<Class ClassID="626" Group="ID_boss_Harpeia_orange" ItemName="HAND02_185"/>
+			<Class ClassID="627" Group="ID_boss_Harpeia_orange" ItemName="HAND02_186"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_necrovanter">
+			<Class ClassID="801" Group="ID_boss_necrovanter" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="802" Group="ID_boss_necrovanter" ItemName="misc_talt"/>
+			<Class ClassID="803" Group="ID_boss_necrovanter" ItemName="card_necrovanter"/>
+			<Class ClassID="804" Group="ID_boss_necrovanter" ItemName="R_SHD03_103"/>
+			<Class ClassID="805" Group="ID_boss_necrovanter" ItemName="misc_jore04"/>
+			<Class ClassID="806" Group="ID_boss_necrovanter" ItemName="misc_jore08"/>
+			<Class ClassID="807" Group="ID_boss_necrovanter" ItemName="DAG03_101"/>
+			<Class ClassID="808" Group="ID_boss_necrovanter" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="809" Group="ID_boss_necrovanter" ItemName="gem_circle_1"/>
+			<Class ClassID="810" Group="ID_boss_necrovanter" ItemName="gem_square_1"/>
+			<Class ClassID="811" Group="ID_boss_necrovanter" ItemName="gem_diamond_1"/>
+			<Class ClassID="812" Group="ID_boss_necrovanter" ItemName="gem_star_1"/>
+			<Class ClassID="813" Group="ID_boss_necrovanter" ItemName="misc_silverbar"/>
+			<Class ClassID="814" Group="ID_boss_necrovanter" ItemName="misc_goldbar"/>
+			<Class ClassID="815" Group="ID_boss_necrovanter" ItemName="misc_quicksilver"/>
+			<Class ClassID="816" Group="ID_boss_necrovanter" ItemName="R_NECK02_105"/>
+			<Class ClassID="817" Group="ID_boss_necrovanter" ItemName="R_NECK02_106"/>
+			<Class ClassID="818" Group="ID_boss_necrovanter" ItemName="NECK02_121"/>
+			<Class ClassID="819" Group="ID_boss_necrovanter" ItemName="NECK02_122"/>
+			<Class ClassID="820" Group="ID_boss_necrovanter" ItemName="BRC02_105"/>
+			<Class ClassID="821" Group="ID_boss_necrovanter" ItemName="R_BRC02_106"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_molich">
+			<Class ClassID="901" Group="ID_boss_molich" ItemName="card_molich"/>
+			<Class ClassID="902" Group="ID_boss_molich" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="903" Group="ID_boss_molich" ItemName="misc_talt"/>
+			<Class ClassID="904" Group="ID_boss_molich" ItemName="R_SHD04_102"/>
+			<Class ClassID="905" Group="ID_boss_molich" ItemName="R_TSP04_103"/>
+			<Class ClassID="906" Group="ID_boss_molich" ItemName="R_STF03_102"/>
+			<Class ClassID="907" Group="ID_boss_molich" ItemName="misc_goldbar"/>
+			<Class ClassID="908" Group="ID_boss_molich" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="909" Group="ID_boss_molich" ItemName="SWD02_150"/>
+			<Class ClassID="910" Group="ID_boss_molich" ItemName="TSW02_150"/>
+			<Class ClassID="911" Group="ID_boss_molich" ItemName="STF02_150"/>
+			<Class ClassID="912" Group="ID_boss_molich" ItemName="TBW02_150"/>
+			<Class ClassID="913" Group="ID_boss_molich" ItemName="BOW02_150"/>
+			<Class ClassID="914" Group="ID_boss_molich" ItemName="MAC02_150"/>
+			<Class ClassID="915" Group="ID_boss_molich" ItemName="SPR02_150"/>
+			<Class ClassID="916" Group="ID_boss_molich" ItemName="TSP02_150"/>
+			<Class ClassID="917" Group="ID_boss_molich" ItemName="TSF02_150"/>
+			<Class ClassID="918" Group="ID_boss_molich" ItemName="RAP02_111"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Riteris">
+			<Class ClassID="1001" Group="ID_boss_Riteris" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="1002" Group="ID_boss_Riteris" ItemName="misc_talt"/>
+			<Class ClassID="1003" Group="ID_boss_Riteris" ItemName="card_Riteris"/>
+			<Class ClassID="1004" Group="ID_boss_Riteris" ItemName="R_NECK04_103"/>
+			<Class ClassID="1005" Group="ID_boss_Riteris" ItemName="R_SHD03_107"/>
+			<Class ClassID="1006" Group="ID_boss_Riteris" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="1007" Group="ID_boss_Riteris" ItemName="gem_circle_1"/>
+			<Class ClassID="1008" Group="ID_boss_Riteris" ItemName="gem_square_1"/>
+			<Class ClassID="1009" Group="ID_boss_Riteris" ItemName="gem_diamond_1"/>
+			<Class ClassID="1010" Group="ID_boss_Riteris" ItemName="gem_star_1"/>
+			<Class ClassID="1011" Group="ID_boss_Riteris" ItemName="misc_gemExpStone03"/>
+			<Class ClassID="1012" Group="ID_boss_Riteris" ItemName="misc_icepiece"/>
+			<Class ClassID="1013" Group="ID_boss_Riteris" ItemName="misc_Dumaro"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Flammidus">
+			<Class ClassID="1101" Group="ID_boss_Flammidus" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="1102" Group="ID_boss_Flammidus" ItemName="misc_talt"/>
+			<Class ClassID="1103" Group="ID_boss_Flammidus" ItemName="card_Flammidus"/>
+			<Class ClassID="1104" Group="ID_boss_Flammidus" ItemName="R_MAC04_102"/>
+			<Class ClassID="1105" Group="ID_boss_Flammidus" ItemName="SHD03_106"/>
+			<Class ClassID="1106" Group="ID_boss_Flammidus" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="1107" Group="ID_boss_Flammidus" ItemName="R_NECK02_127"/>
+			<Class ClassID="1108" Group="ID_boss_Flammidus" ItemName="TOP02_178"/>
+			<Class ClassID="1109" Group="ID_boss_Flammidus" ItemName="TOP02_179"/>
+			<Class ClassID="1110" Group="ID_boss_Flammidus" ItemName="TOP02_180"/>
+			<Class ClassID="1111" Group="ID_boss_Flammidus" ItemName="LEG02_178"/>
+			<Class ClassID="1112" Group="ID_boss_Flammidus" ItemName="LEG02_179"/>
+			<Class ClassID="1113" Group="ID_boss_Flammidus" ItemName="LEG02_180"/>
+			<Class ClassID="1114" Group="ID_boss_Flammidus" ItemName="FOOT02_178"/>
+			<Class ClassID="1115" Group="ID_boss_Flammidus" ItemName="FOOT02_179"/>
+			<Class ClassID="1116" Group="ID_boss_Flammidus" ItemName="FOOT02_180"/>
+			<Class ClassID="1117" Group="ID_boss_Flammidus" ItemName="HAND02_178"/>
+			<Class ClassID="1118" Group="ID_boss_Flammidus" ItemName="HAND02_179"/>
+			<Class ClassID="1119" Group="ID_boss_Flammidus" ItemName="HAND02_180"/>
+			<Class ClassID="1120" Group="ID_boss_Flammidus" ItemName="R_TSW03_113"/>
+			<Class ClassID="1121" Group="ID_boss_Flammidus" ItemName="R_STF03_110"/>
+			<Class ClassID="1122" Group="ID_boss_Flammidus" ItemName="R_TBW03_111"/>
+			<Class ClassID="1123" Group="ID_boss_Flammidus" ItemName="R_SPR03_108"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Lapene">
+			<Class ClassID="1401" Group="ID_boss_Lapene" ItemName="HAND03_117"/>
+			<Class ClassID="1402" Group="ID_boss_Lapene" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="1403" Group="ID_boss_Lapene" ItemName="misc_talt"/>
+			<Class ClassID="1404" Group="ID_boss_Lapene" ItemName="R_HAND03_114"/>
+			<Class ClassID="1405" Group="ID_boss_Lapene" ItemName="R_FOOT03_114"/>
+			<Class ClassID="1406" Group="ID_boss_Lapene" ItemName="R_LEG03_114"/>
+			<Class ClassID="1407" Group="ID_boss_Lapene" ItemName="R_TOP03_114"/>
+			<Class ClassID="1408" Group="ID_boss_Lapene" ItemName="R_HAND03_115"/>
+			<Class ClassID="1409" Group="ID_boss_Lapene" ItemName="R_FOOT03_115"/>
+			<Class ClassID="1410" Group="ID_boss_Lapene" ItemName="R_LEG03_115"/>
+			<Class ClassID="1411" Group="ID_boss_Lapene" ItemName="R_TOP03_115"/>
+			<Class ClassID="1412" Group="ID_boss_Lapene" ItemName="R_HAND03_116"/>
+			<Class ClassID="1413" Group="ID_boss_Lapene" ItemName="R_FOOT03_116"/>
+			<Class ClassID="1414" Group="ID_boss_Lapene" ItemName="R_LEG03_116"/>
+			<Class ClassID="1415" Group="ID_boss_Lapene" ItemName="R_TOP03_116"/>
+			<Class ClassID="1416" Group="ID_boss_Lapene" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="1417" Group="ID_boss_Lapene" ItemName="gem_circle_1"/>
+			<Class ClassID="1418" Group="ID_boss_Lapene" ItemName="gem_square_1"/>
+			<Class ClassID="1419" Group="ID_boss_Lapene" ItemName="gem_diamond_1"/>
+			<Class ClassID="1420" Group="ID_boss_Lapene" ItemName="gem_star_1"/>
+			<Class ClassID="1421" Group="ID_boss_Lapene" ItemName="misc_gemExpStone03"/>
+			<Class ClassID="1422" Group="ID_boss_Lapene" ItemName="misc_silverbar"/>
+			<Class ClassID="1423" Group="ID_boss_Lapene" ItemName="misc_goldbar"/>
+			<Class ClassID="1424" Group="ID_boss_Lapene" ItemName="misc_quicksilver"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Rambandgad">
+			<Class ClassID="1501" Group="ID_boss_Rambandgad" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="1502" Group="ID_boss_Rambandgad" ItemName="misc_talt"/>
+			<Class ClassID="1503" Group="ID_boss_Rambandgad" ItemName="R_SWD03_111"/>
+			<Class ClassID="1504" Group="ID_boss_Rambandgad" ItemName="R_TSW03_112"/>
+			<Class ClassID="1505" Group="ID_boss_Rambandgad" ItemName="R_STF03_109"/>
+			<Class ClassID="1506" Group="ID_boss_Rambandgad" ItemName="R_TSF03_110"/>
+			<Class ClassID="1507" Group="ID_boss_Rambandgad" ItemName="R_TBW03_110"/>
+			<Class ClassID="1508" Group="ID_boss_Rambandgad" ItemName="R_BOW03_111"/>
+			<Class ClassID="1509" Group="ID_boss_Rambandgad" ItemName="R_MAC03_111"/>
+			<Class ClassID="1510" Group="ID_boss_Rambandgad" ItemName="R_SPR03_107"/>
+			<Class ClassID="1511" Group="ID_boss_Rambandgad" ItemName="R_TSP03_107"/>
+			<Class ClassID="1512" Group="ID_boss_Rambandgad" ItemName="misc_ore05"/>
+			<Class ClassID="1513" Group="ID_boss_Rambandgad" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="1514" Group="ID_boss_Rambandgad" ItemName="R_TOP03_111"/>
+			<Class ClassID="1515" Group="ID_boss_Rambandgad" ItemName="R_TOP03_112"/>
+			<Class ClassID="1516" Group="ID_boss_Rambandgad" ItemName="R_TOP03_113"/>
+			<Class ClassID="1517" Group="ID_boss_Rambandgad" ItemName="R_LEG03_111"/>
+			<Class ClassID="1518" Group="ID_boss_Rambandgad" ItemName="R_LEG03_112"/>
+			<Class ClassID="1519" Group="ID_boss_Rambandgad" ItemName="R_LEG03_113"/>
+			<Class ClassID="1520" Group="ID_boss_Rambandgad" ItemName="R_FOOT03_111"/>
+			<Class ClassID="1521" Group="ID_boss_Rambandgad" ItemName="R_FOOT03_112"/>
+			<Class ClassID="1522" Group="ID_boss_Rambandgad" ItemName="R_FOOT03_113"/>
+			<Class ClassID="1523" Group="ID_boss_Rambandgad" ItemName="R_HAND03_111"/>
+			<Class ClassID="1524" Group="ID_boss_Rambandgad" ItemName="R_HAND03_112"/>
+			<Class ClassID="1525" Group="ID_boss_Rambandgad" ItemName="R_HAND03_113"/>
+			<Class ClassID="1526" Group="ID_boss_Rambandgad" ItemName="misc_silverbar"/>
+			<Class ClassID="1527" Group="ID_boss_Rambandgad" ItemName="misc_goldbar"/>
+			<Class ClassID="1528" Group="ID_boss_Rambandgad" ItemName="misc_quicksilver"/>
+			<Class ClassID="1529" Group="ID_boss_Rambandgad" ItemName="SWD02_137"/>
+			<Class ClassID="1530" Group="ID_boss_Rambandgad" ItemName="TSW02_133"/>
+			<Class ClassID="1531" Group="ID_boss_Rambandgad" ItemName="STF02_132"/>
+			<Class ClassID="1532" Group="ID_boss_Rambandgad" ItemName="TBW02_135"/>
+			<Class ClassID="1533" Group="ID_boss_Rambandgad" ItemName="BOW02_131"/>
+			<Class ClassID="1534" Group="ID_boss_Rambandgad" ItemName="MAC02_134"/>
+			<Class ClassID="1535" Group="ID_boss_Rambandgad" ItemName="SPR02_129"/>
+			<Class ClassID="1536" Group="ID_boss_Rambandgad" ItemName="TSF02_132"/>
+			<Class ClassID="1537" Group="ID_boss_Rambandgad" ItemName="PST02_104"/>
+			<Class ClassID="1538" Group="ID_boss_Rambandgad" ItemName="RAP02_105"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Armaox">
+			<Class ClassID="1601" Group="ID_boss_Armaox" ItemName="misc_talt"/>
+			<Class ClassID="1602" Group="ID_boss_Armaox" ItemName="misc_talt"/>
+			<Class ClassID="1603" Group="ID_boss_Armaox" ItemName="R_SWD03_120"/>
+			<Class ClassID="1604" Group="ID_boss_Armaox" ItemName="R_TSW03_120"/>
+			<Class ClassID="1605" Group="ID_boss_Armaox" ItemName="R_STF03_120"/>
+			<Class ClassID="1606" Group="ID_boss_Armaox" ItemName="R_SHD03_110"/>
+			<Class ClassID="1607" Group="ID_boss_Armaox" ItemName="R_SPR03_115"/>
+			<Class ClassID="1608" Group="ID_boss_Armaox" ItemName="R_TSP03_115"/>
+			<Class ClassID="1609" Group="ID_boss_Armaox" ItemName="R_DAG03_105"/>
+			<Class ClassID="1610" Group="ID_boss_Armaox" ItemName="R_TSF03_120"/>
+			<Class ClassID="1611" Group="ID_boss_Armaox" ItemName="R_RAP03_305"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_boss_Rambandgad_red">
+			<Class ClassID="1701" Group="ID_boss_Rambandgad_red" ItemName="misc_talt"/>
+			<Class ClassID="1702" Group="ID_boss_Rambandgad_red" ItemName="misc_talt"/>
+			<Class ClassID="1703" Group="ID_boss_Rambandgad_red" ItemName="R_TBW03_120"/>
+			<Class ClassID="1704" Group="ID_boss_Rambandgad_red" ItemName="R_BOW03_202"/>
+			<Class ClassID="1705" Group="ID_boss_Rambandgad_red" ItemName="R_MAC03_204"/>
+			<Class ClassID="1706" Group="ID_boss_Rambandgad_red" ItemName="R_PST03_101"/>
+			<Class ClassID="1707" Group="ID_boss_Rambandgad_red" ItemName="R_CAN03_101"/>
+			<Class ClassID="1708" Group="ID_boss_Rambandgad_red" ItemName="R_MUS03_104"/>
+			<Class ClassID="1709" Group="ID_boss_Rambandgad_red" ItemName="card_molich"/>
+			<Class ClassID="1710" Group="ID_boss_Rambandgad_red" ItemName="card_Riteris"/>
+			<Class ClassID="1711" Group="ID_boss_Rambandgad_red" ItemName="R_TMAC03_106"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Chaple">
+			<Class ClassID="10001" Group="ID_Chaple" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="10002" Group="ID_Chaple" ItemName="misc_talt"/>
+			<Class ClassID="10003" Group="ID_Chaple" ItemName="R_SHD03_103"/>
+			<Class ClassID="10004" Group="ID_Chaple" ItemName="misc_jore04"/>
+			<Class ClassID="10005" Group="ID_Chaple" ItemName="misc_jore08"/>
+			<Class ClassID="10006" Group="ID_Chaple" ItemName="DAG03_101"/>
+			<Class ClassID="10007" Group="ID_Chaple" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="10008" Group="ID_Chaple" ItemName="gem_circle_1"/>
+			<Class ClassID="10009" Group="ID_Chaple" ItemName="gem_square_1"/>
+			<Class ClassID="10010" Group="ID_Chaple" ItemName="gem_diamond_1"/>
+			<Class ClassID="10011" Group="ID_Chaple" ItemName="gem_star_1"/>
+			<Class ClassID="10012" Group="ID_Chaple" ItemName="misc_silverbar"/>
+			<Class ClassID="10013" Group="ID_Chaple" ItemName="misc_goldbar"/>
+			<Class ClassID="10014" Group="ID_Chaple" ItemName="misc_quicksilver"/>
+			<Class ClassID="10015" Group="ID_Chaple" ItemName="R_NECK02_105"/>
+			<Class ClassID="10016" Group="ID_Chaple" ItemName="R_NECK02_106"/>
+			<Class ClassID="10017" Group="ID_Chaple" ItemName="NECK02_121"/>
+			<Class ClassID="10018" Group="ID_Chaple" ItemName="NECK02_122"/>
+			<Class ClassID="10019" Group="ID_Chaple" ItemName="BRC02_105"/>
+			<Class ClassID="10020" Group="ID_Chaple" ItemName="R_BRC02_106"/>
+			<Class ClassID="10021" Group="ID_Chaple" ItemName="card_ShadowGaoler"/>
+			<Class ClassID="10022" Group="ID_Chaple" ItemName="misc_jore17"/>
+			<Class ClassID="10023" Group="ID_Chaple" ItemName="SWD02_106"/>
+			<Class ClassID="10024" Group="ID_Chaple" ItemName="SWD02_107"/>
+			<Class ClassID="10025" Group="ID_Chaple" ItemName="STF02_102"/>
+			<Class ClassID="10026" Group="ID_Chaple" ItemName="TBW02_102"/>
+			<Class ClassID="10027" Group="ID_Chaple" ItemName="BOW02_102"/>
+			<Class ClassID="10028" Group="ID_Chaple" ItemName="MAC02_101"/>
+			<Class ClassID="10029" Group="ID_Chaple" ItemName="SHD02_113"/>
+			<Class ClassID="10030" Group="ID_Chaple" ItemName="R_ABAND01_102"/>
+			<Class ClassID="10031" Group="ID_Chaple" ItemName="BRC01_140"/>
+			<Class ClassID="10032" Group="ID_Chaple" ItemName="NECK01_146"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Remains">
+			<Class ClassID="10100" Group="ID_Remains" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="10101" Group="ID_Remains" ItemName="misc_talt"/>
+			<Class ClassID="10102" Group="ID_Remains" ItemName="card_necrovanter"/>
+			<Class ClassID="10103" Group="ID_Remains" ItemName="misc_jore04"/>
+			<Class ClassID="10104" Group="ID_Remains" ItemName="misc_jore08"/>
+			<Class ClassID="10105" Group="ID_Remains" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="10106" Group="ID_Remains" ItemName="gem_circle_1"/>
+			<Class ClassID="10107" Group="ID_Remains" ItemName="gem_square_1"/>
+			<Class ClassID="10108" Group="ID_Remains" ItemName="gem_diamond_1"/>
+			<Class ClassID="10109" Group="ID_Remains" ItemName="gem_star_1"/>
+			<Class ClassID="10110" Group="ID_Remains" ItemName="misc_silverbar"/>
+			<Class ClassID="10111" Group="ID_Remains" ItemName="misc_goldbar"/>
+			<Class ClassID="10112" Group="ID_Remains" ItemName="misc_quicksilver"/>
+			<Class ClassID="10113" Group="ID_Remains" ItemName="TSF03_104"/>
+			<Class ClassID="10114" Group="ID_Remains" ItemName="R_NECK03_102"/>
+			<Class ClassID="10115" Group="ID_Remains" ItemName="NECK03_102"/>
+			<Class ClassID="10116" Group="ID_Remains" ItemName="R_MAC04_102"/>
+			<Class ClassID="10117" Group="ID_Remains" ItemName="SHD03_106"/>
+			<Class ClassID="10118" Group="ID_Remains" ItemName="R_NECK02_127"/>
+			<Class ClassID="10119" Group="ID_Remains" ItemName="TOP02_178"/>
+			<Class ClassID="10120" Group="ID_Remains" ItemName="TOP02_179"/>
+			<Class ClassID="10121" Group="ID_Remains" ItemName="TOP02_180"/>
+			<Class ClassID="10122" Group="ID_Remains" ItemName="LEG02_178"/>
+			<Class ClassID="10123" Group="ID_Remains" ItemName="LEG02_179"/>
+			<Class ClassID="10124" Group="ID_Remains" ItemName="LEG02_180"/>
+			<Class ClassID="10125" Group="ID_Remains" ItemName="FOOT02_178"/>
+			<Class ClassID="10126" Group="ID_Remains" ItemName="FOOT02_179"/>
+			<Class ClassID="10127" Group="ID_Remains" ItemName="FOOT02_180"/>
+			<Class ClassID="10128" Group="ID_Remains" ItemName="HAND02_178"/>
+			<Class ClassID="10129" Group="ID_Remains" ItemName="HAND02_179"/>
+			<Class ClassID="10130" Group="ID_Remains" ItemName="HAND02_180"/>
+			<Class ClassID="10131" Group="ID_Remains" ItemName="R_TSW03_113"/>
+			<Class ClassID="10132" Group="ID_Remains" ItemName="R_STF03_110"/>
+			<Class ClassID="10133" Group="ID_Remains" ItemName="R_TBW03_111"/>
+			<Class ClassID="10134" Group="ID_Remains" ItemName="R_SPR03_108"/>
+			<Class ClassID="10135" Group="ID_Remains" ItemName="R_SWD03_111"/>
+			<Class ClassID="10136" Group="ID_Remains" ItemName="R_TSW03_112"/>
+			<Class ClassID="10137" Group="ID_Remains" ItemName="R_STF03_109"/>
+			<Class ClassID="10138" Group="ID_Remains" ItemName="R_TSF03_110"/>
+			<Class ClassID="10139" Group="ID_Remains" ItemName="R_TBW03_110"/>
+			<Class ClassID="10140" Group="ID_Remains" ItemName="R_BOW03_111"/>
+			<Class ClassID="10141" Group="ID_Remains" ItemName="R_MAC03_111"/>
+			<Class ClassID="10142" Group="ID_Remains" ItemName="R_SPR03_107"/>
+			<Class ClassID="10143" Group="ID_Remains" ItemName="R_TSP03_107"/>
+			<Class ClassID="10144" Group="ID_Remains" ItemName="R_NECK02_123"/>
+			<Class ClassID="10145" Group="ID_Remains" ItemName="R_BRC02_121"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Remains3">
+			<Class ClassID="10200" Group="ID_Remains3" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="10201" Group="ID_Remains3" ItemName="misc_talt"/>
+			<Class ClassID="10202" Group="ID_Remains3" ItemName="card_Flammidus"/>
+			<Class ClassID="10203" Group="ID_Remains3" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="10204" Group="ID_Remains3" ItemName="R_TSW03_105"/>
+			<Class ClassID="10205" Group="ID_Remains3" ItemName="R_BOW03_103"/>
+			<Class ClassID="10206" Group="ID_Remains3" ItemName="R_TBW03_104"/>
+			<Class ClassID="10207" Group="ID_Remains3" ItemName="R_MAC03_103"/>
+			<Class ClassID="10208" Group="ID_Remains3" ItemName="R_BOW04_101"/>
+			<Class ClassID="10209" Group="ID_Remains3" ItemName="R_PST04_101"/>
+			<Class ClassID="10210" Group="ID_Remains3" ItemName="R_TSW03_114"/>
+			<Class ClassID="10211" Group="ID_Remains3" ItemName="R_STF03_111"/>
+			<Class ClassID="10212" Group="ID_Remains3" ItemName="R_TBW03_112"/>
+			<Class ClassID="10213" Group="ID_Remains3" ItemName="R_SPR03_109"/>
+			<Class ClassID="10214" Group="ID_Remains3" ItemName="R_SWD04_106"/>
+			<Class ClassID="10215" Group="ID_Remains3" ItemName="R_TSF04_106"/>
+			<Class ClassID="10216" Group="ID_Remains3" ItemName="R_BOW04_106"/>
+			<Class ClassID="10217" Group="ID_Remains3" ItemName="R_MAC04_108"/>
+			<Class ClassID="10218" Group="ID_Remains3" ItemName="R_TSP04_107"/>
+			<Class ClassID="10219" Group="ID_Remains3" ItemName="R_RAP04_103"/>
+			<Class ClassID="10220" Group="ID_Remains3" ItemName="MAC02_109"/>
+			<Class ClassID="10221" Group="ID_Remains3" ItemName="R_NECK04_102"/>
+			<Class ClassID="10222" Group="ID_Remains3" ItemName="R_BRC04_101"/>
+			<Class ClassID="10223" Group="ID_Remains3" ItemName="R_SHD04_102"/>
+			<Class ClassID="10224" Group="ID_Remains3" ItemName="R_TSP04_103"/>
+			<Class ClassID="10225" Group="ID_Remains3" ItemName="R_STF03_102"/>
+			<Class ClassID="10226" Group="ID_Remains3" ItemName="R_DAG04_101"/>
+			<Class ClassID="10227" Group="ID_Remains3" ItemName="R_SWD03_113"/>
+			<Class ClassID="10228" Group="ID_Remains3" ItemName="R_TSF03_112"/>
+			<Class ClassID="10229" Group="ID_Remains3" ItemName="R_BOW03_113"/>
+			<Class ClassID="10230" Group="ID_Remains3" ItemName="R_MAC03_113"/>
+			<Class ClassID="10231" Group="ID_Remains3" ItemName="R_TSP03_109"/>
+			<Class ClassID="10232" Group="ID_Remains3" ItemName="R_RAP03_103"/>
+			<Class ClassID="10233" Group="ID_Remains3" ItemName="R_TSW04_106"/>
+			<Class ClassID="10234" Group="ID_Remains3" ItemName="R_STF04_107"/>
+			<Class ClassID="10235" Group="ID_Remains3" ItemName="R_TBW04_106"/>
+			<Class ClassID="10236" Group="ID_Remains3" ItemName="R_SPR04_107"/>
+			<Class ClassID="10237" Group="ID_Remains3" ItemName="SWD02_122"/>
+			<Class ClassID="10238" Group="ID_Remains3" ItemName="TSW02_118"/>
+			<Class ClassID="10239" Group="ID_Remains3" ItemName="STF02_117"/>
+			<Class ClassID="10240" Group="ID_Remains3" ItemName="TBW02_120"/>
+			<Class ClassID="10241" Group="ID_Remains3" ItemName="BOW02_116"/>
+			<Class ClassID="10242" Group="ID_Remains3" ItemName="MAC02_118"/>
+			<Class ClassID="10243" Group="ID_Remains3" ItemName="SPR02_114"/>
+			<Class ClassID="10244" Group="ID_Remains3" ItemName="TSP02_111"/>
+			<Class ClassID="10245" Group="ID_Remains3" ItemName="TSF02_117"/>
+			<Class ClassID="10246" Group="ID_Remains3" ItemName="RAP02_101"/>
+			<Class ClassID="10247" Group="ID_Remains3" ItemName="R_SPR04_103"/>
+			<Class ClassID="10248" Group="ID_Remains3" ItemName="TOP02_184"/>
+			<Class ClassID="10249" Group="ID_Remains3" ItemName="TOP02_185"/>
+			<Class ClassID="10250" Group="ID_Remains3" ItemName="TOP02_186"/>
+			<Class ClassID="10251" Group="ID_Remains3" ItemName="LEG02_184"/>
+			<Class ClassID="10252" Group="ID_Remains3" ItemName="LEG02_185"/>
+			<Class ClassID="10253" Group="ID_Remains3" ItemName="LEG02_186"/>
+			<Class ClassID="10254" Group="ID_Remains3" ItemName="FOOT02_184"/>
+			<Class ClassID="10255" Group="ID_Remains3" ItemName="FOOT02_185"/>
+			<Class ClassID="10256" Group="ID_Remains3" ItemName="FOOT02_186"/>
+			<Class ClassID="10257" Group="ID_Remains3" ItemName="HAND02_184"/>
+			<Class ClassID="10258" Group="ID_Remains3" ItemName="HAND02_185"/>
+			<Class ClassID="10259" Group="ID_Remains3" ItemName="HAND02_186"/>
+			<Class ClassID="10260" Group="ID_Remains3" ItemName="R_NECK04_103"/>
+			<Class ClassID="10261" Group="ID_Remains3" ItemName="R_SHD03_107"/>
+			<Class ClassID="10262" Group="ID_Remains3" ItemName="R_TOP03_111"/>
+			<Class ClassID="10263" Group="ID_Remains3" ItemName="R_TOP03_112"/>
+			<Class ClassID="10264" Group="ID_Remains3" ItemName="R_TOP03_113"/>
+			<Class ClassID="10265" Group="ID_Remains3" ItemName="R_LEG03_111"/>
+			<Class ClassID="10266" Group="ID_Remains3" ItemName="R_LEG03_112"/>
+			<Class ClassID="10267" Group="ID_Remains3" ItemName="R_LEG03_113"/>
+			<Class ClassID="10268" Group="ID_Remains3" ItemName="R_FOOT03_111"/>
+			<Class ClassID="10269" Group="ID_Remains3" ItemName="R_FOOT03_112"/>
+			<Class ClassID="10270" Group="ID_Remains3" ItemName="R_FOOT03_113"/>
+			<Class ClassID="10271" Group="ID_Remains3" ItemName="R_HAND03_111"/>
+			<Class ClassID="10272" Group="ID_Remains3" ItemName="R_HAND03_112"/>
+			<Class ClassID="10273" Group="ID_Remains3" ItemName="R_HAND03_113"/>
+			<Class ClassID="10274" Group="ID_Remains3" ItemName="SWD02_137"/>
+			<Class ClassID="10275" Group="ID_Remains3" ItemName="TSW02_133"/>
+			<Class ClassID="10276" Group="ID_Remains3" ItemName="STF02_132"/>
+			<Class ClassID="10277" Group="ID_Remains3" ItemName="TBW02_135"/>
+			<Class ClassID="10278" Group="ID_Remains3" ItemName="BOW02_131"/>
+			<Class ClassID="10279" Group="ID_Remains3" ItemName="MAC02_134"/>
+			<Class ClassID="10280" Group="ID_Remains3" ItemName="SPR02_129"/>
+			<Class ClassID="10281" Group="ID_Remains3" ItemName="TSF02_132"/>
+			<Class ClassID="10282" Group="ID_Remains3" ItemName="PST02_104"/>
+			<Class ClassID="10283" Group="ID_Remains3" ItemName="RAP02_105"/>
+			<Class ClassID="10284" Group="ID_Remains3" ItemName="misc_silverbar"/>
+			<Class ClassID="10285" Group="ID_Remains3" ItemName="misc_goldbar"/>
+			<Class ClassID="10286" Group="ID_Remains3" ItemName="misc_quicksilver"/>
+			<Class ClassID="10287" Group="ID_Remains3" ItemName="misc_ore05"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_startower">
+			<Class ClassID="10300" Group="ID_startower" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="10301" Group="ID_startower" ItemName="misc_talt"/>
+			<Class ClassID="10302" Group="ID_startower" ItemName="card_mineloader"/>
+			<Class ClassID="10303" Group="ID_startower" ItemName="misc_jore18"/>
+			<Class ClassID="10304" Group="ID_startower" ItemName="misc_jore08"/>
+			<Class ClassID="10305" Group="ID_startower" ItemName="card_Harpeia"/>
+			<Class ClassID="10306" Group="ID_startower" ItemName="misc_jore04"/>
+			<Class ClassID="10307" Group="ID_startower" ItemName="gem_circle_1"/>
+			<Class ClassID="10308" Group="ID_startower" ItemName="gem_square_1"/>
+			<Class ClassID="10309" Group="ID_startower" ItemName="gem_diamond_1"/>
+			<Class ClassID="10310" Group="ID_startower" ItemName="gem_star_1"/>
+			<Class ClassID="10311" Group="ID_startower" ItemName="R_SWD02_140"/>
+			<Class ClassID="10312" Group="ID_startower" ItemName="R_TSW02_136"/>
+			<Class ClassID="10313" Group="ID_startower" ItemName="R_TBW02_138"/>
+			<Class ClassID="10314" Group="ID_startower" ItemName="R_BOW02_134"/>
+			<Class ClassID="10315" Group="ID_startower" ItemName="R_MAC02_137"/>
+			<Class ClassID="10316" Group="ID_startower" ItemName="R_SPR02_132"/>
+			<Class ClassID="10317" Group="ID_startower" ItemName="R_TSP02_127"/>
+			<Class ClassID="10318" Group="ID_startower" ItemName="R_TSF02_135"/>
+			<Class ClassID="10319" Group="ID_startower" ItemName="R_RAP02_108"/>
+			<Class ClassID="10320" Group="ID_startower" ItemName="R_MUS02_103"/>
+			<Class ClassID="10321" Group="ID_startower" ItemName="R_STF02_135"/>
+			<Class ClassID="10322" Group="ID_startower" ItemName="R_PST02_105"/>
+			<Class ClassID="10323" Group="ID_startower" ItemName="R_CAN02_103"/>
+			<Class ClassID="10324" Group="ID_startower" ItemName="R_SHD02_119"/>
+			<Class ClassID="10325" Group="ID_startower" ItemName="SWD02_138"/>
+			<Class ClassID="10326" Group="ID_startower" ItemName="TSW02_134"/>
+			<Class ClassID="10327" Group="ID_startower" ItemName="STF02_133"/>
+			<Class ClassID="10328" Group="ID_startower" ItemName="TBW02_136"/>
+			<Class ClassID="10329" Group="ID_startower" ItemName="BOW02_132"/>
+			<Class ClassID="10330" Group="ID_startower" ItemName="MAC02_135"/>
+			<Class ClassID="10331" Group="ID_startower" ItemName="SHD02_118"/>
+			<Class ClassID="10332" Group="ID_startower" ItemName="SPR02_130"/>
+			<Class ClassID="10333" Group="ID_startower" ItemName="TSP02_125"/>
+			<Class ClassID="10334" Group="ID_startower" ItemName="TSF02_133"/>
+			<Class ClassID="10335" Group="ID_startower" ItemName="PST02_105"/>
+			<Class ClassID="10336" Group="ID_startower" ItemName="RAP02_106"/>
+			<Class ClassID="10337" Group="ID_startower" ItemName="CAN01_105"/>
+			<Class ClassID="10338" Group="ID_startower" ItemName="TOP02_188"/>
+			<Class ClassID="10339" Group="ID_startower" ItemName="TOP02_189"/>
+			<Class ClassID="10340" Group="ID_startower" ItemName="LEG02_188"/>
+			<Class ClassID="10341" Group="ID_startower" ItemName="LEG02_189"/>
+			<Class ClassID="10342" Group="ID_startower" ItemName="FOOT02_188"/>
+			<Class ClassID="10343" Group="ID_startower" ItemName="FOOT02_189"/>
+			<Class ClassID="10344" Group="ID_startower" ItemName="HAND02_188"/>
+			<Class ClassID="10345" Group="ID_startower" ItemName="HAND02_189"/>
+			<Class ClassID="10346" Group="ID_startower" ItemName="BRC02_115"/>
+			<Class ClassID="10347" Group="ID_startower" ItemName="SWD02_150"/>
+			<Class ClassID="10348" Group="ID_startower" ItemName="TSW02_150"/>
+			<Class ClassID="10349" Group="ID_startower" ItemName="STF02_150"/>
+			<Class ClassID="10350" Group="ID_startower" ItemName="TBW02_150"/>
+			<Class ClassID="10351" Group="ID_startower" ItemName="BOW02_150"/>
+			<Class ClassID="10352" Group="ID_startower" ItemName="MAC02_150"/>
+			<Class ClassID="10353" Group="ID_startower" ItemName="SPR02_150"/>
+			<Class ClassID="10354" Group="ID_startower" ItemName="TSP02_150"/>
+			<Class ClassID="10355" Group="ID_startower" ItemName="TSF02_150"/>
+			<Class ClassID="10356" Group="ID_startower" ItemName="RAP02_111"/>
+			<Class ClassID="10357" Group="ID_startower" ItemName="HAND03_117"/>
+			<Class ClassID="10358" Group="ID_startower" ItemName="R_HAND03_114"/>
+			<Class ClassID="10359" Group="ID_startower" ItemName="R_FOOT03_114"/>
+			<Class ClassID="10360" Group="ID_startower" ItemName="R_LEG03_114"/>
+			<Class ClassID="10361" Group="ID_startower" ItemName="R_TOP03_114"/>
+			<Class ClassID="10362" Group="ID_startower" ItemName="R_HAND03_115"/>
+			<Class ClassID="10363" Group="ID_startower" ItemName="R_FOOT03_115"/>
+			<Class ClassID="10364" Group="ID_startower" ItemName="R_LEG03_115"/>
+			<Class ClassID="10365" Group="ID_startower" ItemName="R_TOP03_115"/>
+			<Class ClassID="10366" Group="ID_startower" ItemName="R_HAND03_116"/>
+			<Class ClassID="10367" Group="ID_startower" ItemName="R_FOOT03_116"/>
+			<Class ClassID="10368" Group="ID_startower" ItemName="R_LEG03_116"/>
+			<Class ClassID="10369" Group="ID_startower" ItemName="R_TOP03_116"/>
+			<Class ClassID="10370" Group="ID_startower" ItemName="misc_ore05"/>
+			<Class ClassID="10371" Group="ID_startower" ItemName="misc_gemExpStone03"/>
+			<Class ClassID="10372" Group="ID_startower" ItemName="misc_silverbar"/>
+			<Class ClassID="10373" Group="ID_startower" ItemName="misc_goldbar"/>
+			<Class ClassID="10374" Group="ID_startower" ItemName="misc_quicksilver"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Catacom">
+			<Class ClassID="10400" Group="ID_Catacom" ItemName="Premium_Clear_dungeon_01"/>
+			<Class ClassID="10401" Group="ID_Catacom" ItemName="misc_talt"/>
+			<Class ClassID="10402" Group="ID_Catacom" ItemName="card_Manticen"/>
+			<Class ClassID="10403" Group="ID_Catacom" ItemName="Premium_Enchantchip"/>
+			<Class ClassID="10404" Group="ID_Catacom" ItemName="misc_silverbar"/>
+			<Class ClassID="10405" Group="ID_Catacom" ItemName="misc_goldbar"/>
+			<Class ClassID="10406" Group="ID_Catacom" ItemName="misc_quicksilver"/>
+			<Class ClassID="10407" Group="ID_Catacom" ItemName="misc_ore05"/>
+			<Class ClassID="10408" Group="ID_Catacom" ItemName="misc_gemExpStone03"/>
+			<Class ClassID="10409" Group="ID_Catacom" ItemName="misc_jore18"/>
+			<Class ClassID="10410" Group="ID_Catacom" ItemName="misc_jore08"/>
+			<Class ClassID="10411" Group="ID_Catacom" ItemName="misc_jore04"/>
+			<Class ClassID="10412" Group="ID_Catacom" ItemName="gem_circle_1"/>
+			<Class ClassID="10413" Group="ID_Catacom" ItemName="gem_square_1"/>
+			<Class ClassID="10414" Group="ID_Catacom" ItemName="gem_diamond_1"/>
+			<Class ClassID="10415" Group="ID_Catacom" ItemName="gem_star_1"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Castle2_Blue">
+			<Class ClassID="10500" Group="ID_Castle2_Blue" ItemName="misc_talt"/>
+			<Class ClassID="10501" Group="ID_Castle2_Blue" ItemName="misc_talt"/>
+			<Class ClassID="10502" Group="ID_Castle2_Blue" ItemName="R_SWD03_120"/>
+			<Class ClassID="10503" Group="ID_Castle2_Blue" ItemName="R_TSW03_120"/>
+			<Class ClassID="10504" Group="ID_Castle2_Blue" ItemName="R_STF03_120"/>
+			<Class ClassID="10505" Group="ID_Castle2_Blue" ItemName="R_SHD03_110"/>
+			<Class ClassID="10506" Group="ID_Castle2_Blue" ItemName="R_SPR03_115"/>
+			<Class ClassID="10507" Group="ID_Castle2_Blue" ItemName="R_TSP03_115"/>
+			<Class ClassID="10508" Group="ID_Castle2_Blue" ItemName="R_DAG03_105"/>
+			<Class ClassID="10509" Group="ID_Castle2_Blue" ItemName="R_TSF03_120"/>
+			<Class ClassID="10510" Group="ID_Castle2_Blue" ItemName="R_RAP03_305"/>
+			<Class ClassID="10511" Group="ID_Castle2_Blue" ItemName="misc_ore16"/>
+			<Class ClassID="10512" Group="ID_Castle2_Blue" ItemName="R_TSW04_109"/>
+			<Class ClassID="10513" Group="ID_Castle2_Blue" ItemName="R_SWD04_109"/>
+			<Class ClassID="10514" Group="ID_Castle2_Blue" ItemName="R_STF04_110"/>
+			<Class ClassID="10515" Group="ID_Castle2_Blue" ItemName="R_SHD04_105"/>
+			<Class ClassID="10516" Group="ID_Castle2_Blue" ItemName="R_SPR04_110"/>
+			<Class ClassID="10517" Group="ID_Castle2_Blue" ItemName="R_TSP04_111"/>
+			<Class ClassID="10518" Group="ID_Castle2_Blue" ItemName="R_DAG04_104"/>
+			<Class ClassID="10519" Group="ID_Castle2_Blue" ItemName="R_RAP04_106"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Castle2_Red">
+			<Class ClassID="10600" Group="ID_Castle2_Red" ItemName="misc_talt"/>
+			<Class ClassID="10601" Group="ID_Castle2_Red" ItemName="misc_talt"/>
+			<Class ClassID="10602" Group="ID_Castle2_Red" ItemName="R_TBW03_120"/>
+			<Class ClassID="10603" Group="ID_Castle2_Red" ItemName="R_BOW03_202"/>
+			<Class ClassID="10604" Group="ID_Castle2_Red" ItemName="R_MAC03_204"/>
+			<Class ClassID="10605" Group="ID_Castle2_Red" ItemName="R_PST03_101"/>
+			<Class ClassID="10606" Group="ID_Castle2_Red" ItemName="R_CAN03_101"/>
+			<Class ClassID="10607" Group="ID_Castle2_Red" ItemName="R_MUS03_104"/>
+			<Class ClassID="10608" Group="ID_Castle2_Red" ItemName="card_molich"/>
+			<Class ClassID="10609" Group="ID_Castle2_Red" ItemName="card_Riteris"/>
+			<Class ClassID="10610" Group="ID_Castle2_Red" ItemName="R_TMAC03_106"/>
+			<Class ClassID="10611" Group="ID_Castle2_Red" ItemName="misc_ore16"/>
+			<Class ClassID="10612" Group="ID_Castle2_Red" ItemName="R_TBW04_109"/>
+			<Class ClassID="10613" Group="ID_Castle2_Red" ItemName="R_BOW04_109"/>
+			<Class ClassID="10614" Group="ID_Castle2_Red" ItemName="R_TMAC04_101"/>
+			<Class ClassID="10615" Group="ID_Castle2_Red" ItemName="R_MAC04_111"/>
+			<Class ClassID="10616" Group="ID_Castle2_Red" ItemName="R_TSF04_109"/>
+			<Class ClassID="10617" Group="ID_Castle2_Red" ItemName="R_PST04_104"/>
+			<Class ClassID="10618" Group="ID_Castle2_Red" ItemName="R_CAN04_103"/>
+			<Class ClassID="10619" Group="ID_Castle2_Red" ItemName="R_MUS04_103"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_whitetrees_LegCard">
+			<Class ClassID="10701" Group="ID_whitetrees_LegCard" ItemName="Gacha_ID_315_Piece"/>
+			<Class ClassID="10702" Group="ID_whitetrees_LegCard" ItemName="SWD04_117"/>
+			<Class ClassID="10703" Group="ID_whitetrees_LegCard" ItemName="TSW04_117"/>
+			<Class ClassID="10704" Group="ID_whitetrees_LegCard" ItemName="STF04_118"/>
+			<Class ClassID="10705" Group="ID_whitetrees_LegCard" ItemName="TSF04_117"/>
+			<Class ClassID="10706" Group="ID_whitetrees_LegCard" ItemName="TBW04_117"/>
+			<Class ClassID="10707" Group="ID_whitetrees_LegCard" ItemName="BOW04_117"/>
+			<Class ClassID="10708" Group="ID_whitetrees_LegCard" ItemName="MAC04_119"/>
+			<Class ClassID="10709" Group="ID_whitetrees_LegCard" ItemName="SPR04_118"/>
+			<Class ClassID="10710" Group="ID_whitetrees_LegCard" ItemName="TSP04_119"/>
+			<Class ClassID="10711" Group="ID_whitetrees_LegCard" ItemName="RAP04_112"/>
+			<Class ClassID="10712" Group="ID_whitetrees_LegCard" ItemName="PST04_110"/>
+			<Class ClassID="10713" Group="ID_whitetrees_LegCard" ItemName="MUS04_108"/>
+			<Class ClassID="10714" Group="ID_whitetrees_LegCard" ItemName="DAG04_113"/>
+			<Class ClassID="10715" Group="ID_whitetrees_LegCard" ItemName="TMAC04_108"/>
+			<Class ClassID="10716" Group="ID_whitetrees_LegCard" ItemName="SHD04_113"/>
+			<Class ClassID="10717" Group="ID_whitetrees_LegCard" ItemName="CAN04_108"/>
+			<Class ClassID="10718" Group="ID_whitetrees_LegCard" ItemName="TOP04_133"/>
+			<Class ClassID="10719" Group="ID_whitetrees_LegCard" ItemName="TOP04_134"/>
+			<Class ClassID="10720" Group="ID_whitetrees_LegCard" ItemName="TOP04_135"/>
+			<Class ClassID="10721" Group="ID_whitetrees_LegCard" ItemName="LEG04_133"/>
+			<Class ClassID="10722" Group="ID_whitetrees_LegCard" ItemName="LEG04_134"/>
+			<Class ClassID="10723" Group="ID_whitetrees_LegCard" ItemName="LEG04_135"/>
+			<Class ClassID="10724" Group="ID_whitetrees_LegCard" ItemName="FOOT04_136"/>
+			<Class ClassID="10725" Group="ID_whitetrees_LegCard" ItemName="FOOT04_137"/>
+			<Class ClassID="10726" Group="ID_whitetrees_LegCard" ItemName="FOOT04_138"/>
+			<Class ClassID="10727" Group="ID_whitetrees_LegCard" ItemName="HAND04_134"/>
+			<Class ClassID="10728" Group="ID_whitetrees_LegCard" ItemName="HAND04_135"/>
+			<Class ClassID="10729" Group="ID_whitetrees_LegCard" ItemName="HAND04_136"/>
+			<Class ClassID="10730" Group="ID_whitetrees_LegCard" ItemName="R_Old_Socket_Gold"/>
+			<Class ClassID="10731" Group="ID_whitetrees_LegCard" ItemName="Legend_card_Kucarry_Balzermance"/>
+			<Class ClassID="10732" Group="ID_whitetrees_LegCard" ItemName="TRK04_105"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Castle2">
+			<Class ClassID="10800" Group="ID_Castle2" ItemName="misc_talt"/>
+			<Class ClassID="10801" Group="ID_Castle2" ItemName="misc_talt"/>
+			<Class ClassID="10802" Group="ID_Castle2" ItemName="R_TBW03_120"/>
+			<Class ClassID="10803" Group="ID_Castle2" ItemName="R_BOW03_202"/>
+			<Class ClassID="10804" Group="ID_Castle2" ItemName="R_MAC03_204"/>
+			<Class ClassID="10805" Group="ID_Castle2" ItemName="R_PST03_101"/>
+			<Class ClassID="10806" Group="ID_Castle2" ItemName="R_CAN03_101"/>
+			<Class ClassID="10807" Group="ID_Castle2" ItemName="R_MUS03_104"/>
+			<Class ClassID="10808" Group="ID_Castle2" ItemName="card_Armaox"/>
+			<Class ClassID="10809" Group="ID_Castle2" ItemName="card_Rambandgad"/>
+			<Class ClassID="10810" Group="ID_Castle2" ItemName="R_TMAC03_106"/>
+			<Class ClassID="10811" Group="ID_Castle2" ItemName="misc_ore16"/>
+			<Class ClassID="10812" Group="ID_Castle2" ItemName="R_TBW04_109"/>
+			<Class ClassID="10813" Group="ID_Castle2" ItemName="R_BOW04_109"/>
+			<Class ClassID="10814" Group="ID_Castle2" ItemName="R_TMAC04_101"/>
+			<Class ClassID="10815" Group="ID_Castle2" ItemName="R_MAC04_111"/>
+			<Class ClassID="10816" Group="ID_Castle2" ItemName="R_TSF04_109"/>
+			<Class ClassID="10817" Group="ID_Castle2" ItemName="R_PST04_104"/>
+			<Class ClassID="10818" Group="ID_Castle2" ItemName="R_CAN04_103"/>
+			<Class ClassID="10819" Group="ID_Castle2" ItemName="R_MUS04_103"/>
+			<Class ClassID="10820" Group="ID_Castle2" ItemName="R_SWD03_120"/>
+			<Class ClassID="10821" Group="ID_Castle2" ItemName="R_TSW03_120"/>
+			<Class ClassID="10822" Group="ID_Castle2" ItemName="R_STF03_120"/>
+			<Class ClassID="10823" Group="ID_Castle2" ItemName="R_SHD03_110"/>
+			<Class ClassID="10824" Group="ID_Castle2" ItemName="R_SPR03_115"/>
+			<Class ClassID="10825" Group="ID_Castle2" ItemName="R_TSP03_115"/>
+			<Class ClassID="10826" Group="ID_Castle2" ItemName="R_DAG03_105"/>
+			<Class ClassID="10827" Group="ID_Castle2" ItemName="R_TSF03_120"/>
+			<Class ClassID="10828" Group="ID_Castle2" ItemName="R_RAP03_305"/>
+			<Class ClassID="10829" Group="ID_Castle2" ItemName="R_TSW04_109"/>
+			<Class ClassID="10830" Group="ID_Castle2" ItemName="R_SWD04_109"/>
+			<Class ClassID="10831" Group="ID_Castle2" ItemName="R_STF04_110"/>
+			<Class ClassID="10832" Group="ID_Castle2" ItemName="R_SHD04_105"/>
+			<Class ClassID="10833" Group="ID_Castle2" ItemName="R_SPR04_110"/>
+			<Class ClassID="10834" Group="ID_Castle2" ItemName="R_TSP04_111"/>
+			<Class ClassID="10835" Group="ID_Castle2" ItemName="R_DAG04_104"/>
+			<Class ClassID="10836" Group="ID_Castle2" ItemName="R_RAP04_106"/>
+		</subcategory>
+		<subcategory Name="ID_sausis_9th">
+			<Class ClassID="10900" Group="ID_sausis_9th" ItemName="misc_ore23"/>
+			<Class ClassID="10901" Group="ID_sausis_9th" ItemName="misc_ore23"/>
+			<Class ClassID="10902" Group="ID_sausis_9th" ItemName="misc_ore23"/>
+			<Class ClassID="10903" Group="ID_sausis_9th" ItemName="misc_ore23"/>
+			<Class ClassID="10904" Group="ID_sausis_9th" ItemName="misc_ore23"/>
+			<Class ClassID="10905" Group="ID_sausis_9th" ItemName="misc_ore23"/>
+			<Class ClassID="10906" Group="ID_sausis_9th" ItemName="misc_ore15"/>
+			<Class ClassID="10907" Group="ID_sausis_9th" ItemName="FOOT03_319"/>
+			<Class ClassID="10908" Group="ID_sausis_9th" ItemName="HAND04_112"/>
+			<Class ClassID="10909" Group="ID_sausis_9th" ItemName="NECK04_115"/>
+			<Class ClassID="10910" Group="ID_sausis_9th" ItemName="NECK04_116"/>
+			<Class ClassID="10911" Group="ID_sausis_9th" ItemName="NECK04_117"/>
+			<Class ClassID="10912" Group="ID_sausis_9th" ItemName="BRC04_115"/>
+			<Class ClassID="10913" Group="ID_sausis_9th" ItemName="BRC04_116"/>
+			<Class ClassID="10914" Group="ID_sausis_9th" ItemName="BRC04_117"/>
+			<Class ClassID="10915" Group="ID_sausis_9th" ItemName="Legend_card_FrosterLord"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Ranko">
+			<Class ClassID="11000" Group="ID_Ranko" ItemName="misc_talt"/>
+			<Class ClassID="11001" Group="ID_Ranko" ItemName="misc_talt"/>
+			<Class ClassID="11002" Group="ID_Ranko" ItemName="misc_ore13"/>
+			<Class ClassID="11003" Group="ID_Ranko" ItemName="misc_ore14"/>
+			<Class ClassID="11004" Group="ID_Ranko" ItemName="misc_ore24"/>
+			<Class ClassID="11005" Group="ID_Ranko" ItemName="misc_ore25"/>
+			<Class ClassID="11006" Group="ID_Ranko" ItemName="misc_0228"/>
+			<Class ClassID="11007" Group="ID_Ranko" ItemName="misc_ore10"/>
+			<Class ClassID="11008" Group="ID_Ranko" ItemName="card_varleking"/>
+		</subcategory>
+		<subcategory Name="Cube_WEISTREL">
+			<Class ClassID="11100" Group="ID_WEISTREL" ItemName="Gacha_ID_380_Weistrel_Piece"/>
+			<Class ClassID="11101" Group="ID_WEISTREL" ItemName="misc_ore15"/>
+			<Class ClassID="11102" Group="ID_WEISTREL" ItemName="SWD04_119"/>
+			<Class ClassID="11103" Group="ID_WEISTREL" ItemName="TSW04_119"/>
+			<Class ClassID="11104" Group="ID_WEISTREL" ItemName="STF04_121"/>
+			<Class ClassID="11105" Group="ID_WEISTREL" ItemName="TSF04_19"/>
+			<Class ClassID="11106" Group="ID_WEISTREL" ItemName="TBW04_119"/>
+			<Class ClassID="11107" Group="ID_WEISTREL" ItemName="BOW04_119"/>
+			<Class ClassID="11108" Group="ID_WEISTREL" ItemName="MAC04_121"/>
+			<Class ClassID="11109" Group="ID_WEISTREL" ItemName="SPR04_120"/>
+			<Class ClassID="11110" Group="ID_WEISTREL" ItemName="TSP04_121"/>
+			<Class ClassID="11111" Group="ID_WEISTREL" ItemName="RAP04_114"/>
+			<Class ClassID="11112" Group="ID_WEISTREL" ItemName="PST04_112"/>
+			<Class ClassID="11113" Group="ID_WEISTREL" ItemName="MUS04_110"/>
+			<Class ClassID="11114" Group="ID_WEISTREL" ItemName="DAG04_115"/>
+			<Class ClassID="11115" Group="ID_WEISTREL" ItemName="TMAC04_110"/>
+			<Class ClassID="11116" Group="ID_WEISTREL" ItemName="SHD04_115"/>
+			<Class ClassID="11117" Group="ID_WEISTREL" ItemName="CAN04_110"/>
+			<Class ClassID="11118" Group="ID_WEISTREL" ItemName="R_Old_Socket_Gold"/>
+			<Class ClassID="11119" Group="ID_WEISTREL" ItemName="Legend_card_Wastrel"/>
+			<Class ClassID="11120" Group="ID_WEISTREL" ItemName="TRK04_106"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_ASIO_380">
+			<Class ClassID="11200" Group="ID_ASIO_380" ItemName="Gacha_ID_380_Asio_Piece"/>
+			<Class ClassID="11201" Group="ID_ASIO_380" ItemName="misc_ore15"/>
+			<Class ClassID="11202" Group="ID_ASIO_380" ItemName="SWD04_120"/>
+			<Class ClassID="11203" Group="ID_ASIO_380" ItemName="TSW04_120"/>
+			<Class ClassID="11204" Group="ID_ASIO_380" ItemName="STF04_120"/>
+			<Class ClassID="11205" Group="ID_ASIO_380" ItemName="TSF04_120"/>
+			<Class ClassID="11206" Group="ID_ASIO_380" ItemName="TBW04_120"/>
+			<Class ClassID="11207" Group="ID_ASIO_380" ItemName="BOW04_120"/>
+			<Class ClassID="11208" Group="ID_ASIO_380" ItemName="MAC04_122"/>
+			<Class ClassID="11209" Group="ID_ASIO_380" ItemName="SPR04_121"/>
+			<Class ClassID="11210" Group="ID_ASIO_380" ItemName="TSP04_122"/>
+			<Class ClassID="11211" Group="ID_ASIO_380" ItemName="RAP04_115"/>
+			<Class ClassID="11212" Group="ID_ASIO_380" ItemName="PST04_113"/>
+			<Class ClassID="11213" Group="ID_ASIO_380" ItemName="MUS04_111"/>
+			<Class ClassID="11214" Group="ID_ASIO_380" ItemName="DAG04_116"/>
+			<Class ClassID="11215" Group="ID_ASIO_380" ItemName="TMAC04_111"/>
+			<Class ClassID="11216" Group="ID_ASIO_380" ItemName="SHD04_116"/>
+			<Class ClassID="11217" Group="ID_ASIO_380" ItemName="CAN04_111"/>
+			<Class ClassID="11218" Group="ID_ASIO_380" ItemName="R_Old_Socket_Gold"/>
+			<Class ClassID="11219" Group="ID_ASIO_380" ItemName="Legend_card_Acio"/>
+			<Class ClassID="11220" Group="ID_ASIO_380" ItemName="TRK04_107"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_ignas">
+			<Class ClassID="11300" Group="ID_ignas" ItemName="Gacha_ID_380_ignas_Piece"/>
+			<Class ClassID="11301" Group="ID_ignas" ItemName="misc_ore15"/>
+			<Class ClassID="11302" Group="ID_ignas" ItemName="TOP04_139"/>
+			<Class ClassID="11303" Group="ID_ignas" ItemName="TOP04_140"/>
+			<Class ClassID="11304" Group="ID_ignas" ItemName="TOP04_141"/>
+			<Class ClassID="11305" Group="ID_ignas" ItemName="LEG04_139"/>
+			<Class ClassID="11306" Group="ID_ignas" ItemName="LEG04_140"/>
+			<Class ClassID="11307" Group="ID_ignas" ItemName="LEG04_141"/>
+			<Class ClassID="11308" Group="ID_ignas" ItemName="HAND04_140"/>
+			<Class ClassID="11309" Group="ID_ignas" ItemName="HAND04_141"/>
+			<Class ClassID="11310" Group="ID_ignas" ItemName="HAND04_142"/>
+			<Class ClassID="11311" Group="ID_ignas" ItemName="FOOT04_139"/>
+			<Class ClassID="11312" Group="ID_ignas" ItemName="FOOT04_140"/>
+			<Class ClassID="11313" Group="ID_ignas" ItemName="FOOT04_141"/>
+			<Class ClassID="11314" Group="ID_ignas" ItemName="R_Old_Socket_Gold"/>
+			<Class ClassID="11315" Group="ID_ignas" ItemName="Legend_card_ignas"/>
+		</subcategory>
+		<subcategory Name="Cube-ID_Chaple2">
+			<Class ClassID="11400" Group="ID_Chaple2" ItemName="misc_talt"/>
+			<Class ClassID="11401" Group="ID_Chaple2" ItemName="card_ShadowGaoler"/>
+		</subcategory>
+		<subcategory Name="ID_Remains2">
+			<Class ClassID="11500" Group="ID_Remains3_2" ItemName="misc_talt"/>
+			<Class ClassID="11501" Group="ID_Remains3_2" ItemName="card_Flammidus"/>
+		</subcategory>
+		<subcategory Name="ID_Remains3_2">
+			<Class ClassID="11600" Group="Indun_Castle2_3" ItemName="misc_talt"/>
+			<Class ClassID="11601" Group="Indun_Castle2_3" ItemName="card_Rambandgad"/>
+			<Class ClassID="11602" Group="Indun_Castle2_3" ItemName="card_Armaox"/>
+		</subcategory>
+		<subcategory Name="Indun_Castle2_3">
+			<Class ClassID="11700" Group="ID_Ranko2" ItemName="misc_talt"/>
+			<Class ClassID="11701" Group="ID_Ranko2" ItemName="card_varleking"/>
+		</subcategory>
+		<subcategory Name="ID_Ranko2">
+			<Class ClassID="11800" Group="ID_Remains2" ItemName="misc_talt"/>
+			<Class ClassID="11801" Group="ID_Remains2" ItemName="card_necrovanter"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_Skiaclipse">
+			<Class ClassID="11901" Group="ID_skiaclips" ItemName="Gacha_Unique_400_Piece"/>
+			<Class ClassID="11902" Group="ID_skiaclips" ItemName="R_TOP04_147"/>
+			<Class ClassID="11903" Group="ID_skiaclips" ItemName="R_LEG04_147"/>
+			<Class ClassID="11904" Group="ID_skiaclips" ItemName="R_HAND04_149"/>
+			<Class ClassID="11905" Group="ID_skiaclips" ItemName="R_FOOT04_147"/>
+			<Class ClassID="11906" Group="ID_skiaclips" ItemName="R_TOP04_145"/>
+			<Class ClassID="11907" Group="ID_skiaclips" ItemName="R_LEG04_145"/>
+			<Class ClassID="11908" Group="ID_skiaclips" ItemName="R_HAND04_147"/>
+			<Class ClassID="11909" Group="ID_skiaclips" ItemName="R_FOOT04_145"/>
+			<Class ClassID="11910" Group="ID_skiaclips" ItemName="R_TOP04_146"/>
+			<Class ClassID="11911" Group="ID_skiaclips" ItemName="R_LEG04_146"/>
+			<Class ClassID="11912" Group="ID_skiaclips" ItemName="R_HAND04_148"/>
+			<Class ClassID="11913" Group="ID_skiaclips" ItemName="R_FOOT04_146"/>
+			<Class ClassID="11914" Group="ID_skiaclips" ItemName="R_SWD04_122"/>
+			<Class ClassID="11915" Group="ID_skiaclips" ItemName="R_TSW04_122"/>
+			<Class ClassID="11916" Group="ID_skiaclips" ItemName="R_MAC04_124"/>
+			<Class ClassID="11917" Group="ID_skiaclips" ItemName="R_TMAC04_113"/>
+			<Class ClassID="11918" Group="ID_skiaclips" ItemName="R_BOW04_122"/>
+			<Class ClassID="11919" Group="ID_skiaclips" ItemName="R_TBW04_122"/>
+			<Class ClassID="11920" Group="ID_skiaclips" ItemName="R_PST04_117"/>
+			<Class ClassID="11921" Group="ID_skiaclips" ItemName="R_MUS04_114"/>
+			<Class ClassID="11922" Group="ID_skiaclips" ItemName="R_SPR04_123"/>
+			<Class ClassID="11923" Group="ID_skiaclips" ItemName="R_TSP04_124"/>
+			<Class ClassID="11924" Group="ID_skiaclips" ItemName="R_SHD04_118"/>
+			<Class ClassID="11925" Group="ID_skiaclips" ItemName="R_DAG04_118"/>
+			<Class ClassID="11926" Group="ID_skiaclips" ItemName="R_CAN04_114"/>
+			<Class ClassID="11927" Group="ID_skiaclips" ItemName="R_STF04_123"/>
+			<Class ClassID="11928" Group="ID_skiaclips" ItemName="R_TSF04_122"/>
+			<Class ClassID="11929" Group="ID_skiaclips" ItemName="R_RAP04_119"/>
+			<Class ClassID="11930" Group="ID_skiaclips" ItemName="R_MAC04_125"/>
+			<Class ClassID="11931" Group="ID_skiaclips" ItemName="R_TMAC04_114"/>
+			<Class ClassID="11932" Group="ID_skiaclips" ItemName="R_TSF04_123"/>
+			<Class ClassID="11933" Group="ID_skiaclips" ItemName="R_TSF04_124"/>
+			<Class ClassID="11934" Group="ID_skiaclips" ItemName="R_RAP04_120"/>
+			<Class ClassID="11935" Group="ID_skiaclips" ItemName="R_DAG04_119"/>
+			<Class ClassID="11936" Group="ID_skiaclips" ItemName="R_TOP04_150"/>
+			<Class ClassID="11937" Group="ID_skiaclips" ItemName="R_LEG04_150"/>
+			<Class ClassID="11938" Group="ID_skiaclips" ItemName="R_HAND04_152"/>
+			<Class ClassID="11939" Group="ID_skiaclips" ItemName="R_FOOT04_150"/>
+			<Class ClassID="11940" Group="ID_skiaclips" ItemName="R_TOP04_148"/>
+			<Class ClassID="11941" Group="ID_skiaclips" ItemName="R_LEG04_148"/>
+			<Class ClassID="11942" Group="ID_skiaclips" ItemName="R_HAND04_150"/>
+			<Class ClassID="11943" Group="ID_skiaclips" ItemName="R_FOOT04_148"/>
+			<Class ClassID="11944" Group="ID_skiaclips" ItemName="R_TOP04_149"/>
+			<Class ClassID="11945" Group="ID_skiaclips" ItemName="R_LEG04_149"/>
+			<Class ClassID="11946" Group="ID_skiaclips" ItemName="R_HAND04_151"/>
+			<Class ClassID="11947" Group="ID_skiaclips" ItemName="R_FOOT04_149"/>
+			<Class ClassID="11948" Group="ID_skiaclips" ItemName="SWD04_122"/>
+			<Class ClassID="11949" Group="ID_skiaclips" ItemName="TSW04_122"/>
+			<Class ClassID="11950" Group="ID_skiaclips" ItemName="MAC04_124"/>
+			<Class ClassID="11951" Group="ID_skiaclips" ItemName="TMAC04_113"/>
+			<Class ClassID="11952" Group="ID_skiaclips" ItemName="BOW04_122"/>
+			<Class ClassID="11953" Group="ID_skiaclips" ItemName="TBW04_122"/>
+			<Class ClassID="11954" Group="ID_skiaclips" ItemName="PST04_117"/>
+			<Class ClassID="11955" Group="ID_skiaclips" ItemName="MUS04_114"/>
+			<Class ClassID="11956" Group="ID_skiaclips" ItemName="SPR04_123"/>
+			<Class ClassID="11957" Group="ID_skiaclips" ItemName="TSP04_124"/>
+			<Class ClassID="11958" Group="ID_skiaclips" ItemName="SHD04_118"/>
+			<Class ClassID="11959" Group="ID_skiaclips" ItemName="DAG04_118"/>
+			<Class ClassID="11960" Group="ID_skiaclips" ItemName="CAN04_114"/>
+			<Class ClassID="11961" Group="ID_skiaclips" ItemName="STF04_123"/>
+			<Class ClassID="11962" Group="ID_skiaclips" ItemName="TSF04_122"/>
+			<Class ClassID="11963" Group="ID_skiaclips" ItemName="RAP04_119"/>
+			<Class ClassID="11964" Group="ID_skiaclips" ItemName="TOP04_147"/>
+			<Class ClassID="11965" Group="ID_skiaclips" ItemName="LEG04_147"/>
+			<Class ClassID="11966" Group="ID_skiaclips" ItemName="HAND04_149"/>
+			<Class ClassID="11967" Group="ID_skiaclips" ItemName="FOOT04_147"/>
+			<Class ClassID="11968" Group="ID_skiaclips" ItemName="TOP04_145"/>
+			<Class ClassID="11969" Group="ID_skiaclips" ItemName="LEG04_145"/>
+			<Class ClassID="11970" Group="ID_skiaclips" ItemName="HAND04_147"/>
+			<Class ClassID="11971" Group="ID_skiaclips" ItemName="FOOT04_145"/>
+			<Class ClassID="11972" Group="ID_skiaclips" ItemName="TOP04_146"/>
+			<Class ClassID="11973" Group="ID_skiaclips" ItemName="LEG04_146"/>
+			<Class ClassID="11974" Group="ID_skiaclips" ItemName="HAND04_148"/>
+			<Class ClassID="11975" Group="ID_skiaclips" ItemName="FOOT04_146"/>
+			<Class ClassID="11976" Group="ID_skiaclips" ItemName="MAC04_125"/>
+			<Class ClassID="11977" Group="ID_skiaclips" ItemName="TMAC04_114"/>
+			<Class ClassID="11978" Group="ID_skiaclips" ItemName="TSF04_123"/>
+			<Class ClassID="11979" Group="ID_skiaclips" ItemName="TSF04_124"/>
+			<Class ClassID="11980" Group="ID_skiaclips" ItemName="RAP04_120"/>
+			<Class ClassID="11981" Group="ID_skiaclips" ItemName="DAG04_119"/>
+			<Class ClassID="11982" Group="ID_skiaclips" ItemName="TOP04_150"/>
+			<Class ClassID="11983" Group="ID_skiaclips" ItemName="LEG04_150"/>
+			<Class ClassID="11984" Group="ID_skiaclips" ItemName="HAND04_152"/>
+			<Class ClassID="11985" Group="ID_skiaclips" ItemName="FOOT04_150"/>
+			<Class ClassID="11986" Group="ID_skiaclips" ItemName="TOP04_148"/>
+			<Class ClassID="11987" Group="ID_skiaclips" ItemName="LEG04_148"/>
+			<Class ClassID="11988" Group="ID_skiaclips" ItemName="HAND04_150"/>
+			<Class ClassID="11989" Group="ID_skiaclips" ItemName="FOOT04_148"/>
+			<Class ClassID="11990" Group="ID_skiaclips" ItemName="TOP04_149"/>
+			<Class ClassID="11991" Group="ID_skiaclips" ItemName="LEG04_149"/>
+			<Class ClassID="11992" Group="ID_skiaclips" ItemName="HAND04_151"/>
+			<Class ClassID="11993" Group="ID_skiaclips" ItemName="FOOT04_149"/>
+			<Class ClassID="11994" Group="ID_skiaclips" ItemName="card_skiaclips"/>
+			<Class ClassID="11995" Group="ID_skiaclips" ItemName="R_Old_Socket_Gold"/>
+			<Class ClassID="11996" Group="ID_skiaclips" ItemName="misc_ore15"/>
+			<Class ClassID="11997" Group="ID_skiaclips" ItemName="TRK04_108"/>
+		</subcategory>
+		<subcategory Name="Cube_Gacha_ID_Frost_Piece">
+			<Class ClassID="11998" Group="Gacha_ID_Frost_Piece" ItemName="Gacha_ID_Frost_Piece"/>
+		</subcategory>
+		<subcategory Name="Cube_whitetrees_Piece">
+			<Class ClassID="11999" Group="whitetrees_Piece" ItemName="Gacha_ID_315_Piece"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_ASIO_PIECE">
+			<Class ClassID="12000" Group="ID_ASIO_PIECE" ItemName="Gacha_ID_380_Asio_Piece"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_WEISTREL_PIECE">
+			<Class ClassID="12001" Group="ID_WEISTREL_PIECE" ItemName="Gacha_ID_380_Weistrel_Piece"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_ignas_PIECE">
+			<Class ClassID="12002" Group="ID_ignas_PIECE" ItemName="Gacha_ID_380_ignas_Piece"/>
+		</subcategory>
+		<subcategory Name="Cube_ID_skiaclips_piece">
+			<Class ClassID="12003" Group="ID_skiaclips_piece" ItemName="Gacha_Unique_400_Piece"/>
+		</subcategory>
+		<subcategory Name="Cube_legend_skiaclips_piece">
+			<Class ClassID="12004" Group="legend_skiaclips_piece" ItemName="misc_ore27"/>
+			<Class ClassID="12005" Group="legend_skiaclips_piece" ItemName="helmet_baniclips"/>
+			<Class ClassID="12006" Group="legend_skiaclips_piece" ItemName="costume_Com_216"/>
+		</subcategory>
+	</category>
+	<category Name="Raid">
+		<subcategory Name="Cube-Raid_boss_blackGargoyle">
+			<Class ClassID="20001" Group="Raid_boss_blackGargoyle" ItemName="misc_ore26"/>
+			<Class ClassID="20002" Group="Raid_boss_blackGargoyle" ItemName="misc_ore26"/>
+			<Class ClassID="20003" Group="Raid_boss_blackGargoyle" ItemName="Dungeon_Key01"/>
+			<Class ClassID="20004" Group="Raid_boss_blackGargoyle" ItemName="Dungeon_Key01"/>
+			<Class ClassID="20005" Group="Raid_boss_blackGargoyle" ItemName="SWD05_102"/>
+			<Class ClassID="20006" Group="Raid_boss_blackGargoyle" ItemName="TSW05_102"/>
+			<Class ClassID="20007" Group="Raid_boss_blackGargoyle" ItemName="STF05_102"/>
+			<Class ClassID="20008" Group="Raid_boss_blackGargoyle" ItemName="TBW05_102"/>
+			<Class ClassID="20009" Group="Raid_boss_blackGargoyle" ItemName="BOW05_102"/>
+			<Class ClassID="20010" Group="Raid_boss_blackGargoyle" ItemName="MAC05_102"/>
+			<Class ClassID="20011" Group="Raid_boss_blackGargoyle" ItemName="TMAC05_104"/>
+			<Class ClassID="20012" Group="Raid_boss_blackGargoyle" ItemName="SPR05_102"/>
+			<Class ClassID="20013" Group="Raid_boss_blackGargoyle" ItemName="TSP05_102"/>
+			<Class ClassID="20014" Group="Raid_boss_blackGargoyle" ItemName="DAG05_102"/>
+			<Class ClassID="20015" Group="Raid_boss_blackGargoyle" ItemName="TSF05_102"/>
+			<Class ClassID="20016" Group="Raid_boss_blackGargoyle" ItemName="RAP05_102"/>
+			<Class ClassID="20017" Group="Raid_boss_blackGargoyle" ItemName="CAN05_102"/>
+			<Class ClassID="20018" Group="Raid_boss_blackGargoyle" ItemName="MUS05_102"/>
+			<Class ClassID="20019" Group="Raid_boss_blackGargoyle" ItemName="PST05_102"/>
+			<Class ClassID="20020" Group="Raid_boss_blackGargoyle" ItemName="SHD05_102"/>
+			<Class ClassID="20021" Group="Raid_boss_blackGargoyle" ItemName="TOP05_104"/>
+			<Class ClassID="20022" Group="Raid_boss_blackGargoyle" ItemName="TOP05_105"/>
+			<Class ClassID="20023" Group="Raid_boss_blackGargoyle" ItemName="TOP05_106"/>
+			<Class ClassID="20024" Group="Raid_boss_blackGargoyle" ItemName="LEG05_104"/>
+			<Class ClassID="20025" Group="Raid_boss_blackGargoyle" ItemName="LEG05_105"/>
+			<Class ClassID="20026" Group="Raid_boss_blackGargoyle" ItemName="LEG05_106"/>
+			<Class ClassID="20027" Group="Raid_boss_blackGargoyle" ItemName="FOOT05_104"/>
+			<Class ClassID="20028" Group="Raid_boss_blackGargoyle" ItemName="FOOT05_105"/>
+			<Class ClassID="20029" Group="Raid_boss_blackGargoyle" ItemName="FOOT05_106"/>
+			<Class ClassID="20030" Group="Raid_boss_blackGargoyle" ItemName="HAND05_104"/>
+			<Class ClassID="20031" Group="Raid_boss_blackGargoyle" ItemName="HAND05_105"/>
+			<Class ClassID="20032" Group="Raid_boss_blackGargoyle" ItemName="HAND05_106"/>
+			<Class ClassID="20033" Group="Raid_boss_blackGargoyle" ItemName="helmet_velcoffer"/>
+			<Class ClassID="20034" Group="Raid_boss_blackGargoyle" ItemName="costume_Com_93"/>
+			<Class ClassID="20035" Group="Raid_boss_blackGargoyle" ItemName="NECK04_109"/>
+			<Class ClassID="20036" Group="Raid_boss_blackGargoyle" ItemName="NECK04_110"/>
+			<Class ClassID="20037" Group="Raid_boss_blackGargoyle" ItemName="BRC04_107"/>
+			<Class ClassID="20038" Group="Raid_boss_blackGargoyle" ItemName="BRC04_108"/>
+			<Class ClassID="20039" Group="Raid_boss_blackGargoyle" ItemName="Legend_card_Velcoffer"/>
+			<Class ClassID="20040" Group="Raid_boss_blackGargoyle" ItemName="TRK05_101"/>
+		</subcategory>
+		<subcategory Name="Cube-Raid_boss_Skiaclipse">
+			<Class ClassID="20041" Group="ID_skiaclips_legend" ItemName="SWD05_104"/>
+			<Class ClassID="20042" Group="ID_skiaclips_legend" ItemName="TSW05_104"/>
+			<Class ClassID="20043" Group="ID_skiaclips_legend" ItemName="STF05_104"/>
+			<Class ClassID="20044" Group="ID_skiaclips_legend" ItemName="TBW05_104"/>
+			<Class ClassID="20045" Group="ID_skiaclips_legend" ItemName="BOW05_104"/>
+			<Class ClassID="20046" Group="ID_skiaclips_legend" ItemName="MAC05_104"/>
+			<Class ClassID="20047" Group="ID_skiaclips_legend" ItemName="TMAC05_106"/>
+			<Class ClassID="20048" Group="ID_skiaclips_legend" ItemName="SHD05_104"/>
+			<Class ClassID="20049" Group="ID_skiaclips_legend" ItemName="SPR05_104"/>
+			<Class ClassID="20050" Group="ID_skiaclips_legend" ItemName="TSP05_104"/>
+			<Class ClassID="20051" Group="ID_skiaclips_legend" ItemName="DAG05_104"/>
+			<Class ClassID="20052" Group="ID_skiaclips_legend" ItemName="TSF05_104"/>
+			<Class ClassID="20053" Group="ID_skiaclips_legend" ItemName="PST05_104"/>
+			<Class ClassID="20054" Group="ID_skiaclips_legend" ItemName="RAP05_104"/>
+			<Class ClassID="20055" Group="ID_skiaclips_legend" ItemName="CAN05_106"/>
+			<Class ClassID="20056" Group="ID_skiaclips_legend" ItemName="MUS05_104"/>
+			<Class ClassID="20057" Group="ID_skiaclips_legend" ItemName="TOP05_110"/>
+			<Class ClassID="20058" Group="ID_skiaclips_legend" ItemName="TOP05_111"/>
+			<Class ClassID="20059" Group="ID_skiaclips_legend" ItemName="TOP05_112"/>
+			<Class ClassID="20060" Group="ID_skiaclips_legend" ItemName="LEG05_110"/>
+			<Class ClassID="20061" Group="ID_skiaclips_legend" ItemName="LEG05_111"/>
+			<Class ClassID="20062" Group="ID_skiaclips_legend" ItemName="LEG05_112"/>
+			<Class ClassID="20063" Group="ID_skiaclips_legend" ItemName="FOOT05_110"/>
+			<Class ClassID="20064" Group="ID_skiaclips_legend" ItemName="FOOT05_111"/>
+			<Class ClassID="20065" Group="ID_skiaclips_legend" ItemName="FOOT05_112"/>
+			<Class ClassID="20066" Group="ID_skiaclips_legend" ItemName="HAND05_110"/>
+			<Class ClassID="20067" Group="ID_skiaclips_legend" ItemName="HAND05_111"/>
+			<Class ClassID="20068" Group="ID_skiaclips_legend" ItemName="HAND05_112"/>
+			<Class ClassID="20069" Group="ID_skiaclips_legend" ItemName="helmet_baniclips"/>
+			<Class ClassID="20070" Group="ID_skiaclips_legend" ItemName="costume_Com_216"/>
+			<Class ClassID="20071" Group="ID_skiaclips_legend" ItemName="Legendcard_skiaclips"/>
+			<Class ClassID="20072" Group="ID_skiaclips_legend" ItemName="misc_ore27"/>
+			<Class ClassID="20073" Group="ID_skiaclips_legend" ItemName="TRK05_103"/>
+		</subcategory>
+		<subcategory Name="Cube_Unique_Raid_Boss_Moringponia">
+			<Class ClassID="20100" Group="Unique_Boss_Moringponia" ItemName="Gacha_MothRaid_piece"/>
+			<Class ClassID="20101" Group="Unique_Boss_Moringponia" ItemName="R_NECK04_120"/>
+			<Class ClassID="20102" Group="Unique_Boss_Moringponia" ItemName="R_NECK04_121"/>
+			<Class ClassID="20103" Group="Unique_Boss_Moringponia" ItemName="R_NECK04_122"/>
+			<Class ClassID="20104" Group="Unique_Boss_Moringponia" ItemName="R_BRC04_120"/>
+			<Class ClassID="20105" Group="Unique_Boss_Moringponia" ItemName="R_BRC04_121"/>
+			<Class ClassID="20106" Group="Unique_Boss_Moringponia" ItemName="R_BRC04_122"/>
+			<Class ClassID="20107" Group="Unique_Boss_Moringponia" ItemName="costume_Com_253"/>
+			<Class ClassID="20108" Group="Unique_Boss_Moringponia" ItemName="costume_Com_254"/>
+			<Class ClassID="20109" Group="Unique_Boss_Moringponia" ItemName="costume_Com_264"/>
+			<Class ClassID="20110" Group="Unique_Boss_Moringponia" ItemName="costume_Com_265"/>
+			<Class ClassID="20111" Group="Unique_Boss_Moringponia" ItemName="helmet_tantaliser1"/>
+			<Class ClassID="20112" Group="Unique_Boss_Moringponia" ItemName="helmet_moth1"/>
+			<Class ClassID="20113" Group="Unique_Boss_Moringponia" ItemName="helmet_tantaliser2"/>
+			<Class ClassID="20114" Group="Unique_Boss_Moringponia" ItemName="helmet_moth2"/>
+			<Class ClassID="20115" Group="Unique_Boss_Moringponia" ItemName="Hat_628355"/>
+			<Class ClassID="20116" Group="Unique_Boss_Moringponia" ItemName="Hat_628356"/>
+			<Class ClassID="20117" Group="Unique_Boss_Moringponia" ItemName="card_tantaliser"/>
+		</subcategory>
+		<subcategory Name="Cube_Raid_Boss_Moringponia_solo">
+			<Class ClassID="20200" Group="Unique_Moringponia_piece" ItemName="Gacha_MothRaid_piece"/>
+		</subcategory>
+		<subcategory Name="Cube_Legend_Raid_Boss_Moringponia">
+			<Class ClassID="20300" Group="Legend_Boss_Moringponia" ItemName="Legend_Misc_Mothacc"/>
+			<Class ClassID="20301" Group="Legend_Boss_Moringponia" ItemName="wing_tantaliser1"/>
+			<Class ClassID="20302" Group="Legend_Boss_Moringponia" ItemName="wing_moth1"/>
+			<Class ClassID="20303" Group="Legend_Boss_Moringponia" ItemName="wing_tantaliser2"/>
+			<Class ClassID="20304" Group="Legend_Boss_Moringponia" ItemName="wing_moth2"/>
+			<Class ClassID="20305" Group="Legend_Boss_Moringponia" ItemName="NECK05_008"/>
+			<Class ClassID="20306" Group="Legend_Boss_Moringponia" ItemName="NECK05_009"/>
+			<Class ClassID="20307" Group="Legend_Boss_Moringponia" ItemName="NECK05_010"/>
+			<Class ClassID="20308" Group="Legend_Boss_Moringponia" ItemName="NECK05_011"/>
+			<Class ClassID="20309" Group="Legend_Boss_Moringponia" ItemName="NECK05_012"/>
+			<Class ClassID="20310" Group="Legend_Boss_Moringponia" ItemName="Legendcard_tantaliser"/>
+			<Class ClassID="20311" Group="Legend_Boss_Moringponia" ItemName="BRC05_008"/>
+			<Class ClassID="20312" Group="Legend_Boss_Moringponia" ItemName="BRC05_009"/>
+			<Class ClassID="20313" Group="Legend_Boss_Moringponia" ItemName="BRC05_010"/>
+			<Class ClassID="20314" Group="Legend_Boss_Moringponia" ItemName="BRC05_011"/>
+			<Class ClassID="20315" Group="Legend_Boss_Moringponia" ItemName="BRC05_012"/>
+		</subcategory>
+		<subcategory Name="Cube_Legend_Boss_Moringponia_Easy">
+			<Class ClassID="20400" Group="Legend_Boss_Moringponia_Easy" ItemName="Legend_Misc_Mothacc_easy"/>
+		</subcategory>
+		<subcategory Name="Gacha_Legend_MothRaid_Hard">
+			<Class ClassID="20500" Group="Legend_Boss_Moringponia_Hard" ItemName="Legend_Misc_Mothacc_hard"/>
+			<Class ClassID="20501" Group="Legend_Boss_Moringponia_Hard" ItemName="misc_mothstone"/>
+			<Class ClassID="20502" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_001"/>
+			<Class ClassID="20503" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_002"/>
+			<Class ClassID="20504" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_003"/>
+			<Class ClassID="20505" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_004"/>
+			<Class ClassID="20506" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_005"/>
+			<Class ClassID="20507" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_006"/>
+			<Class ClassID="20508" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_NECK05_HIGH_007"/>
+			<Class ClassID="20509" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_001"/>
+			<Class ClassID="20510" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_002"/>
+			<Class ClassID="20511" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_003"/>
+			<Class ClassID="20512" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_004"/>
+			<Class ClassID="20513" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_005"/>
+			<Class ClassID="20514" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_006"/>
+			<Class ClassID="20515" Group="Legend_Boss_Moringponia_Hard" ItemName="EP12_BRC05_HIGH_007"/>
+		</subcategory>
+		<subcategory Name="Gacha_Unique_Glacier">
+			<Class ClassID="20600" Group="Unique_Raid_Glacier" ItemName="Gacha_Unique_430_Piece"/>
+			<Class ClassID="20601" Group="Unique_Raid_Glacier" ItemName="R_EP12_SWD04_001"/>
+			<Class ClassID="20602" Group="Unique_Raid_Glacier" ItemName="R_EP12_TSW04_001"/>
+			<Class ClassID="20603" Group="Unique_Raid_Glacier" ItemName="R_EP12_SPR04_001"/>
+			<Class ClassID="20604" Group="Unique_Raid_Glacier" ItemName="R_EP12_TSP04_001"/>
+			<Class ClassID="20605" Group="Unique_Raid_Glacier" ItemName="R_EP12_MAC04_001"/>
+			<Class ClassID="20606" Group="Unique_Raid_Glacier" ItemName="R_EP12_TMAC04_001"/>
+			<Class ClassID="20607" Group="Unique_Raid_Glacier" ItemName="R_EP12_TBW04_001"/>
+			<Class ClassID="20608" Group="Unique_Raid_Glacier" ItemName="R_EP12_CAN04_001"/>
+			<Class ClassID="20609" Group="Unique_Raid_Glacier" ItemName="R_EP12_SHD04_001"/>
+			<Class ClassID="20610" Group="Unique_Raid_Glacier" ItemName="R_EP12_RAP04_001"/>
+			<Class ClassID="20611" Group="Unique_Raid_Glacier" ItemName="R_EP12_DAG04_001"/>
+			<Class ClassID="20612" Group="Unique_Raid_Glacier" ItemName="R_EP12_MUS04_001"/>
+			<Class ClassID="20613" Group="Unique_Raid_Glacier" ItemName="R_EP12_STF04_001"/>
+			<Class ClassID="20614" Group="Unique_Raid_Glacier" ItemName="R_EP12_TSF04_001"/>
+			<Class ClassID="20615" Group="Unique_Raid_Glacier" ItemName="R_EP12_PST04_001"/>
+			<Class ClassID="20616" Group="Unique_Raid_Glacier" ItemName="R_EP12_BOW04_001"/>
+			<Class ClassID="20617" Group="Unique_Raid_Glacier" ItemName="R_EP12_TRK04_001"/>
+			<Class ClassID="20618" Group="Unique_Raid_Glacier" ItemName="R_EP12_TOP04_004"/>
+			<Class ClassID="20619" Group="Unique_Raid_Glacier" ItemName="R_EP12_TOP04_005"/>
+			<Class ClassID="20620" Group="Unique_Raid_Glacier" ItemName="R_EP12_TOP04_006"/>
+			<Class ClassID="20621" Group="Unique_Raid_Glacier" ItemName="R_EP12_LEG04_004"/>
+			<Class ClassID="20622" Group="Unique_Raid_Glacier" ItemName="R_EP12_LEG04_005"/>
+			<Class ClassID="20623" Group="Unique_Raid_Glacier" ItemName="R_EP12_LEG04_006"/>
+			<Class ClassID="20624" Group="Unique_Raid_Glacier" ItemName="R_EP12_FOOT04_004"/>
+			<Class ClassID="20625" Group="Unique_Raid_Glacier" ItemName="R_EP12_FOOT04_005"/>
+			<Class ClassID="20626" Group="Unique_Raid_Glacier" ItemName="R_EP12_FOOT04_006"/>
+			<Class ClassID="20627" Group="Unique_Raid_Glacier" ItemName="R_EP12_HAND04_004"/>
+			<Class ClassID="20628" Group="Unique_Raid_Glacier" ItemName="R_EP12_HAND04_005"/>
+			<Class ClassID="20629" Group="Unique_Raid_Glacier" ItemName="R_EP12_HAND04_006"/>
+			<Class ClassID="20630" Group="Unique_Raid_Glacier" ItemName="card_Glacier"/>
+		</subcategory>
+		<subcategory Name="Gacha_Legend_Glacier_Easy">
+			<Class ClassID="20700" Group="Legend_Raid_Glacier_Easy" ItemName="misc_glacier"/>
+		</subcategory>
+		<subcategory Name="Gacha_Legend_Glacier_Normal">
+			<Class ClassID="20800" Group="Legend_Raid_Glacier_Normal" ItemName="misc_glacier"/>
+			<Class ClassID="20801" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_SWORD"/>
+			<Class ClassID="20802" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_THSWORD"/>
+			<Class ClassID="20803" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_STAFF"/>
+			<Class ClassID="20804" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_THBOW"/>
+			<Class ClassID="20805" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_BOW"/>
+			<Class ClassID="20806" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_MACE"/>
+			<Class ClassID="20807" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_THMACE"/>
+			<Class ClassID="20808" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_SHIELD"/>
+			<Class ClassID="20809" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_SPEAR"/>
+			<Class ClassID="20810" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_THSPEAR"/>
+			<Class ClassID="20811" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_DAGGER"/>
+			<Class ClassID="20812" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_THSTAFF"/>
+			<Class ClassID="20813" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_PISTOL"/>
+			<Class ClassID="20814" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_RAPIER"/>
+			<Class ClassID="20815" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_CANNON"/>
+			<Class ClassID="20816" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_MUSKET"/>
+			<Class ClassID="20817" Group="Legend_Raid_Glacier_Normal" ItemName="EP12_RAID_TRINKET"/>
+			<Class ClassID="20818" Group="Legend_Raid_Glacier_Normal" ItemName="Legendcard_Glacier"/>
+		</subcategory>
+		<subcategory Name="Gacha_Legend_Glacier_Hard">
+			<Class ClassID="20900" Group="Legend_Raid_Glacier_Hard" ItemName="misc_glacier"/>
+			<Class ClassID="20901" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_SWORD"/>
+			<Class ClassID="20902" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_THSWORD"/>
+			<Class ClassID="20903" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_STAFF"/>
+			<Class ClassID="20904" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_THBOW"/>
+			<Class ClassID="20905" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_BOW"/>
+			<Class ClassID="20906" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_MACE"/>
+			<Class ClassID="20907" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_THMACE"/>
+			<Class ClassID="20908" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_SHIELD"/>
+			<Class ClassID="20909" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_SPEAR"/>
+			<Class ClassID="20910" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_THSPEAR"/>
+			<Class ClassID="20911" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_DAGGER"/>
+			<Class ClassID="20912" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_THSTAFF"/>
+			<Class ClassID="20913" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_PISTOL"/>
+			<Class ClassID="20914" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_RAPIER"/>
+			<Class ClassID="20915" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_CANNON"/>
+			<Class ClassID="20916" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_MUSKET"/>
+			<Class ClassID="20917" Group="Legend_Raid_Glacier_Hard" ItemName="EP12_RAID_TRINKET"/>
+			<Class ClassID="20918" Group="Legend_Raid_Glacier_Hard" ItemName="Legendcard_Glacier"/>
+		</subcategory>
+		<subcategory Name="Legend_Boss_Moringponia_Solo_Dummy">
+			<Class ClassID="22000" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="Legend_Misc_Mothacc_easy"/>
+			<Class ClassID="22001" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="Legend_Misc_Mothacc"/>
+			<Class ClassID="22002" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="helmet_tantaliser1"/>
+			<Class ClassID="22003" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="helmet_moth1"/>
+			<Class ClassID="22004" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="helmet_tantaliser2"/>
+			<Class ClassID="22005" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="helmet_moth2"/>
+			<Class ClassID="22006" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="costume_Com_264"/>
+			<Class ClassID="22007" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="costume_Com_265"/>
+			<Class ClassID="22008" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="costume_Com_253"/>
+			<Class ClassID="22009" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="costume_Com_254"/>
+			<Class ClassID="22010" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="wing_tantaliser1"/>
+			<Class ClassID="22011" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="wing_moth1"/>
+			<Class ClassID="22012" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="wing_tantaliser2"/>
+			<Class ClassID="22013" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="wing_moth2"/>
+			<Class ClassID="22014" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="Legendcard_tantaliser"/>
+			<Class ClassID="22025" Group="Legend_Boss_Moringponia_Solo_Dummy" ItemName="Legend_Misc_Mothacc_hard"/>
+		</subcategory>
+		<subcategory Name="Gacha_Unique_Glacier_Solo">
+			<Class ClassID="22100" Group="Gacha_Unique_430_Piece" ItemName="Gacha_Unique_430_Piece"/>
+		</subcategory>
+	</category>
+	<category Name="Event">
+		<subcategory Name="EVENT_1910_HALLOWEEN">
+			<Class ClassID="21000" Group="EVENT_1910_HALLOWEEN" ItemName="EVENT_HALLOWEENCANDY_1"/>
+			<Class ClassID="21001" Group="EVENT_1910_HALLOWEEN" ItemName="EVENT_HALLOWEENCANDY_2"/>
+		</subcategory>
+	</category>
+	<category Name="Private_Contents">
+		<subcategory Name="Ghaca_Iredian_lv380">
+			<Class ClassID="30001" Group="Iredian_lv380" ItemName="misc_BlessedStone"/>
+			<Class ClassID="30002" Group="Iredian_lv380" ItemName="misc_0530"/>
+			<Class ClassID="30003" Group="Iredian_lv380" ItemName="R_NECK04_118"/>
+			<Class ClassID="30004" Group="Iredian_lv380" ItemName="R_BRC04_118"/>
+			<Class ClassID="30005" Group="Iredian_lv380" ItemName="R_NECK04_119"/>
+			<Class ClassID="30006" Group="Iredian_lv380" ItemName="R_BRC04_119"/>
+			<Class ClassID="30007" Group="Iredian_lv380" ItemName="Seal_iredian_u_Sword"/>
+			<Class ClassID="30008" Group="Iredian_lv380" ItemName="Seal_iredian_u_Wizard"/>
+			<Class ClassID="30009" Group="Iredian_lv380" ItemName="Seal_iredian_u_Cleric"/>
+			<Class ClassID="30010" Group="Iredian_lv380" ItemName="Seal_iredian_u_Archer"/>
+			<Class ClassID="30011" Group="Iredian_lv380" ItemName="Seal_iredian_u_Scout"/>
+		</subcategory>
+		<subcategory Name="ID_Underground_waterway">
+			<Class ClassID="30012" Group="ID_Underground_waterway" ItemName="Legendcard_Misrus"/>
+			<Class ClassID="30013" Group="ID_Underground_waterway" ItemName="card_Misrus"/>
+			<Class ClassID="30014" Group="ID_Underground_waterway" ItemName="R_Legend_Misc_Misrus"/>
+			<Class ClassID="30015" Group="ID_Underground_waterway" ItemName="R_SWD04_124"/>
+			<Class ClassID="30016" Group="ID_Underground_waterway" ItemName="R_TSW04_124"/>
+			<Class ClassID="30017" Group="ID_Underground_waterway" ItemName="R_MAC04_127"/>
+			<Class ClassID="30018" Group="ID_Underground_waterway" ItemName="R_TMAC04_116"/>
+			<Class ClassID="30019" Group="ID_Underground_waterway" ItemName="R_BOW04_124"/>
+			<Class ClassID="30020" Group="ID_Underground_waterway" ItemName="R_TBW04_124"/>
+			<Class ClassID="30021" Group="ID_Underground_waterway" ItemName="R_PST04_120"/>
+			<Class ClassID="30022" Group="ID_Underground_waterway" ItemName="R_MUS04_116"/>
+			<Class ClassID="30023" Group="ID_Underground_waterway" ItemName="R_SPR04_125"/>
+			<Class ClassID="30024" Group="ID_Underground_waterway" ItemName="R_TSP04_126"/>
+			<Class ClassID="30025" Group="ID_Underground_waterway" ItemName="R_SHD04_120"/>
+			<Class ClassID="30026" Group="ID_Underground_waterway" ItemName="R_DAG04_121"/>
+			<Class ClassID="30027" Group="ID_Underground_waterway" ItemName="R_CAN04_116"/>
+			<Class ClassID="30028" Group="ID_Underground_waterway" ItemName="R_STF04_125"/>
+			<Class ClassID="30029" Group="ID_Underground_waterway" ItemName="R_TSF04_127"/>
+			<Class ClassID="30030" Group="ID_Underground_waterway" ItemName="R_RAP04_122"/>
+			<Class ClassID="30031" Group="ID_Underground_waterway" ItemName="R_TOP04_154"/>
+			<Class ClassID="30032" Group="ID_Underground_waterway" ItemName="R_LEG04_154"/>
+			<Class ClassID="30033" Group="ID_Underground_waterway" ItemName="R_HAND04_156"/>
+			<Class ClassID="30034" Group="ID_Underground_waterway" ItemName="R_FOOT04_154"/>
+			<Class ClassID="30035" Group="ID_Underground_waterway" ItemName="R_TOP04_155"/>
+			<Class ClassID="30036" Group="ID_Underground_waterway" ItemName="R_LEG04_155"/>
+			<Class ClassID="30037" Group="ID_Underground_waterway" ItemName="R_HAND04_157"/>
+			<Class ClassID="30038" Group="ID_Underground_waterway" ItemName="R_FOOT04_155"/>
+			<Class ClassID="30039" Group="ID_Underground_waterway" ItemName="R_TOP04_156"/>
+			<Class ClassID="30040" Group="ID_Underground_waterway" ItemName="R_LEG04_156"/>
+			<Class ClassID="30041" Group="ID_Underground_waterway" ItemName="R_HAND04_158"/>
+			<Class ClassID="30042" Group="ID_Underground_waterway" ItemName="R_FOOT04_156"/>
+			<Class ClassID="30043" Group="ID_Underground_waterway" ItemName="misc_0530"/>
+			<Class ClassID="30044" Group="ID_Underground_waterway" ItemName="Gacha_Legend_ID_Underground_waterway_piece"/>
+			<Class ClassID="30045" Group="ID_Underground_waterway" ItemName="R_TRK04_110"/>
+		</subcategory>
+		<subcategory Name="TelHarsha_Solo_Dummy">
+			<Class ClassID="30101" Group="TelHarsha_Solo_Dummy" ItemName="misc_Telharsha_neck"/>
+			<Class ClassID="30102" Group="TelHarsha_Solo_Dummy" ItemName="misc_0530"/>
+			<Class ClassID="30103" Group="TelHarsha_Solo_Dummy" ItemName="misc_ore15"/>
+			<Class ClassID="30104" Group="TelHarsha_Solo_Dummy" ItemName="Legendcard_TelHarcha"/>
+			<Class ClassID="30105" Group="TelHarsha_Solo_Dummy" ItemName="Seal_Boruta_Sword"/>
+			<Class ClassID="30106" Group="TelHarsha_Solo_Dummy" ItemName="Seal_Boruta_Wizard"/>
+			<Class ClassID="30107" Group="TelHarsha_Solo_Dummy" ItemName="Seal_Boruta_Cleric"/>
+			<Class ClassID="30108" Group="TelHarsha_Solo_Dummy" ItemName="Seal_Boruta_Archer"/>
+			<Class ClassID="30109" Group="TelHarsha_Solo_Dummy" ItemName="Seal_Boruta_Scout"/>
+			<Class ClassID="30110" Group="TelHarsha_Solo_Dummy" ItemName="Piece_LegendMisc"/>
+		</subcategory>
+	</category>
+</idspace>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="skill_buff_condition">
+	<Category Name="Defender">
+		<Class ClassID="1" ClassName="DefenderConditionBlind" BuffKeyword="Blind" Target="Defender" CT_Script="None"/>
+		<Class ClassID="2" ClassName="DefenderConditionCloaking" BuffKeyword="Cloaking" Target="Defender" CT_Script="None"/>
+		<Class ClassID="3" ClassName="DefenderConditionConfuse" BuffKeyword="Confuse" Target="Defender" CT_Script="None"/>
+		<Class ClassID="4" ClassName="DefenderConditionCurse" BuffKeyword="Curse" Target="Defender" CT_Script="None"/>
+		<Class ClassID="5" ClassName="DefenderConditionDrug" BuffKeyword="Drug" Target="Defender" CT_Script="None"/>
+		<Class ClassID="6" ClassName="DefenderConditionFear" BuffKeyword="Fear" Target="Defender" CT_Script="None"/>
+		<Class ClassID="7" ClassName="DefenderConditionFire" BuffKeyword="Fire" Target="Defender" CT_Script="None"/>
+		<Class ClassID="8" ClassName="DefenderConditionFlyingState" BuffKeyword="FlyingState" Target="Defender" CT_Script="None"/>
+		<Class ClassID="9" ClassName="DefenderConditionFreeze" BuffKeyword="Freeze" Target="Defender" CT_Script="None"/>
+		<Class ClassID="10" ClassName="DefenderConditionFrostbite" BuffKeyword="Frostbite" Target="Defender" CT_Script="None"/>
+		<Class ClassID="11" ClassName="DefenderConditionHardWound" BuffKeyword="HardWound" Target="Defender" CT_Script="None"/>
+		<Class ClassID="12" ClassName="DefenderConditionHelmet" BuffKeyword="Helmet" Target="Defender" CT_Script="None"/>
+		<Class ClassID="13" ClassName="DefenderConditionHold" BuffKeyword="Hold" Target="Defender" CT_Script="None"/>
+		<Class ClassID="14" ClassName="DefenderConditionPainBarrier" BuffKeyword="PainBarrier" Target="Defender" CT_Script="None"/>
+		<Class ClassID="15" ClassName="DefenderConditionPetrify" BuffKeyword="Petrify" Target="Defender" CT_Script="None"/>
+		<Class ClassID="16" ClassName="DefenderConditionPoison" BuffKeyword="Poison" Target="Defender" CT_Script="None"/>
+		<Class ClassID="17" ClassName="DefenderConditionProvoke" BuffKeyword="Provoke" Target="Defender" CT_Script="None"/>
+		<Class ClassID="18" ClassName="DefenderConditionRotten" BuffKeyword="Rotten" Target="Defender" CT_Script="None"/>
+		<Class ClassID="19" ClassName="DefenderConditionShield" BuffKeyword="Shield" Target="Defender" CT_Script="None"/>
+		<Class ClassID="20" ClassName="DefenderConditionShock" BuffKeyword="Shock" Target="Defender" CT_Script="None"/>
+		<Class ClassID="21" ClassName="DefenderConditionSilence" BuffKeyword="Silence" Target="Defender" CT_Script="None"/>
+		<Class ClassID="22" ClassName="DefenderConditionSleep" BuffKeyword="Sleep" Target="Defender" CT_Script="None"/>
+		<Class ClassID="23" ClassName="DefenderConditionSlow" BuffKeyword="Slow" Target="Defender" CT_Script="None"/>
+		<Class ClassID="24" ClassName="DefenderConditionStrap" BuffKeyword="Strap" Target="Defender" CT_Script="None"/>
+		<Class ClassID="25" ClassName="DefenderConditionStun" BuffKeyword="Stun" Target="Defender" CT_Script="None"/>
+		<Class ClassID="26" ClassName="DefenderConditionWound" BuffKeyword="Wound" Target="Defender" CT_Script="None"/>
+	</Category>
+	<Category Name="Attacker">
+		<Class ClassID="1001" ClassName="AttackerConditionPainBarrier" BuffKeyword="PainBarrier" Target="Attacker" CT_Script="None"/>
+	</Category>
+	<Category Name="BuffTimeModify">
+		<Class ClassID="10001" ClassName="murmillo_helmet" BuffKeyword="Stun" Percent="50" CT_Script="None"/>
+		<Class ClassID="10002" ClassName="Tenacity_Buff" BuffKeyword="DecreaseByMul" Percent="50" CT_Script="None"/>
+	</Category>
+</idspace>

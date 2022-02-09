@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Actor">
+	<Category Name="Actor">
+		<Class ClassID="1" ClassName="Actor" CP_MaxHateCount="GET_MAXHATE_COUNT" VP_MaxHateCount_BM="0"/>
+	</Category>
+</idspace>

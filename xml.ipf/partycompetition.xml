@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="PartyCompetition">
+	<Category Name="Mission">
+		<Class ClassID="1" ClassName="GodnessDefence" Name="여신상지키기" Time="#-1#20#0#10" MGame="godnessdefence" GenPos_1="#-292#559#-530" GenPos_2="#110#579#-1929" PartyType="Guild"/>
+		<!--		<Class ClassID="2" ClassName="BridgeBattle" Name="외나무다리전" Time="#-1#23#50#50" MGame="godnessdefence" GenPos_1="#208#134#204" GenPos_2="#-890#100#-55" PartyType="Guild"/>
+-->
+	</Category>
+</idspace>

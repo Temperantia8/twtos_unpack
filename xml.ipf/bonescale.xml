@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by MinstFaith (EMBRACE) -->
+<idspace id="BoneScale">
+	<Category>
+		<Class ClassID="1" ClassName="TestBone1" Name="머리키움" BoneName01="Bip01 Head" Scale01="2.0;2.0;2.0" BoneName02="None" Scale02="None" BoneName03="None" Scale03="None" BoneName04="None" Scale04="None" BoneName05="None" Scale05="None"/>
+		<Class ClassID="2" ClassName="TestBone2" Name="머리리줄임" BoneName01="Bip01 Head" Scale01="0.5;0.5;0.5" BoneName02="None" Scale02="None" BoneName03="None" Scale03="None" BoneName04="None" Scale04="None" BoneName05="None" Scale05="None"/>
+		<Class ClassID="3" ClassName="TestBone3" Name="양손키움" BoneName01="Bip01 L Hand" Scale01="2.0;2.0;2.0" BoneName02="Bip01 R Hand" Scale02="2.0;2.0;2.0" BoneName03="None" Scale03="None" BoneName04="None" Scale04="None" BoneName05="None" Scale05="None"/>
+		<Class ClassID="4" ClassName="TestBone4" Name="양발키움" BoneName01="Bip01 L Foot" Scale01="2.0;2.0;2.0" BoneName02="Bip01 R Foot" Scale02="2.0;2.0;2.0" BoneName03="None" Scale03="None" BoneName04="None" Scale04="None" BoneName05="None" Scale05="None"/>
+		<Class ClassID="5" ClassName="TestBone5" Name="머리양손양발키움" BoneName01="Bip01 Head" Scale01="2.0;2.0;2.0" BoneName02="Bip01 L Hand" Scale02="2.0;2.0;2.0" BoneName03="Bip01 R Hand" Scale03="2.0;2.0;2.0" BoneName04="Bip01 L Foot" Scale04="2.0;2.0;2.0" BoneName05="Bip01 R Foot" Scale05="2.0;2.0;2.0"/>
+	</Category>
+</idspace>

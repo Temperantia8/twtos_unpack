@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="Hit">
+	<Category Name="PC">
+		<Class ClassID="0" ClassName="HIT_BASIC" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="1" ClassName="HIT_HITMOTION" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="2" ClassName="HIT_NOMOTION" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="3" ClassName="HIT_KNOCKBACK" Type="KNOCKBACK" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="4" ClassName="HIT_KNOCKDOWN" Type="KNOCKDOWN" HitAnim="KNOCKDOWN" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="5" ClassName="HIT_GUARD" Type="BLOCK" HitAnim="None" DeadAnim="DEAD" EffectName="war_guard" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="6" ClassName="HIT_FORCE" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="7" ClassName="HIT_HEAL" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="8" ClassName="HIT_HEALNOEFFECT" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="9" ClassName="HIT_SHIELD" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_golem_shield_particle" EffectName2="None" CenterEffect="I_sphere003_mash" CenterEffectScale="3.5" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="10" ClassName="HIT_SAFETY" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="I_sphere001_mash2" CenterEffectScale="2.4" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="11" ClassName="HIT_TELEKINESIS" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="F_hit_wiz_skl_telekinesis" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="12" ClassName="HIT_POISON" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_hit_poison_hit" EffectName2="None" CenterEffect="None" CenterEffectScale="0.5" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="13" ClassName="HIT_STABDOLL" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_cleric_effigy_hit_blooding" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="14" ClassName="HIT_BLOCK" Type="BLOCK" HitAnim="BLK2" DeadAnim="DEAD" EffectName="war_guard" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="15" ClassName="HIT_DODGE" Type="None" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="16" ClassName="HIT_ICE" Type="None" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_ice" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="19" ClassName="HIT_COUNTDOWN" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_wizard_countdown_shot_explosion" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="20" ClassName="HIT_ABILITY" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_ability_test2" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="21" ClassName="HIT_FIRE" Type="None" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_fire" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="22" ClassName="jangpan_hit" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_cleric_jangpan_monster_buff" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="23" ClassName="jangpan_hit_bless" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_cleric_new_bless_buff_monster" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="24" ClassName="jangpan_hit_cure" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_cleric_new_cure_buff_monster" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="25" ClassName="jangpan_hit_heal" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_cleric_new_healing_buff_monster" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="26" ClassName="HIT_POISON_GREEN" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_hit_poison_hit_green" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="27" ClassName="HIT_REFLECT" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_hitreflect" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="28" ClassName="HIT_NOEFFECT" Type="None" HitAnim="HIT" DeadAnim="DEAD" EffectName="NO" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="30" ClassName="HIT_POISON_VIOLET" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_hit_poison_hit_violet" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="31" ClassName="HIT_LIGHTNING" Type="None" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_rize2" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="32" ClassName="HIT_PLANTGUARD" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="33" ClassName="HIT_HOLY" Type="None" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_holy" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="34" ClassName="HIT_DARK" Type="None" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_dark" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="35" ClassName="HIT_BLEEDING" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_buff_CriticalWound" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="36" ClassName="HIT_CONCENTRATE" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_concentrate" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="37" ClassName="HIT_EARTH" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="38" ClassName="HIT_RETREAT" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_archer_pistol_hit" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="39" ClassName="HIT_SOUL" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="1" IsDeadHere="NO"/>
+		<Class ClassID="40" ClassName="HIT_BASIC_NOT_CANCEL_CAST" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="41" ClassName="HIT_DISPERSION" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="42" ClassName="HIT_ARKWIND" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="1001" ClassName="HIT_MAGIC" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_explosion010" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="1002" ClassName="HIT_MELEE" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_Melee_HIT" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="1003" ClassName="HIT_WUGU_BLOOD" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_hit_wugu_blood" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="1004" ClassName="HIT_WUGU_POISON" Type="HIT" HitAnim="None" DeadAnim="DEAD" EffectName="F_hit_wugu_poison" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="2001" ClassName="HIT_TWINKLESTAR" Type="HIT" HitAnim="HIT" DeadAnim="DEAD" EffectName="F_hit_star" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="100" ClassName="HIT_NOHIT" Type="None" HitAnim="None" DeadAnim="None" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+	<Class ClassID="10001" ClassName="HIT_HOUSING1" Type="None" HitAnim="None" DeadAnim="DEAD" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="10002" ClassName="HIT_HOUSING2" Type="None" HitAnim="None" DeadAnim="DEAD2" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="10003" ClassName="HIT_HOUSING3" Type="None" HitAnim="None" DeadAnim="DEAD3" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="10004" ClassName="HIT_HOUSING4" Type="None" HitAnim="None" DeadAnim="DEAD4" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+		<Class ClassID="10005" ClassName="HIT_HOUSING5" Type="None" HitAnim="None" DeadAnim="DEAD5" EffectName="None" EffectName2="None" CenterEffect="None" CenterEffectScale="1" EftRotate="0" IsDeadHere="NO"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->

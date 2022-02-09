@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="TPEventAttendance">
+	<Class ClassID="1" ClassName="VakarinePackage" Name="바카리네 패키지" TotalNumberDays="28" AttendancePass="NO" CT_StartTime="None" CT_EndTime="None"/>
+	<Class ClassID="2" ClassName="SteamNewRank" Name="TOS - New Rank Booster" TotalNumberDays="28" AttendancePass="NO" CT_StartTime="None" CT_EndTime="None"/>
+	<Class ClassID="3" ClassName="EventUser" Name="신규/복귀 유저" TotalNumberDays="30" AttendancePass="NO" CT_StartTime="None" CT_EndTime="None"/>
+	<Class ClassID="4" ClassName="SteamVakarinePackage" Name="9월 바카리네 패키지" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="None" CT_EndTime="None"/>
+	<Class ClassID="5" ClassName="SteamVakarineNBUPackage" Name="9월 바카리네 NBU 패키지" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="None" CT_EndTime="None"/>
+	<Class ClassID="101" ClassName="Month_1" Name="1월 출석 보상" TotalNumberDays="27" AttendancePass="NO" CT_StartTime="2020-01-01 00:01:00" CT_EndTime="2020-01-31 23:59:00"/>
+	<Class ClassID="102" ClassName="Month_2" Name="2월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-02-01 00:01:00" CT_EndTime="2020-02-29 23:59:00"/>
+	<Class ClassID="103" ClassName="Month_3" Name="3월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-03-01 00:01:00" CT_EndTime="2020-03-31 23:59:00"/>
+	<Class ClassID="104" ClassName="Month_4" Name="4월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-04-01 00:01:00" CT_EndTime="2020-04-30 23:59:00"/>
+	<Class ClassID="105" ClassName="Month_5" Name="5월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-05-01 00:01:00" CT_EndTime="2020-05-31 23:59:00"/>
+	<Class ClassID="106" ClassName="Month_6" Name="6월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-06-01 00:01:00" CT_EndTime="2020-06-30 23:59:00"/>
+	<Class ClassID="107" ClassName="Month_7" Name="7월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-07-01 00:01:00" CT_EndTime="2020-07-31 23:59:00"/>
+	<Class ClassID="108" ClassName="Month_8" Name="8월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-08-01 00:01:00" CT_EndTime="2020-08-31 23:59:00"/>
+	<Class ClassID="109" ClassName="Month_9" Name="9월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-09-01 00:01:00" CT_EndTime="2020-09-30 23:59:00"/>
+	<Class ClassID="110" ClassName="Month_10" Name="10월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-10-01 00:01:00" CT_EndTime="2020-10-31 23:59:00"/>
+	<Class ClassID="111" ClassName="Month_11" Name="11월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-11-01 00:01:00" CT_EndTime="2020-11-30 23:59:00"/>
+	<Class ClassID="112" ClassName="Month_12" Name="12월 출석 보상" TotalNumberDays="25" AttendancePass="NO" CT_StartTime="2020-12-01 00:01:00" CT_EndTime="2020-12-31 23:59:00"/>
+	<Class ClassID="113" ClassName="Attendance_4year" Name="TOS 4ever 출석 패키지" TotalNumberDays="28" AttendancePass="NO" CT_StartTime="None" CT_EndTime="None"/>
+	<Class ClassID="114" ClassName="SeasonNewWorldEvent" Name="시즌 서버 정착 보상" TotalNumberDays="30" AttendancePass="NO" CT_StartTime="2020-02-11 00:01:00" CT_EndTime="2020-05-12 23:59:00"/>
+</idspace>

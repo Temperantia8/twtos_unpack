@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="WorldPVPGrade">
+	<Class ClassID="1" ClassName="Veteran" Name="베테랑" Count="100" Image="test_pvp_veteran" NameColor="FFEEEE"/>
+	<Class ClassID="2" ClassName="Expert" Name="익스퍼트" Count="10" Image="test_pvp_ikseupeodeu" NameColor="FFAAAA"/>
+	<Class ClassID="3" ClassName="Challenger" Name="첼린저" Count="5" Image="test_pvp_challenger" NameColor="FF6666"/>
+	<Class ClassID="4" ClassName="Champion" Name="챔피언" Count="1" Image="test_pvp_champion" NameColor="FF0000"/>
+</idspace>

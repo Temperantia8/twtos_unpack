@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Beauty_Shop_Lens">
+	<Category Name="뷰티샵 렌즈">
+		<SecondCategory Name="렌즈">
+			<Class ClassID="1" ClassName="LENS01_011" Category="Lens" Gender="None" ItemClassName="LENS01_011" EquipType="lens" Price="59" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2018-08-16 00:00:00"/>
+			<Class ClassID="2" ClassName="LENS01_012" Category="Lens" Gender="None" ItemClassName="LENS01_012" EquipType="lens" Price="59" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2018-08-16 00:00:00"/>
+			<Class ClassID="3" ClassName="LENS01_013" Category="Lens" Gender="None" ItemClassName="LENS01_013" EquipType="lens" Price="59" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2018-08-16 00:00:00"/>
+			<Class ClassID="4" ClassName="LENS01_014" Category="Lens" Gender="None" ItemClassName="LENS01_014" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2018-08-16 00:00:00"/>
+			<Class ClassID="5" ClassName="LENS01_001" Category="Lens" Gender="None" ItemClassName="LENS01_001" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="6" ClassName="LENS01_002" Category="Lens" Gender="None" ItemClassName="LENS01_002" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="7" ClassName="LENS01_003" Category="Lens" Gender="None" ItemClassName="LENS01_003" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="8" ClassName="LENS01_004" Category="Lens" Gender="None" ItemClassName="LENS01_004" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="9" ClassName="LENS01_005" Category="Lens" Gender="None" ItemClassName="LENS01_005" EquipType="lens" Price="59" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="10" ClassName="LENS01_006" Category="Lens" Gender="None" ItemClassName="LENS01_006" EquipType="lens" Price="59" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="11" ClassName="LENS01_007" Category="Lens" Gender="None" ItemClassName="LENS01_007" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="12" ClassName="LENS01_008" Category="Lens" Gender="None" ItemClassName="LENS01_008" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+			<Class ClassID="13" ClassName="LENS01_009" Category="Lens" Gender="None" ItemClassName="LENS01_009" EquipType="lens" Price="49" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="None"/>
+		</SecondCategory>
+	</Category>
+</idspace>

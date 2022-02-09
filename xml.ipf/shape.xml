@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Administrator (EMBRACE) -->
+<idspace id="Shape">
+	<Category>
+		<Class ClassID="1" ClassName="None" CT_SizeRank="1" Radius="0" ArrowRadius="0" HitRadius="1" TargetMakeRadius="8" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="-10"/>
+		<Class ClassID="2" ClassName="VS" CT_SizeRank="1" Radius="2" ArrowRadius="2" HitRadius="4" TargetMakeRadius="8" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="-10"/>
+		<Class ClassID="3" ClassName="SS" CT_SizeRank="1" Radius="10" ArrowRadius="7" HitRadius="5" TargetMakeRadius="5" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="15"/>
+		<Class ClassID="4" ClassName="S" CT_SizeRank="1" Radius="12" ArrowRadius="12" HitRadius="12" TargetMakeRadius="12" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="15"/>
+		<Class ClassID="5" ClassName="M" CT_SizeRank="2" Radius="15" ArrowRadius="15" HitRadius="15" TargetMakeRadius="15" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="30"/>
+		<Class ClassID="6" ClassName="L" CT_SizeRank="3" Radius="20" ArrowRadius="15" HitRadius="20" TargetMakeRadius="20" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="45"/>
+		<Class ClassID="7" ClassName="XL" CT_SizeRank="3" Radius="40" ArrowRadius="25" HitRadius="40" TargetMakeRadius="45" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="60"/>
+		<Class ClassID="8" ClassName="XXL" CT_SizeRank="3" Radius="40" ArrowRadius="25" HitRadius="20" TargetMakeRadius="40" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="60"/>
+		<Class ClassID="9" ClassName="OBS" CT_SizeRank="2" Radius="20" ArrowRadius="15" HitRadius="10" TargetMakeRadius="20" Width="40" Height="6" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="10" ClassName="ITEM" CT_SizeRank="2" Radius="12" ArrowRadius="9" HitRadius="6" TargetMakeRadius="6" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="11" ClassName="HIDE" CT_SizeRank="2" Radius="0" ArrowRadius="0" HitRadius="0" TargetMakeRadius="0" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="12" ClassName="ITEMS" CT_SizeRank="2" Radius="9" ArrowRadius="9" HitRadius="3" TargetMakeRadius="3" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="13" ClassName="ITEMM" CT_SizeRank="2" Radius="5" ArrowRadius="5" HitRadius="5" TargetMakeRadius="5" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="14" ClassName="XXXL" CT_SizeRank="2" Radius="70" ArrowRadius="30" HitRadius="30" TargetMakeRadius="70" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="15" ClassName="ICEWALL" CT_SizeRank="2" Radius="20" ArrowRadius="10" HitRadius="35" TargetMakeRadius="20" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="16" ClassName="XL_HIT" CT_SizeRank="2" Radius="50" ArrowRadius="25" HitRadius="45" TargetMakeRadius="20" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="17" ClassName="XL_LHIT" CT_SizeRank="2" Radius="50" ArrowRadius="25" HitRadius="50" TargetMakeRadius="20" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="18" ClassName="HIDDEN" CT_SizeRank="2" Radius="0" ArrowRadius="0" HitRadius="0" TargetMakeRadius="0" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="1"/>
+		<Class ClassID="19" ClassName="PC" CT_SizeRank="2" Radius="15" ArrowRadius="15" HitRadius="7" TargetMakeRadius="15" Width="0" Height="0" KnockBackRate="1" KnockBackResist="1" UICharInfoYPos="30"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->

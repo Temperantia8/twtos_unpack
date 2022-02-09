@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- 설마 젬의 종류별로 경험치 테이블이 다르진 않겠지  -->
+<idspace id="gemexptable">
+	<Category>
+		<Class ClassID="1" Lv="1" Exp="100"/>
+		<Class ClassID="2" Lv="2" Exp="200"/>
+		<Class ClassID="3" Lv="3" Exp="300"/>
+		<Class ClassID="4" Lv="4" Exp="400"/>
+		<Class ClassID="5" Lv="5" Exp="500"/>
+		<Class ClassID="6" Lv="6" Exp="600"/>
+		<Class ClassID="7" Lv="7" Exp="700"/>
+		<Class ClassID="8" Lv="8" Exp="800"/>
+		<Class ClassID="9" Lv="9" Exp="900"/>
+		<Class ClassID="10" Lv="10" Exp="1000"/>
+		<Class ClassID="11" Lv="11" Exp="1100"/>
+		<Class ClassID="12" Lv="12" Exp="1200"/>
+		<Class ClassID="13" Lv="13" Exp="1300"/>
+		<Class ClassID="14" Lv="14" Exp="1400"/>
+		<Class ClassID="15" Lv="15" Exp="1500"/>
+		<Class ClassID="16" Lv="16" Exp="1600"/>
+		<Class ClassID="17" Lv="17" Exp="1700"/>
+		<Class ClassID="18" Lv="18" Exp="1800"/>
+		<Class ClassID="19" Lv="19" Exp="1900"/>
+		<Class ClassID="20" Lv="20" Exp="2000"/>
+	</Category>
+</idspace>

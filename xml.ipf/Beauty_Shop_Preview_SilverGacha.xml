@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Beauty_Shop_Preview_SilverGacha">
+	<Category Name="마신의 유혹 상품 입어보기">
+		<SecondCategory Name="헬멧"/>
+		<SecondCategory Name="코스튬(남)">
+			<Class ClassID="11" ClassName="EP12_costume_Com_060" Category="None" Gender="M" ItemClassName="EP12_costume_Com_060" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="12" ClassName="EP12_costume_Com_064" Category="None" Gender="M" ItemClassName="EP12_costume_Com_064" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="13" ClassName="EP12_costume_Com_068" Category="None" Gender="M" ItemClassName="EP12_costume_Com_068" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="14" ClassName="EP12_costume_Com_070" Category="None" Gender="M" ItemClassName="EP12_costume_Com_070" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="15" ClassName="EP12_costume_Com_082" Category="None" Gender="M" ItemClassName="EP12_costume_Com_082" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="16" ClassName="EP12_costume_Com_084" Category="None" Gender="M" ItemClassName="EP12_costume_Com_084" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="17" ClassName="EP12_costume_Com_086" Category="None" Gender="M" ItemClassName="EP12_costume_Com_086" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="18" ClassName="EP12_costume_Com_088" Category="None" Gender="M" ItemClassName="EP12_costume_Com_088" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="코스튬(여)">
+			<Class ClassID="21" ClassName="EP12_costume_Com_061" Category="None" Gender="F" ItemClassName="EP12_costume_Com_061" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="22" ClassName="EP12_costume_Com_065" Category="None" Gender="F" ItemClassName="EP12_costume_Com_065" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="23" ClassName="EP12_costume_Com_069" Category="None" Gender="F" ItemClassName="EP12_costume_Com_069" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="24" ClassName="EP12_costume_Com_071" Category="None" Gender="F" ItemClassName="EP12_costume_Com_071" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="25" ClassName="EP12_costume_Com_083" Category="None" Gender="F" ItemClassName="EP12_costume_Com_083" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="26" ClassName="EP12_costume_Com_085" Category="None" Gender="F" ItemClassName="EP12_costume_Com_085" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="27" ClassName="EP12_costume_Com_087" Category="None" Gender="F" ItemClassName="EP12_costume_Com_087" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="28" ClassName="EP12_costume_Com_089" Category="None" Gender="F" ItemClassName="EP12_costume_Com_089" EquipType="costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="코스튬(남여 공용)"/>
+		<SecondCategory Name="인형(구 페어리)"/>
+		<SecondCategory Name="외형 변경 장비"/>
+		<SecondCategory Name="등 코스튬">
+			<Class ClassID="51" ClassName="wing_ep12musical" Category="None" Gender="Both" ItemClassName="wing_ep12musical" EquipType="wing" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-01 00:00:00" SellEndTime="2020-10-15 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="52" ClassName="wing_ep12demonlord" Category="None" Gender="Both" ItemClassName="wing_ep12demonlord" EquipType="wing" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="이펙트 코스튬">
+			<Class ClassID="61" ClassName="Effect_ep12musical" Category="None" Gender="Both" ItemClassName="Effect_ep12musical" EquipType="effect_costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-10-16 00:00:00" SellEndTime="2020-10-31 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+			<Class ClassID="62" ClassName="Effect_ep12demonlord" Category="None" Gender="Both" ItemClassName="Effect_ep12demonlord" EquipType="effect_costume" Price="-1" PriceRatio="0" JobOnly="None" SellStartTime="2020-11-01 00:00:00" SellEndTime="2020-11-30 23:59:59" StampCount="0" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="None" BuyMessage="NotBuy_Thema"/>
+		</SecondCategory>
+		<SecondCategory Name="헤어 액세서리"/>
+	</Category>
+</idspace>

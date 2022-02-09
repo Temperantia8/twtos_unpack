@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="item_reinforceprice">
+	<Category>
+		<Class ClassID="1 " CT_ReinforcePrice="1544"/>
+		<Class ClassID="2 " CT_ReinforcePrice="6574"/>
+		<Class ClassID="3 " CT_ReinforcePrice="34170"/>
+		<Class ClassID="4 " CT_ReinforcePrice="110205"/>
+		<Class ClassID="5 " CT_ReinforcePrice="189720"/>
+		<Class ClassID="6" CT_ReinforcePrice="369675"/>
+		<Class ClassID="7 " CT_ReinforcePrice="435240"/>
+		<Class ClassID="8" CT_ReinforcePrice="1143900"/>
+		<Class ClassID="9" CT_ReinforcePrice="2617020"/>
+	</Category>
+</idspace>

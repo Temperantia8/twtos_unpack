@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by asdasd (IMCGames Co., Ltd) -->
+<!-- basdID는 5000 단위로 증가해야 하며 각 클래스는 베이사 ID기준 오름차순 정렬된 상태로 xml에 저장되어 있어야 한다. 이부분을 수정할 때에는 소스상의 MAX_INV_SLOT_COUNT 변경 필요. DB에서 uint를 쓰고 있으므로 42억 이하여야 함에 주의
+ 루아 script 상에 invIndex 를 받아서 baseid 를 판단하는 로직 GET_BASEID_CLS_BY_INVINDEX
+ ClassName 은 해당 itemCls 의 MarketCategory 를 따름-->
+<idspace id="inven_baseid">
+	<Category>
+		<Class ClassID="1" ClassName="Premium_Consume" BaseID="5001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="소비" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="2" ClassName="Premium_Special" BaseID="10001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="장비 강화 소재" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="3" ClassName="Premium_Costume" BaseID="15001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="코스튬" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="4" ClassName="Premium_Wing" BaseID="20001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="등 코스튬" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="5" ClassName="Premium_EffectCostume" BaseID="25001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="이펙트 코스튬" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="6" ClassName="Look_Wig" BaseID="30001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="가발" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="7" ClassName="Premium_Helmet" BaseID="35001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="헬멧" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="8" ClassName="Look_Lens" BaseID="40001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="렌즈" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="9" ClassName="Weapon_Bow" BaseID="45001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="10" ClassName="Weapon_Mace" BaseID="50001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="11" ClassName="Weapon_Musket" BaseID="55001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="12" ClassName="Weapon_Rapier" BaseID="60001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="13" ClassName="Weapon_Spear" BaseID="65001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="14" ClassName="Weapon_Staff" BaseID="70001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="15" ClassName="Weapon_Sword" BaseID="75001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="16" ClassName="Weapon_THBow" BaseID="80001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="17" ClassName="Weapon_THMace" BaseID="85001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="18" ClassName="Weapon_THSpear" BaseID="90001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="19" ClassName="Weapon_THStaff" BaseID="95001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="20" ClassName="Weapon_THSword" BaseID="100001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="21" ClassName="Weapon_Cannon" BaseID="105001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="주 무기" InvenTabName="Equip" MergedTreeTitle="Weapon"/>
+		<Class ClassID="22" ClassName="Weapon_Dagger" BaseID="110001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="보조 무기" InvenTabName="Equip" MergedTreeTitle="SubWeapon"/>
+		<Class ClassID="23" ClassName="Weapon_Pistol" BaseID="115001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="보조 무기" InvenTabName="Equip" MergedTreeTitle="SubWeapon"/>
+		<Class ClassID="24" ClassName="Armor_Boots" BaseID="120001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="방어구" InvenTabName="Equip" MergedTreeTitle="Armor"/>
+		<Class ClassID="25" ClassName="Armor_Gloves" BaseID="125001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="방어구" InvenTabName="Equip" MergedTreeTitle="Armor"/>
+		<Class ClassID="26" ClassName="Armor_Pants" BaseID="130001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="방어구" InvenTabName="Equip" MergedTreeTitle="Armor"/>
+		<Class ClassID="27" ClassName="Armor_Shield" BaseID="135001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="방어구" InvenTabName="Equip" MergedTreeTitle="Armor"/>
+		<Class ClassID="28" ClassName="Armor_Shirt" BaseID="140001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="방어구" InvenTabName="Equip" MergedTreeTitle="Armor"/>
+		<Class ClassID="29" ClassName="Accessory_Neck" BaseID="145001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="목걸이" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="30" ClassName="Accessory_Band" BaseID="150001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="팔찌" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="31" ClassName="HairAcc_Acc1" BaseID="155001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="헤어 코스튬1" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="32" ClassName="HairAcc_Acc2" BaseID="160001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="헤어 코스튬2" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="33" ClassName="HairAcc_Acc3" BaseID="165001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="헤어 코스튬3" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="34" ClassName="Outer" BaseID="170001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="코스튬" InvenTabName="Equip" MergedTreeTitle="Costume"/>
+		<Class ClassID="35" ClassName="Look_Costume" BaseID="175001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="코스튬" InvenTabName="Equip" MergedTreeTitle="Costume"/>
+		<Class ClassID="36" ClassName="Look_Helmet" BaseID="180001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="헬멧" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="37" ClassName="Look_Armband" BaseID="185001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="암밴드" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="38" ClassName="Look_SPCostume" BaseID="190001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="스페셜 코스튬" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="39" ClassName="ChangeEquip_Mace" BaseID="195001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="40" ClassName="ChangeEquip_Musket" BaseID="200001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="41" ClassName="ChangeEquip_Pistol" BaseID="205001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="42" ClassName="ChangeEquip_Rapier" BaseID="210001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="43" ClassName="ChangeEquip_Shield" BaseID="215001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="44" ClassName="ChangeEquip_Staff" BaseID="220001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="45" ClassName="ChangeEquip_Sword" BaseID="225001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="46" ClassName="ChangeEquip_THBow" BaseID="230001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="47" ClassName="ChangeEquip_THMace" BaseID="235001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="48" ClassName="ChangeEquip_THStaff" BaseID="240001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="49" ClassName="ChangeEquip_THSword" BaseID="245001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="50" ClassName="Look_Toy" BaseID="250001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="장난감" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="51" ClassName="OPTMisc_Jewel" BaseID="255001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="인챈트 쥬얼" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="52" ClassName="Consume_ConsumeSp" BaseID="260001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="장비 강화 소재" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="53" ClassName="Consume_Potion" BaseID="265001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="소비" InvenTabName="Consume" MergedTreeTitle="Consume"/>
+		<Class ClassID="54" ClassName="Consume_Scroll" BaseID="270001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="소비" InvenTabName="Consume" MergedTreeTitle="Consume"/>
+		<Class ClassID="55" ClassName="Consume_Cube" BaseID="275001" TreeGroup="Cube" TreeGroupCaption="큐브" TreeSSetTitle="큐브" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="56" ClassName="Consume_Jungtan" BaseID="280001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="소비" InvenTabName="Consume" MergedTreeTitle="Consume"/>
+		<Class ClassID="57" ClassName="Consume_PopUp" BaseID="285001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="팝업북" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="58" ClassName="Consume_Orgel" BaseID="290001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="오르골" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="59" ClassName="Consume_Toy" BaseID="295001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="장난감" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="60" ClassName="Gem" BaseID="300001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="61" ClassName="Gem_GemAddExp" BaseID="305001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="젬 연마제" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="62" ClassName="Gem_GemRed" BaseID="310001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="레드 젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="63" ClassName="Gem_GemGreen" BaseID="315001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="그린 젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="64" ClassName="Gem_GemBlue" BaseID="320001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="블루 젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="65" ClassName="Gem_GemYellow" BaseID="325001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="옐로우 젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="66" ClassName="Gem_GemWhite" BaseID="330001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="화이트 젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="67" ClassName="Gem_GemSkill" BaseID="335001" TreeGroup="Gem" TreeGroupCaption="젬" TreeSSetTitle="스킬 젬" InvenTabName="Gem" MergedTreeTitle="NO"/>
+		<Class ClassID="68" ClassName="Card_Summon" BaseID="340001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="카드첩" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="69" ClassName="Card_CardAddExp" BaseID="345001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="강화용 카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="70" ClassName="Card_CardLeg" BaseID="350001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="레전드 카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="71" ClassName="Card_CardGreen" BaseID="355001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="그린 카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="72" ClassName="Card_CardRed" BaseID="360001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="레드 카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="73" ClassName="Card_CardBlue" BaseID="365001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="블루 카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="74" ClassName="Card" BaseID="370001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="75" ClassName="Card_CardPurple" BaseID="375001" TreeGroup="Card" TreeGroupCaption="카드" TreeSSetTitle="퍼플 카드" InvenTabName="Card" MergedTreeTitle="NO"/>
+		<Class ClassID="76" ClassName="Misc_Special" BaseID="380001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="장비 강화 소재" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="77" ClassName="Misc_MiscSkill" BaseID="385001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="스킬 재료" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="78" ClassName="OPTMisc_IcorArmor" BaseID="390001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="79" ClassName="OPTMisc_IcorWeapon" BaseID="395001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="80" ClassName="Misc_Mineral" BaseID="400001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="광물" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="81" ClassName="Misc_Usual" BaseID="405001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="기본" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="82" ClassName="Misc_Etc" BaseID="410001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="기타" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="83" ClassName="Misc_Quest" BaseID="415001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="퀘스트" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="84" ClassName="Quest" BaseID="420001" TreeGroup="QuestGroup" TreeGroupCaption="퀘스트" TreeSSetTitle="퀘스트" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="85" ClassName="Misc_Collect" BaseID="425001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="컬렉션" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="86" ClassName="Recipe_Weapon" BaseID="430001" TreeGroup="Recipe" TreeGroupCaption="제작서" TreeSSetTitle="무기" InvenTabName="Recipe" MergedTreeTitle="NO"/>
+		<Class ClassID="87" ClassName="Recipe_Armor" BaseID="435001" TreeGroup="Recipe" TreeGroupCaption="제작서" TreeSSetTitle="방어구" InvenTabName="Recipe" MergedTreeTitle="NO"/>
+		<Class ClassID="88" ClassName="Recipe_Accessory" BaseID="440001" TreeGroup="Recipe" TreeGroupCaption="제작서" TreeSSetTitle="장신구" InvenTabName="Recipe" MergedTreeTitle="NO"/>
+		<Class ClassID="89" ClassName="Recipe_Premium" BaseID="445001" TreeGroup="Recipe" TreeGroupCaption="제작서" TreeSSetTitle="프리미엄" InvenTabName="Recipe" MergedTreeTitle="NO"/>
+		<Class ClassID="90" ClassName="Recipe" BaseID="450001" TreeGroup="Recipe" TreeGroupCaption="제작서" TreeSSetTitle="기타" InvenTabName="Recipe" MergedTreeTitle="NO"/>
+		<Class ClassID="91" ClassName="PetWeapon" BaseID="455001" TreeGroup="PetEquipGroup" TreeGroupCaption="컴패니언장비" TreeSSetTitle="무기" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="92" ClassName="PetArmor" BaseID="460001" TreeGroup="PetEquipGroup" TreeGroupCaption="컴패니언장비" TreeSSetTitle="방어구" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="93" ClassName="Unused" BaseID="465001" TreeGroup="Unused" TreeGroupCaption="사용안함[인벤에서 안보임]" TreeSSetTitle="사용안함[인벤에서 안보임]" InvenTabName="Unused" MergedTreeTitle="NO"/>
+		<Class ClassID="94" ClassName="ChangeEquip_Cannon" BaseID="470001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="95" ClassName="ChangeEquip_Spear" BaseID="475001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="96" ClassName="ChangeEquip_THSpear" BaseID="480001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="97" ClassName="ChangeEquip_Bow" BaseID="485001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="98" ClassName="ChangeEquip_Dagger" BaseID="490001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="외형 변경 장비" InvenTabName="Equip" MergedTreeTitle="ChangeEquip"/>
+		<Class ClassID="99" ClassName="Look_Wing" BaseID="495001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="등 코스튬" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="100" ClassName="Accessory_Seal" BaseID="500001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="인장" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="101" ClassName="Premium_Doll" BaseID="505001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="인형" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="102" ClassName="HiddenAbility_Misc" BaseID="510001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="재료" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="103" ClassName="HiddenAbility_Cube" BaseID="515001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="미식별" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="104" ClassName="HiddenAbility_Collection" BaseID="520001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="전집" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="105" ClassName="HiddenAbility_Swordbook" BaseID="525001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="신비한 서: 소드맨" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="106" ClassName="HiddenAbility_Wizardbook" BaseID="530001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="신비한 서: 위저드" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="107" ClassName="HiddenAbility_Clericbook" BaseID="535001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="신비한 서: 클레릭" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="108" ClassName="HiddenAbility_Scoutbook" BaseID="540001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="신비한 서: 스카우트" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="109" ClassName="HiddenAbility_Archerbook" BaseID="545001" TreeGroup="HiiddenAbility" TreeGroupCaption="아츠" TreeSSetTitle="신비한 서: 아처" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="110" ClassName="Housing_Furniture" BaseID="550001" TreeGroup="Housing" TreeGroupCaption="길드 하우징" TreeSSetTitle="조경" InvenTabName="Housing" MergedTreeTitle="Furniture"/>
+		<Class ClassID="111" ClassName="Housing_Laboratory" BaseID="555001" TreeGroup="Housing" TreeGroupCaption="길드 하우징" TreeSSetTitle="시설" InvenTabName="Housing" MergedTreeTitle="Laboratory"/>
+		<Class ClassID="112" ClassName="Housing_Contract" BaseID="560001" TreeGroup="Housing" TreeGroupCaption="길드 하우징" TreeSSetTitle="계약서" InvenTabName="Housing" MergedTreeTitle="Contract"/>
+		<Class ClassID="113" ClassName="Consume_Book" BaseID="565001" TreeGroup="NonEquipGroup" TreeGroupCaption="아이템" TreeSSetTitle="책" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="114" ClassName="OPTMisc_IcorWeaponSword" BaseID="570001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="115" ClassName="OPTMisc_IcorWeaponTHSword" BaseID="575001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="116" ClassName="OPTMisc_IcorWeaponMace" BaseID="580001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="117" ClassName="OPTMisc_IcorWeaponTHMace" BaseID="585001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="118" ClassName="OPTMisc_IcorWeaponBow" BaseID="590001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="119" ClassName="OPTMisc_IcorWeaponTHBow" BaseID="595001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="120" ClassName="OPTMisc_IcorWeaponPistol" BaseID="600001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="121" ClassName="OPTMisc_IcorWeaponMusket" BaseID="605001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="122" ClassName="OPTMisc_IcorWeaponSpear" BaseID="610001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="123" ClassName="OPTMisc_IcorWeaponTHSpear" BaseID="615001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="124" ClassName="OPTMisc_IcorWeaponDagger" BaseID="620001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="125" ClassName="OPTMisc_IcorWeaponCannon" BaseID="625001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="126" ClassName="OPTMisc_IcorWeaponStaff" BaseID="630001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="127" ClassName="OPTMisc_IcorWeaponTHStaff" BaseID="635001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="128" ClassName="OPTMisc_IcorWeaponRapier" BaseID="640001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="129" ClassName="OPTMisc_IcorArmorShield" BaseID="645001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="130" ClassName="OPTMisc_IcorArmorShirt" BaseID="650001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="131" ClassName="OPTMisc_IcorArmorPants" BaseID="655001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="132" ClassName="OPTMisc_IcorArmorGloves" BaseID="660001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="133" ClassName="OPTMisc_IcorArmorBoots" BaseID="665001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="134" ClassName="Look_Skin" BaseID="670001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="스킨" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="135" ClassName="PHousing_Furniture" BaseID="675001" TreeGroup="PHousing" TreeGroupCaption="개인 하우징" TreeSSetTitle="가구" InvenTabName="Housing" MergedTreeTitle="PFurniture"/>
+		<Class ClassID="136" ClassName="PHousing_Carpet" BaseID="680001" TreeGroup="PHousing" TreeGroupCaption="개인 하우징" TreeSSetTitle="카펫" InvenTabName="Housing" MergedTreeTitle="PCarpet"/>
+		<Class ClassID="137" ClassName="PHousing_Wall" BaseID="685001" TreeGroup="PHousing" TreeGroupCaption="개인 하우징" TreeSSetTitle="벽장식" InvenTabName="Housing" MergedTreeTitle="PWall"/>
+		<Class ClassID="138" ClassName="Weapon_Trinket" BaseID="690001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="보조 무기" InvenTabName="Equip" MergedTreeTitle="SubWeapon"/>
+		<Class ClassID="139" ClassName="Accessory_Ark" BaseID="695001" TreeGroup="EquipGroup" TreeGroupCaption="장비" TreeSSetTitle="아크" InvenTabName="Equip" MergedTreeTitle="NO"/>
+		<Class ClassID="140" ClassName="OPTMisc_IcorWeaponTrinket" BaseID="700001" TreeGroup="Material" TreeGroupCaption="재료" TreeSSetTitle="아이커" InvenTabName="Etc" MergedTreeTitle="Icor"/>
+		<Class ClassID="141" ClassName="Look_Designcut" BaseID="705001" TreeGroup="Premium" TreeGroupCaption="프리미엄" TreeSSetTitle="디자인 컷" InvenTabName="Premium" MergedTreeTitle="NO"/>
+		<Class ClassID="142" ClassName="Ancient_Card" BaseID="710001" TreeGroup="Ancient" TreeGroupCaption="어시스터" TreeSSetTitle="카드" InvenTabName="Consume" MergedTreeTitle="NO"/>
+		<Class ClassID="143" ClassName="Ancient_CardBook" BaseID="715001" TreeGroup="Ancient" TreeGroupCaption="어시스터" TreeSSetTitle="카드첩" InvenTabName="Etc" MergedTreeTitle="NO"/>
+		<Class ClassID="144" ClassName="Ancient_Etc" BaseID="720001" TreeGroup="Ancient" TreeGroupCaption="어시스터" TreeSSetTitle="기타" InvenTabName="Etc" MergedTreeTitle="NO"/>
+	</Category>
+</idspace>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Item_Common" keyid="Item">
+	<Category>
+		<Class ClassID="1" ClassName="Item_Common" ItemExp_NT="0" ItemExpString_NT="None" Level_NT="1" KeyWord_NT="None" KeyWord_2_NT="None" KeyWord_3_NT="None"/>
+	</Category>
+</idspace>

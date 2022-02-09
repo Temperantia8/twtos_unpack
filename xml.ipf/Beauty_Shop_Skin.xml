@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Beauty_Shop_Skin">
+	<Category Name="뷰티샵 스킨">
+		<SecondCategory Name="Basic Skin">
+			<Class ClassID="1" ClassName="skintone1" Category="SKIN_BASIC" Gender="None" ItemClassName="skintone1" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="2019-10-10 08:00:00" BuyMessage="None"/>
+			<Class ClassID="2" ClassName="skintone2" Category="SKIN_BASIC" Gender="None" ItemClassName="skintone2" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="2019-10-10 08:00:00" BuyMessage="None"/>
+			<Class ClassID="3" ClassName="skintone3" Category="SKIN_BASIC" Gender="None" ItemClassName="skintone3" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="NO" TAG="None" ItemAddDate="2019-10-10 08:00:00" BuyMessage="None"/>
+		</SecondCategory>
+		<SecondCategory Name="Premium Skin">
+			<Class ClassID="101" ClassName="skintone4" Category="SKIN_PREMIUM" Gender="None" ItemClassName="skintone4" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2019-10-24 08:00:00" BuyMessage="None"/>
+			<Class ClassID="102" ClassName="skintone5" Category="SKIN_PREMIUM" Gender="None" ItemClassName="skintone5" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2019-10-24 08:00:00" BuyMessage="None"/>
+			<Class ClassID="103" ClassName="skintone6" Category="SKIN_PREMIUM" Gender="None" ItemClassName="skintone6" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2019-11-21 00:00:00" BuyMessage="None"/>
+			<Class ClassID="104" ClassName="skintone7" Category="SKIN_PREMIUM" Gender="None" ItemClassName="skintone7" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2019-11-21 00:00:00" BuyMessage="None"/>
+			<Class ClassID="105" ClassName="skintone8" Category="SKIN_PREMIUM" Gender="None" ItemClassName="skintone8" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2019-11-21 00:00:00" BuyMessage="None"/>
+			<Class ClassID="106" ClassName="skintone9" Category="SKIN_PREMIUM" Gender="None" ItemClassName="skintone9" EquipType="skin" Price="54" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="1" PackageList="None" IsPremium="YES" TAG="None" ItemAddDate="2019-12-27 00:00:00" BuyMessage="None"/>
+		</SecondCategory>
+	</Category>
+</idspace>

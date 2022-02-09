@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!--editedwithXMLSPYv2004rel.2U(http://www.xmlspy.com)byimc(imc)-->
+<idspace id="AdventureBookRankReward">
+	<Class ClassID="1" ClassName="FirstHighRank" Rank="1" Reward1="Companion_Exchange_Ticket4" Reward1_Count="12" Reward2="Vis" Reward2_Count="500000" Reward3="Premium_boostToken02" Reward3_Count="3" Reward4="Adventure_Point_Stone" Reward4_Count="2" Reward5="Adventure_dungeoncount_01" Reward5_Count="3" Reward6="None" Reward6_Count="0" AchiveName="Journal_AP1" AchivePoint="10"/>
+	<Class ClassID="2" ClassName="HighRank" Rank="10" Reward1="Companion_Exchange_Ticket4" Reward1_Count="12" Reward2="Vis" Reward2_Count="500000" Reward3="Premium_boostToken02" Reward3_Count="3" Reward4="Adventure_Point_Stone" Reward4_Count="2" Reward5="Adventure_dungeoncount_01" Reward5_Count="3" Reward6="None" Reward6_Count="0" AchiveName="None" AchivePoint="None"/>
+	<Class ClassID="3" ClassName="ThirdRank" Rank="100" Reward1="Companion_Exchange_Ticket4" Reward1_Count="7" Reward2="Vis" Reward2_Count="300000" Reward3="Premium_boostToken02" Reward3_Count="3" Reward4="Adventure_Point_Stone" Reward4_Count="1" Reward5="Adventure_dungeoncount_01" Reward5_Count="3" Reward6="None" Reward6_Count="0" AchiveName="None" AchivePoint="None"/>
+	<Class ClassID="4" ClassName="FourthRank" Rank="200" Reward1="Companion_Exchange_Ticket4" Reward1_Count="5" Reward2="Vis" Reward2_Count="200000" Reward3="Premium_boostToken02" Reward3_Count="2" Reward4="Adventure_Point_Stone3" Reward4_Count="1" Reward5="Adventure_dungeoncount_01" Reward5_Count="2" Reward6="None" Reward6_Count="0" AchiveName="None" AchivePoint="None"/>
+	<Class ClassID="5" ClassName="FifthRank" Rank="300" Reward1="Companion_Exchange_Ticket4" Reward1_Count="4" Reward2="Vis" Reward2_Count="100000" Reward3="Premium_boostToken02" Reward3_Count="1" Reward4="Adventure_Point_Stone2" Reward4_Count="3" Reward5="None" Reward5_Count="0" Reward6="None" Reward6_Count="0" AchiveName="None" AchivePoint="None"/>
+</idspace>

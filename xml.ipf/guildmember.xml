@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="GuildMember">
+	<Category>
+		<Class ClassID="2" ClassName="GuildMember" Name="None" Contribution_NT="0"/>
+	</Category>
+</idspace>

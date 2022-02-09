@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by overdose (EMBRACE) -->
+<idspace id="SkillMakeCostume">
+	<Category>
+		<Class ClassID="1" ClassName="costume_Com_187" SkillName="MagicalGirl_MagicalBoyYellow" Theme="Magical" Keyword="Yellow" Option="None" BuffName="change_magicalboy_yellow_Buff"/>
+		<Class ClassID="2" ClassName="costume_Com_188" SkillName="MagicalGirl_MagicalGirlYellow" Theme="Magical" Keyword="Yellow" Option="None" BuffName="change_magicalgirl_yellow_Buff"/>
+		<Class ClassID="3" ClassName="costume_Com_189" SkillName="MagicalGirl_MagicalBoyRed" Theme="Magical" Keyword="Red" Option="None" BuffName="change_magicalboy_red_Buff"/>
+		<Class ClassID="4" ClassName="costume_Com_190" SkillName="MagicalGirl_MagicalGirlRed" Theme="Magical" Keyword="Red" Option="None" BuffName="change_magicalgirl_red_Buff"/>
+		<Class ClassID="5" ClassName="costume_Com_191" SkillName="MagicalGirl_MagicalGirlYellow" Theme="Magical" Keyword="Yellow" Option="Transgender" BuffName="change_magicalgirl_yellow_Buff"/>
+		<Class ClassID="6" ClassName="costume_Com_192" SkillName="MagicalGirl_MagicalGirlRed" Theme="Magical" Keyword="Red" Option="Transgender" BuffName="change_magicalgirl_red_Buff"/>
+		<Class ClassID="7" ClassName="costume_Com_242" SkillName="TosRangerFormChange_RedM" Theme="TosRanger" Keyword="RedM" Option="None" BuffName="TosRangerFormChange_Red_Buff"/>
+		<Class ClassID="8" ClassName="costume_Com_243" SkillName="TosRangerFormChange_RedF" Theme="TosRanger" Keyword="RedF" Option="None" BuffName="TosRangerFormChange_Red_Buff"/>
+		<Class ClassID="9" ClassName="costume_Com_244" SkillName="TosRangerFormChange_Pink" Theme="TosRanger" Keyword="Pink" Option="None" BuffName="TosRangerFormChange_Pink_Buff"/>
+		<Class ClassID="10" ClassName="costume_Com_245" SkillName="TosRangerFormChange_Blue" Theme="TosRanger" Keyword="Blue" Option="None" BuffName="TosRangerFormChange_Blue_Buff"/>
+		<Class ClassID="11" ClassName="costume_Com_247" SkillName="TosRangerFormChange_Yellow" Theme="TosRanger" Keyword="Yellow" Option="None" BuffName="TosRangerFormChange_Yellow_Buff"/>
+		<Class ClassID="12" ClassName="costume_Com_246" SkillName="TosRangerFormChange_Green" Theme="TosRanger" Keyword="Green" Option="None" BuffName="TosRangerFormChange_Green_Buff"/>
+		<Class ClassID="13" ClassName="costume_Com_288" SkillName="MagicalGirl_MagicalBoyMint" Theme="Magical" Keyword="Mint" Option="None" BuffName="change_magicalboy_mint_Buff"/>
+		<Class ClassID="14" ClassName="costume_Com_289" SkillName="MagicalGirl_MagicalGirlMint" Theme="Magical" Keyword="Mint" Option="None" BuffName="change_magicalgirl_mint_Buff"/>
+		<Class ClassID="15" ClassName="costume_Com_290" SkillName="MagicalGirl_MagicalBoyPink" Theme="Magical" Keyword="Pink" Option="None" BuffName="change_magicalboy_pink_Buff"/>
+		<Class ClassID="16" ClassName="costume_Com_291" SkillName="MagicalGirl_MagicalGirlPink" Theme="Magical" Keyword="Pink" Option="None" BuffName="change_magicalgirl_pink_Buff"/>
+		<Class ClassID="17" ClassName="costume_Com_292" SkillName="MagicalGirl_MagicalBoyBlack" Theme="Magical" Keyword="Black" Option="None" BuffName="change_magicalboy_black_Buff"/>
+		<Class ClassID="18" ClassName="costume_Com_293" SkillName="MagicalGirl_MagicalGirlBlack" Theme="Magical" Keyword="Black" Option="None" BuffName="change_magicalgirl_black_Buff"/>
+		<Class ClassID="19" ClassName="costume_Com_301" SkillName="MagicalGirl_MagicalGirlBlack" Theme="Magical" Keyword="Black" Option="Transgender" BuffName="change_magicalgirl_black_Buff"/>
+		<Class ClassID="20" ClassName="EP12_costume_Com_012" SkillName="Catagnan_Transform" Theme="Catagnan" Keyword="None" Option="None" BuffName="ITEM_BUFF_Catagnan_Transform"/>
+		<Class ClassID="21" ClassName="EP12_costume_Com_013" SkillName="Catagnan_Transform" Theme="Catagnan" Keyword="None" Option="None" BuffName="ITEM_BUFF_Catagnan_Transform"/>
+		<Class ClassID="22" ClassName="EP12_costume_Com_014" SkillName="Catagnan_Transform" Theme="Catagnan" Keyword="None" Option="None" BuffName="ITEM_BUFF_Catagnan_Transform"/>
+		<Class ClassID="23" ClassName="EP12_costume_Com_015" SkillName="Catagnan_Transform" Theme="Catagnan" Keyword="None" Option="None" BuffName="ITEM_BUFF_Catagnan_Transform"/>
+		<Class ClassID="24" ClassName="EP12_costume_Com_016" SkillName="Catagnan_Transform" Theme="Catagnan" Keyword="None" Option="None" BuffName="ITEM_BUFF_Catagnan_Transform"/>
+		<Class ClassID="25" ClassName="EP12_costume_Com_017" SkillName="Catagnan_Transform" Theme="Catagnan" Keyword="None" Option="None" BuffName="ITEM_BUFF_Catagnan_Transform"/>
+		<Class ClassID="26" ClassName="EP12_costume_Com_054" SkillName="curtaincall_EvilWithin_Boy" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Boy"/>
+		<Class ClassID="27" ClassName="EP12_costume_Com_055" SkillName="curtaincall_EvilWithin_Girl" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Girl"/>
+		<Class ClassID="28" ClassName="EP12_costume_Com_060" SkillName="curtaincall_EvilWithin_Boy_1" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Boy"/>
+		<Class ClassID="29" ClassName="EP12_costume_Com_061" SkillName="curtaincall_EvilWithin_Girl_1" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Girl"/>
+		<Class ClassID="30" ClassName="EP12_costume_Com_064" SkillName="curtaincall_EvilWithin_Boy_2" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Boy"/>
+		<Class ClassID="31" ClassName="EP12_costume_Com_065" SkillName="curtaincall_EvilWithin_Girl_2" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Girl"/>
+		<Class ClassID="32" ClassName="EP12_costume_Com_060_global" SkillName="curtaincall_EvilWithin_Boy_1" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Boy"/>
+		<Class ClassID="33" ClassName="EP12_costume_Com_061_global" SkillName="curtaincall_EvilWithin_Girl_1" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Girl"/>
+		<Class ClassID="34" ClassName="EP12_costume_Com_064_global" SkillName="curtaincall_EvilWithin_Boy_2" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Boy"/>
+		<Class ClassID="35" ClassName="EP12_costume_Com_065_global" SkillName="curtaincall_EvilWithin_Girl_2" Theme="Curtaincall" Keyword="None" Option="None" BuffName="ITEM_BUFF_Curtaincall_EvilWithin_Girl"/>
+	</Category>
+</idspace>

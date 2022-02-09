@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="legend_misc_exchange_list">
+	<Class ClassID="1" ClassName="LegendMiscChange" ChangeItem="Legend_Misc_UpHill01/Legend_Misc_Solo01/Legend_Misc_Rift01/Legend_Misc_Week01" MaterialItemCnt="1" MaterialItem_1="HiddenAbility_Piece" MaterialItem_1_cnt="10"/>
+</idspace>

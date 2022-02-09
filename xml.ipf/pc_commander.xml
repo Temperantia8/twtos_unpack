@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by MinstFaith (EMBRACE) -->
+<idspace id="PC">
+	<Category>
+		<Name>PC</Name>
+		<Class ClassID="2" ClassName="PC" EP_Permission_NT="1" EP_ChatStopTime="0" Start_time="0" Talk_NPC="0" Lock_PoseLevel_NT="1" ClassType="0" Alliance="0" MissionPosX="0" MissionPosY="0" MissionPosZ="0" DummyPCZoneID="0" BeforeZoneInst="None" MoveGuildAgitID="None"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->

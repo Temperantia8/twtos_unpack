@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by MinstFaith (EMBRACE) -->
+<idspace id="Socket">
+	<Category>
+		<Class ClassID="1" ClassName="Rune1" Name="서클" Img="socket_blank" ColorTone="000000" DescScp="None" SlotName="slot_circlegem" SlotIcon="circle_socket55" Script="None" Arg1="0" Arg2="0"/>
+		<Class ClassID="2" ClassName="Rune2" Name="스퀘어" Img="socket_blank" ColorTone="333333" DescScp="None" SlotName="slot_squaregem" SlotIcon="square_socket55" Script="None" Arg1="0" Arg2="0"/>
+		<Class ClassID="3" ClassName="Rune3" Name="다이아" Img="socket_blank" ColorTone="666666" DescScp="None" SlotName="slot_diamondgem" SlotIcon="dia_socket55" Script="None" Arg1="0" Arg2="0"/>
+		<Class ClassID="4" ClassName="Rune4" Name="스타" Img="socket_blank" ColorTone="999999" DescScp="None" SlotName="slot_stargem" SlotIcon="star_socket55" Script="None" Arg1="0" Arg2="0"/>
+		<Class ClassID="5" ClassName="Rune5" Name="빈" Img="socket_blank" ColorTone="bbbbbb" DescScp="None" SlotName="slot_freegem" SlotIcon="freegemslot_image" Script="None" Arg1="0" Arg2="0"/>
+	</Category>
+</idspace>

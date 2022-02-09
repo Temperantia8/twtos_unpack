@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="LegendDecompose">
+	<Category Name="LegendDecompose">
+		<Class ClassID="1" ClassName="Velcoffer" MaterialClassName="misc_ore26" MaterialCountScp="SCR_VELLCOFFER_MATCOUNT"/>
+		<Class ClassID="2" ClassName="Savinose" MaterialClassName="misc_Planium" MaterialCountScp="SCR_SEVINOSE_MATCOUNT"/>
+		<Class ClassID="3" ClassName="Varna" MaterialClassName="misc_ore27" MaterialCountScp="SCR_VELLCOFFER_MATCOUNT"/>
+		<Class ClassID="4" ClassName="Disnai" MaterialClassName="misc_Brikynite" MaterialCountScp="SCR_SEVINOSE_MATCOUNT"/>
+	</Category>
+</idspace>

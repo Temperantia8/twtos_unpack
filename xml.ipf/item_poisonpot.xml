@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="item_poisonpot">
+	<Category>
+		<Class ClassID="1" ClassName="misc_0002" PoisonAmount="40"/>
+		<Class ClassID="2" ClassName="misc_0008" PoisonAmount="40"/>
+		<Class ClassID="3" ClassName="misc_0016" PoisonAmount="55"/>
+		<Class ClassID="4" ClassName="misc_0015" PoisonAmount="55"/>
+		<Class ClassID="5" ClassName="misc_Grummer" PoisonAmount="55"/>
+		<Class ClassID="6" ClassName="misc_Bushspider_purple" PoisonAmount="120"/>
+		<Class ClassID="7" ClassName="misc_leafly" PoisonAmount="55"/>
+		<Class ClassID="8" ClassName="misc_0035" PoisonAmount="55"/>
+		<Class ClassID="9" ClassName="misc_Mentiwood" PoisonAmount="55"/>
+		<Class ClassID="10" ClassName="misc_0044" PoisonAmount="80"/>
+		<Class ClassID="11" ClassName="misc_0045" PoisonAmount="80"/>
+		<Class ClassID="12" ClassName="misc_0049" PoisonAmount="80"/>
+		<Class ClassID="13" ClassName="misc_0056" PoisonAmount="55"/>
+		<Class ClassID="14" ClassName="misc_Tucen" PoisonAmount="55"/>
+		<Class ClassID="15" ClassName="misc_0060" PoisonAmount="80"/>
+		<Class ClassID="16" ClassName="misc_0062" PoisonAmount="55"/>
+		<Class ClassID="17" ClassName="misc_0104" PoisonAmount="80"/>
+		<Class ClassID="18" ClassName="misc_Meleech" PoisonAmount="80"/>
+	</Category>
+</idspace>

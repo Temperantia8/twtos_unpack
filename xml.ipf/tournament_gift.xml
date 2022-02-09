@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="Tournament_Gift">
+	<Category>
+		<Class ClassID="1" ClassName="tournament_gift_1" RandomCnt="6" GiftPoint="1"/>
+		<Class ClassID="2" ClassName="tournament_gift_2" RandomCnt="1" GiftPoint="0"/>
+	</Category>
+</idspace>

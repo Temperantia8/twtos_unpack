@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="housing_featured_category">
+	<Class ClassID="1" ClassName="GoodPoint" Name="좋아요가 많은 하우스" Sort="desc" Contest="yes"/>
+	<Class ClassID="2" ClassName="TodayVisit" Name="오늘 가장 많이 방문한 하우스" Sort="desc" Contest="no"/>
+	<Class ClassID="3" ClassName="New" Name="최근 등록된 하우스" Sort="desc" Contest="no"/>
+	<Class ClassID="4" ClassName="VisitedHouse" Name="최근 방문한 하우스" Sort="desc" Contest="no"/>
+	<Class ClassID="5" ClassName="HouseGrade" Name="3단계 하우스" Sort="desc" Contest="no"/>
+</idspace>

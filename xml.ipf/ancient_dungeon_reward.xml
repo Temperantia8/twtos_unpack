@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by asdasd (IMCGames Co., Ltd) -->
+<idspace id="ancient_dungeon_reward">
+	<category Name="SOLO_DUNGEON_MINI_ANCIENT">
+		<Class ClassID="1" Stage="1" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="2" Stage="2" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="3" Stage="3" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="4" Stage="4" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="5" Stage="5" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="6" Stage="6" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="7" Stage="7" ItemName="Ancient_CardBook_Choice" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="8" Stage="8" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="2" MaxCost="0"/>
+		<Class ClassID="9" Stage="9" ItemName="Ancient_CardBook_Choice" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="10" Stage="10" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="11" Stage="11" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="2" MaxCost="0"/>
+		<Class ClassID="12" Stage="12" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="13" Stage="13" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="2" MaxCost="0"/>
+		<Class ClassID="14" Stage="14" ItemName="Ancient_CardBook_Choice" ItemCount="3" MaxCost="0"/>
+		<Class ClassID="15" Stage="15" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="16" Stage="16" ItemName="Ancient_CardBook_Choice" ItemCount="2" MaxCost="0"/>
+		<Class ClassID="17" Stage="17" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="18" Stage="18" ItemName="Ancient_CardBook_Choice" ItemCount="2" MaxCost="0"/>
+		<Class ClassID="19" Stage="19" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="5" MaxCost="0"/>
+		<Class ClassID="20" Stage="20" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="21" Stage="21" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="3" MaxCost="0"/>
+		<Class ClassID="22" Stage="22" ItemName="Ancient_CardBook_Choice" ItemCount="2" MaxCost="0"/>
+		<Class ClassID="23" Stage="23" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="3" MaxCost="0"/>
+		<Class ClassID="24" Stage="24" ItemName="Ancient_CardBook_Choice" ItemCount="3" MaxCost="0"/>
+		<Class ClassID="25" Stage="25" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="1"/>
+		<Class ClassID="26" Stage="26" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="27" Stage="27" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="28" Stage="28" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="29" Stage="29" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="30" Stage="30" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="1"/>
+		<Class ClassID="31" Stage="31" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="32" Stage="32" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="33" Stage="33" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="34" Stage="34" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="35" Stage="35" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="2"/>
+		<Class ClassID="36" Stage="36" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="37" Stage="37" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="38" Stage="38" ItemName="Ability_Point_Stone_1000_Acient" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="39" Stage="39" ItemName="Ancient_boostToken" ItemCount="1" MaxCost="0"/>
+		<Class ClassID="40" Stage="40" ItemName="Ancient_CardBook_ALL" ItemCount="1" MaxCost="2"/>
+	</category>
+</idspace>

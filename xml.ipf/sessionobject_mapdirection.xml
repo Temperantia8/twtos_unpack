@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="SessionObject">
+	<Category Name="">
+		<Class ClassID="60002" ClassName="ssn_mapintro" CT_Name="None" CT_Script="None" CT_Scp_Client="None" CT_UseTx="NO" CT_UseDB="YES" />
+	</Category>
+</idspace>

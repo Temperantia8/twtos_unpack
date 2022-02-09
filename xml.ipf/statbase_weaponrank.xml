@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Stat_WeaponRank">
+	<Category>
+		<Class ClassID="1" ClassName="D" DamageRange="4" ReinfDamage="1" Defence="2"/>
+		<Class ClassID="2" ClassName="C" DamageRange="4" ReinfDamage="1" Defence="2"/>
+		<Class ClassID="3" ClassName="B" DamageRange="12" ReinfDamage="1" Defence="3"/>
+		<Class ClassID="4" ClassName="A" DamageRange="17" ReinfDamage="1" Defence="9"/>
+		<Class ClassID="5" ClassName="AA" DamageRange="33" ReinfDamage="1" Defence="17"/>
+		<Class ClassID="6" ClassName="AAA" DamageRange="0" ReinfDamage="1" Defence="0"/>
+		<Class ClassID="7" ClassName="S" DamageRange="0" ReinfDamage="1" Defence="0"/>
+		<Class ClassID="8" ClassName="SS" DamageRange="0" ReinfDamage="1" Defence="0"/>
+		<Class ClassID="9" ClassName="SSS" DamageRange="0" ReinfDamage="1" Defence="0"/>
+		<Class ClassID="10" ClassName="SSSS" DamageRange="0" ReinfDamage="1" Defence="0"/>
+	</Category>
+</idspace>

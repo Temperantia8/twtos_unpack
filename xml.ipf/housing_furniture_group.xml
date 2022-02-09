@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Housing_Furniture_Group">
+	<Category Name="Config">
+		<Class ClassID="1" ClassName="CategoryCount" Value="3"/>
+		<Class ClassID="2" ClassName="Category_1" Value="4" Value_Str="가구"/>
+		<Class ClassID="3" ClassName="Category_2" Value="3" Value_Str="벽면"/>
+		<Class ClassID="4" ClassName="Category_3" Value="3" Value_Str="카펫"/>
+	</Category>
+	<Category Name="Furniture">
+		<Class ClassID="1001" ClassName="Interaction_Furniture" Name="상호작용(가구)" LimitCount="10"/>
+		<Class ClassID="1002" ClassName="Statue" Name="석상" LimitCount="8"/>
+		<Class ClassID="1003" ClassName="NPC" Name="NPC" LimitCount="1"/>
+		<Class ClassID="1004" ClassName="Etc_Furniture" Name="기타(가구)" LimitCount="20"/>
+	</Category>
+	<Category Name="Wall">
+		<Class ClassID="2001" ClassName="Interaction_Wall" Name="상호작용(벽면)" LimitCount="5"/>
+		<Class ClassID="2002" ClassName="Picture" Name="액자" LimitCount="5"/>
+		<Class ClassID="2003" ClassName="Etc_Wall" Name="기타(벽면)" LimitCount="10"/>
+	</Category>
+	<Category Name="Carpet">
+		<Class ClassID="3001" ClassName="Rug" Name="러그" LimitCount="10"/>
+		<Class ClassID="3002" ClassName="Fur" Name="모피" LimitCount="5"/>
+		<Class ClassID="3003" ClassName="Etc_Carpet" Name="기타(카펫)" LimitCount="10"/>
+	</Category>
+</idspace>

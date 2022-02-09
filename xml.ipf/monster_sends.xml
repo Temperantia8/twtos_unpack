@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (IMCGames Co., Ltd) -->
+<idspace id="MonsterSends">
+	<Category>
+		<Class ClassID="1" ClassName="Range" />
+    <Class ClassID="2" ClassName="Scale" />
+	</Category>
+</idspace>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!--ClassID 1번은 사용하지 않습니다. 루아에서 해당부분 처리 안함. MaxPc값을 받아오려고 넣어둔거에요-->
+<idspace id="BarrackMap">
+	<Category>
+		<Class ClassID="1" ClassName="barrack" Name="따스한 오두막" imageName="house_change00" Price="0" BaseSlot="4" MaxCashPC="36"/>
+		<Class ClassID="2" ClassName="barrack_2" Name="파이로맨서 룸" imageName="house_change01" Price="69" BaseSlot="4" MaxCashPC="36"/>
+		<Class ClassID="3" ClassName="barrack_noble" Name="연회장" imageName="house_change02" Price="69" BaseSlot="4" MaxCashPC="36"/>
+	</Category>
+</idspace>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="SkinTone">
+	<Category>
+		<Class ClassID="1" ClassName="skintone1" Name="스킨1" EngName="skin001" Red="144" Green="146" Blue="166" UseableBarrack="YES"/>
+		<Class ClassID="2" ClassName="skintone2" Name="스킨2" EngName="skin002" Red="128" Green="128" Blue="128" UseableBarrack="YES"/>
+		<Class ClassID="3" ClassName="skintone3" Name="스킨3" EngName="skin003" Red="66" Green="53" Blue="49" UseableBarrack="YES"/>
+		<Class ClassID="4" ClassName="skintone4" Name="스킨4" EngName="skin004" Red="91" Green="118" Blue="149" UseableBarrack="NO"/>
+		<Class ClassID="5" ClassName="skintone5" Name="스킨5" EngName="skin005" Red="52" Green="40" Blue="39" UseableBarrack="NO"/>
+		<Class ClassID="6" ClassName="skintone6" Name="스킨6" EngName="skin006" Red="138" Green="133" Blue="151" UseableBarrack="NO"/>
+		<Class ClassID="7" ClassName="skintone7" Name="스킨7" EngName="skin007" Red="100" Green="71" Blue="62" UseableBarrack="NO"/>
+		<Class ClassID="8" ClassName="skintone8" Name="스킨8" EngName="skin008" Red="107" Green="103" Blue="100" UseableBarrack="NO"/>
+		<Class ClassID="9" ClassName="skintone9" Name="스킨9" EngName="skin009" Red="91" Green="80" Blue="72" UseableBarrack="NO"/>
+	</Category>
+</idspace>

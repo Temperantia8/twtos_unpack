@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!--editedwithXMLSPYv2004rel.2U(http://www.xmlspy.com)byimc(imc)-->
+<idspace id="AdventureBookPoint">
+	<Class ClassID="1" ClassName="Monster_point" Name="몬스터" Script="GET_ADVENTURE_BOOK_MONSTER_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="SCR_GET_MAX_MON_KILL_POINT" RewardCategory="None"/>
+	<Class ClassID="2" ClassName="Item_point" Name="아이템" Script="GET_ADVENTURE_BOOK_ITEM_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="SCR_GET_MAX_ITEM_POINT" RewardCategory="None"/>
+	<Class ClassID="3" ClassName="Recipe_point" Name="제작" Script="GET_ADVENTURE_BOOK_RECIPE_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="SCR_GET_MAX_RECIPE_POINT" RewardCategory="None"/>
+	<Class ClassID="4" ClassName="Life_Total_point" Name="생활" Script="GET_ADVENTURE_BOOK_LIFE_TOTAL_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="SCR_GET_MAX_LIVING_POINT" RewardCategory="None"/>
+	<Class ClassID="5" ClassName="Life_Shop_point" Name="생활" Script="GET_ADVENTURE_BOOK_SHOP_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="6" ClassName="Life_Fishing_point" Name="낚시" Script="GET_ADVENTURE_BOOK_FISHING_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="7" ClassName="Instantdungeon_point" Name="던전" Script="GET_ADVENTURE_BOOK_INDUN_POINT" UseRank="NO" UseInitialization="YES" MaxPointScript="SCR_GET_MAX_INDUN_POINT" RewardCategory="None"/>
+	<Class ClassID="8" ClassName="Initialization_point" Name="(초기화대상)모험지수" Script="INITIALIZATION_ADVENTURE_BOOK_POINT" UseRank="YES" UseInitialization="YES" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="9" ClassName="Grow_TeamLevel_point" Name="성장:팀레벨" Script="GET_ADVENTURE_BOOK_TEAMLEVEL_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="10" ClassName="Grow_Class_point" Name="성장:클래스" Script="GET_ADVENTURE_BOOK_CLASS_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="11" ClassName="Adventure_Map_point" Name="맵 탐사" Script="GET_ADVENTURE_BOOK_MAP_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="12" ClassName="Adventure_Collection_point" Name="컬렉션" Script="GET_ADVENTURE_BOOK_COLLECTION_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="13" ClassName="Adventure_Achieve_point" Name="업적" Script="GET_ADVENTURE_BOOK_ACHIEVE_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="14" ClassName="Adventure_Quest_point" Name="퀘스트" Script="GET_ADVENTURE_BOOK_QUEST_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="15" ClassName="Item_Consume_point" Name="아이템 소모" Script="GET_ITEM_CONSUME_POINT" UseRank="YES" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="16" ClassName="Adventure_Total_point" Name="모험지수" Script="GET_ADVENTURE_BOOK_TOTAL_SCORE" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+	<Class ClassID="17" ClassName="Adventure_Growth_reward" Name="성장" Script="ADVENTURE_GROWTH_CATEGORY" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="Growth"/>
+	<Class ClassID="18" ClassName="Adventure_Exploration_reward" Name="탐험" Script="ADVENTURE_EXPLORATION_CATEGORY" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="Exploration"/>
+	<Class ClassID="19" ClassName="Adventure_All_Category_reward" Name="모험지수" Script="ADVENTURE_ALL_CATEGORY" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="Total"/>
+	<Class ClassID="20" ClassName="QuestAnkAchieve" Name="퀘스트/업적" Script="GET_ADVENTURE_BOOK_CONTENTS_POINT" UseRank="NO" UseInitialization="NO" MaxPointScript="None" RewardCategory="None"/>
+</idspace>

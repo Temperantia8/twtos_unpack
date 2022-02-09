@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by asdasd (IMCGames Co., Ltd) -->
+<idspace id="Ancient_Rank">
+	<Category Name="Ancient_Rank">
+		<Class ClassID="1" Rank="1" CT_Scale="1" CT_SkillNum="1" CT_AtkRate="1" CT_DefRate="1" CT_HPRate="1"/>
+		<Class ClassID="2" Rank="2" CT_Scale="1.1" CT_SkillNum="2" CT_AtkRate="1.2" CT_DefRate="1.2" CT_HPRate="1.2"/>
+		<Class ClassID="3" Rank="3" CT_Scale="1.2" CT_SkillNum="3" CT_AtkRate="1.4" CT_DefRate="1.4" CT_HPRate="1.4"/>
+	</Category>
+</idspace>

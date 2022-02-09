@@ -1,0 +1,13 @@
+﻿<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Infinite_Map_Monster">
+	<Category Name="Infinite_Map_Monster">
+		<Class ClassID="1" ClassName="F_boss_yekub"/>
+		<Class ClassID="2" ClassName="F_boss_spector"/>
+		<Class ClassID="3" ClassName="F_boss_rajapearl"/>
+		<Class ClassID="4" ClassName="F_boss_Sparnashorn"/>
+		<Class ClassID="5" ClassName="F_boss_tutu"/>
+		<Class ClassID="6" ClassName="F_boss_Mushwort"/>
+		<Class ClassID="7" ClassName="F_boss_Sparnas"/>
+		<Class ClassID="8" ClassName="F_boss_Gaigalas"/>
+	</Category>
+</idspace>

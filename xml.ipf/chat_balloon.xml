@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- 
+SkinName : 말풍선 몸통 skin 이름, 이 이름을 기준으로 말꼬리 이미지 찾아옴 (SkinName_direction : 말풍선 꼬리)
+deco1 : 말풍선 왼쪽 위 데코레이션, deco2 : 말풍선 오른쪽 위 데코레이션
+데코레이션이 있을 경우에만 deco1, deco2 컬럼 추가 => deco의 margin 값 입력
+ -->
+<idspace id="Chat_Balloon">
+	<Category>
+		<Class ClassID="1" ClassName="Balloon_0001" Name="기본 말풍선" SkinName="dark_balloon_2" Icon="" SkinPreview="" NameFontStyle="" TextFontStyle=""/>
+		<Class ClassID="2" ClassName="Balloon_0002" Name="롤링 도어 말풍선(핑크)" SkinName="rolling_pink_balloon" Icon="icon_item_balloon_skin_rolling_door_01" SkinPreview="icon_item_balloon_skin_rolling_door_01_pic" NameFontStyle="" TextFontStyle=""/>
+		<Class ClassID="3" ClassName="Balloon_0003" Name="롤링 도어 말풍선(블루 스카이)" SkinName="rolling_blue_balloon" Icon="icon_item_balloon_skin_rolling_door_02" SkinPreview="icon_item_balloon_skin_rolling_door_02_pic" NameFontStyle="" TextFontStyle=""/>
+		<Class ClassID="4" ClassName="Balloon_0004" Name="티니 뱃지 말풍선" SkinName="badge_tiny_balloon" Icon="icon_item_balloon_skin_badge_tiny" SkinPreview="icon_item_balloon_skin_badge_tiny_pic" NameFontStyle="" TextFontStyle="" decoImg1="badge_tiny_balloon_deco1" deco1="-18 36"/>
+		<Class ClassID="5" ClassName="Balloon_0005" Name="포포리온 뱃지 말풍선" SkinName="badge_poporion_balloon" Icon="icon_item_balloon_skin_badge_poporion" SkinPreview="icon_item_balloon_skin_badge_poporion_pic" NameFontStyle="" TextFontStyle="" decoImg1="badge_poporion_balloon_deco1" deco1="-25 33"/>
+		<Class ClassID="6" ClassName="Balloon_0006" Name="케파 뱃지 말풍선" SkinName="badge_kepa_balloon" Icon="icon_item_balloon_skin_badge_kepa" SkinPreview="icon_item_balloon_skin_badge_kepa_pic" NameFontStyle="" TextFontStyle="" decoImg1="badge_kepa_balloon_deco1" deco1="-29 19"/>
+		<Class ClassID="7" ClassName="Balloon_0007" Name="식목일 말풍선" SkinName="arbor_day_balloon" Icon="icon_item_balloon_skin_Event_Arbor_Day" SkinPreview="icon_item_balloon_skin_Event_Arbor_Day_pic" NameFontStyle="{@st42b}{s20}{ol}" TextFontStyle="" decoImg1="arbor_day_balloon_deco1" deco1="-44 25"/>
+		<Class ClassID="8" ClassName="Balloon_0008" Name="노란 병아리 말풍선" SkinName="childrens_day_balloon" Icon="icon_item_balloon_skin_Childrens_Day" SkinPreview="icon_item_balloon_skin_Childrens_Day_pic" NameFontStyle="" TextFontStyle="" decoImg1="childrens_day_balloon_deco1" deco1="-37 25"/>
+		<Class ClassID="9" ClassName="Balloon_0009" Name="체리 아이스크림 말풍선" SkinName="icecream_balloon" Icon="icon_item_balloon_skin_icecream_01" SkinPreview="icon_item_balloon_skin_icecream_01_pic" NameFontStyle="{@st42b}{s20}{ol}" TextFontStyle="" decoImg1="cherry_icecream_balloon_deco1" deco1="-30 29" decoImg2="cherry_icecream_balloon_deco2" deco2="40 52"/>
+		<Class ClassID="10" ClassName="Balloon_0010" Name="블루베리 아이스크림 말풍선" SkinName="icecream_balloon" Icon="icon_item_balloon_skin_icecream_02" SkinPreview="icon_item_balloon_skin_icecream_02_pic" NameFontStyle="{@st42b}{s20}{ol}" TextFontStyle="" decoImg1="blueberry_icecream_balloon_deco1" deco1="-30 29" decoImg2="blueberry_icecream_balloon_deco2" deco2="40 53"/>
+	</Category>
+</idspace>

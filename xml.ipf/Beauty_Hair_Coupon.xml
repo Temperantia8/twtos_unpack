@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Beauty_Hair_Coupon">
+	<Category>
+		<Class ClassID="1" RewardItemClassName="Potion_Demon_DMG_UP" RewardItemCount="1" NeedStampCount="5"/>
+		<Class ClassID="2" RewardItemClassName="Potion_MIX_DMG_UP" RewardItemCount="1" NeedStampCount="10"/>
+		<Class ClassID="3" RewardItemClassName="Potion_Bug_DMG_UP" RewardItemCount="1" NeedStampCount="15"/>
+	</Category>
+</idspace>

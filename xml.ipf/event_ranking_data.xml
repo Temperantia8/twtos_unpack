@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="event_ranking_data">
+	<Category Name="EVENT_YOUR_MASTER">
+		<!-- EVENT_YOUR_MASTER_VOTE_LIST, EVENT_YOUR_MASTER_TOTAL_VOTE_LIST에 투표한 npc list prop 설정-->
+		<Class ClassID="2" ClassName="swordmaster" Name="소드맨 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="3" ClassName="highlander" Name="하이랜더 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="4" ClassName="peltasta" Name="펠타스타 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="5" ClassName="npc_HOP_master" Name="하플라이트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="6" ClassName="npc_BAR_master" Name="바바리안 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="7" ClassName="npc_CAT_master" Name="캐터프랙트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="8" ClassName="npc_DOP_master" Name="도펠죌트너 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="9" ClassName="npc_ROD_master" Name="로델레로 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="10" ClassName="npc_MUR_master" Name="무르밀로 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="11" ClassName="npc_FNC_master" Name="펜서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="12" ClassName="npc_DRG_master" Name="드라군 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="13" ClassName="npc_knight" Name="템플러 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="14" ClassName="npc_LAN_master" Name="랜서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="15" ClassName="npc_MTD_master" Name="마타도르 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="16" ClassName="npc_NAK_master" Name="낙무아이 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="17" ClassName="npc_RET_master" Name="레티아리이 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="18" ClassName="npc_HAC_master" Name="하카펠 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="19" ClassName="npc_MEI_master" Name="매화검수 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="20" ClassName="wizardmaster" Name="위저드 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="21" ClassName="pyromancer" Name="파이로맨서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="22" ClassName="npc_cryomancer" Name="크리오맨서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="23" ClassName="npc_PSY_master" Name="사이코키노 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="24" ClassName="npc_mining_alchemist" Name="알케미스트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="25" ClassName="npc_SOR_master" Name="소서러 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="26" ClassName="npc_CHR_master" Name="크로노맨서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="27" ClassName="npc_NEC_master" Name="네크로맨서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="28" ClassName="npc_WRC_master" Name="엘리멘탈리스트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="29" ClassName="npc_SAG_master" Name="세이지 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="30" ClassName="npc_WAR_master" Name="워록 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="31" ClassName="npc_FTF_master" Name="페더풋 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="32" ClassName="npc_RUN_master" Name="룬캐스터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="33" ClassName="npc_SHM_master" Name="섀도우맨서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="34" ClassName="npc_ONM_master" Name="음양사 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="35" ClassName="npc_DAO_master" Name="도사 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="36" ClassName="npc_bocormaster" Name="보코르 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="37" ClassName="npc_terramancer_master" Name="테라맨서 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="38" ClassName="archermaster" Name="아처 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="39" ClassName="npc_HUT_master" Name="헌터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="40" ClassName="npc_QRS_master" Name="쿼렐슈터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="41" ClassName="npc_RAG_master" Name="레인저 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="42" ClassName="npc_SAP_master" Name="새퍼 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="43" ClassName="npc_WUG_master" Name="무고사 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="44" ClassName="npc_FLT_master" Name="플레쳐 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="45" ClassName="npc_PID_master" Name="파이드 파이퍼 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="46" ClassName="npc_Appraiser" Name="감정사 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="47" ClassName="npc_FAL_master" Name="응사 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="48" ClassName="npc_CNN_master" Name="캐노니어 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="49" ClassName="npc_MSK_master" Name="머스킷티어 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="50" ClassName="npc_MER_master" Name="메르겐 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="51" ClassName="npc_MasterMatross" Name="매트로스 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="52" ClassName="npc_MasterTigerHunter" Name="산포 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="53" ClassName="npc_Arbalester_master" Name="아발리스터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="54" ClassName="npc_SCT_master" Name="스카우트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="55" ClassName="npc_ASS_master" Name="어쌔신 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="56" ClassName="npc_OLW_male_master" Name="아웃로 마스터 - 재즈" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="57" ClassName="npc_OLW_female_master" Name="아웃로 마스터 - 마에아" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="58" ClassName="npc_SQR_master" Name="스콰이어 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="59" ClassName="npc_COS_master" Name="커세어 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="60" ClassName="npc_SNB_master" Name="시노비 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="61" ClassName="npc_THA_master" Name="쏘마터지 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="62" ClassName="npc_ENC_master" Name="인챈터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="63" ClassName="npc_LIN_master" Name="링커 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="64" ClassName="npc_ROG_master" Name="로그 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="65" ClassName="npc_SCH_master" Name="슈바르츠라이터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="66" ClassName="npc_BLM_master" Name="불릿 마커 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="67" ClassName="npc_MasterArditi" Name="아르디티 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="68" ClassName="npc_MasterSheriff" Name="셰리프 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="69" ClassName="npc_rangda_master" Name="랑다 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="70" ClassName="npc_healer" Name="클레릭 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="71" ClassName="npc_PRS_master" Name="프리스트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="72" ClassName="npc_KRV_master" Name="크리비 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="73" ClassName="npc_DRU_master" Name="드루이드 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="74" ClassName="npc_SAD_master" Name="사두 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="75" ClassName="npc_c_sculptor" Name="딥디르비 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="76" ClassName="npc_ORC_master" Name="오라클 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="77" ClassName="npc_MNK_master" Name="몽크 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="78" ClassName="npc_PDN_master" Name="파드너 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="79" ClassName="npc_paladinmaster" Name="팔라딘 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="80" ClassName="npc_ceslovas" Name="채플린 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="81" ClassName="npc_plaguedoctor_m_2" Name="플레이그 닥터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="82" ClassName="npc_KBL_master" Name="카발리스트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="83" ClassName="npc_INQ_master" Name="인퀴지터 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="84" ClassName="npc_MIKO_master" Name="무녀 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="85" ClassName="npc_ZLT_master" Name="질럿 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="86" ClassName="npc_EXO_master" Name="엑소시스트 마스터" Group="EVENT_YOUR_MASTER"/>
+		<Class ClassID="87" ClassName="npc_Zofija_Eleonora" Name="크루세이더 마스터" Group="EVENT_YOUR_MASTER"/>
+	</Category>
+</idspace>

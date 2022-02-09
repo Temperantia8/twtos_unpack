@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="PC">
+	<Category>
+		<Name>PC</Name>
+		<Class ClassID="2" ClassName="PC" GQuestEncounter_NT="0" LearnAbilityTime_1_NT="None" LearnAbilityID_1_NT="0" LearnAbilityTime_2_NT="None" LearnAbilityID_2_NT="0" LearnAbilityTime_3_NT="None" LearnAbilityID_3_NT="0" LearnAbilityTime_4_NT="None" LearnAbilityID_4_NT="0" LearnAbilityTime_5_NT="None" LearnAbilityID_5_NT="0" LearnAbilityTime_NT="None" LearnAbilityID_NT="0" PartyEnterTime="0"/>
+	</Category>
+</idspace>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<!--UseLv : 해당 레벨 이상 장비부터 적용, 기존 계산식에서 본 xml정보 값을 받아서 추가로 조정됨 (최소 440부터 적용됨)
+RepairPriceRatio : 해당 레벨 이상 장비의 수리비용을 입력한 값 만큼 곱한다
+ReinforcePriceRatio : 해당 레벨 이상 장비의 강화비용을 입력한 값 만큼 곱한다-->
+<idspace id="IncreaseCost">
+	<Category>
+		<Class ClassID="1" UseLv="440" RepairPriceRatio="1.2" ReinforcePriceRatio="1.2"/>
+	</Category>
+</idspace>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Skill_CP" keyid="Skill">
+	<Category>
+		<Class ClassID="1" ClassName="Skill_CP" CP_UseOverHeat_NT="SCR_GET_USEOVERHEAT" CP_BackHitRange_NT="SCR_Get_Skl_BackHit" CP_SR_NT_DS2="SCR_Get_Skl_SR" CP_SkillASPD_NT="SCR_Get_SkillASPD" VP_NumberArg="0"/>
+	</Category>
+</idspace>

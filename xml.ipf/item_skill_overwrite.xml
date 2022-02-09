@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by overdose (EMBRACE) -->
+<idspace id="SkillOverWrite">
+	<Category>
+		<Class ClassID="10000" ClassName="Sword1" ItemName="Sword_gladius_C" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="20" CT_SplAngle="35" CT_WaveLength="30" CT_BackHitRange="0" CT_SR="2" CT_CRT="0" CT_HitCount="3"/>
+		<Class ClassID="10001" ClassName="Sword2" ItemName="Sword_falchion_D" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="0" CT_SplAngle="0" CT_WaveLength="0" CT_BackHitRange="0" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10002" ClassName="Sword3" ItemName="Sword_kaskara_D" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="10" CT_SplAngle="15" CT_WaveLength="40" CT_BackHitRange="0" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10003" ClassName="Sword4" ItemName="Sword_cinquedea_D" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="0" CT_SplAngle="0" CT_WaveLength="0" CT_BackHitRange="0" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10004" ClassName="Sword5" ItemName="Sword_sabre_D" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="0" CT_SplAngle="0" CT_WaveLength="0" CT_BackHitRange="0" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10005" ClassName="Sword6" ItemName="Sword_sabre_D" SkillName="Normal_Attack" SplType="Square" CT_SplRange="0" CT_SplAngle="0" CT_WaveLength="0" CT_BackHitRange="0" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10006" ClassName="Sword7" ItemName="THSword_nodachi_D" SkillName="Normal_Attack" SplType="Square" CT_SplRange="0" CT_SplAngle="0" CT_WaveLength="0" CT_BackHitRange="0" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10007" ClassName="Sword8" ItemName="THSword_claymore_D" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="0" CT_SplAngle="0" CT_WaveLength="0" CT_BackHitRange="20" CT_SR="0" CT_CRT="0" CT_HitCount="0"/>
+		<Class ClassID="10008" ClassName="Sword10" ItemName="Sword_krisses_C" SkillName="Swordman_Thrust" SplType="Square" CT_SplRange="10" CT_SplAngle="200" CT_WaveLength="200" CT_BackHitRange="0" CT_SR="2" CT_CRT="0" CT_HitCount="3"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->

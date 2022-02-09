@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="FoodTable">
+	<Category>
+		<Class ClassID="1" ClassName="sandwich" Name="샌드위치" Icon="icon_item_sandwich" CookAnim="skl_squire_sandwich" CookTime="5000" EatAnim="foodtable_eatsandwich" EatNode="Dummy_L_HAND" Material="food_033/2/food_034/4" SkillLevel="1" Ability="Squire6"/>
+		<Class ClassID="2" ClassName="soup" Name="수프" Icon="icon_item_soup" CookAnim="skl_squire_foodtable_stirsoup" CookTime="5000" EatAnim="foodtable_eatsoup" EatNode="Dummy_L_HAND" Material="food_020/2/food_035/3" SkillLevel="1" Ability="Squire7"/>
+		<Class ClassID="3" ClassName="yogurt" Name="요거트" Icon="icon_item_yogurt" CookAnim="skl_squire_foodtable_stirsoup" CookTime="5000" EatAnim="foodtable_eatsoup" EatNode="Dummy_R_HAND" Material="food_035/5" SkillLevel="1" Ability="Squire8"/>
+		<Class ClassID="4" ClassName="salad" Name="샐러드" Icon="icon_item_salad" CookAnim="skl_squire_salad" CookTime="5000" EatAnim="foodtable_eatsoup" EatNode="Dummy_R_HAND" Material="food_020/6" SkillLevel="1" Ability="Squire5"/>
+		<Class ClassID="5" ClassName="BBQ" Name="바베큐꼬치" Icon="icon_item_BBQ" CookAnim="skl_squire_BBQ" CookTime="3000" EatAnim="foodBBQ" EatNode="none" Material="food_040/3/food_041/3" SkillLevel="6" Ability="None"/>
+		<Class ClassID="6" ClassName="champagne" Name="샴페인" Icon="icon_item_champagne" CookAnim="skl_squire_champagne" CookTime="3500" EatAnim="foodDrink" EatNode="none" Material="food_038/6" SkillLevel="6" Ability="None"/>
+	</Category>
+</idspace>

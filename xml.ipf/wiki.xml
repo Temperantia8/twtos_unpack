@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="Wiki">
+	<Category Name="Def">
+		<Class ClassID="1" ClassName="Def" WikiPoint="10" Category="None"/>
+	</Category>
+</idspace>

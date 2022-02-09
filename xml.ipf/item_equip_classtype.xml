@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Item_equip_classtype">
+	<Category>
+		<Class ClassID="1" ClassName="Sword" CtrlType="Warrior"/>
+		<Class ClassID="2" ClassName="THSword" CtrlType="Warrior"/>
+		<Class ClassID="3" ClassName="THSword_" CtrlType="Spear"/>
+		<Class ClassID="4" ClassName="THSword__" CtrlType="THSpear"/>
+		<Class ClassID="5" ClassName="Staff" CtrlType="Wizard"/>
+		<Class ClassID="6" ClassName="THStaff" CtrlType="Wizard"/>
+		<Class ClassID="7" ClassName="THBow" CtrlType="Archer"/>
+		<Class ClassID="8" ClassName="Bow" CtrlType="Archer"/>
+		<Class ClassID="9" ClassName="Pistol" CtrlType="Archer"/>
+		<Class ClassID="10" ClassName="Mace" CtrlType="Cleric"/>
+		<Class ClassID="11" ClassName="THMace" CtrlType="Cleric"/>
+	</Category>
+</idspace>

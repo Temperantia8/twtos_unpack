@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="skill_ignore_holdskill">
+    <Category Name="skill">
+        <Class ClassID="1" ClassName="Wizard_Teleportation" Keyword="Stun" Level="3"/>
+    </Category>
+</idspace>

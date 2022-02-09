@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (IMCGames Co., Ltd) -->
+<idspace id="WorldPVPType">
+	<Class ClassID="1" ClassName="Three" PlayerCnt="3" TeamCount="2" Party="0" MatchType="Normal" MinGuildPlayer="0" MaxGuildPlayer="0" MaxPlayCount="100" Name="3vs3 자동 매칭 (랭크)" Desc="정해진 팀 또는 적절한 수준의 팀을 결성하여 대결합니다." MGame="battlefield" StatuePosition="GET_PVP_STATUEPOSITION" PointType="Basic" UIType="TeamBattleLeague" SeasonRewardType="None/Achieve"/>
+	<Class ClassID="210" ClassName="GuildHunter" PlayerCnt="1" TeamCount="2" Party="0" MatchType="Guild" MinGuildPlayer="5" MaxGuildPlayer="10" MaxPlayCount="2" Name="통합 길드배틀" Desc="정해진 팀 또는 적절한 수준의 팀을 결성하여 대결합니다." MGame="NewGuildTowerBattle" StatuePosition="None" PointType="None" UIType="Guild" SeasonRewardType="Guild"/>
+</idspace>

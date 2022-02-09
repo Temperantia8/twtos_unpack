@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by ofcbj (IMCGames Co., Ltd) -->
+<idspace id="AreaName">
+	<Category>
+		<Class ClassID="1" ClassName="hwa0" Text="화선도중당" Image="hwa0" Background="bg01"/>
+		<Class ClassID="2" ClassName="hwa1" Text="영빈관" Image="hwa1" Background="bg01"/>
+		<Class ClassID="3" ClassName="hwa2" Text="기화영초원" Image="hwa2" Background="bg01"/>
+		<Class ClassID="4" ClassName="hwa3" Text="산명탑" Image="hwa3" Background="bg01"/>
+		<Class ClassID="5" ClassName="hwa4" Text="배현문" Image="hwa4" Background="bg01"/>
+		<Class ClassID="6" ClassName="hwa5" Text="보명탑" Image="hwa5" Background="bg01"/>
+		<Class ClassID="7" ClassName="hwa6" Text="화선도 선착장" Image="hwa6" Background="bg01"/>
+		<Class ClassID="8" ClassName="hwa7" Text="매화검각" Image="hwa7" Background="bg01"/>
+		<Class ClassID="9" ClassName="hwa8" Text="허저부두" Image="hwa8" Background="bg01"/>
+		<Class ClassID="10" ClassName="hwa9" Text="매향관" Image="hwa9" Background="bg01"/>
+		<Class ClassID="11" ClassName="hwa10" Text="영화탄부두" Image="hwa10" Background="bg01"/>
+		<Class ClassID="12" ClassName="hwa11" Text="희신대" Image="hwa11" Background="bg01"/>
+		<Class ClassID="13" ClassName="hwa12" Text="청경연" Image="hwa12" Background="bg01"/>
+		<Class ClassID="14" ClassName="hwa13" Text="군암지" Image="hwa13" Background="bg01"/>
+		<Class ClassID="15" ClassName="hwa14" Text="협풍곡" Image="hwa14" Background="bg01"/>
+		<Class ClassID="16" ClassName="hwa15" Text="현풍벽" Image="hwa15" Background="bg01"/>
+		<Class ClassID="17" ClassName="hwa16" Text="화원대로" Image="hwa16" Background="bg01"/>
+		<Class ClassID="18" ClassName="hwa17" Text="읍립로" Image="hwa17" Background="bg01"/>
+		<Class ClassID="19" ClassName="hwa18" Text="송인로" Image="hwa18" Background="bg01"/>
+		<Class ClassID="20" ClassName="hwa19" Text="화선주로" Image="hwa19" Background="bg01"/>
+		<Class ClassID="21" ClassName="hwa20" Text="해수림" Image="hwa20" Background="bg01"/>
+		<Class ClassID="22" ClassName="hwa21" Text="현화구" Image="hwa21" Background="bg01"/>
+		<Class ClassID="23" ClassName="hwa22" Text="대화원" Image="hwa22" Background="bg01"/>
+		<Class ClassID="24" ClassName="hwa23" Text="소화원" Image="hwa23" Background="bg01"/>
+		<Class ClassID="25" ClassName="hwa24" Text="허저평" Image="hwa24" Background="bg01"/>
+		<Class ClassID="26" ClassName="jangwon" Text="현가목장" Image="hwa25" Background="bg01"/>
+	</Category>
+</idspace>

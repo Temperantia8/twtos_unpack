@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Hair_Dye_List">
+	<category Name="고스로리">
+		<subcategory Name="HAIR_F_133">
+			<Class ClassID="1" ClassName="ClassName1" Group="HAIR_F_133" DyeName="default" IconName="Dye_gothloli" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="2" ClassName="ClassName2" Group="HAIR_F_133" DyeName="blond" IconName="Dye_gothloli_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="3" ClassName="ClassName3" Group="HAIR_F_133" DyeName="mint" IconName="Dye_gothloli_mint" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="4" ClassName="ClassName4" Group="HAIR_F_133" DyeName="lightbrown" IconName="Dye_gothloli_lightbrown" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="5" ClassName="ClassName5" Group="HAIR_F_133" DyeName="red" IconName="Dye_gothloli_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="6" ClassName="ClassName6" Group="HAIR_F_133" DyeName="purple" IconName="Dye_gothloli_purple" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="7" ClassName="ClassName7" Group="HAIR_F_133" DyeName="gray" IconName="Dye_gothloli_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="8" ClassName="ClassName8" Group="HAIR_F_133" DyeName="blue" IconName="Dye_gothloli_blue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="노블 웨이브 포니테일">
+		<subcategory Name="HAIR_M_134">
+			<Class ClassID="51" ClassName="ClassName51" Group="HAIR_M_134" DyeName="default" IconName="Dye_redbridge" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="52" ClassName="ClassName52" Group="HAIR_M_134" DyeName="blond" IconName="Dye_redbridge_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="53" ClassName="ClassName53" Group="HAIR_M_134" DyeName="paleblue" IconName="Dye_redbridge_paleblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="54" ClassName="ClassName54" Group="HAIR_M_134" DyeName="brown" IconName="Dye_redbridge_brown" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="55" ClassName="ClassName55" Group="HAIR_M_134" DyeName="black" IconName="Dye_redbridge_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="56" ClassName="ClassName56" Group="HAIR_M_134" DyeName="white" IconName="Dye_redbridge_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="57" ClassName="ClassName57" Group="HAIR_M_134" DyeName="gray" IconName="Dye_redbridge_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="58" ClassName="ClassName58" Group="HAIR_M_134" DyeName="purple" IconName="Dye_redbridge_purple" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="바니보이">
+		<subcategory Name="HAIR_M_132">
+			<Class ClassID="101" ClassName="ClassName101" Group="HAIR_M_132" DyeName="default" IconName="Dye_bunnyboy" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="102" ClassName="ClassName102" Group="HAIR_M_132" DyeName="blond" IconName="Dye_bunnyboy_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="103" ClassName="ClassName103" Group="HAIR_M_132" DyeName="paleblue" IconName="Dye_bunnyboy_paleblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="104" ClassName="ClassName104" Group="HAIR_M_132" DyeName="dark" IconName="Dye_bunnyboy_dark" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="105" ClassName="ClassName105" Group="HAIR_M_132" DyeName="black" IconName="Dye_bunnyboy_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="106" ClassName="ClassName106" Group="HAIR_M_132" DyeName="pink" IconName="Dye_bunnyboy_pink" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="107" ClassName="ClassName107" Group="HAIR_M_132" DyeName="red" IconName="Dye_bunnyboy_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="108" ClassName="ClassName108" Group="HAIR_M_132" DyeName="blue" IconName="Dye_bunnyboy_blue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="투톤 댄디 컷">
+		<subcategory Name="HAIR_M_133">
+			<Class ClassID="151" ClassName="ClassName151" Group="HAIR_M_133" DyeName="default" IconName="Dye_mintpink" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="152" ClassName="ClassName152" Group="HAIR_M_133" DyeName="blond" IconName="Dye_mintpink_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="153" ClassName="ClassName153" Group="HAIR_M_133" DyeName="ashblue" IconName="Dye_mintpink_ashblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="154" ClassName="ClassName154" Group="HAIR_M_133" DyeName="brown" IconName="Dye_mintpink_brown" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="155" ClassName="ClassName155" Group="HAIR_M_133" DyeName="black" IconName="Dye_mintpink_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="156" ClassName="ClassName156" Group="HAIR_M_133" DyeName="blue" IconName="Dye_mintpink_blue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="157" ClassName="ClassName157" Group="HAIR_M_133" DyeName="gray" IconName="Dye_mintpink_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="158" ClassName="ClassName158" Group="HAIR_M_133" DyeName="white" IconName="Dye_mintpink_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="사이드 포니테일">
+		<subcategory Name="HAIR_M_133">
+			<Class ClassID="201" ClassName="ClassName201" Group="HAIR_F_134" DyeName="default" IconName="Dye_waveponytail" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="202" ClassName="ClassName202" Group="HAIR_F_134" DyeName="brown" IconName="Dye_waveponytail_brown" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="203" ClassName="ClassName203" Group="HAIR_F_134" DyeName="mint" IconName="Dye_waveponytail_mint" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="204" ClassName="ClassName204" Group="HAIR_F_134" DyeName="darkblue" IconName="Dye_waveponytail_darkblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="205" ClassName="ClassName205" Group="HAIR_F_134" DyeName="blond" IconName="Dye_waveponytail_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="206" ClassName="ClassName206" Group="HAIR_F_134" DyeName="gray" IconName="Dye_waveponytail_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="207" ClassName="ClassName207" Group="HAIR_F_134" DyeName="purple" IconName="Dye_waveponytail_purple" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="208" ClassName="ClassName208" Group="HAIR_F_134" DyeName="midnightblue" IconName="Dye_waveponytail_midnightblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="쳐피뱅">
+		<subcategory Name="HAIR_M_133">
+			<Class ClassID="251" ClassName="ClassName251" Group="HAIR_F_135" DyeName="default" IconName="Dye_pinkgradation" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="252" ClassName="ClassName252" Group="HAIR_F_135" DyeName="blond" IconName="Dye_pinkgradation_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="253" ClassName="ClassName253" Group="HAIR_F_135" DyeName="mint" IconName="Dye_pinkgradation_mint" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="254" ClassName="ClassName254" Group="HAIR_F_135" DyeName="lightbrown" IconName="Dye_pinkgradation_lightbrown" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="255" ClassName="ClassName255" Group="HAIR_F_135" DyeName="black" IconName="Dye_pinkgradation_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="256" ClassName="ClassName256" Group="HAIR_F_135" DyeName="gray" IconName="Dye_pinkgradation_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="257" ClassName="ClassName257" Group="HAIR_F_135" DyeName="red" IconName="Dye_pinkgradation_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="258" ClassName="ClassName258" Group="HAIR_F_135" DyeName="white" IconName="Dye_pinkgradation_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="레트로 레이어드">
+		<subcategory Name="HAIR_M_125">
+			<Class ClassID="301" ClassName="ClassName301" Group="HAIR_M_125" DyeName="default" IconName="Dye_brown" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="302" ClassName="ClassName306" Group="HAIR_M_125" DyeName="blue" IconName="Dye_gothloli_blue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="303" ClassName="ClassName307" Group="HAIR_M_125" DyeName="gray" IconName="Dye_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="304" ClassName="ClassName308" Group="HAIR_M_125" DyeName="lightsalmon" IconName="Dye_lightsalmon" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="305" ClassName="ClassName302" Group="HAIR_M_125" DyeName="red" IconName="Dye_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="306" ClassName="ClassName303" Group="HAIR_M_125" DyeName="midnightblue" IconName="Dye_midnightblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="307" ClassName="ClassName304" Group="HAIR_M_125" DyeName="blond" IconName="Dye_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="308" ClassName="ClassName305" Group="HAIR_M_125" DyeName="white" IconName="Dye_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="로맨틱 번헤어">
+		<subcategory Name="HAIR_F_126">
+			<Class ClassID="351" ClassName="ClassName351" Group="HAIR_F_126" DyeName="default" IconName="Dye_orange" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="352" ClassName="ClassName356" Group="HAIR_F_126" DyeName="black" IconName="Dye_dark" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="353" ClassName="ClassName357" Group="HAIR_F_126" DyeName="gray" IconName="Dye_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="354" ClassName="ClassName358" Group="HAIR_F_126" DyeName="blue" IconName="Dye_gothloli_blue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="355" ClassName="ClassName352" Group="HAIR_F_126" DyeName="white" IconName="Dye_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="356" ClassName="ClassName353" Group="HAIR_F_126" DyeName="blond" IconName="Dye_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="357" ClassName="ClassName354" Group="HAIR_F_126" DyeName="red" IconName="Dye_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="358" ClassName="ClassName355" Group="HAIR_F_126" DyeName="midnightblue" IconName="Dye_midnightblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="숏 리젠트 헤어">
+		<subcategory Name="HAIR_M_125">
+			<Class ClassID="401" ClassName="ClassName401" Group="HAIR_M_137" DyeName="default" IconName="Dye_gray" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="402" ClassName="ClassName402" Group="HAIR_M_137" DyeName="black" IconName="Dye_dark" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="403" ClassName="ClassName403" Group="HAIR_M_137" DyeName="flame" IconName="Dye_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="404" ClassName="ClassName404" Group="HAIR_M_137" DyeName="violet" IconName="Dye_Lavender" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="피쉬 테일">
+		<subcategory Name="HAIR_F_126">
+			<Class ClassID="451" ClassName="ClassName451" Group="HAIR_F_138" DyeName="default" IconName="Dye_gray" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="452" ClassName="ClassName452" Group="HAIR_F_138" DyeName="charcoal" IconName="Dye_Charcoal" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="453" ClassName="ClassName453" Group="HAIR_F_138" DyeName="copper" IconName="Dye_brown" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="454" ClassName="ClassName454" Group="HAIR_F_138" DyeName="pink" IconName="Dye_pink" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="트윈테일 시뇽">
+		<subcategory Name="HAIR_F_126">
+			<Class ClassID="461" ClassName="ClassName461" Group="HAIR_F_139" DyeName="default" IconName="Dye_gray" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="462" ClassName="ClassName462" Group="HAIR_F_139" DyeName="black" IconName="Dye_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="463" ClassName="ClassName463" Group="HAIR_F_139" DyeName="applemint" IconName="Dye_mint" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="투블럭 포니테일">
+		<subcategory Name="HAIR_M_138">
+			<Class ClassID="471" ClassName="ClassName471" Group="HAIR_M_138" DyeName="default" IconName="Dye_gray" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="472" ClassName="ClassName472" Group="HAIR_M_138" DyeName="blond" IconName="Dye_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="473" ClassName="ClassName473" Group="HAIR_M_138" DyeName="rightviolet" IconName="Dye_Lavender" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="프렌치 보브">
+		<subcategory Name="HAIR_F_140">
+			<Class ClassID="481" ClassName="ClassName481" Group="HAIR_F_140" DyeName="default" IconName="Dye_white" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="482" ClassName="ClassName482" Group="HAIR_F_140" DyeName="rightgreen" IconName="Dye_mint" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="483" ClassName="ClassName483" Group="HAIR_F_140" DyeName="rightpink" IconName="Dye_bunnyboy_pink" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="사이드 스윕트">
+		<subcategory Name="HAIR_M_139">
+			<Class ClassID="491" ClassName="ClassName491" Group="HAIR_M_139" DyeName="default" IconName="Dye_redbridge_brown" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="492" ClassName="ClassName492" Group="HAIR_M_139" DyeName="orange" IconName="Dye_orange" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="493" ClassName="ClassName493" Group="HAIR_M_139" DyeName="green" IconName="Dye_rightgreen" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="브레이드 롱">
+		<subcategory Name="HAIR_F_141">
+			<Class ClassID="501" ClassName="ClassName501" Group="HAIR_F_141" DyeName="default" IconName="Dye_pinkgradation_lightbrown" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="502" ClassName="ClassName502" Group="HAIR_F_141" DyeName="blond" IconName="Dye_blond" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="503" ClassName="ClassName503" Group="HAIR_F_141" DyeName="rightorange" IconName="Dye_orange" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="볼륨 웨이브">
+		<subcategory Name="HAIR_M_140">
+			<Class ClassID="511" ClassName="ClassName511" Group="HAIR_M_140" DyeName="default" IconName="Dye_pinkgradation_lightbrown" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="512" ClassName="ClassName512" Group="HAIR_M_140" DyeName="blue" IconName="Dye_gothloli_blue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="513" ClassName="ClassName513" Group="HAIR_M_140" DyeName="ashgrey" IconName="Dye_gray" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="클래식 보브">
+		<subcategory Name="HAIR_F_142">
+			<Class ClassID="521" ClassName="ClassName521" Group="HAIR_F_142" DyeName="default" IconName="Dye_pinkgradation_lightbrown" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="522" ClassName="ClassName522" Group="HAIR_F_142" DyeName="black" IconName="Dye_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="523" ClassName="ClassName523" Group="HAIR_F_142" DyeName="pink" IconName="Dye_pink" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="슬라이트 웨이비">
+		<subcategory Name="HAIR_M_141">
+			<Class ClassID="531" ClassName="ClassName531" Group="HAIR_M_141" DyeName="default" IconName="Dye_redbridge_gray" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="532" ClassName="ClassName532" Group="HAIR_M_141" DyeName="ashblue" IconName="Dye_midnightblue" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="533" ClassName="ClassName533" Group="HAIR_M_141" DyeName="ashgreen" IconName="Dye_green" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="트윈 덤플링 롱 웨이브">
+		<subcategory Name="HAIR_F_143">
+			<Class ClassID="541" ClassName="ClassName541" Group="HAIR_F_143" DyeName="default" IconName="Dye_blond" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="542" ClassName="ClassName542" Group="HAIR_F_143" DyeName="rubywine" IconName="Dye_red" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="543" ClassName="ClassName543" Group="HAIR_F_143" DyeName="ashwine" IconName="Dye_ashwine" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="웨이비 포니테일">
+		<subcategory Name="HAIR_M_142">
+			<Class ClassID="551" ClassName="ClassName551" Group="HAIR_M_142" DyeName="default" IconName="Dye_waveponytail_blond" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="552" ClassName="ClassName552" Group="HAIR_M_142" DyeName="whiteviolet" IconName="Dye_whiteviolet" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="553" ClassName="ClassName553" Group="HAIR_M_142" DyeName="rightmint" IconName="Dye_lightmint" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="벙거지 아이롱 펌">
+		<subcategory Name="HAIR_M_143">
+			<Class ClassID="561" ClassName="ClassName561" Group="HAIR_M_143" DyeName="default" IconName="Dye_lightpink" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="562" ClassName="ClassName562" Group="HAIR_M_143" DyeName="green" IconName="Dye_ashgreen" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="563" ClassName="ClassName563" Group="HAIR_M_143" DyeName="black" IconName="Dye_black" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="아이롱 펌">
+		<subcategory Name="HAIR_M_144">
+			<Class ClassID="571" ClassName="ClassName571" Group="HAIR_M_144" DyeName="default" IconName="Dye_Neon" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="572" ClassName="ClassName572" Group="HAIR_M_144" DyeName="green" IconName="Dye_ashgreen" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="573" ClassName="ClassName573" Group="HAIR_M_144" DyeName="silvergreen" IconName="Dye_silvergreen" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="스냅백 브릿지 롱">
+		<subcategory Name="HAIR_F_147">
+			<Class ClassID="581" ClassName="ClassName581" Group="HAIR_F_147" DyeName="default" IconName="Dye_black" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="582" ClassName="ClassName582" Group="HAIR_F_147" DyeName="white" IconName="Dye_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="583" ClassName="ClassName583" Group="HAIR_F_147" DyeName="orange" IconName="Dye_orange" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+	<category Name="브릿지 롱">
+		<subcategory Name="HAIR_F_148">
+			<Class ClassID="591" ClassName="ClassName591" Group="HAIR_F_148" DyeName="default" IconName="Dye_black" DefaultDye="YES" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="592" ClassName="ClassName592" Group="HAIR_F_148" DyeName="white" IconName="Dye_white" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+			<Class ClassID="593" ClassName="ClassName593" Group="HAIR_F_148" DyeName="orange" IconName="Dye_orange" DefaultDye="NO" LimitedDye="NO" DyeSellStartTime="None" DyeSellEndTime="None" StampCount="1" Price="17" PriceRatio="0"/>
+		</subcategory>
+	</category>
+</idspace>

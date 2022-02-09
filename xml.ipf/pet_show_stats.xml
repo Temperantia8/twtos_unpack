@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Pet_ShowStats">
+	<Category>
+		<Class ClassID="1" ClassName="MHP"/>
+		<Class ClassID="2" ClassName="ATK"/>
+		<Class ClassID="3" ClassName="DEF"/>
+		<Class ClassID="4" ClassName="MDEF"/>
+		<Class ClassID="5" ClassName="HR"/>
+		<Class ClassID="6" ClassName="CRTHR"/>
+		<Class ClassID="7" ClassName="DR"/>
+	</Category>
+</idspace>

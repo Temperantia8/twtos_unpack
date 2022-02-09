@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="skill_attribute">
+	<Category Name="Attribute">
+		<Class ClassID="1" ClassName="Fire" CT_Fire="-25" CT_Ice="0" CT_Lightning="0" CT_Earth="50" CT_Poison="0" CT_Dark="0" CT_Holy="0" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="불"/>
+		<Class ClassID="2" ClassName="Ice" CT_Fire="50" CT_Ice="-25" CT_Lightning="0" CT_Earth="0" CT_Poison="0" CT_Dark="0" CT_Holy="0" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="얼음"/>
+		<Class ClassID="3" ClassName="Lightning" CT_Fire="0" CT_Ice="50" CT_Lightning="-25" CT_Earth="0" CT_Poison="0" CT_Dark="0" CT_Holy="0" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="전기"/>
+		<Class ClassID="4" ClassName="Earth" CT_Fire="0" CT_Ice="0" CT_Lightning="50" CT_Earth="-25" CT_Poison="0" CT_Dark="0" CT_Holy="0" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="땅"/>
+		<Class ClassID="5" ClassName="Poison" CT_Fire="12.5" CT_Ice="12.5" CT_Lightning="12.5" CT_Earth="12.5" CT_Poison="-25" CT_Dark="0" CT_Holy="0" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="독"/>
+		<Class ClassID="6" ClassName="Dark" CT_Fire="0" CT_Ice="0" CT_Lightning="0" CT_Earth="0" CT_Poison="0" CT_Dark="-25" CT_Holy="50" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="어둠"/>
+		<Class ClassID="7" ClassName="Holy" CT_Fire="0" CT_Ice="0" CT_Lightning="0" CT_Earth="0" CT_Poison="0" CT_Dark="50" CT_Holy="-25" CT_Melee="0" CT_Soul="0" CT_TextEffectMsg="신성"/>
+		<Class ClassID="8" ClassName="Soul" CT_Fire="0" CT_Ice="0" CT_Lightning="0" CT_Earth="0" CT_Poison="0" CT_Dark="25" CT_Holy="25" CT_Melee="0" CT_Soul="50" CT_TextEffectMsg="염"/>
+	</Category>
+	<Category Name="AttackType">
+		<Class ClassID="101" ClassName="Slash" CT_Cloth="25" CT_Leather="0" CT_Iron="0" CT_Chain="0" CT_Ghost="0" CT_TextEffectMsg="베기"/>
+		<Class ClassID="102" ClassName="Aries" CT_Cloth="0" CT_Leather="25" CT_Iron="0" CT_Chain="0" CT_Ghost="0" CT_TextEffectMsg="찌르기"/>
+		<Class ClassID="103" ClassName="Strike" CT_Cloth="0" CT_Leather="0" CT_Iron="25" CT_Chain="0" CT_Ghost="0" CT_TextEffectMsg="때리기"/>
+		<Class ClassID="104" ClassName="Magic" CT_Cloth="0" CT_Leather="0" CT_Iron="0" CT_Chain="0" CT_Ghost="25" CT_TextEffectMsg="마법"/>
+		<Class ClassID="105" ClassName="Arrow" CT_Cloth="12.5" CT_Leather="12.5" CT_Iron="0" CT_Chain="0" CT_Ghost="0" CT_TextEffectMsg="활"/>
+		<Class ClassID="106" ClassName="Gun" CT_Cloth="12.5" CT_Leather="12.5" CT_Iron="0" CT_Chain="0" CT_Ghost="0" CT_TextEffectMsg="총기"/>
+		<Class ClassID="107" ClassName="Cannon" CT_Cloth="0" CT_Leather="0" CT_Iron="25" CT_Chain="0" CT_Ghost="0" CT_TextEffectMsg="캐논"/>
+	</Category>
+	<Category Name="Default">
+		<Class ClassID="201" ClassName="Melee" CT_Fire="0" CT_Ice="0" CT_Earth="0" CT_Lightning="0" CT_Soul="0" CT_Holy="0" CT_Dark="0" CT_Poison="0" CT_Melee="0" CT_TextEffectMsg=" " CT_Cloth="0" CT_Leather="0" CT_Iron="0" CT_Chain="0" CT_Ghost="-50"/>
+		<Class ClassID="202" ClassName="None" CT_Fire="0" CT_Ice="0" CT_Earth="0" CT_Lightning="0" CT_Soul="0" CT_Holy="0" CT_Dark="0" CT_Poison="0" CT_Melee="0" CT_TextEffectMsg=" " CT_Cloth="0" CT_Leather="0" CT_Iron="0" CT_Chain="0" CT_Ghost="-50"/>
+	</Category>
+	<Category Name="Size">
+		<Class ClassID="301" ClassName="Missile" CT_S="0" CT_M="0" CT_L="0" CT_XL="0"/>
+	</Category>
+	<Category Name="DeBuff">
+		<Class ClassID="501" ClassName="Cleric_Cure" CT_Cleric_Bless_Debuff="0"/>
+	</Category>
+</idspace>

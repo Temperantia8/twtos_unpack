@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Item_equip_default">
+	<Category>
+		<Class ClassID="1" ClassName="Sword" PVPItem="SWD01_135"/>
+		<Class ClassID="2" ClassName="THSword" PVPItem="TSW01_128"/>
+		<Class ClassID="3" ClassName="Spear" PVPItem="SPR01_118"/>
+		<Class ClassID="4" ClassName="THSpear" PVPItem="TSP01_110"/>
+		<Class ClassID="5" ClassName="Staff" PVPItem="STF01_136"/>
+		<Class ClassID="6" ClassName="THStaff" PVPItem="TSF01_128"/>
+		<Class ClassID="7" ClassName="THBow" PVPItem="TBW01_136"/>
+		<Class ClassID="8" ClassName="Bow" PVPItem="BOW01_129"/>
+		<Class ClassID="9" ClassName="Pistol" PVPItem="PST01_103"/>
+		<Class ClassID="10" ClassName="Mace" PVPItem="MAC01_135"/>
+		<Class ClassID="11" ClassName="Gloves" PVPItem="HAND01_152"/>
+		<Class ClassID="12" ClassName="Boots" PVPItem="FOOT01_152"/>
+		<Class ClassID="13" ClassName="Pants" PVPItem="LEG01_152"/>
+		<Class ClassID="14" ClassName="Shirt" PVPItem="TOP01_152"/>
+		<Class ClassID="15" ClassName="Shield" PVPItem="SHD01_119"/>
+	</Category>
+</idspace>

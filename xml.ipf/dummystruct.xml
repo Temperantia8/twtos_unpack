@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="DummyStruct">
+	<Category>
+		<Class ClassID="1" ClassName="Wiki"/>
+		<Class ClassID="2" ClassName="PadCommand"/>
+		<Class ClassID="3" ClassName="FormationCommand"/>
+		<Class ClassID="4" ClassName="BTree"/>
+		<Class ClassID="5" ClassName="BTreeAct"/>
+		<Class ClassID="6" ClassName="BTreeCond"/>
+		<Class ClassID="7" ClassName="BGEventArea"/>
+	</Category>
+</idspace>

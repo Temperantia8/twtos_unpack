@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="SessionObject">
+	<Category Name="몬스터">
+		<Class ClassID="60001" ClassName="ssn_timesave" CT_Name="None" CT_Script="None" CT_Scp_Client="None" CT_UseTx="NO" CT_UseDB="YES" />
+	</Category>
+</idspace>

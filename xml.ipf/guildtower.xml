@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="GuildTower">
+	<Category Name="GuildTower">
+		<Class ClassID="1" ClassName="GTower_1" Monster="GuildTower"/>
+	</Category>
+</idspace>

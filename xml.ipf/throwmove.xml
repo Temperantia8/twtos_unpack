@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by anifac (IMCGames Co., Ltd) -->
+<idspace id="ThrowMove">
+	<Category>
+		<Class ClassID="1" ClassName="ThrowMove_1" CT_Time="0.1" CT_X="0" CT_Y="0.1"/>
+		<Class ClassID="2" ClassName="ThrowMove_2" CT_Time="0.2" CT_X="0.05" CT_Y="0.2"/>
+		<Class ClassID="3" ClassName="ThrowMove_3" CT_Time="0.3" CT_X="0.1" CT_Y="0.3"/>
+		<Class ClassID="4" ClassName="ThrowMove_4" CT_Time="0.4" CT_X="0.2" CT_Y="0.6"/>
+		<Class ClassID="5" ClassName="ThrowMove_5" CT_Time="0.5" CT_X="0.5" CT_Y="1.0"/>
+		<Class ClassID="6" ClassName="ThrowMove_6" CT_Time="0.6" CT_X="0.7" CT_Y="0.9"/>
+		<Class ClassID="7" ClassName="ThrowMove_7" CT_Time="0.7" CT_X="0.9" CT_Y="0.8"/>
+		<Class ClassID="8" ClassName="ThrowMove_8" CT_Time="0.8" CT_X="1.0" CT_Y="0"/>
+		<Class ClassID="9" ClassName="ThrowMove_9" CT_Time="0.9" CT_X="1.0" CT_Y="0"/>
+		<Class ClassID="10" ClassName="ThrowMove_10" CT_Time="1.0" CT_X="1.0" CT_Y="0"/>
+	</Category>
+</idspace>

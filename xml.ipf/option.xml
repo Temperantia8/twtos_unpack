@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Option1">
+	<Catergory Option_Group="Base_option">
+		<Class ClassID="1" ClassName="Opt_ATK" Rate="100" Desc="공격력 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_ATK" Consume="OPT_CONSUME"/>
+		<Class ClassID="2" ClassName="OPT_CRTHR" Rate="100" Desc="치명타 적중도 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_CRTHR" Consume="OPT_CRITICAL"/>
+		<Class ClassID="3" ClassName="OPT_STR" Rate="100" Desc="힘 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_STR" Consume="OPT_CONSUME"/>
+		<Class ClassID="4" ClassName="OPT_DEX" Rate="100" Desc="민첩 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_DEX" Consume="OPT_CONSUME"/>
+		<Class ClassID="5" ClassName="OPT_CON" Rate="100" Desc="체력 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_CON" Consume="OPT_CONSUME"/>
+		<Class ClassID="6" ClassName="OPT_INT" Rate="100" Desc="지능 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_INT" Consume="OPT_CONSUME"/>
+		<Class ClassID="7" ClassName="OPT_CRTATK" Rate="100" Desc="치명타 피해 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_CRTATK" Consume="OPT_CONSUME"/>
+		<Class ClassID="8" ClassName="OPT_MHP" Rate="100" Desc="최대 생명력 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_MHP" Consume="OPT_CONSUME"/>
+		<Class ClassID="9" ClassName="OPT_MSP" Rate="100" Desc="최대 정신력 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_MSP" Consume="OPT_CONSUME"/>
+		<Class ClassID="10" ClassName="OPT_HR" Rate="100" Desc="정확도 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_HR" Consume="OPT_CONSUME"/>
+		<Class ClassID="13" ClassName="OPT_DEF" Rate="100" Desc="방어력 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_DEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="11" ClassName="OPT_CRTDR" Rate="100" Desc="방어 숙련도 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_CRTDR" Consume="OPT_CONSUME"/>
+		<Class ClassID="12" ClassName="OPT_CRTDEF" Rate="100" Desc="치명타 피해 방어 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_CRTDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="14" ClassName="OPT_DR" Rate="100" Desc="회피 숙련도 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_DR" Consume="OPT_CONSUME"/>
+		<Class ClassID="15" ClassName="OPT_HR2" Rate="100" Desc="정확도 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_HR" Consume="OPT_CONSUME"/>
+		<Class ClassID="16" ClassName="OPT_MHP2" Rate="100" Desc="최대 생명력 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_MHP" Consume="OPT_CONSUME"/>
+		<Class ClassID="17" ClassName="OPT_MSP2" Rate="100" Desc="최대 정신력 + %d" MinValue="1" MaxValue="3" Script="SCR_OPT_MSP" Consume="OPT_CONSUME"/>
+		<Class ClassID="18" ClassName="OPT_STR2" Rate="100" Desc="힘 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_STR" Consume="OPT_CONSUME"/>
+		<Class ClassID="19" ClassName="OPT_DEX2" Rate="100" Desc="민첩 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_DEX" Consume="OPT_CONSUME"/>
+		<Class ClassID="20" ClassName="OPT_CON2" Rate="100" Desc="체력 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_CON" Consume="OPT_CONSUME"/>
+		<Class ClassID="21" ClassName="OPT_INT1" Rate="100" Desc="지능 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_INT" Consume="OPT_CONSUME"/>
+		<Class ClassID="22" ClassName="OPT_INT2" Rate="100" Desc="지능 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_INT" Consume="OPT_CONSUME"/>
+		<Class ClassID="23" ClassName="OPT_INT3" Rate="500" Desc="지능 + %d" MinValue="1" MaxValue="1" Script="SCR_OPT_INT" Consume="OPT_CONSUME"/>
+		<Class ClassID="24" ClassName="OPT_VELIAS_ATK" Rate="100" Desc="마족형 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_VelniasATK" Consume="OPT_CONSUME"/>
+		<Class ClassID="25" ClassName="OPT_VELIAS_DEF" Rate="100" Desc="마족형 대상 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_VelniasDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="26" ClassName="OPT_FORESTER_ATK" Rate="100" Desc="식물형 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ForesterATK" Consume="OPT_CONSUME"/>
+		<Class ClassID="27" ClassName="OPT_FORESTER_DEF" Rate="100" Desc="식물형 대상 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ForesterDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="28" ClassName="OPT_PARAMUNE_ATK" Rate="100" Desc="변이형 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ParamuneATK" Consume="OPT_CONSUME"/>
+		<Class ClassID="29" ClassName="OPT_PARAMUNE_DEF" Rate="100" Desc="변이형 대상 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ParamuneDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="30" ClassName="OPT_WIDLING_ATK" Rate="100" Desc="야수형 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_WidlingATK" Consume="OPT_CONSUME"/>
+		<Class ClassID="31" ClassName="OPT_WIDLING_DEF" Rate="100" Desc="야수형 대상 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_WidlingDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="32" ClassName="OPT_ARIES_ATK" Rate="100" Desc="찌르기 계열 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_Aries" Consume="OPT_CONSUME"/>
+		<Class ClassID="33" ClassName="OPT_ARIES_DEF" Rate="100" Desc="찌르기 계열 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_AriesDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="34" ClassName="OPT_SLASH_ATK" Rate="100" Desc="베기 계열 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_Slash" Consume="OPT_CONSUME"/>
+		<Class ClassID="35" ClassName="OPT_SLASH_DEF" Rate="100" Desc="베기 계열 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_SlashDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="36" ClassName="OPT_STRIKE_ATK" Rate="100" Desc="타격 계열 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_Strike" Consume="OPT_CONSUME"/>
+		<Class ClassID="37" ClassName="OPT_STRIKE_DEF" Rate="100" Desc="타격 계열 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_StrikeDEF" Consume="OPT_CONSUME"/>
+		<Class ClassID="38" ClassName="OPT_ADDFIRE" Rate="100" Desc="화속성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDFIRE" Consume="OPT_CONSUME"/>
+		<Class ClassID="39" ClassName="OPT_RESFIRE" Rate="100" Desc="화속성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESFIRE" Consume="OPT_CONSUME"/>
+		<Class ClassID="40" ClassName="OPT_ADDICE" Rate="100" Desc="빙속성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDICE" Consume="OPT_CONSUME"/>
+		<Class ClassID="41" ClassName="OPT_RESICE" Rate="100" Desc="빙속성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESICE" Consume="OPT_CONSUME"/>
+		<Class ClassID="42" ClassName="OPT_ADDWIND" Rate="100" Desc="풍속성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDWIND" Consume="OPT_CONSUME"/>
+		<Class ClassID="43" ClassName="OPT_RESWIND" Rate="100" Desc="풍속성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESWIND" Consume="OPT_CONSUME"/>
+		<Class ClassID="44" ClassName="OPT_ADDEARTH" Rate="100" Desc="지속성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDEARTH" Consume="OPT_CONSUME"/>
+		<Class ClassID="45" ClassName="OPT_RESEARTH" Rate="100" Desc="지속성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESEARTH" Consume="OPT_CONSUME"/>
+		<Class ClassID="46" ClassName="OPT_ADDPOISON" Rate="100" Desc="독성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDPOISON" Consume="OPT_CONSUME"/>
+		<Class ClassID="47" ClassName="OPT_RESPOISON" Rate="100" Desc="독성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESPOISON" Consume="OPT_CONSUME"/>
+		<Class ClassID="48" ClassName="OPT_ADDLIGHT" Rate="100" Desc="천속성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDLIGHT" Consume="OPT_CONSUME"/>
+		<Class ClassID="49" ClassName="OPT_RESLIGHT" Rate="100" Desc="천속성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESLIGHT" Consume="OPT_CONSUME"/>
+		<Class ClassID="50" ClassName="OPT_ADDDARK" Rate="100" Desc="암속성 데미지 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_ADDDARK" Consume="OPT_CONSUME"/>
+		<Class ClassID="51" ClassName="OPT_RESDARK" Rate="100" Desc="암속성 방어력 +%d" MinValue="1" MaxValue="10" Script="SCR_OPT_RESDARK" Consume="OPT_CONSUME"/>
+	</Catergory>
+</idspace>

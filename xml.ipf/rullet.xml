@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Rullet">
+	<Class ClassID="1" ClassName="Basic_1" Job="ALL" ItemName="ABAND01_101" ItemCount="1" BlinkColor="None"/>
+	<Class ClassID="2" ClassName="Basic_2" Job="ALL" ItemName="ABAND01_102" ItemCount="1" BlinkColor="None"/>
+	<Class ClassID="3" ClassName="Basic_3" Job="ALL" ItemName="ABAND01_103" ItemCount="1" BlinkColor="FFFFFF00"/>
+	<Class ClassID="4" ClassName="Basic_4" Job="ALL" ItemName="ABAND01_104" ItemCount="1" BlinkColor="FFFFFF00"/>
+	<Class ClassID="5" ClassName="Basic_5" Job="ALL" ItemName="ABAND01_105" ItemCount="1" BlinkColor="None"/>
+	<Class ClassID="6" ClassName="Basic_6" Job="ALL" ItemName="ABAND01_106" ItemCount="1" BlinkColor="None"/>
+	<Class ClassID="7" ClassName="Basic_7" Job="ALL" ItemName="ABAND01_103" ItemCount="1" BlinkColor="None"/>
+</idspace>

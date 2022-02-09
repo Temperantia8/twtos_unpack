@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- 번역 툴에서 번역되면 안됩니다. 따라서 CMM_ 접두어는 유지되어야 합니다. ClassName은 ServiceNation과 같아야 합니다. -->
+<idspace id="DefPartyName">
+	<Category>
+		<Class ClassID="1" ClassName="KOR" CMM_DefPartyName="파티#"/>
+		<Class ClassID="2" ClassName="JPN" CMM_DefPartyName="Party#"/>
+		<Class ClassID="3" ClassName="GLOBAL" CMM_DefPartyName="Party#"/>
+	<Class ClassID="4" ClassName="CHN" CMM_DefPartyName="队伍#"/>
+	</Category>
+</idspace>

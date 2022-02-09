@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by tachyon (EMBRACE) -->
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Shin Sang Hyup (IMCGames Co., Ltd) -->
+<idspace id="PCShapeMonster">
+	<Category>
+		<Class ClassID="1" ClassName="AOS_Hero_Arc" Job="Char3_1" Gender="Male" HeadType="1" RH="None" LH="None"/>
+		<Class ClassID="2" ClassName="AOS_Hero_War" Job="Char1_1" Gender="Female" HeadType="1" RH="Sword_gladius_D" LH="None"/>
+		<Class ClassID="3" ClassName="War_Shield" Job="Char1_1" Gender="Male" HeadType="1" RH="Sword_gladius_D" LH="Shield_metal_D"/>
+		<Class ClassID="4" ClassName="War_Female" Job="Char1_1" Gender="Female" HeadType="1" RH="Sword_gladius_D" LH="None"/>
+	</Category>
+</idspace>

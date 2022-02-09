@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by WoodStock (EMBRACE) -->
+<!--파티 퀘스트 프로퍼티(P_PARTY_Q_010_NT 시리즈)를 늘릴려면 플팀 한성배에게 문의해주세요-->
+<idspace id="Party">
+	<Category Name="Party">
+		<Class ClassID="2" ClassName="Party" MaxCount_NT="5" ItemRouting_NT="1" IsPrivate_NT="1" ExpGainType_NT="0" IsQuestShare_NT="1" Note_NT="안녕하세요" MissionAble_NT="0" FieldBossSummon_NT="0" PartyPVP_NT="0" AllowLinkJoin_NT="0" LastMemberAddedTime_NT="0" CreateTime_NT="None" P_PARTY_Q_010_NT="0" P_PARTY_Q_020_NT="0" P_PARTY_Q_030_NT="0" P_PARTY_Q_040_NT="0" P_PARTY_Q_050_NT="0" P_PARTY_Q_060_NT="0" P_PARTY_Q_070_NT="0" P_PARTY_Q_080_NT="0" P_PARTY_Q_090_NT="0" P_PARTY_Q_100_NT="0" />
+	</Category>
+</idspace>

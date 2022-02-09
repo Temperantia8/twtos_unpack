@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="mainquest_startnpcwarp">
+	<Category Name="PC_Shop">
+		<Class ClassID="1" ClassName="SIAUL_WEST_MEET_TITAS" CheckQuestName="None" CheckQuestState="None"/>
+		<Class ClassID="2" ClassName="SIAU16_MQ_01" CheckQuestName="None" CheckQuestState="None"/>
+		<Class ClassID="3" ClassName="SOUT_Q_41" CheckQuestName="CMINE6_TO_KATYN7_3" CheckQuestState="COMPLETE"/>
+		<Class ClassID="4" ClassName="BRACKEN_63_1_MQ010" CheckQuestName="ORSHA_MQ3_01" CheckQuestState="COMPLETE"/>
+		<Class ClassID="5" ClassName="HUEVILLAGE_58_1_MQ01" CheckQuestName="CHAPLE577_MQ_10_AFTER" CheckQuestState="COMPLETE"/>
+		<Class ClassID="6" ClassName="CASTLE65_1_MQ01" CheckQuestName="F_3CMLAKE_84_MQ_06" CheckQuestState="COMPLETE"/>
+		<Class ClassID="7" ClassName="ROKAS29_MQ1" CheckQuestName="HUEVILLAGE_58_4_MQ11" CheckQuestState="COMPLETE"/>
+		<Class ClassID="8" ClassName="ORCHARD_323_MQ_01" CheckQuestName="CASTLE65_3_MQ09" CheckQuestState="COMPLETE"/>
+		<Class ClassID="9" ClassName="TO_THE_TOWER_01" CheckQuestName="ZACHA5F_MQ_05;ORCHARD_324_MQ_07" CheckQuestState="COMPLETE;COMPLETE"/>
+		<Class ClassID="10" ClassName="CHATHEDRAL53_MQ01" CheckQuestName="FTOWER45_MQ_06" CheckQuestState="COMPLETE"/>
+		<Class ClassID="11" ClassName="VPRISON511_MQ_PRE_01" CheckQuestName="CHATHEDRAL54_MQ06_PART3" CheckQuestState="COMPLETE"/>
+		<Class ClassID="12" ClassName="SIAULIAI_46_4_MQ_01" CheckQuestName="VPRISON515_MQ_07" CheckQuestState="COMPLETE"/>
+		<Class ClassID="13" ClassName="FLASH64_MQ_01" CheckQuestName="SIAULIAI_46_1_MQ_05" CheckQuestState="COMPLETE"/>
+		<Class ClassID="14" ClassName="ABBEY_35_3_SQ_1" CheckQuestName="UNDERFORTRESS_69_MQ060" CheckQuestState="COMPLETE"/>
+		<Class ClassID="15" ClassName="PRISON_78_MQ_1" CheckQuestName="ABBEY_35_4_SQ_8" CheckQuestState="COMPLETE"/>
+		<Class ClassID="16" ClassName="LIMESTONE_52_1_MQ_1" CheckQuestName="PRISON_82_MQ_11" CheckQuestState="COMPLETE"/>
+		<Class ClassID="17" ClassName="FANTASYLIB481_MQ_PRE_1" CheckQuestName="LIMESTONE_52_5_MQ_10" CheckQuestState="COMPLETE"/>
+		<Class ClassID="18" ClassName="F_3CMLAKE_85_MQ_01" CheckQuestName="FANTASYLIB485_MQ_7" CheckQuestState="COMPLETE"/>
+		<Class ClassID="19" ClassName="F_3CMLAKE_27_1_SQ_1" CheckQuestName="STARTOWER_92_MQ_70" CheckQuestState="COMPLETE"/>
+		<Class ClassID="20" ClassName="F_3CMLAKE_27_2_SQ_1" CheckQuestName="F_3CMLAKE_27_1_SQ_11" CheckQuestState="COMPLETE"/>
+		<Class ClassID="21" ClassName="F_3CMLAKE_27_3_SQ_1" CheckQuestName="F_3CMLAKE_27_2_SQ_9" CheckQuestState="COMPLETE"/>
+		<Class ClassID="22" ClassName="CASTLE93_MAIN01" CheckQuestName="F_3CMLAKE_27_3_SQ_8" CheckQuestState="COMPLETE"/>
+		<Class ClassID="23" ClassName="CASTLE94_MAIN01" CheckQuestName="CASTLE93_MAIN07" CheckQuestState="COMPLETE"/>
+		<Class ClassID="24" ClassName="CASTLE95_MAIN01" CheckQuestName="CASTLE94_MAIN07" CheckQuestState="COMPLETE"/>
+		<Class ClassID="25" ClassName="CASTLE96_MQ_1" CheckQuestName="CASTLE95_MAIN07" CheckQuestState="COMPLETE"/>
+		<Class ClassID="26" ClassName="CASTLE98_MQ_1" CheckQuestName="CASTLE96_MQ_10" CheckQuestState="COMPLETE"/>
+		<Class ClassID="27" ClassName="F_MAPLE_24_3_MQ_01" CheckQuestName="CASTLE98_MQ_8" CheckQuestState="COMPLETE"/>
+	</Category>
+</idspace>

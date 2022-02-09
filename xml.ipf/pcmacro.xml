@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by a (IMCGames Co., Ltd) -->
+<idspace id="PCMacro">
+	<Category>
+		<Class ClassID="1" Type="Cond" ClassName="Cond_Say" Example="특정 플레이어가 말을 함" Name="%s 플레이어가 %s (이)라고 말함" ArgType1="String" ArgDefault1="아무" ArgMin1="0" ArgMax1="0" ArgType2="String" ArgDefault2="아무말" Script="COND_SAY"/>
+		<Class ClassID="2" Type="Cond" ClassName="Cond_Dialog" Example="특정 플레이어가 대화 요청" Name="%s 플레이어가 대화요청" ArgType1="String" ArgDefault1="아무" ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="COND_TRIGGER"/>
+		<Class ClassID="3" Type="Cond" ClassName="Cond_Enter" Example="특정 플레이어가 근처로 접근" Name="%s 플레이어가 근처에 접근" ArgType1="String" ArgDefault1="아무" ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="COND_ENTER"/>
+		<Class ClassID="4" Type="Cond" ClassName="Cond_Leave" Example="특정 플레이어가 근처에서 떠남" Name="%s 플레이어가 근처에서 떠남" ArgType1="String" ArgDefault1="아무" ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="COND_LEAVE"/>
+		<Class ClassID="5" Type="Cond" ClassName="Cond_Item" Example="특정 플레이어가 아이템을 줌" Name="%s 플레이어가 아이템을 줌" ArgType1="String" ArgDefault1="아무" ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="COND_ITEM"/>
+		<Class ClassID="101" Type="Act" ClassName="Act_Say" Example="플레이어에게 말하기" Name="해당 플레이어에게 %s라고 말" ArgType1="String" ArgDefault1="안녕하세요." ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="ACT_SAY"/>
+		<Class ClassID="103" Type="Act" ClassName="Act_Atk" Example="정면에 일반 공격" Name="정면에 일반 공격" ArgType1="None" ArgDefault1="None" ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="ACT_ATK"/>
+		<Class ClassID="104" Type="Act" ClassName="Act_Exp" Example="특정 퍼센트의 경험치 주기" Name="%s퍼센트의 경험치 주기" ArgType1="Number" ArgDefault1="None" ArgMin1="5" ArgMax1="10" ArgType2="None" ArgDefault2="None" Script="ACT_GIVEEXP"/>
+		<Class ClassID="106" Type="Act" ClassName="Act_Logout" Example="로그아웃 PC를 제거" Name="로그아웃 PC를 제거" ArgType1="None" ArgDefault1="None" ArgMin1="0" ArgMax1="0" ArgType2="None" ArgDefault2="None" Script="ACT_SETZOMBIE"/>
+	</Category>
+</idspace>

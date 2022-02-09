@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<!--넥슨 캐시로 구매하는 패키지 아이템 중 성별 표-->
+<idspace id="item_package">
+	<Class ClassID="1" ClassName="Promotion_Set_TrumpPackage" Name="트럼프 패키지" War_M="490066" War_F="490067" Wiz_M="490068" Wiz_F="490069" Arc_M="490070" Arc_F="490071" Clr_M="490072" Clr_F="490073" UseAble="NO" jobCount="8"/>
+	<Class ClassID="2" ClassName="Promotion_Set_SwimPackage" Name="수영복 패키지" War_M="495036" War_F="495037" Wiz_M="495038" Wiz_F="495039" Arc_M="495040" Arc_F="495041" Clr_M="495042" Clr_F="495043" UseAble="YES" jobCount="8"/>
+	<Class ClassID="3" ClassName="Promotion_Set_AlicePackage" Name="앨리스 패키지" War_M="495060" War_F="495061" Wiz_M="495062" Wiz_F="495063" Arc_M="495064" Arc_F="495065" Clr_M="495066" Clr_F="495067" UseAble="YES" jobCount="8"/>
+</idspace>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="itemevolution">
+	<Catergory>
+		<Class ClassID="1" FromItem="Sword_gladius" ToItem="Sword_falchion" HitCount="10"/>
+		<Class ClassID="2" FromItem="Sword_falchion" ToItem="Sword_gladius" HitCount="10"/>
+	</Catergory>
+</idspace>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Shin Sang Hyup (IMCGames Co., Ltd) -->
+<idspace id="ClientDirection">
+	<Category>
+		<Class ClassID="1" ClassName="StartManufacture" Script="ACT_START_MANUFAC"/>
+		<Class ClassID="2" ClassName="StopManufacture" Script="ACT_STOP_MANUFAC"/>
+    <Class ClassID="3" ClassName="QuestWarp" Script="ACT_QUEST_WARP"/>
+    <Class ClassID="4" ClassName="InteWarp" Script="ACT_INTE_WARP"/>
+  </Category>
+</idspace>

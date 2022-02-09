@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- ClassName은 쓰지 않는다. 인덱스 순서에 따라서 서클, 스퀘어, 다이아, 스타, 프리 로 고정 -->
+<idspace id="gemtyperate">
+	<Category>
+		<Class ClassID="1" ClassName="Gem_Type_Rate_Circle" Rate="0"/>
+		<Class ClassID="2" ClassName="Gem_Type_Rate_Square" Rate="0"/>
+		<Class ClassID="3" ClassName="Gem_Type_Rate_Diamond" Rate="0"/>
+		<Class ClassID="4" ClassName="Gem_Type_Rate_Star" Rate="0"/>
+		<Class ClassID="5" ClassName="Gem_Type_Rate_Free" Rate="10000"/>
+	</Category>
+</idspace>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="UserShopPrice">
+	<Category Name="Test">
+		<Class ClassID="1001" ClassName="Squire_EquipmentTouchUp" Name="장비 손질" PriceType="ConstantPrice" DefaultPrice="360" Price="SCR_GET_EQUIPMENTTOUCHUP_PRICE" ExistAbility="YES" MinPrice="50" MaxPrice="1000"/>
+		<Class ClassID="1002" ClassName="Squire_Repair" Name="수리" PriceType="ConstantPrice" DefaultPrice="140" Price="SCR_GET_REPAIR_PRICE" ExistAbility="YES" MinPrice="50" MaxPrice="1000"/>
+		<Class ClassID="2001" ClassName="Alchemist_Roasting" Name="젬 로스팅" PriceType="ConstantPrice" DefaultPrice="10000" Price="SCR_GET_ROASTING_PRICE" ExistAbility="NO" MinPrice="50" MaxPrice="20000"/>
+		<Class ClassID="2002" ClassName="Sage_PortalShop" Name="포탈 상점" PriceType="ConstantPrice" DefaultPrice="8000" Price="SCR_GET_PORTALSHOP_PRICE" ExistAbility="NO" MinPrice="50" MaxPrice="10000"/>
+		<Class ClassID="2003" ClassName="Enchanter_EnchantArmor" Name="인챈트 아머" PriceType="ConstantPrice" DefaultPrice="5000" Price="SCR_GET_ENCHANTARMOR_PRICE" ExistAbility="NO" MinPrice="50" MaxPrice="10000"/>
+		<Class ClassID="2004" ClassName="Alchemist_ItemAwakening" Name="아이템 각성" PriceType="ConstantPrice" DefaultPrice="10000" Price="SCR_GET_ITEMAWAKENING_PRICE" ExistAbility="NO" MinPrice="50" MaxPrice="20000"/>
+		<Class ClassID="3001" ClassName="Appraiser_Apprise" Name="감정" PriceType="UnitPrice" DefaultPrice="200" Price="SCR_GET_APPRISE_PRICE" ExistAbility="NO" MinPrice="50" MaxPrice="1000"/>
+		<Class ClassID="4001" ClassName="Pardoner_SpellShop" Name="주문 판매상점 개설" PriceType="ConstantPrice" DefaultPrice="800" Price="SCR_GET_SPELLSHOP_PRICE" ExistAbility="YES" MinPrice="50" MaxPrice="1000"/>
+		<Class ClassID="4002" ClassName="Oracle_SwitchGender" Name="스위치 젠더" PriceType="ConstantPrice" DefaultPrice="20000" Price="SCR_GET_SWITCHGENDER_PRICE" ExistAbility="NO" MinPrice="50" MaxPrice="30000"/>
+	</Category>
+</idspace>

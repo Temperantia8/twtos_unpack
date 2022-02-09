@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+FirstCoin : 콘텐츠 첫 클리어 시 제공하는 코인 수량
+첫 클리어 여부는 account prop EVENT_NEW_SEASON_SERVER_CONTENT_FIRST_CLEAR_CHECK_'PropIndex' 로 확인 가능
+-->
+<idspace id="event_new_season_server_content_clear_coin_reward">
+    <Class ClassID="1" ContentsName="성당 지하 던전" MGame="ID_CHAPLE_MINI" FirstCoin="10" PropIndex="1"/>
+    <Class ClassID="2" ContentsName="폐허 유적지" MGame="ID_REMAINS_MINI" FirstCoin="10" PropIndex="2"/>
+    <Class ClassID="3" ContentsName="염원의 비석로 던전" MGame="ID_REMAINS_MINI_03" FirstCoin="10" PropIndex="3"/>
+    <Class ClassID="4" ContentsName="캐슬 지하 던전" MGame="ID_CASTLE_MINI_02" FirstCoin="10" PropIndex="4"/>
+    <Class ClassID="5" ContentsName="란코 호수 던전" MGame="ID_3CMLAKE_26_1" FirstCoin="10" PropIndex="5"/>
+    <Class ClassID="6" ContentsName="400레벨 주간 로테이션 인던" MGame="ID_ZACHA_MINI/ID_CMINE_MINI/ID_HUEVILLAGE_MINI/ID_CATACOMB_MINI/ID_CASTLE_03_MINI/ID_SIAULIAI_MINI/ID_ROKAS_MINI" FirstCoin="10" PropIndex="6"/>
+    <Class ClassID="7" ContentsName="과거 환상도서관 : 사우시스 9 관" MGame="UNIQUE_RAID_PAST_FANTASY_LIBRARY" FirstCoin="10" PropIndex="7"/>
+    <Class ClassID="8" ContentsName="첫 번째 피난처" MGame="ID_WHITETREES_MINI_01" FirstCoin="10" PropIndex="8"/>
+    <Class ClassID="9" ContentsName="마법 실험 구역" MGame="ID_NNICOPOLIS_RAID_MINI" FirstCoin="10" PropIndex="9"/>
+    <Class ClassID="10" ContentsName="별의 탑 폐쇄 구역" MGame="UNIQUE_RAID_STARTOWER" FirstCoin="10" PropIndex="10"/>
+    <Class ClassID="11" ContentsName="아시오 메이지의 실험실" MGame="raid_bracken" FirstCoin="10" PropIndex="11"/>
+    <Class ClassID="12" ContentsName="흰 까마귀의 영면지 : 유니크" MGame="UNIQUE_RAID_WHITE_CROW" FirstCoin="10" PropIndex="12"/>
+    <Class ClassID="13" ContentsName="나비목 접선지 : 유니크" MGame="UNIQUE_RAID_MORINGPONIA" FirstCoin="10" PropIndex="13"/>
+    <Class ClassID="14" ContentsName="과거 환상도서관 : 사우시스 9 관 : 캐주얼" MGame="UNIQUE_RAID_PAST_FANTASY_LIBRARY_SOLO" FirstCoin="10" PropIndex="14"/>
+    <Class ClassID="15" ContentsName="첫 번째 피난처 : 캐주얼" MGame="ID_WHITETREES_MINI_01_SOLO" FirstCoin="10" PropIndex="15"/>
+    <Class ClassID="16" ContentsName="마법 실험 구역 : 캐주얼" MGame="ID_NNICOPOLIS_RAID_MINI_SOLO" FirstCoin="10" PropIndex="16"/>
+    <Class ClassID="17" ContentsName="별의 탑 폐쇄 구역 : 캐주얼" MGame="UNIQUE_RAID_STARTOWER_SOLO" FirstCoin="10" PropIndex="17"/>
+    <Class ClassID="18" ContentsName="아시오 메이지의 실험실 : 캐주얼" MGame="raid_bracken_SOLO" FirstCoin="10" PropIndex="18"/>
+    <Class ClassID="19" ContentsName="흰 까마귀의 영면지 : 캐주얼" MGame="UNIQUE_RAID_WHITE_CROW_SOLO" FirstCoin="10" PropIndex="19"/>
+    <Class ClassID="20" ContentsName="나비목 접선지 : 캐주얼" MGame="UNIQUE_RAID_MORINGPONIA_SOLO" FirstCoin="10" PropIndex="20"/>
+    <Class ClassID="21" ContentsName="대지의 탑 : 롤로팬서 구간" MGame="M_GTOWER_STAGE_5/M_GTOWER_STAGE_10/M_GTOWER_STAGE_15/M_GTOWER_STAGE_20" FirstCoin="10" PropIndex="21"/>
+    <Class ClassID="22" ContentsName="대지의 탑 : 솔미키 구간" MGame="M_GTOWER2_STAGE_25/M_GTOWER2_STAGE_30/M_GTOWER2_STAGE_35/M_GTOWER2_STAGE_40" FirstCoin="10" PropIndex="22"/>
+    <Class ClassID="23" ContentsName="벨코퍼의 둥지" MGame="RAID_VELCOPFFER_RARE_MINI" FirstCoin="10" PropIndex="23"/>
+    <Class ClassID="24" ContentsName="흰 까마귀의 영면지 : 레전드" MGame="LEGEND_RAID_WHITE_CROW" FirstCoin="10" PropIndex="24"/>
+    <Class ClassID="25" ContentsName="흰 까마귀의 영면지 : 레전드 캐주얼" MGame="LEGEND_RAID_WHITE_CROW_SOLO" FirstCoin="10" PropIndex="25"/>
+    <Class ClassID="26" ContentsName="업힐 디펜스 미션 : 보통" MGame="MISSION_UPHILL_DEFFENSE_NORMAL_15" FirstCoin="10" PropIndex="26"/>
+    <Class ClassID="27" ContentsName="업힐 디펜스 미션 : 어려움" MGame="MISSION_UPHILL_DEFFENSE_HARD_15" FirstCoin="10" PropIndex="27"/>
+    <Class ClassID="28" ContentsName="업힐 디펜스 미션 : 매우 어려움" MGame="MISSION_UPHILL_DEFFENSE_LEGEND_15" FirstCoin="10" PropIndex="28"/>
+    <Class ClassID="29" ContentsName="나비목 접선지 : 레전드" MGame="LEGEND_RAID_MORINGPONIA" FirstCoin="10" PropIndex="29"/>
+    <Class ClassID="30" ContentsName="나비목 접선지 : 레전드(노말)" MGame="LEGEND_RAID_MORINGPONIA_EASY" FirstCoin="10" PropIndex="30"/>
+    <Class ClassID="31" ContentsName="챌린지 모드 5단" MGame="challenge_5" FirstCoin="10" PropIndex="31"/>
+    <Class ClassID="32" ContentsName="챌린지 모드 7단" MGame="challenge_7" FirstCoin="10" PropIndex="32"/>
+    <Class ClassID="33" ContentsName="마돈 메이드" MGame="IRREDIAN1131_SRAID_A" FirstCoin="10" PropIndex="33"/>
+    <Class ClassID="34" ContentsName="어미스독" MGame="IRREDIAN1131_SRAID_B" FirstCoin="10" PropIndex="34"/>
+    <Class ClassID="35" ContentsName="머즈루스" MGame="UNDERAQUEDUCT_NORMAL_MGAME/UNDERAQUEDUCT_MGAME" FirstCoin="10" PropIndex="35"/>
+    <Class ClassID="36" ContentsName="자원 쟁탈전 유니폼/일반" MGame="pvp_Mine" FirstCoin="10" PropIndex="36"/>
+</idspace>

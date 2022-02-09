@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="ItemSends">
+	<Category>
+		<Class ClassID="1" ClassName="MINATK"/>
+		<Class ClassID="2" ClassName="MAXATK"/>
+		<Class ClassID="3" ClassName="HR"/>
+		<Class ClassID="4" ClassName="DR"/>
+		<Class ClassID="5" ClassName="DEF"/>
+		<Class ClassID="6" ClassName="MHR"/>
+	</Category>
+</idspace>

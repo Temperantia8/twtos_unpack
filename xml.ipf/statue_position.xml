@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="StatuePosition">
+	<Class ClassID="1" ClassName="FishRubbing" StatueGroup="FishRubbingStatue" MapName="c_Klaipe" X="-855" Z="480" Angle="1" Desc="저번주 탁본 1위"/>
+</idspace>

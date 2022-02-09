@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="addon_d_list">
+	<Class ClassID="1" ClassName="anilist"/>
+	<Class ClassID="2" ClassName="bgeventlist"/>
+	<Class ClassID="3" ClassName="checkpos"/>
+	<Class ClassID="4" ClassName="dbglist"/>
+	<Class ClassID="5" ClassName="dclient"/>
+	<Class ClassID="6" ClassName="dialogedit"/>
+	<Class ClassID="7" ClassName="editframe"/>
+	<Class ClassID="8" ClassName="fieldeventtool"/>
+	<Class ClassID="9" ClassName="groupgentool"/>
+	<Class ClassID="10" ClassName="iesmanager"/>
+	<Class ClassID="11" ClassName="iesmanagerlist"/>
+	<Class ClassID="12" ClassName="iesmanagertoxml"/>
+	<Class ClassID="13" ClassName="itemselpopup"/>
+	<Class ClassID="14" ClassName="makeui"/>
+	<Class ClassID="15" ClassName="maplocationtool"/>
+	<Class ClassID="16" ClassName="mapmake2"/>
+	<Class ClassID="17" ClassName="monbasicinfo"/>
+	<Class ClassID="18" ClassName="mongenman"/>
+	<Class ClassID="19" ClassName="monskllist"/>
+	<Class ClassID="20" ClassName="monsterlist"/>
+	<Class ClassID="21" ClassName="perfman"/>
+	<Class ClassID="22" ClassName="questloctool"/>
+	<Class ClassID="23" ClassName="questrewardtool"/>
+	<Class ClassID="24" ClassName="recentcheat"/>
+	<Class ClassID="25" ClassName="showminimap"/>
+	<Class ClassID="26" ClassName="skillmaptool"/>
+	<Class ClassID="27" ClassName="uiaddonlist"/>
+	<Class ClassID="28" ClassName="uiingametool"/>
+	<Class ClassID="29" ClassName="uipropertyedit"/>
+</idspace>

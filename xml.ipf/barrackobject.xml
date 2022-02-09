@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="BarrackObject">
+	<Category>
+		<Class ClassID="1" ClassName="NPC_Cart1" Price="5000"/>
+		<Class ClassID="2" ClassName="NPC_Blowfish1" Price="10000"/>
+	</Category>
+</idspace>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="Indun_reward_item">
+	<Category Name="Indun_reward_item">
+		<Class ClassID="1" ClassName="Indun_startower" Name="쇠락한 르귄가문의 던전" Reward_Item="Gacha_ID_230"/>
+		<Class ClassID="2" ClassName="Indun_Chaple" Name="성당 지하 던전" Reward_Item="Gacha_ID_grade1"/>
+		<Class ClassID="3" ClassName="Indun_Catacom" Name="카타콤 지하 던전" Reward_Item="Gacha_ID_270"/>
+		<Class ClassID="4" ClassName="Request_Mission1" Name="샤울레이 미션" Reward_Item="Gacha_E_001"/>
+		<Class ClassID="5" ClassName="Indun_Remains" Name="폐허 유적지" Reward_Item="Gacha_ID_grade2"/>
+		<Class ClassID="6" ClassName="Request_Mission4" Name="수정광산 미션" Reward_Item="Gacha_E_001"/>
+		<Class ClassID="7" ClassName="Request_Mission5" Name="칠채곡 미션" Reward_Item="Gacha_E_001"/>
+		<Class ClassID="8" ClassName="Request_Mission6" Name="카타콤 미션" Reward_Item="Gacha_E_001"/>
+		<Class ClassID="9" ClassName="Indun_Remains3" Name="염원의 비석로 던전" Reward_Item="Gacha_ID_grade3"/>
+		<Class ClassID="10" ClassName="M_GTOWER_1" Name="롤로팬서 구간" Reward_Item="None"/>
+		<Class ClassID="11" ClassName="Request_Mission7" Name="협곡지대 미션" Reward_Item="Gacha_M_Rokas_1/Gacha_E_025"/>
+		<Class ClassID="12" ClassName="Request_Mission8" Name="왕릉 미션" Reward_Item="Gacha_M_Zachariel_1/Gacha_E_025"/>
+		<Class ClassID="13" ClassName="Request_Mission10" Name="업힐 디펜스 미션" Reward_Item="None"/>
+		<Class ClassID="14" ClassName="Request_Mission11" Name="캐슬 미션" Reward_Item="Gacha_M_Castle_1/Gacha_E_025"/>
+		<Class ClassID="15" ClassName="M_Past_FantasyLibrary_1" Name="과거 환상도서관 : 사우시스 9 관" Reward_Item="Gacha_ID_360_LegCard"/>
+		<Class ClassID="16" ClassName="M_GTOWER_2" Name="솔미키 구간" Reward_Item="None"/>
+		<Class ClassID="17" ClassName="Indun_Castle2" Name="캐슬 지하 던전" Reward_Item="Gacha_ID_grade4"/>
+		<Class ClassID="18" ClassName="Indun_whitetrees" Name="첫 번째 피난처" Reward_Item="Gacha_ID_330_LegCard"/>
+		<Class ClassID="19" ClassName="Nunnery_Dummy" Name="수녀원 랜덤매칭" Reward_Item="Gacha_M_Zachariel_1/Gacha_M_Rokas_1/Gacha_M_Castle_1/Gacha_E_025"/>
+		<Class ClassID="20" ClassName="Raid_Velcoffer_guard" Name="벨코퍼의 둥지" Reward_Item="Gacha_I_016"/>
+		<Class ClassID="21" ClassName="Indun_3cmlake_26_1" Name="란코 호수 던전" Reward_Item="Gacha_ID_grade5"/>
+		<Class ClassID="22" ClassName="Indun_Nicopolis_uniqe_raid" Name="마법 실험 구역" Reward_Item="Gacha_ID_380_Weistrel"/>
+		<Class ClassID="23" ClassName="Indun_Bracken_uniqe_raid" Name="아시오 메이지의 실험실" Reward_Item="Gacha_ID_380_Asio"/>
+		<Class ClassID="24" ClassName="Indun_StarTower_uniqe_raid" Name="별의 탑 폐쇄 구역" Reward_Item="Gacha_ID_380_ignas"/>
+		<Class ClassID="25" ClassName="Unique_Raid_boss_Skiaclipse" Name="흰 까마귀 영면지 큐브" Reward_Item="Gacha_Unique_400"/>
+		<Class ClassID="26" ClassName="Raid_boss_Skiaclipse" Name="흰 까마귀 영면지 레전드 큐브" Reward_Item="Gacha_Legend_400"/>
+		<Class ClassID="27" ClassName="Casual_M_Past_FantasyLibrary_1" Name="과거 환상도서관 : 사우시스 9 관: 캐주얼" Reward_Item="Gacha_ID_Frost_Piece"/>
+		<Class ClassID="28" ClassName="Casual_Indun_whitetrees" Name="첫 번째 피난처: 캐주얼" Reward_Item="Gacha_ID_315_Piece"/>
+		<Class ClassID="29" ClassName="Casual_Indun_Nicopolis_uniqe_raid" Name="마법 실험 구역: 캐주얼" Reward_Item="Gacha_ID_380_Weistrel_Piece"/>
+		<Class ClassID="30" ClassName="Casual_Indun_Bracken_uniqe_raid" Name="아시오 메이지의 실험실: 캐주얼" Reward_Item="Gacha_ID_380_Asio_Piece"/>
+		<Class ClassID="31" ClassName="Casual_Indun_StarTower_uniqe_raid" Name="별의 탑 폐쇄 구역: 캐주얼" Reward_Item="Gacha_ID_380_ignas_Piece"/>
+		<Class ClassID="32" ClassName="Casual_Unique_Raid_boss_Skiaclipse" Name="흰 까마귀의 영면지: 캐주얼" Reward_Item="Gacha_Unique_400_Piece"/>
+		<Class ClassID="33" ClassName="Casual_Raid_boss_Skiaclipse" Name="흰 까마귀의 영면지: 레전드 캐주얼" Reward_Item="misc_ore27"/>
+		<Class ClassID="34" ClassName="EVENT_1910_HALLOWEEN_TRICK" Name="할로윈 밤의 소동" Reward_Item="EVENT_HALLOWEENCANDY_1/EVENT_HALLOWEENCANDY_2"/>
+		<Class ClassID="35" ClassName="Unique_Raid_boss_Moringponia" Name="나비목 접선지" Reward_Item="Gacha_Unique_MothRaid"/>
+		<Class ClassID="36" ClassName="Casual_Unique_Raid_boss_Moringponia" Name="나비목 접선지 : 캐주얼" Reward_Item="Gacha_MothRaid_piece"/>
+		<Class ClassID="37" ClassName="Legend_Raid_boss_Moringponia" Name="나비목 접선지 : 레전드" Reward_Item="Gacha_Legend_MothRaid"/>
+		<Class ClassID="38" ClassName="Legend_Raid_boss_Moringponia_Easy" Name="나비목 접선지 : 레전드(쉬움)" Reward_Item="Legend_Misc_Mothacc_easy"/>
+		<Class ClassID="39" ClassName="Unique_Raid_Glacier" Name="하얀 마녀의 숲 : 유니크" Reward_Item="Gacha_Unique_Glacier"/>
+	</Category>
+</idspace>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Simony">
+	<Category>
+		<Class ClassID="40002" CT_Name="큐어" CT_CanMake="YES"/>
+		<Class ClassID="40101" CT_Name="아우쿠라스" CT_CanMake="YES"/>
+		<Class ClassID="40102" CT_Name="잘챠이" CT_CanMake="YES"/>
+		<Class ClassID="40103" CT_Name="다이노" CT_CanMake="YES"/>
+		<Class ClassID="40202" CT_Name="몬스트런스" CT_CanMake="YES"/>
+		<Class ClassID="40602" CT_Name="리스토레이션" CT_CanMake="YES"/>
+		<Class ClassID="40211" CT_Name="턴 언데드" CT_CanMake="YES"/>
+		<Class ClassID="40606" CT_Name="배리어" CT_CanMake="YES"/>
+		<Class ClassID="41002" CT_Name="아케인 에너지" CT_CanMake="YES"/>
+		<Class ClassID="41004" CT_Name="클레어보이언스" CT_CanMake="YES"/>
+		<Class ClassID="20007" CT_Name="매직 미사일" CT_CanMake="YES"/>
+		<Class ClassID="20103" CT_Name="인챈트 파이어" CT_CanMake="YES"/>
+		<Class ClassID="20107" CT_Name="플레임 그라운드" CT_CanMake="YES"/>
+		<Class ClassID="21201" CT_Name="폴 오브 아고니" CT_CanMake="YES"/>
+	</Category>
+</idspace>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="skill_dynamiccastcancel">
+	<Category>
+		<!-- Type = Skill or Buff -->
+		<Class ClassID="1" ClassName="Sapper_PunjiStake" Type="Skill" Scp="SCR_DYNCAST_SKILL_PunjiStake"/>
+		<Class ClassID="2" ClassName="Surespell_Buff" Type="Buff" Scp="SCR_DYNCAST_BUFF_Surespell"/>
+		<Class ClassID="3" ClassName="Psychokino_PsychicPressure" Type="Skill" Scp="SCR_DYNCAST_SKILL_Psychokino_PsychicPressure"/>
+		<Class ClassID="4" ClassName="Psychokino_GravityPole" Type="Skill" Scp="SCR_DYNCAST_SKILL_Psychokino_GravityPole"/>
+		<Class ClassID="5" ClassName="Cannoneer_SiegeBurst" Type="Skill" Scp="SCR_DYNCAST_SKILL_Cannoneer_SiegeBurst"/>
+		<Class ClassID="6" ClassName="Sadhu_Possession" Type="Skill" Scp="SCR_DYNCAST_SKILL_Sadhu_Possession"/>
+		<Class ClassID="7" ClassName="Paladin_Sanctuary" Type="Skill" Scp="SCR_DYNCAST_SKILL_Paladin_Sanctuary"/>
+		<Class ClassID="8" ClassName="Paladin_Demolition" Type="Skill" Scp="SCR_DYNCAST_SKILL_Paladin_Demolition"/>
+		<Class ClassID="9" ClassName="Musketeer_SnipersSerenity" Type="Skill" Scp="SCR_DYNCAST_SKILL_Musketeer_SnipersSerenity"/>
+		<Class ClassID="10" ClassName="Methadone_Buff" Type="Buff" Scp="SCR_DYNCAST_BUFF_Methadone"/>
+		<Class ClassID="11" ClassName="Algiz_Buff" Type="Buff" Scp="SCR_DYNCAST_BUFF_Algiz"/>
+		<Class ClassID="12" ClassName="Pyromancer_HellBreath" Type="Skill" Scp="SCR_DYNCAST_SKILL_Pyromancer_HellBreath"/>
+		<Class ClassID="13" ClassName="Exorcist_Rubric" Type="Skill" Scp="SCR_DYNCAST_SKILL_Exorcist_Rubric"/>
+		<Class ClassID="14" ClassName="Onmyoji_YinYangConsonance" Type="Skill" Scp="SCR_DYNCAST_SKILL_Onmyoji_YinYangConsonance"/>
+		<Class ClassID="15" ClassName="Featherfoot_BloodSucking" Type="Skill" Scp="SCR_DYNCAST_SKILL_Featherfoot_BloodSucking"/>
+		<Class ClassID="16" ClassName="Pyromancer_FireWall" Type="Skill" Scp="SCR_DYNCAST_SKILL_Pyromancer_FireWall"/>
+		<Class ClassID="17" ClassName="Elementalist_Electrocute" Type="Skill" Scp="SCR_DYNCAST_SKILL_Elementalist_Electrocute"/>
+		<Class ClassID="18" ClassName="Elementalist_Hail" Type="Skill" Scp="SCR_DYNCAST_SKILL_Elementalist_Hail"/>
+		<Class ClassID="19" ClassName="Elementalist_Meteor" Type="Skill" Scp="SCR_DYNCAST_SKILL_Elementalist_Meteor"/>
+		<Class ClassID="20" ClassName="Necromancer_FleshCannon" Type="Skill" Scp="SCR_DYNCAST_SKILL_Necromancer_FleshCannon"/>
+		<Class ClassID="21" ClassName="Alchemist_AlchemisticMissile" Type="Skill" Scp="SCR_DYNCAST_SKILL_Alchemist_AlchemisticMissile"/>
+		<Class ClassID="22" ClassName="Warlock_DemonScratch" Type="Skill" Scp="SCR_DYNCAST_SKILL_Warlock_DemonScratch"/>
+		<Class ClassID="23" ClassName="RuneCaster_Tiwaz" Type="Skill" Scp="SCR_DYNCAST_SKILL_RuneCaster_Tiwaz"/>
+		<Class ClassID="24" ClassName="RuneCaster_Isa" Type="Skill" Scp="SCR_DYNCAST_SKILL_RuneCaster_Isa"/>
+		<Class ClassID="25" ClassName="RuneCaster_Stan" Type="Skill" Scp="SCR_DYNCAST_SKILL_RuneCaster_Stan"/>
+		<Class ClassID="26" ClassName="RuneCaster_Hagalaz" Type="Skill" Scp="SCR_DYNCAST_SKILL_RuneCaster_Hagalaz"/>
+		<Class ClassID="27" ClassName="Sage_DimensionCompression" Type="Skill" Scp="SCR_DYNCAST_SKILL_Sage_DimensionCompression"/>
+		<Class ClassID="28" ClassName="Onmyoji_FireFoxShikigami" Type="Skill" Scp="SCR_DYNCAST_SKILL_Onmyoji_FireFoxShikigami"/>
+		<Class ClassID="29" ClassName="Onmyoji_GreenwoodShikigami" Type="Skill" Scp="SCR_DYNCAST_SKILL_Onmyoji_GreenwoodShikigami"/>
+		<Class ClassID="30" ClassName="Onmyoji_WhiteTigerHowling" Type="Skill" Scp="SCR_DYNCAST_SKILL_Onmyoji_WhiteTigerHowling"/>
+		<Class ClassID="31" ClassName="Onmyoji_WaterShikigami" Type="Skill" Scp="SCR_DYNCAST_SKILL_Onmyoji_WaterShikigami"/>
+		<Class ClassID="32" ClassName="Bokor_Effigy" Type="Skill" Scp="SCR_DYNCAST_SKILL_Bokor_Effigy"/>
+		<Class ClassID="33" ClassName="Daoshi_DivinePunishment" Type="Skill" Scp="SCR_DYNCAST_SKILL_Daoshi_DivinePunishment"/>
+		<Class ClassID="34" ClassName="Oracle_Foretell" Type="Skill" Scp="SCR_DYNCAST_SKILL_Oracle_Foretell"/>
+		<Class ClassID="35" ClassName="Wizard_EnergyBolt" Type="Skill" Scp="SCR_DYNCAST_SKILL_Wizard_EnergyBolt"/>
+		<Class ClassID="36" ClassName="Cryomancer_SnowRolling" Type="Skill" Scp="SCR_DYNCAST_SKILL_Cryomancer_SnowRolling"/>
+		<Class ClassID="37" ClassName="Bokor_BwaKayiman" Type="Skill" Scp="SCR_DYNCAST_SKILL_Bokor_BwaKayiman"/>
+		<Class ClassID="38" ClassName="Elementalist_StoneCurse" Type="Skill" Scp="SCR_DYNCAST_SKILL_Elementalist_StoneCurse"/>
+		<Class ClassID="39" ClassName="Featherfoot_Kurdaitcha" Type="Skill" Scp="SCR_DYNCAST_SKILL_Featherfoot_Kurdaitcha"/>
+		<Class ClassID="40" ClassName="RuneCaster_Algiz" Type="Skill" Scp="SCR_DYNCAST_SKILL_RuneCaster_Algiz"/>
+		<Class ClassID="41" ClassName="Warlock_Sabbath" Type="Skill" Scp="SCR_DYNCAST_SKILL_Warlock_Sabbath"/>
+		<Class ClassID="42" ClassName="QuarrelShooter_RapidFire" Type="Skill" Scp="SCR_DYNCAST_SKILL_QuarrelShooter_RapidFire"/>
+		<Class ClassID="43" ClassName="PiedPiper_Friedenslied" Type="Skill" Scp="SCR_DYNCAST_SKILL_PiedPiper_Friedenslied"/>
+		<Class ClassID="44" ClassName="PiedPiper_HypnotischeFlote" Type="Skill" Scp="SCR_DYNCAST_SKILL_PiedPiper_HypnotischeFlote"/>
+		<Class ClassID="45" ClassName="Mergen_FocusFire" Type="Skill" Scp="SCR_DYNCAST_SKILL_Mergen_FocusFire"/>
+		<Class ClassID="46" ClassName="Miko_KaguraDance" Type="Skill" Scp="SCR_DYNCAST_SKILL_Miko_KaguraDance"/>
+		<Class ClassID="47" ClassName="Miko_HoukiBroom" Type="Skill" Scp="SCR_DYNCAST_SKILL_Miko_HoukiBroom"/>
+		<Class ClassID="48" ClassName="Monk_EnergyBlast" Type="Skill" Scp="SCR_DYNCAST_SKILL_Monk_EnergyBlast"/>
+		<Class ClassID="49" ClassName="Shinobi_Bunshin_no_jutsu" Type="Skill" Scp="SCR_DYNCAST_SKILL_Shinobi_Bunshin_no_jutsu"/>
+		<Class ClassID="50" ClassName="Squire_Arrest" Type="Skill" Scp="SCR_DYNCAST_SKILL_Squire_Arrest"/>
+	</Category>
+</idspace>

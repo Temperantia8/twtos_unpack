@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="TimeEvent">
+	<Category Name="Event">
+		<Class ClassID="1" ClassName="ColonyStartAlarm" Activate="YES" Script="SCR_COLONY_START_ALARM" Hour="20" Minute="0" Second="0" Before="YES" After="NO" ActivateRangeSec="3600" IsDynamicTime="YES"/>
+		<Class ClassID="2" ClassName="ColonyEndAlarm" Activate="YES" Script="SCR_COLONY_END_ALARM" Hour="21" Minute="0" Second="0" Before="YES" After="NO" ActivateRangeSec="3600" IsDynamicTime="YES"/>
+		<Class ClassID="3" ClassName="ColonyEndWorldMessage" Activate="YES" Script="SCR_COLONY_END_WORLD_MESSAGE" Hour="21" Minute="0" Second="0" Before="NO" After="YES" ActivateRangeSec="300" IsDynamicTime="YES"/>
+		<Class ClassID="4" ClassName="AwardBlockade701" Activate="YES" Script="SCR_AWARD_BLOCKADE701_DEFAULT" Hour="19" Minute="0" Second="0" Before="NO" After="YES" ActivateRangeSec="300" IsDynamicTime="YES"/>
+		<Class ClassID="5" ClassName="AwardBlockade701_steam_1001" Activate="YES" Script="SCR_AWARD_BLOCKADE701_STEAM_1001" Hour="19" Minute="0" Second="0" Before="NO" After="YES" ActivateRangeSec="300" IsDynamicTime="YES"/>
+		<Class ClassID="6" ClassName="AwardBlockade701_steam_1003" Activate="YES" Script="SCR_AWARD_BLOCKADE701_STEAM_1003" Hour="13" Minute="0" Second="0" Before="NO" After="YES" ActivateRangeSec="300" IsDynamicTime="YES"/>
+		<Class ClassID="7" ClassName="AwardBlockade701_steam_1004" Activate="YES" Script="SCR_AWARD_BLOCKADE701_STEAM_1004" Hour="07" Minute="0" Second="0" Before="NO" After="YES" ActivateRangeSec="300" IsDynamicTime="YES"/>
+		<Class ClassID="8" ClassName="AwardBlockade701_steam_1005" Activate="YES" Script="SCR_AWARD_BLOCKADE701_STEAM_1005" Hour="18" Minute="0" Second="0" Before="NO" After="YES" ActivateRangeSec="300" IsDynamicTime="YES"/>
+	</Category>
+</idspace>

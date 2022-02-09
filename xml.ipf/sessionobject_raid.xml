@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by LEE (EMBRACE) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- -->
+<idspace id="SessionObject">
+	<Category>
+		<Class ClassID="100000" ClassName="ssn_raid" CT_Name="1시간별 미션" CT_Script="SSN_RAID" CT_UseTx="YES" CT_UseDB="YES" Value_NT="0" PosX_NT="0" PosY_NT="0" CT_ItemID="0" CT_Level="0" CT_Difficulty="0" CT_MergeClass1="SObject_C" CMINE1_REWARD1="0" CMINE1_REWARD2="0" CMINE1_REWARD3="0" CATACOMB2_REWARD1="0" RAID_SIAULIAI1_REWARD1="0" RAID_THORN1_REWARD1="0" MISSION_ZACHA_REWARD1="0" RAID_REMAINS_REWARD="0" MISSION_FTOWER_REWARD1="0" MISSION_ROKAS_REWARD1="0" MISSION_DEV_REWARD1="0" MISSION_CHAPLE_01_REWARD1="0" MISSION_HUEVILLAGE_REWARD1="0" MISSION_HUEVILLAGE_REWARD2="0" MISSION_GELE_01_REWARD1="0" />
+	</Category>
+</idspace>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="JumpType">
+	<Category>
+		<Class ClassID="1" ClassName="NormalJump" MovingJump="YES" ShockWave="NO" Range="0" Power="0" Time="0" Freq="0" Angle="0" RaiseSpeed="1.0" FallSpeed="1.0" BounceRatio="0.0" Effect="None" EftType="FORK" HitType="HitMotion" HitDelay="0.0" LandSound="None" LandDamage="NO" FallDamage="NO" SplRange="0" SafeTime="0" DamageShockWave="YES"/>
+		<Class ClassID="2" ClassName="AttackJump" MovingJump="YES" ShockWave="YES" Range="999" Power="10" Time="0.3" Freq="90" Angle="0.0" RaiseSpeed="1.0" FallSpeed="2.0" BounceRatio="0.35" Effect="F_ground070" EftType="FORK" HitType="HitMotion" HitDelay="0.2" LandSound="None" LandDamage="NO" FallDamage="YES" SplRange="10" SafeTime="1.2" DamageShockWave="YES"/>
+		<Class ClassID="3" ClassName="BossJump" MovingJump="NO" ShockWave="YES" Range="999" Power="2" Time="0.3" Freq="90" Angle="0.0" RaiseSpeed="1.0" FallSpeed="2.0" BounceRatio="0.35" Effect="zombie_boss_jumpatk" EftType="FORK" HitType="HitMotion" HitDelay="0.2" LandSound="mon_zombieboss_skl1_shot" LandDamage="YES" FallDamage="NO" SplRange="0" SafeTime="1" DamageShockWave="YES"/>
+		<Class ClassID="4" ClassName="BossAttackJump" MovingJump="YES" ShockWave="YES" Range="999" Power="10" Time="0.3" Freq="90" Angle="0.0" RaiseSpeed="1.0" FallSpeed="1.5" BounceRatio="0.35" Effect="F_ground070" EftType="FORK" HitType="HitMotion" HitDelay="0.2" LandSound="None" LandDamage="NO" FallDamage="YES" SplRange="10" SafeTime="1.2" DamageShockWave="NO"/>
+		<Class ClassID="5" ClassName="SummonJump" MovingJump="YES" ShockWave="YES" Range="999" Power="10" Time="0.3" Freq="90" Angle="0.0" RaiseSpeed="3.0" FallSpeed="3.0" BounceRatio="0.0" Effect="None" EftType="FORK" HitType="HitMotion" HitDelay="0.0" LandSound="None" LandDamage="NO" FallDamage="NO" SplRange="0" SafeTime="0" DamageShockWave="YES"/>
+	</Category>
+</idspace>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="CoolDown_Guild">
+	<Category Name="GuildColony">
+		<Class ClassID="1000" ClassName="GuildColony_AoE_revive_scroll"/>
+		<Class ClassID="1001" ClassName="GuildColony_Divine_Flag"/>
+	</Category>
+</idspace>

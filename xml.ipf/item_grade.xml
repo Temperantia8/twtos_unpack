@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="item_grade">
+	<Category>
+		<Class ClassID="1" ClassName="None" CT_Name="기본" CT_Grade="0" CT_BasicRatio="0" CT_ReinforceRatio="0" CT_ReinforceCostRatio="0" CT_TranscendCostRatio="0"/>
+		<Class ClassID="2" ClassName="Normal" CT_Name="노말" CT_Grade="1" CT_BasicRatio="90" CT_ReinforceRatio="100" CT_ReinforceCostRatio="300" CT_TranscendCostRatio="100"/>
+		<Class ClassID="3" ClassName="Magic" CT_Name="매직" CT_Grade="2" CT_BasicRatio="100" CT_ReinforceRatio="120" CT_ReinforceCostRatio="400" CT_TranscendCostRatio="110"/>
+		<Class ClassID="4" ClassName="Rare" CT_Name="레어" CT_Grade="3" CT_BasicRatio="110" CT_ReinforceRatio="150" CT_ReinforceCostRatio="500" CT_TranscendCostRatio="115"/>
+		<Class ClassID="5" ClassName="Unique" CT_Name="유니크" CT_Grade="4" CT_BasicRatio="125" CT_ReinforceRatio="200" CT_ReinforceCostRatio="600" CT_TranscendCostRatio="125"/>
+		<Class ClassID="6" ClassName="Legend" CT_Name="레전드" CT_Grade="5" CT_BasicRatio="160" CT_ReinforceRatio="250" CT_ReinforceCostRatio="700" CT_TranscendCostRatio="140"/>
+	</Category>
+	<ArmorMaterialRatio>
+		<Class ClassID="10" ClassName="armorMaterial_DEF" CT_Name="아이템 재질별 물리 방어 배율" CT_Cloth="1" CT_Leather="1.5" CT_Iron="2" CT_Shield="2" CT_Ghost="1"/>
+		<Class ClassID="11" ClassName="armorMaterial_MDEF" CT_Name="아이템 재질별 마법 방어 배율" CT_Cloth="2" CT_Leather="1.5" CT_Iron="1" CT_Shield="2" CT_Ghost="1"/>
+	</ArmorMaterialRatio>
+	<ArmorClassTypeRatio>
+		<Class ClassID="20" ClassName="ArmorClassTypeRatio" CT_Name="아이템 ClassType별 배율" CT_Shirt="0.3" CT_Pants="0.3" CT_Shield="0.6" CT_Boots="0.2" CT_Gloves="0.2"/>
+	</ArmorClassTypeRatio>
+	<WeaponClassTypeRatio>
+		<Class ClassID="30" ClassName="WeaponClassTypeRatio" CT_Name="무기 아이템 ClassType별 배율" CT_None="0" CT_Sword="1.1" CT_THSword="1.3" CT_Staff="1.1" CT_THBow="1.3" CT_Bow="1.1" CT_Mace="1.1" CT_THMace="1.3" CT_Spear="1.1" CT_THSpear="1.3" CT_Dagger="1.1" CT_THStaff="1.3" CT_Pistol="1.1" CT_Rapier="1.1" CT_Cannon="1.3" CT_Musket="1.3" CT_Trinket="0.12" CT_Neck="0.06" CT_Ring="0.06"/>
+	</WeaponClassTypeRatio>
+	<WeaponClassTypeDamgeRange>
+		<Class ClassID="40" ClassName="WeaponDamageRange" CT_Name="무기 아이템 ClassType별 DamageRange" CT_None="0" CT_Sword="1.03" CT_THSword="1.2" CT_Staff="1" CT_THBow="1.2" CT_Bow="1.03" CT_Mace="1.01" CT_THMace="1.1" CT_Spear="1.1" CT_THSpear="1.3" CT_Dagger="1.08" CT_THStaff="1" CT_Pistol="1.08" CT_Rapier="1" CT_Cannon="1.5" CT_Musket="1.35" CT_Trinket="1" CT_Neck="1" CT_Ring="1"/>
+	</WeaponClassTypeDamgeRange>
+	<WeaponClassTypeRatio>
+		<Class ClassID="60" ClassName="Upper440LevelClassTypeRatioIncrease" CT_Name="440레벨 이상 아이템 ClassType별 보너스 배율 (한손 12%, 양손 및 트링킷 10%, 방패 8%), WeaponClassTypeRatio에 추가로 곱한다" CT_None="0" CT_Sword="1.12" CT_THSword="1.1" CT_Staff="1.12" CT_THBow="1.1" CT_Bow="1.12" CT_Mace="1.12" CT_THMace="1.1" CT_Spear="1.12" CT_THSpear="1.1" CT_Dagger="1.12" CT_THStaff="1.1" CT_Pistol="1.12" CT_Rapier="1.12" CT_Cannon="1.1" CT_Musket="1.1" CT_Trinket="1.1" CT_Shirt="1.2" CT_Pants="1.2" CT_Shield="1.08" CT_Boots="1.2" CT_Gloves="1.2" CT_Neck="1.1" CT_Ring="1.1"/>
+	</WeaponClassTypeRatio>
+</idspace>

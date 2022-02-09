@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by tachyon (EMBRACE) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by heehyun (IMCGames Co., Ltd) -->
+<idspace id="Cell">
+	<Category Name="Global">
+		<Class ClassID="1" ClassName="Flame" CMM_Name="용암" BrushColor="AAFF0000" Script="SCR_GROUND_FLAME" RefreshTime="3000"/>
+		<Class ClassID="2" ClassName="Poison" CMM_Name="용암2" BrushColor="AA00FF00" Script="SCR_GROUND_MISSION_CTHULHU_LAVA2" RefreshTime="1000"/>
+		<Class ClassID="3" ClassName="Ice" CMM_Name="빙한" BrushColor="AA0000FF" Script="SCR_GROUND_ICE" RefreshTime="3000"/>
+		<Class ClassID="4" ClassName="WarpTo_Fld_C3" CMM_Name="동안C3로워프" BrushColor="AAAAAAAA" Script="SCR_GROUND_WARP_FLD_C3" RefreshTime="3000"/>
+		<Class ClassID="5" ClassName="Grass" CMM_Name="풀" BrushColor="AA00DD00" Script="None" RefreshTime="0"/>
+		<Class ClassID="6" ClassName="Dirt" CMM_Name="흙" BrushColor="AADDDD00" Script="None" RefreshTime="0"/>
+	</Category>
+	<Category Name="Mission">
+		<Class ClassID="101" ClassName="CthulhuLava" CMM_Name="크툴루 레이드 용암" BrushColor="AAEE0000" Script="SCR_GROUND_MISSION_CTHULHU_LAVA" RefreshTime="1000"/>
+	</Category>
+</idspace>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by tachyon (EMBRACE) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by heehyun (IMCGames Co., Ltd) -->
+<idspace id="Attack">
+	<Category>
+		<Class ClassID="10001" ClassName="atk_barehands" Name="맨손" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="60" HitRange="15" MinR="0" MaxR="30" AddDamage="0" HitTime="233" MoveHitTime="233" TotalTime="700" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+		<Class ClassID="10101" ClassName="atk_epeegarde" Name="에페 갸르드" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="60" HitRange="15" MinR="0" MaxR="30" AddDamage="0" HitTime="300;566" MoveHitTime="300" TotalTime="700" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+		<Class ClassID="10121" ClassName="atk_epeegarde2" Name="에페 갸르드" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="60" HitRange="15" MinR="0" MaxR="30" AddDamage="0" HitTime="230" MoveHitTime="300" TotalTime="600" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+		<Class ClassID="10131" ClassName="atk_epeegarde3" Name="에페 갸르드" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="60" HitRange="15" MinR="0" MaxR="30" AddDamage="0" HitTime="230" MoveHitTime="300" TotalTime="600" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+		<Class ClassID="10201" ClassName="atk_gunshot" Name="사격" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="60" HitRange="15" MinR="0" MaxR="100" AddDamage="0" HitTime="1100" MoveHitTime="300" TotalTime="1260" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+		<Class ClassID="10301" ClassName="atk_magic" Name="마법" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="30" HitRange="20" MinR="0" MaxR="200" AddDamage="0" HitTime="800" MoveHitTime="433" TotalTime="1200" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+		<Class ClassID="10302" ClassName="atk_magic2" Name="마법" Icon="icon_stn_test2" AniType="Each" RandomAniCount="1" AtkCount="1" EnableAngle="30" HitRange="20" MinR="0" MaxR="200" AddDamage="0" HitTime="700" MoveHitTime="433" TotalTime="1200" ApplyTime="10000" SplType="None" SplRange="0" SplLimit="0" SplDamage="0" SCP="SCR_ATTACK_HIT"/>
+	</Category>
+</idspace>

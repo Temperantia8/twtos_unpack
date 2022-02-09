@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="costume_exchange_shop">
+	<Category Name="Buy">
+		<SecondCategory Name="전사">
+			<Class ClassID="3001" ClassName="costume_war_m_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3002" ClassName="costume_war_f_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3003" ClassName="costume_war_m_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3004" ClassName="costume_war_f_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3005" ClassName="costume_war_m_015" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3006" ClassName="costume_war_f_015" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3007" ClassName="costume_war_m_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3008" ClassName="costume_war_m_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3009" ClassName="costume_war_f_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3010" ClassName="costume_war_f_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3011" ClassName="costume_war_m_006" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="1"/>
+			<Class ClassID="3012" ClassName="costume_war_m_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="1"/>
+			<Class ClassID="3013" ClassName="costume_war_f_006" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="1"/>
+			<Class ClassID="3014" ClassName="costume_war_f_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="1"/>
+			<Class ClassID="3015" ClassName="costume_war_m_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3016" ClassName="costume_war_m_008" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3017" ClassName="costume_war_f_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3018" ClassName="costume_war_f_008" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3019" ClassName="costume_war_m_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3020" ClassName="costume_war_m_013" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3021" ClassName="costume_war_f_013" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3022" ClassName="costume_war_m_014" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3023" ClassName="costume_war_f_014" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3024" ClassName="costume_war_m_017" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3025" ClassName="costume_war_f_017" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+			<Class ClassID="3026" ClassName="costume_war_f_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_War" BuyPrice="2"/>
+		</SecondCategory>
+		<SecondCategory Name="마법사">
+			<Class ClassID="4001" ClassName="costume_wiz_m_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4002" ClassName="costume_wiz_f_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4003" ClassName="costume_wiz_m_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4004" ClassName="costume_wiz_f_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4005" ClassName="costume_wiz_m_014" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4006" ClassName="costume_wiz_f_014" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4007" ClassName="costume_wiz_m_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4008" ClassName="costume_wiz_m_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4009" ClassName="costume_wiz_f_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4010" ClassName="costume_wiz_f_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4011" ClassName="costume_wiz_m_006" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="1"/>
+			<Class ClassID="4012" ClassName="costume_wiz_m_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="1"/>
+			<Class ClassID="4013" ClassName="costume_wiz_f_006" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="1"/>
+			<Class ClassID="4014" ClassName="costume_wiz_f_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="1"/>
+			<Class ClassID="4015" ClassName="costume_wiz_m_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4016" ClassName="costume_wiz_m_008" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4017" ClassName="costume_wiz_f_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4018" ClassName="costume_wiz_f_008" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4019" ClassName="costume_wiz_m_009" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4020" ClassName="costume_wiz_f_009" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4021" ClassName="costume_wiz_m_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4022" ClassName="costume_wiz_f_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4023" ClassName="costume_wiz_m_013" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4024" ClassName="costume_wiz_f_013" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4025" ClassName="costume_wiz_m_018" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+			<Class ClassID="4026" ClassName="costume_wiz_f_018" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Wiz" BuyPrice="2"/>
+		</SecondCategory>
+		<SecondCategory Name="궁수">
+			<Class ClassID="5001" ClassName="costume_arc_m_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5002" ClassName="costume_arc_f_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5003" ClassName="costume_arc_m_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5004" ClassName="costume_arc_f_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5005" ClassName="costume_arc_m_017" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5006" ClassName="costume_arc_f_017" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5007" ClassName="costume_arc_m_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5008" ClassName="costume_arc_m_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5009" ClassName="costume_arc_f_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5010" ClassName="costume_arc_f_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5011" ClassName="costume_arc_m_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="1"/>
+			<Class ClassID="5012" ClassName="costume_arc_m_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="1"/>
+			<Class ClassID="5013" ClassName="costume_arc_f_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="1"/>
+			<Class ClassID="5014" ClassName="costume_arc_f_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="1"/>
+			<Class ClassID="5015" ClassName="costume_arc_m_008" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5016" ClassName="costume_arc_m_009" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5017" ClassName="costume_arc_f_008" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5018" ClassName="costume_arc_f_009" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5019" ClassName="costume_arc_f_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5020" ClassName="costume_arc_m_015" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5021" ClassName="costume_arc_f_015" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5022" ClassName="costume_arc_m_016" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5023" ClassName="costume_arc_f_014" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5024" ClassName="costume_arc_m_020" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+			<Class ClassID="5025" ClassName="costume_arc_f_020" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Arc" BuyPrice="2"/>
+		</SecondCategory>
+		<SecondCategory Name="성직자">
+			<Class ClassID="6001" ClassName="costume_clr_m_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6002" ClassName="costume_clr_f_011" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6003" ClassName="costume_clr_m_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6004" ClassName="costume_clr_f_012" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6005" ClassName="costume_clr_m_016" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6006" ClassName="costume_clr_f_016" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6007" ClassName="costume_clr_m_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6008" ClassName="costume_clr_m_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6009" ClassName="costume_clr_f_001" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6010" ClassName="costume_clr_f_004" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6011" ClassName="costume_clr_m_006" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="1"/>
+			<Class ClassID="6012" ClassName="costume_clr_m_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="1"/>
+			<Class ClassID="6013" ClassName="costume_clr_f_006" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="1"/>
+			<Class ClassID="6014" ClassName="costume_clr_f_005" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="1"/>
+			<Class ClassID="6015" ClassName="costume_clr_m_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6016" ClassName="costume_clr_m_009" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6017" ClassName="costume_clr_m_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6018" ClassName="costume_clr_f_007" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6019" ClassName="costume_clr_f_009" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6020" ClassName="costume_clr_f_010" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6021" ClassName="costume_clr_m_013" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6022" ClassName="costume_clr_f_013" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6023" ClassName="costume_clr_m_018" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+			<Class ClassID="6024" ClassName="costume_clr_f_018" Category="Cos_Shop_Exchange" SubCategory="Cos_Shop_Costume_Clr" BuyPrice="2"/>
+		</SecondCategory>
+	</Category>
+</idspace>

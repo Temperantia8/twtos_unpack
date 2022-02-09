@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<ClaimCodes Name="ClaimCodes">
+	<Class Code="1" Desc="公會解散"/>
+	<Class Code="2" Desc="會長經營權轉讓"/>
+	<Class Code="3" Desc="賦予職級權限"/>
+	<Class Code="4" Desc="申請/刪除職級"/>
+	<Class Code="5" Desc="變更公會名稱"/>
+	<Class Code="6" Desc="設定領地戰參加與否"/>
+	<Class Code="10" Desc="驅逐公會成員"/>
+	<Class Code="11" Desc="邀請公會成員"/>
+	<Class Code="12" Desc="公會成長"/>
+	<Class Code="13" Desc="設定公會特性"/>
+	<Class Code="14" Desc="拆除公會塔"/>
+	<Class Code="15" Desc="更換徽章"/>
+	<Class Code="16" Desc="更換banner"/>
+	<Class Code="17" Desc="職級任命"/>
+	<Class Code="19" Desc="接受公會加入申請書"/>
+	<Class Code="20" Desc="公會保管箱分配"/>
+	<!-- don't delete and modify (default) string -->
+	<Class Code="103" Desc="存入公會資金(default)"/>
+	<Class Code="104" Desc="公會共用倉庫入庫"/>
+	<Class Code="105" Desc="公會共用倉庫出庫"/>
+	<Class Code="106" Desc="都市稅率管理"/>
+	<Class Code="107" Desc="稅金分配"/>
+	<Class Code="202" Desc="撰寫公告"/>
+	<Class Code="203" Desc="撰寫宣傳文"/>
+	<Class Code="208" Desc="公會重要訊息"/>
+	<Class Code="209" Desc="建立聊天室"/>
+	<Class Code="210" Desc="刪除聊天室"/>
+	<Class Code="211" Desc="登錄聊天室公告"/>
+	<Class Code="212" Desc="刪除聊天室訊息"/>
+	<Class Code="213" Desc="禁止玩家聊天"/>
+	<Class Code="301" Desc="宣布/解除戰爭"/>
+	<Class Code="302" Desc="設立/解除公會戰爭中立"/>
+	<Class Code="303" Desc="查看戰鬥中的對象公會目錄"/>
+	<Class Code="304" Desc="領地戰地區參加人員現況查詢"/>
+	<Class Code="401" Desc="開始公會任務"/>
+	<Class Code="402" Desc="設定公會基地外部人進場"/>
+	<Class Code="403" Desc="使用基地農場"/>
+	<Class Code="404" Desc="養成基地寵物"/>
+	<Class Code="405" Desc="管理基地遠征隊"/>
+	<Class Code="501" Desc="裝飾基地"/>
+	<Class Code="502" Desc="管理專門設施"/>
+</ClaimCodes>

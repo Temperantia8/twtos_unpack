@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by 따꿍이 (EMBRACE) -->
+<idspace id="locale">
+	<Category>
+		<Class ClassID="1" ClassName="KOR" ServiceNation="대한민국" ClientExceptionMail="ofcbj@imc.co.kr" ServerExceptionMail="bug_s_kor@imc.co.kr" WheelDir="-1"/>
+		<Class ClassID="2" ClassName="JPN" ServiceNation="일본" ClientExceptionMail="bug_c_jpn@imc.co.kr" ServerExceptionMail="bug_s_jpn@imc.co.kr" WheelDir="1"/>
+		<Class ClassID="3" ClassName="CHN" ServiceNation="중국" ClientExceptionMail="bug_c_kor@imc.co.kr" ServerExceptionMail="bug_s_kor@imc.co.kr" WheelDir="1"/>
+		<Class ClassID="4" ClassName="TWN" ServiceNation="대만" ClientExceptionMail="bug_c_kor@imc.co.kr" ServerExceptionMail="bug_s_kor@imc.co.kr" WheelDir="1"/>
+		<Class ClassID="5" ClassName="THI" ServiceNation="태국" ClientExceptionMail="bug_c_kor@imc.co.kr" ServerExceptionMail="bug_s_kor@imc.co.kr" WheelDir="1"/>
+		<Class ClassID="6" ClassName="SNG" ServiceNation="싱가폴" ClientExceptionMail="bug_c_kor@imc.co.kr" ServerExceptionMail="bug_s_kor@imc.co.kr" WheelDir="1"/>
+		<Class ClassID="7" ClassName="USA" ServiceNation="미국" ClientExceptionMail="bug_c_kor@imc.co.kr" ServerExceptionMail="bug_s_kor@imc.co.kr" WheelDir="-1"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by ofcbj (IMCGames Co., Ltd) -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Order = {asc, des} -->
+<!-- ClassName - 미니게임 이름으로 할 것 -->
+
+<idspace id="raid_ranking_category">
+    <Class ClassID="1" ClassName="LEGEND_RAID_MORINGPONIA_HARD" Order="asc" Level="440"/>
+    <Class ClassID="2" ClassName="rift_dungeon_11" Order="asc" Level="440"/>
+    <Class ClassID="3" ClassName="LEGEND_RAID_GLACIER_HARD" Order="asc" Level="450"/>    
+</idspace>

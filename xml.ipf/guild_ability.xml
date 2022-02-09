@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Guild_Ability">
+	<Category Name="Guild_Ability">
+		<Class ClassID="1" ClassName="MemberExtend" Name="최대 인원 증가" Icon="guild_info_6" SkillName="None" Desc="최대 길드원 수 +3" MaxLevel="15"/>
+		<Class ClassID="2" ClassName="Taming" Name="테이밍" Icon="guild_info_7" SkillName="None" Desc="최대 컴패니언 수 +3" MaxLevel="5"/>
+		<Class ClassID="3" ClassName="Farming" Name="농사" Icon="guild_info_8" SkillName="None" Desc="최대 작물 수 +3" MaxLevel="5"/>
+		<!--Class ClassID="4" ClassName="Mining" Name="채광" Icon="icon_item_Dilgele" SkillName="None" Desc="광석을 채집할 수 있습니다. 1레벨당 1씩 증가합니다." MaxLevel="5"/-->
+	</Category>
+</idspace>

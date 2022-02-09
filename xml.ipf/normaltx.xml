@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="NormalTX">
+	<Class ClassID="1" ClassName="SCR_TX_STAT_UP"/>
+	<Class ClassID="2" ClassName="SCR_TX_SKILL_UP"/>
+	<Class ClassID="3" ClassName="ABANDON_Q"/>
+	<Class ClassID="4" ClassName="RESTART_Q"/>
+	<Class ClassID="5" ClassName="SCR_TX_SKILLVAN"/>
+	<Class ClassID="6" ClassName="SCR_TAKE_COLLECTION"/>
+	<Class ClassID="8" ClassName="SCR_TX_COLORSPRAY"/>
+	<Class ClassID="9" ClassName="SCR_PARTY_SURVEY"/>
+	<Class ClassID="11" ClassName="SCR_TX_MAP_EVENT_STAT_UP"/>
+	<Class ClassID="12" ClassName="SCR_TX_MAP_EVENT_EXP_UP"/>
+	<Class ClassID="13" ClassName="SCR_TX_PROPERTY_ACTIVE_TOGGLE"/>
+	<Class ClassID="14" ClassName="SCR_TX_TP_SHOP"/>
+	<Class ClassID="15" ClassName="SCR_EARTH_TOWER_NEXT_FLOOR"/>
+	<Class ClassID="16" ClassName="SCR_TX_EARTH_TOWER_STOP"/>
+	<Class ClassID="17" ClassName="SCR_TX_EQUIP_CARD_SLOT"/>
+	<Class ClassID="18" ClassName="SCR_TX_UNEQUIP_CARD_SLOT"/>
+	<Class ClassID="19" ClassName="SCR_TX_RECYCLE_BUY"/>
+	<Class ClassID="20" ClassName="SCR_TX_TRADE_SELECT_ITEM"/>
+	<Class ClassID="21" ClassName="SCR_TX_COSTUME_EXCHANGE_BUY"/>
+	<Class ClassID="22" ClassName="SCR_TX_NEWBIE_TP_SHOP"/>
+	<Class ClassID="23" ClassName="SCR_TX_RETURNUSER_TP_SHOP"/>
+	<Class ClassID="24" ClassName="SCR_EVENT_STAMP_TOUR_CHECK"/>	
+	<Class ClassID="25" ClassName="SCR_TX_EPISODE_REWARD"/>
+	<Class ClassID="26" ClassName="SCR_EVENT_STAMP_TOUR_SHORTCUT"/>
+	<Class ClassID="27" ClassName="SCR_PVP_MINE_SHOP_OPEN"/>
+	<Class ClassID="28" ClassName="SCR_ANCIENT_GACHA_CARD_OPEN"/>
+	<Class ClassID="29" ClassName="SCR_PVP_MINE_ENTER"/>
+	<Class ClassID="30" ClassName="SEND_SOLO_DUNGEON_RANKING_FULL"/>
+	<Class ClassID="31" ClassName="EVENT_2010_GUILD_QUEST_REWARD"/>
+	<Class ClassID="32" ClassName="EVENT_STEAM_GUILD_REWARD_PC"/>
+</idspace>

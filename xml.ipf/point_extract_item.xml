@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!--editedwithXMLSPYv2004rel.2U(http://www.xmlspy.com)byimc(imc)-->
+<idspace id="PointExtractItem">
+	<Category Name="ContentsPointExtract">
+		<Class ClassID="1" ClassName="ContentsPointExtract_1" ItemClassName="HiddenAbility_Piece" PointName="CONTENTS_TOTAL_POINT" Point="200"/>
+		<Class ClassID="2" ClassName="ContentsPointExtract_2" ItemClassName="misc_ore15" PointName="CONTENTS_TOTAL_POINT" Point="200"/>
+		<Class ClassID="3" ClassName="ContentsPointExtract_3" ItemClassName="misc_0530" PointName="CONTENTS_TOTAL_POINT" Point="200"/>
+		<Class ClassID="4" ClassName="ContentsPointExtract_4" ItemClassName="misc_BlessedStone" PointName="CONTENTS_TOTAL_POINT" Point="20"/>
+		<Class ClassID="5" ClassName="ContentsPointExtract_5" ItemClassName="misc_glacier" PointName="CONTENTS_TOTAL_POINT" Point="300"/>
+		<Class ClassID="6" ClassName="ContentsPointExtract_6" ItemClassName="misc_Brikynite" PointName="CONTENTS_TOTAL_POINT" Point="300"/>
+		<Class ClassID="7" ClassName="ContentsPointExtract_7" ItemClassName="misc_Telharsha_neck" PointName="CONTENTS_TOTAL_POINT" Point="300"/>
+		<Class ClassID="8" ClassName="ContentsPointExtract_8" ItemClassName="Legend_Misc_Mothacc_hard" PointName="CONTENTS_TOTAL_POINT" Point="300"/>
+		<Class ClassID="9" ClassName="ContentsPointExtract_9" ItemClassName="Premium_item_transcendence_Stone" PointName="CONTENTS_TOTAL_POINT" Point="200"/>
+	</Category>
+	<Category Name="SilverGacha">
+		<Class ClassID="101" ClassName="SilverGachaPointExtract_1" ItemClassName="selectbox_ep12musical01_1" PointName="Mileage_SilverGacha" Point="576"/>
+		<Class ClassID="102" ClassName="SilverGachaPointExtract_2" ItemClassName="selectbox_ep12musical01_2" PointName="Mileage_SilverGacha" Point="576"/>
+		<Class ClassID="103" ClassName="SilverGachaPointExtract_3" ItemClassName="selectbox_ep12musical02_1" PointName="Mileage_SilverGacha" Point="96"/>
+		<Class ClassID="104" ClassName="SilverGachaPointExtract_4" ItemClassName="selectbox_ep12musical03_1" PointName="Mileage_SilverGacha" Point="96"/>
+        <Class ClassID="105" ClassName="SilverGachaPointExtract_5" ItemClassName="selectbox_ep12demonlord01_1" PointName="Mileage_SilverGacha" Point="576"/>
+		<Class ClassID="106" ClassName="SilverGachaPointExtract_6" ItemClassName="selectbox_ep12demonlord01_2" PointName="Mileage_SilverGacha" Point="576"/>
+		<Class ClassID="107" ClassName="SilverGachaPointExtract_7" ItemClassName="selectbox_ep12demonlord02_1" PointName="Mileage_SilverGacha" Point="96"/>
+		<Class ClassID="108" ClassName="SilverGachaPointExtract_8" ItemClassName="selectbox_ep12demonlord03_1" PointName="Mileage_SilverGacha" Point="96"/>
+	</Category>
+</idspace>

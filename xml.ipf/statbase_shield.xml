@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Stat_Shield">
+	<Category>
+		<Class ClassID="0" DefAdj="1.0"/>
+		<Class ClassID="1" DefAdj="0.9"/>
+		<Class ClassID="2" DefAdj="0.8"/>
+		<Class ClassID="3" DefAdj="0.7"/>
+	</Category>
+</idspace>

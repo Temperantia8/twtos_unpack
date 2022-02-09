@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Package_Item_List">
+	<category Name="여신의 큐브">
+		<subcategory Name="Gacha_HairAcc_001">
+            <Class ClassID="1" ClassName="ClassName1" Group="Gacha_HairAcc_001" ItemName="wing_ep12musical_global" EquipType="wing"/>
+            <Class ClassID="2" ClassName="ClassName2" Group="Gacha_HairAcc_001" ItemName="Effect_ep12musical_global" EquipType="effect_costume"/>
+            <Class ClassID="3" ClassName="ClassName3" Group="Gacha_HairAcc_001" ItemName="Allbox_ep12musical_global" EquipType="None"/>
+            <Class ClassID="4" ClassName="ClassName4" Group="Gacha_HairAcc_001" ItemName="ActOne_ep12musical_global" EquipType="None"/>
+            <Class ClassID="5" ClassName="ClassName5" Group="Gacha_HairAcc_001" ItemName="ActTwo_ep12musical_global" EquipType="None"/>
+            <Class ClassID="6" ClassName="ClassName6" Group="Gacha_HairAcc_001" ItemName="selectbox_ep12musical01" EquipType="None"/>
+            <Class ClassID="7" ClassName="ClassName7" Group="Gacha_HairAcc_001" ItemName="EP12_Hat_047" EquipType="hair_costume"/>
+            <Class ClassID="8" ClassName="ClassName8" Group="Gacha_HairAcc_001" ItemName="selectbox_ep12musical01_1_global" EquipType="None"/>
+            <Class ClassID="9" ClassName="ClassName9" Group="Gacha_HairAcc_001" ItemName="selectbox_ep12musical01_2_global" EquipType="None"/>
+            <Class ClassID="10" ClassName="ClassName10" Group="Gacha_HairAcc_001" ItemName="selectbox_ep12musical02_1_global" EquipType="None"/>
+            <Class ClassID="11" ClassName="ClassName11" Group="Gacha_HairAcc_001" ItemName="selectbox_ep12musical03_1_global" EquipType="None"/>
+            <Class ClassID="12" ClassName="ClassName12" Group="Gacha_HairAcc_001" ItemName="selectbox_ep12musical02" EquipType="None"/>
+            <Class ClassID="13" ClassName="ClassName13" Group="Gacha_HairAcc_001" ItemName="EP12_Artefact_094" EquipType="weapon"/>
+            <Class ClassID="14" ClassName="ClassName14" Group="Gacha_HairAcc_001" ItemName="EP12_Artefact_095" EquipType="weapon"/>
+            <Class ClassID="15" ClassName="ClassName15" Group="Gacha_HairAcc_001" ItemName="EP12_Artefact_096" EquipType="weapon"/>
+            <Class ClassID="16" ClassName="ClassName16" Group="Gacha_HairAcc_001" ItemName="Hat_628298" EquipType="hair_costume"/>
+            <Class ClassID="17" ClassName="ClassName17" Group="Gacha_HairAcc_001" ItemName="Hat_628295" EquipType="hair_costume"/>
+            <Class ClassID="18" ClassName="ClassName18" Group="Gacha_HairAcc_001" ItemName="Hat_629009" EquipType="hair_costume"/>
+            <Class ClassID="19" ClassName="ClassName19" Group="Gacha_HairAcc_001" ItemName="Hat_628014" EquipType="hair_costume"/>
+            <Class ClassID="20" ClassName="ClassName20" Group="Gacha_HairAcc_001" ItemName="Hat_629010" EquipType="hair_costume"/>
+            <Class ClassID="21" ClassName="ClassName21" Group="Gacha_HairAcc_001" ItemName="Hat_629012" EquipType="hair_costume"/>
+            <Class ClassID="22" ClassName="ClassName22" Group="Gacha_HairAcc_001" ItemName="Hat_628259" EquipType="hair_costume"/>
+            <Class ClassID="23" ClassName="ClassName23" Group="Gacha_HairAcc_001" ItemName="Hat_629011" EquipType="hair_costume"/>
+            <Class ClassID="24" ClassName="ClassName24" Group="Gacha_HairAcc_001" ItemName="Hat_628200" EquipType="hair_costume"/>
+            <Class ClassID="25" ClassName="ClassName25" Group="Gacha_HairAcc_001" ItemName="Hat_628191" EquipType="hair_costume"/>
+            <Class ClassID="26" ClassName="ClassName26" Group="Gacha_HairAcc_001" ItemName="Hat_628248" EquipType="hair_costume"/>
+            <Class ClassID="27" ClassName="ClassName27" Group="Gacha_HairAcc_001" ItemName="Hat_628231" EquipType="hair_costume"/>
+            <Class ClassID="28" ClassName="ClassName28" Group="Gacha_HairAcc_001" ItemName="Drug_MSPD2_1h_TA" EquipType="None"/>
+            <Class ClassID="29" ClassName="ClassName29" Group="Gacha_HairAcc_001" ItemName="Premium_repairPotion_TA" EquipType="None"/>
+            <Class ClassID="30" ClassName="ClassName30" Group="Gacha_HairAcc_001" ItemName="Drug_RedApple100_TA" EquipType="None"/>
+            <Class ClassID="31" ClassName="ClassName31" Group="Gacha_HairAcc_001" ItemName="Drug_BlueApple100_TA" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="초기화 패키지">
+		<subcategory Name="DLC_BOX11">
+			<Class ClassID="101" ClassName="ClassName101" Group="DLC_BOX11" ItemName="Premium_RankReset" EquipType="None"/>
+			<Class ClassID="102" ClassName="ClassName102" Group="DLC_BOX11" ItemName="Premium_StatReset" EquipType="None"/>
+			<Class ClassID="103" ClassName="ClassName103" Group="DLC_BOX11" ItemName="Event_Goddess_Statue_DLC" EquipType="None"/>
+			<Class ClassID="104" ClassName="ClassName104" Group="DLC_BOX11" ItemName="Event_drug_steam_1h_DLC" EquipType="None"/>
+			<Class ClassID="105" ClassName="ClassName105" Group="DLC_BOX11" ItemName="GIMMICK_Drug_HPSP2_DLC" EquipType="None"/>
+			<Class ClassID="106" ClassName="ClassName106" Group="DLC_BOX11" ItemName="GIMMICK_Drug_PMATK2_DLC" EquipType="None"/>
+			<Class ClassID="107" ClassName="ClassName107" Group="DLC_BOX11" ItemName="Hat_628075" EquipType="hair_costume"/>
+		</subcategory>
+	</category>
+	<category Name="바카리네 패키지">
+		<subcategory Name="DLC_BOX11">
+			<Class ClassID="150" ClassName="ClassName150" Group="Premium_Vakarine" ItemName="Vakarine_Box_01" EquipType="None"/>
+			<Class ClassID="151" ClassName="ClassName151" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="152" ClassName="ClassName152" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="153" ClassName="ClassName153" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="154" ClassName="ClassName154" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="155" ClassName="ClassName155" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="156" ClassName="ClassName156" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="157" ClassName="ClassName157" Group="Premium_Vakarine" ItemName="Vakarine_Box_03" EquipType="None"/>
+			<Class ClassID="158" ClassName="ClassName158" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="159" ClassName="ClassName159" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="160" ClassName="ClassName160" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="161" ClassName="ClassName161" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="162" ClassName="ClassName162" Group="Premium_Vakarine" ItemName="Vakarine_Box_02" EquipType="None"/>
+			<Class ClassID="163" ClassName="ClassName163" Group="Premium_Vakarine" ItemName="Vakarine_Box_04" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="2018 킥오프 큐브">
+		<subcategory Name="KickOff_Cube_2018">
+			<Class ClassID="200" ClassName="ClassName200" Group="KickOff_Cube_2018" ItemName="Soccer_Klape_box" EquipType="None"/>
+			<Class ClassID="201" ClassName="ClassName201" Group="KickOff_Cube_2018" ItemName="Soccer_Orsha_box" EquipType="None"/>
+			<Class ClassID="202" ClassName="ClassName202" Group="KickOff_Cube_2018" ItemName="Soccer_Klape_Supporter_box" EquipType="None"/>
+			<Class ClassID="203" ClassName="ClassName203" Group="KickOff_Cube_2018" ItemName="Soccer_Orsha_Supporter_box" EquipType="None"/>
+			<Class ClassID="204" ClassName="ClassName204" Group="KickOff_Cube_2018" ItemName="Soccer_whistle_box" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="2018 킥오프 더블팩">
+		<subcategory Name="KickOff_Package_2018">
+			<Class ClassID="250" ClassName="ClassName250" Group="KickOff_Package_2018" ItemName="KickOff_Cube_2018" EquipType="None"/>
+			<Class ClassID="251" ClassName="ClassName251" Group="KickOff_Package_2018" ItemName="KickOff_Cube_2018" EquipType="None"/>
+			<Class ClassID="252" ClassName="ClassName252" Group="KickOff_Package_2018" ItemName="ABAND01_132" EquipType="armband"/>
+		</subcategory>
+	</category>
+	<category Name="2018 섬머 마린 큐브">
+		<subcategory Name="Summer_Marine_Box10">
+			<Class ClassID="301" ClassName="ClassName301" Group="Summer_Marine_Box10" ItemName="Marine01_Box" EquipType="None"/>
+			<Class ClassID="302" ClassName="ClassName302" Group="Summer_Marine_Box10" ItemName="Wing_Surfing_Marin" EquipType="wing"/>
+			<Class ClassID="303" ClassName="ClassName303" Group="Summer_Marine_Box10" ItemName="Marine02_Box" EquipType="None"/>
+			<Class ClassID="304" ClassName="ClassName304" Group="Summer_Marine_Box10" ItemName="Marine03_Box" EquipType="None"/>
+			<Class ClassID="305" ClassName="ClassName305" Group="Summer_Marine_Box10" ItemName="Marine01_Sp_Box" EquipType="None"/>
+			<Class ClassID="306" ClassName="ClassName306" Group="Summer_Marine_Box10" ItemName="Marine02_Sp_Box" EquipType="None"/>
+			<Class ClassID="307" ClassName="ClassName307" Group="Summer_Marine_Box10" ItemName="Marine03_Sp_Box" EquipType="None"/>
+			<Class ClassID="308" ClassName="ClassName308" Group="Summer_Marine_Box10" ItemName="Marine_Acc_Hair_Box1" EquipType="None"/>
+			<Class ClassID="309" ClassName="ClassName309" Group="Summer_Marine_Box10" ItemName="Marine_Acc_Hair_Box2" EquipType="None"/>
+			<Class ClassID="310" ClassName="ClassName310" Group="Summer_Marine_Box10" ItemName="Marine_Acc_Hair_Box3" EquipType="None"/>
+			<Class ClassID="311" ClassName="ClassName311" Group="Summer_Marine_Box10" ItemName="Marine_Acc_Hair_Box4" EquipType="None"/>
+			<Class ClassID="312" ClassName="ClassName312" Group="Summer_Marine_Box10" ItemName="Marine_Acc_Hair_Box5" EquipType="None"/>
+			<Class ClassID="313" ClassName="ClassName313" Group="Summer_Marine_Box10" ItemName="Marine_Acc_Hair_Box6" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="2018 섬머 마린 큐브">
+		<subcategory Name="Summer_Marine_Box">
+			<Class ClassID="322" ClassName="ClassName322" Group="Summer_Marine_Box" ItemName="Marine01_Box" EquipType="None"/>
+			<Class ClassID="323" ClassName="ClassName323" Group="Summer_Marine_Box" ItemName="Wing_Surfing_Marin" EquipType="wing"/>
+			<Class ClassID="324" ClassName="ClassName324" Group="Summer_Marine_Box" ItemName="Marine02_Box" EquipType="None"/>
+			<Class ClassID="325" ClassName="ClassName325" Group="Summer_Marine_Box" ItemName="Marine03_Box" EquipType="None"/>
+			<Class ClassID="326" ClassName="ClassName326" Group="Summer_Marine_Box" ItemName="Marine01_Sp_Box" EquipType="None"/>
+			<Class ClassID="327" ClassName="ClassName327" Group="Summer_Marine_Box" ItemName="Marine02_Sp_Box" EquipType="None"/>
+			<Class ClassID="328" ClassName="ClassName328" Group="Summer_Marine_Box" ItemName="Marine03_Sp_Box" EquipType="None"/>
+			<Class ClassID="329" ClassName="ClassName329" Group="Summer_Marine_Box" ItemName="Marine_Acc_Hair_Box1" EquipType="None"/>
+			<Class ClassID="330" ClassName="ClassName330" Group="Summer_Marine_Box" ItemName="Marine_Acc_Hair_Box2" EquipType="None"/>
+			<Class ClassID="331" ClassName="ClassName331" Group="Summer_Marine_Box" ItemName="Marine_Acc_Hair_Box3" EquipType="None"/>
+			<Class ClassID="332" ClassName="ClassName332" Group="Summer_Marine_Box" ItemName="Marine_Acc_Hair_Box4" EquipType="None"/>
+			<Class ClassID="333" ClassName="ClassName333" Group="Summer_Marine_Box" ItemName="Marine_Acc_Hair_Box5" EquipType="None"/>
+			<Class ClassID="334" ClassName="ClassName334" Group="Summer_Marine_Box" ItemName="Marine_Acc_Hair_Box6" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="버틀러와 메이드 코스튬 선택 상자">
+		<subcategory Name="Ghaca_PC_Event_Csoume01">
+			<Class ClassID="400" ClassName="ClassName400" Group="Ghaca_PC_Event_Csoume01" ItemName="costume_Com_126" EquipType="costume"/>
+			<Class ClassID="401" ClassName="ClassName401" Group="Ghaca_PC_Event_Csoume01" ItemName="costume_Com_127" EquipType="costume"/>
+		</subcategory>
+	</category>
+	<category Name="PC방 붉은 뱀파이어 코스튬">
+		<subcategory Name="Ghaca_PC_Event_Csoume02">
+			<Class ClassID="403" ClassName="ClassName403" Group="Ghaca_PC_Event_Csoume02" ItemName="costume_Com_149" EquipType="costume"/>
+			<Class ClassID="404" ClassName="ClassName404" Group="Ghaca_PC_Event_Csoume02" ItemName="costume_Com_150" EquipType="costume"/>
+		</subcategory>
+	</category>
+	<category Name="PC방 붉은 겨울밤 코스튬">
+		<subcategory Name="Ghaca_PC_Event_Csoume03">
+			<Class ClassID="406" ClassName="ClassName406" Group="Ghaca_PC_Event_Csoume03" ItemName="costume_Com_177" EquipType="costume"/>
+			<Class ClassID="407" ClassName="ClassName407" Group="Ghaca_PC_Event_Csoume03" ItemName="costume_Com_178" EquipType="costume"/>
+		</subcategory>
+	</category>
+	<category Name="[PC방] 알파 센타우리 우주 비행사 코스튬">
+		<subcategory Name="Gacha_PC_Event_Costume01">
+			<Class ClassID="405" ClassName="ClassName408" Group="Gacha_PC_Event_Costume01" ItemName="helmet_astronaut02" EquipType="helmet"/>
+			<Class ClassID="408" ClassName="ClassName409" Group="Gacha_PC_Event_Costume01" ItemName="1904_astronaut02_selelctbox" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="마신의 큐브">
+		<subcategory Name="3years_Guilty_Box">
+			<Class ClassID="1001" ClassName="ClassName1001" Group="3years_Guilty_Box" ItemName="3years_Guilty_Box_Uniform" EquipType="None"/>
+			<Class ClassID="1002" ClassName="ClassName1002" Group="3years_Guilty_Box" ItemName="3years_Guilty_Box_Helmet" EquipType="None"/>
+			<Class ClassID="1003" ClassName="ClassName1003" Group="3years_Guilty_Box" ItemName="Effect_Stamp_Thorn" EquipType="effect_costume"/>
+			<Class ClassID="1004" ClassName="ClassName1004" Group="3years_Guilty_Box" ItemName="Doll_fairy_guilty" EquipType="doll"/>
+			<Class ClassID="1005" ClassName="ClassName1005" Group="3years_Guilty_Box" ItemName="wing_Guilty_Little" EquipType="wing"/>
+			<Class ClassID="1006" ClassName="ClassName1006" Group="3years_Guilty_Box" ItemName="wing_Incense_Burner" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="3월 특판 큐브">
+		<subcategory Name="STEAM_Gacha_TP_Box_1">
+			<Class ClassID="500" ClassName="ClassName500" Group="STEAM_Gacha_TP_Box_1" ItemName="MusicBox_Popolion" EquipType="None"/>
+			<Class ClassID="501" ClassName="ClassName501" Group="STEAM_Gacha_TP_Box_1" ItemName="Wing_Falcon" EquipType="wing"/>
+			<Class ClassID="502" ClassName="ClassName502" Group="STEAM_Gacha_TP_Box_1" ItemName="Wing_Heart" EquipType="wing"/>
+			<Class ClassID="503" ClassName="ClassName503" Group="STEAM_Gacha_TP_Box_1" ItemName="Wing_Balloon" EquipType="wing"/>
+			<Class ClassID="504" ClassName="ClassName504" Group="STEAM_Gacha_TP_Box_1" ItemName="Wing_Angel" EquipType="wing"/>
+			<Class ClassID="505" ClassName="ClassName505" Group="STEAM_Gacha_TP_Box_1" ItemName="Ability_Point_Box1" EquipType="None"/>
+			<Class ClassID="506" ClassName="ClassName506" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_7" EquipType="costume"/>
+			<Class ClassID="507" ClassName="ClassName507" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_8" EquipType="costume"/>
+			<Class ClassID="508" ClassName="ClassName508" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_11" EquipType="costume"/>
+			<Class ClassID="509" ClassName="ClassName509" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_12" EquipType="costume"/>
+			<Class ClassID="510" ClassName="ClassName510" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_23" EquipType="costume"/>
+			<Class ClassID="511" ClassName="ClassName511" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_26" EquipType="costume"/>
+			<Class ClassID="512" ClassName="ClassName512" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_19" EquipType="costume"/>
+			<Class ClassID="513" ClassName="ClassName513" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_20" EquipType="costume"/>
+			<Class ClassID="514" ClassName="ClassName514" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_43" EquipType="costume"/>
+			<Class ClassID="515" ClassName="ClassName515" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_42" EquipType="costume"/>
+			<Class ClassID="516" ClassName="ClassName516" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_44" EquipType="costume"/>
+			<Class ClassID="517" ClassName="ClassName517" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_45" EquipType="costume"/>
+			<Class ClassID="518" ClassName="ClassName518" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_70" EquipType="costume"/>
+			<Class ClassID="519" ClassName="ClassName519" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_71" EquipType="costume"/>
+			<Class ClassID="520" ClassName="ClassName520" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_72" EquipType="costume"/>
+			<Class ClassID="521" ClassName="ClassName521" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_58" EquipType="costume"/>
+			<Class ClassID="522" ClassName="ClassName522" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_59" EquipType="costume"/>
+			<Class ClassID="523" ClassName="ClassName523" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_63" EquipType="costume"/>
+			<Class ClassID="524" ClassName="ClassName524" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_62" EquipType="costume"/>
+			<Class ClassID="525" ClassName="ClassName525" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_73" EquipType="costume"/>
+			<Class ClassID="526" ClassName="ClassName526" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_74" EquipType="costume"/>
+			<Class ClassID="527" ClassName="ClassName527" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_76" EquipType="costume"/>
+			<Class ClassID="528" ClassName="ClassName528" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_75" EquipType="costume"/>
+			<Class ClassID="529" ClassName="ClassName529" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_78" EquipType="costume"/>
+			<Class ClassID="530" ClassName="ClassName530" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_79" EquipType="costume"/>
+			<Class ClassID="531" ClassName="ClassName531" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_81" EquipType="costume"/>
+			<Class ClassID="532" ClassName="ClassName532" Group="STEAM_Gacha_TP_Box_1" ItemName="costume_Com_82" EquipType="costume"/>
+			<Class ClassID="533" ClassName="ClassName533" Group="STEAM_Gacha_TP_Box_1" ItemName="misc_gemExpStone_randomQuest4_TA" EquipType="None"/>
+			<Class ClassID="534" ClassName="ClassName534" Group="STEAM_Gacha_TP_Box_1" ItemName="Ability_Point_Box3" EquipType="None"/>
+			<Class ClassID="535" ClassName="ClassName535" Group="STEAM_Gacha_TP_Box_1" ItemName="Premium_indunReset_1add" EquipType="None"/>
+			<Class ClassID="536" ClassName="ClassName536" Group="STEAM_Gacha_TP_Box_1" ItemName="misc_BlessedStone" EquipType="None"/>
+			<Class ClassID="537" ClassName="ClassName537" Group="STEAM_Gacha_TP_Box_1" ItemName="Drug_RedApple20" EquipType="None"/>
+			<Class ClassID="538" ClassName="ClassName538" Group="STEAM_Gacha_TP_Box_1" ItemName="Ability_Point_Stone" EquipType="None"/>
+			<Class ClassID="539" ClassName="ClassName539" Group="STEAM_Gacha_TP_Box_1" ItemName="Drug_BlueApple20" EquipType="None"/>
+		</subcategory>
+	</category>
+	<category Name="2020 대만 신년 큐브">
+		<subcategory Name="Gacha_2020_Newyear_11_TWN">
+			<Class ClassID="601" ClassName="601" Group="Gacha_2020_Newyear_11_TWN" ItemName="selectbox_costume_twn_newyear" EquipType="None"/>
+			<Class ClassID="602" ClassName="602" Group="Gacha_2020_Newyear_11_TWN" ItemName="wing_redlight_balloon" EquipType="wing"/>
+			<Class ClassID="603" ClassName="603" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629047" EquipType="hair_costume"/>
+			<Class ClassID="604" ClassName="604" Group="Gacha_2020_Newyear_11_TWN" ItemName="ABAND01_146" EquipType="armband"/>
+			<Class ClassID="605" ClassName="605" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_96" EquipType="costume"/>
+			<Class ClassID="606" ClassName="606" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_97" EquipType="costume"/>
+			<Class ClassID="607" ClassName="607" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_98" EquipType="costume"/>
+			<Class ClassID="608" ClassName="608" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_99" EquipType="costume"/>
+			<Class ClassID="609" ClassName="609" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_100" EquipType="costume"/>
+			<Class ClassID="610" ClassName="610" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_101" EquipType="costume"/>
+			<Class ClassID="611" ClassName="611" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_133" EquipType="costume"/>
+			<Class ClassID="612" ClassName="612" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_132" EquipType="costume"/>
+			<Class ClassID="613" ClassName="613" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_131" EquipType="costume"/>
+			<Class ClassID="614" ClassName="614" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_130" EquipType="costume"/>
+			<Class ClassID="615" ClassName="615" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_129" EquipType="costume"/>
+			<Class ClassID="616" ClassName="616" Group="Gacha_2020_Newyear_11_TWN" ItemName="costume_Com_128" EquipType="costume"/>
+			<Class ClassID="617" ClassName="617" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634050" EquipType="weapon"/>
+			<Class ClassID="618" ClassName="618" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634051" EquipType="weapon"/>
+			<Class ClassID="619" ClassName="619" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634054" EquipType="weapon"/>
+			<Class ClassID="620" ClassName="620" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634059" EquipType="weapon"/>
+			<Class ClassID="621" ClassName="621" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634057" EquipType="weapon"/>
+			<Class ClassID="622" ClassName="622" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634053" EquipType="weapon"/>
+			<Class ClassID="623" ClassName="623" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634049" EquipType="weapon"/>
+			<Class ClassID="624" ClassName="624" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634052" EquipType="weapon"/>
+			<Class ClassID="625" ClassName="625" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634058" EquipType="weapon"/>
+			<Class ClassID="626" ClassName="626" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634060" EquipType="weapon"/>
+			<Class ClassID="627" ClassName="627" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634055" EquipType="weapon"/>
+			<Class ClassID="628" ClassName="628" Group="Gacha_2020_Newyear_11_TWN" ItemName="Artefact_634056" EquipType="weapon"/>
+			<Class ClassID="629" ClassName="629" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629021" EquipType="hair_costume"/>
+			<Class ClassID="630" ClassName="630" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629020" EquipType="hair_costume"/>
+			<Class ClassID="631" ClassName="631" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629019" EquipType="hair_costume"/>
+			<Class ClassID="632" ClassName="632" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629018" EquipType="hair_costume"/>
+			<Class ClassID="633" ClassName="633" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629017" EquipType="hair_costume"/>
+			<Class ClassID="634" ClassName="634" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629016" EquipType="hair_costume"/>
+			<Class ClassID="635" ClassName="635" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628150" EquipType="hair_costume"/>
+			<Class ClassID="636" ClassName="636" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628024" EquipType="hair_costume"/>
+			<Class ClassID="637" ClassName="637" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628326" EquipType="hair_costume"/>
+			<Class ClassID="638" ClassName="638" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628327" EquipType="hair_costume"/>
+			<Class ClassID="639" ClassName="639" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628329" EquipType="hair_costume"/>
+			<Class ClassID="640" ClassName="640" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628330" EquipType="hair_costume"/>
+			<Class ClassID="641" ClassName="641" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628331" EquipType="hair_costume"/>
+			<Class ClassID="642" ClassName="642" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628332" EquipType="hair_costume"/>
+			<Class ClassID="643" ClassName="643" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628328" EquipType="hair_costume"/>
+			<Class ClassID="644" ClassName="644" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628334" EquipType="hair_costume"/>
+			<Class ClassID="645" ClassName="645" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628333" EquipType="hair_costume"/>
+			<Class ClassID="646" ClassName="646" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628148" EquipType="hair_costume"/>
+			<Class ClassID="647" ClassName="647" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628149" EquipType="hair_costume"/>
+			<Class ClassID="648" ClassName="648" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628352" EquipType="hair_costume"/>
+			<Class ClassID="649" ClassName="649" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_628353" EquipType="hair_costume"/>
+			<Class ClassID="650" ClassName="650" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629023" EquipType="hair_costume"/>
+			<Class ClassID="651" ClassName="651" Group="Gacha_2020_Newyear_11_TWN" ItemName="Hat_629026" EquipType="hair_costume"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 올인원 패키지 (남)">
+		<subcategory Name="DESIGNCUT_PACKAGE_M_All">
+			<Class ClassID="5000" ClassName="ClassName5000" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_132" EquipType="wing"/>
+			<Class ClassID="5001" ClassName="ClassName5001" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_133" EquipType="wing"/>
+			<Class ClassID="5002" ClassName="ClassName5002" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_134" EquipType="wing"/>
+			<Class ClassID="5003" ClassName="ClassName5003" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_125" EquipType="wing"/>
+			<Class ClassID="5004" ClassName="ClassName5004" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_137" EquipType="wing"/>
+			<Class ClassID="5005" ClassName="ClassName5005" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_138" EquipType="wing"/>
+			<Class ClassID="5006" ClassName="ClassName5006" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_139" EquipType="wing"/>
+			<Class ClassID="5007" ClassName="ClassName5007" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_140" EquipType="wing"/>
+			<Class ClassID="5008" ClassName="ClassName5008" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_141" EquipType="wing"/>
+			<Class ClassID="5009" ClassName="ClassName5009" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_142" EquipType="wing"/>
+			<Class ClassID="5010" ClassName="ClassName5010" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_143" EquipType="wing"/>
+			<Class ClassID="5011" ClassName="ClassName5011" Group="DESIGNCUT_PACKAGE_M_All" ItemName="DesignCut_HAIR_M_144" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 올인원 패키지 (여)">
+		<subcategory Name="DESIGNCUT_PACKAGE_F_All">
+			<Class ClassID="5012" ClassName="ClassName5012" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_126" EquipType="wing"/>
+			<Class ClassID="5013" ClassName="ClassName5013" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_133" EquipType="wing"/>
+			<Class ClassID="5014" ClassName="ClassName5014" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_134" EquipType="wing"/>
+			<Class ClassID="5015" ClassName="ClassName5015" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_135" EquipType="wing"/>
+			<Class ClassID="5016" ClassName="ClassName5016" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_138" EquipType="wing"/>
+			<Class ClassID="5017" ClassName="ClassName5017" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_139" EquipType="wing"/>
+			<Class ClassID="5018" ClassName="ClassName5018" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_140" EquipType="wing"/>
+			<Class ClassID="5019" ClassName="ClassName5019" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_141" EquipType="wing"/>
+			<Class ClassID="5020" ClassName="ClassName5020" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_142" EquipType="wing"/>
+			<Class ClassID="5021" ClassName="ClassName5021" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_143" EquipType="wing"/>
+			<Class ClassID="5022" ClassName="ClassName5022" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_147" EquipType="wing"/>
+			<Class ClassID="5023" ClassName="ClassName5023" Group="DESIGNCUT_PACKAGE_F_All" ItemName="DesignCut_HAIR_F_148" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 A 패키지 (남)">
+		<subcategory Name="DESIGNCUT_PACKAGE_M_A">
+			<Class ClassID="5024" ClassName="ClassName5024" Group="DESIGNCUT_PACKAGE_M_A" ItemName="DesignCut_HAIR_M_134" EquipType="wing"/>
+			<Class ClassID="5025" ClassName="ClassName5025" Group="DESIGNCUT_PACKAGE_M_A" ItemName="DesignCut_HAIR_M_139" EquipType="wing"/>
+			<Class ClassID="5026" ClassName="ClassName5026" Group="DESIGNCUT_PACKAGE_M_A" ItemName="DesignCut_HAIR_M_144" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 A 패키지 (여)">
+		<subcategory Name="DESIGNCUT_PACKAGE_F_A">
+			<Class ClassID="5027" ClassName="ClassName5027" Group="DESIGNCUT_PACKAGE_F_A" ItemName="DesignCut_HAIR_F_133" EquipType="wing"/>
+			<Class ClassID="5028" ClassName="ClassName5028" Group="DESIGNCUT_PACKAGE_F_A" ItemName="DesignCut_HAIR_F_140" EquipType="wing"/>
+			<Class ClassID="5029" ClassName="ClassName5029" Group="DESIGNCUT_PACKAGE_F_A" ItemName="DesignCut_HAIR_F_148" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 B 패키지 (남)">
+		<subcategory Name="DESIGNCUT_PACKAGE_M_B">
+			<Class ClassID="5030" ClassName="ClassName5030" Group="DESIGNCUT_PACKAGE_M_B" ItemName="DesignCut_HAIR_M_132" EquipType="wing"/>
+			<Class ClassID="5031" ClassName="ClassName5031" Group="DESIGNCUT_PACKAGE_M_B" ItemName="DesignCut_HAIR_M_140" EquipType="wing"/>
+			<Class ClassID="5032" ClassName="ClassName5032" Group="DESIGNCUT_PACKAGE_M_B" ItemName="DesignCut_HAIR_M_142" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 B 패키지 (여)">
+		<subcategory Name="DESIGNCUT_PACKAGE_F_B">
+			<Class ClassID="5033" ClassName="ClassName5033" Group="DESIGNCUT_PACKAGE_F_B" ItemName="DesignCut_HAIR_F_134" EquipType="wing"/>
+			<Class ClassID="5034" ClassName="ClassName5034" Group="DESIGNCUT_PACKAGE_F_B" ItemName="DesignCut_HAIR_F_141" EquipType="wing"/>
+			<Class ClassID="5035" ClassName="ClassName5035" Group="DESIGNCUT_PACKAGE_F_B" ItemName="DesignCut_HAIR_F_143" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 C 패키지 (남)">
+		<subcategory Name="DESIGNCUT_PACKAGE_M_C">
+			<Class ClassID="5036" ClassName="ClassName5036" Group="DESIGNCUT_PACKAGE_M_C" ItemName="DesignCut_HAIR_M_133" EquipType="wing"/>
+			<Class ClassID="5037" ClassName="ClassName5037" Group="DESIGNCUT_PACKAGE_M_C" ItemName="DesignCut_HAIR_M_137" EquipType="wing"/>
+			<Class ClassID="5038" ClassName="ClassName5038" Group="DESIGNCUT_PACKAGE_M_C" ItemName="DesignCut_HAIR_M_141" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 C 패키지 (여)">
+		<subcategory Name="DESIGNCUT_PACKAGE_F_C">
+			<Class ClassID="5039" ClassName="ClassName5039" Group="DESIGNCUT_PACKAGE_F_C" ItemName="DesignCut_HAIR_F_135" EquipType="wing"/>
+			<Class ClassID="5040" ClassName="ClassName5040" Group="DESIGNCUT_PACKAGE_F_C" ItemName="DesignCut_HAIR_F_138" EquipType="wing"/>
+			<Class ClassID="5041" ClassName="ClassName5041" Group="DESIGNCUT_PACKAGE_F_C" ItemName="DesignCut_HAIR_F_142" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 D 패키지 (남)">
+		<subcategory Name="DESIGNCUT_PACKAGE_M_D">
+			<Class ClassID="5042" ClassName="ClassName5042" Group="DESIGNCUT_PACKAGE_M_D" ItemName="DesignCut_HAIR_M_125" EquipType="wing"/>
+			<Class ClassID="5043" ClassName="ClassName5043" Group="DESIGNCUT_PACKAGE_M_D" ItemName="DesignCut_HAIR_M_138" EquipType="wing"/>
+			<Class ClassID="5044" ClassName="ClassName5044" Group="DESIGNCUT_PACKAGE_M_D" ItemName="DesignCut_HAIR_M_143" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="디자인 컷 D 패키지 (여)">
+		<subcategory Name="DESIGNCUT_PACKAGE_F_D">
+			<Class ClassID="5045" ClassName="ClassName5045" Group="DESIGNCUT_PACKAGE_F_D" ItemName="DesignCut_HAIR_F_126" EquipType="wing"/>
+			<Class ClassID="5046" ClassName="ClassName5046" Group="DESIGNCUT_PACKAGE_F_D" ItemName="DesignCut_HAIR_F_139" EquipType="wing"/>
+			<Class ClassID="5047" ClassName="ClassName5047" Group="DESIGNCUT_PACKAGE_F_D" ItemName="DesignCut_HAIR_F_147" EquipType="wing"/>
+		</subcategory>
+	</category>
+	<category Name="2020 대만 복각 큐브 : 동물 코스튬">
+		<subcategory Name="Gacha_HairAcc_Animal_TWN">
+			<Class ClassID="6001" ClassName="ClassName6001" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_dionys" EquipType="None"/>
+			<Class ClassID="6002" ClassName="ClassName6002" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_sparrow" EquipType="None"/>
+			<Class ClassID="6003" ClassName="ClassName6003" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_gold_pig" EquipType="None"/>
+			<Class ClassID="6004" ClassName="ClassName6004" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_chick_crowtit" EquipType="None"/>
+			<Class ClassID="6005" ClassName="ClassName6005" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_025" EquipType="None"/>
+			<Class ClassID="6006" ClassName="ClassName6006" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_023" EquipType="None"/>
+			<Class ClassID="6007" ClassName="ClassName6007" Group="Gacha_HairAcc_Animal_TWN" ItemName="egg_school_dodo" EquipType="None"/>
+			<Class ClassID="6008" ClassName="ClassName6008" Group="Gacha_HairAcc_Animal_TWN" ItemName="Effect_Stamp_Rabbit" EquipType="effect_costume"/>
+			<Class ClassID="6009" ClassName="ClassName6009" Group="Gacha_HairAcc_Animal_TWN" ItemName="photowall_golddog" EquipType="None"/>
+			<Class ClassID="6010" ClassName="ClassName6010" Group="Gacha_HairAcc_Animal_TWN" ItemName="PopUpBook_Penguin01" EquipType="None"/>
+			<Class ClassID="6011" ClassName="ClassName6011" Group="Gacha_HairAcc_Animal_TWN" ItemName="PopUpBook_Poodle01" EquipType="None"/>
+			<Class ClassID="6012" ClassName="ClassName6012" Group="Gacha_HairAcc_Animal_TWN" ItemName="PopUpBook_Poporion01" EquipType="None"/>
+			<Class ClassID="6013" ClassName="ClassName6013" Group="Gacha_HairAcc_Animal_TWN" ItemName="Wing_Kite_Rabbit" EquipType="wing"/>
+			<Class ClassID="6014" ClassName="ClassName6014" Group="Gacha_HairAcc_Animal_TWN" ItemName="Wing_Balloon_Rabbit" EquipType="wing"/>
+			<Class ClassID="6015" ClassName="ClassName6015" Group="Gacha_HairAcc_Animal_TWN" ItemName="ABAND01_144" EquipType="armband"/>
+			<Class ClassID="6016" ClassName="ClassName6016" Group="Gacha_HairAcc_Animal_TWN" ItemName="accessory_blackbear_ear" EquipType="hair_costume"/>
+			<Class ClassID="6017" ClassName="ClassName6017" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_629038" EquipType="hair_costume"/>
+			<Class ClassID="6018" ClassName="ClassName6018" Group="Gacha_HairAcc_Animal_TWN" ItemName="2019_goldPig_box" EquipType="None"/>
+			<Class ClassID="6019" ClassName="ClassName6019" Group="Gacha_HairAcc_Animal_TWN" ItemName="selectbox_blackbear" EquipType="None"/>
+			<Class ClassID="6020" ClassName="ClassName6020" Group="Gacha_HairAcc_Animal_TWN" ItemName="Tiecat_Costume_Box_M" EquipType="None"/>
+			<Class ClassID="6021" ClassName="ClassName6021" Group="Gacha_HairAcc_Animal_TWN" ItemName="Tiecat_Costume_Box_F" EquipType="None"/>
+			<Class ClassID="6022" ClassName="ClassName6022" Group="Gacha_HairAcc_Animal_TWN" ItemName="Poodle_Costume_Box_M" EquipType="None"/>
+			<Class ClassID="6023" ClassName="ClassName6023" Group="Gacha_HairAcc_Animal_TWN" ItemName="Poodle_Costume_Box_F" EquipType="None"/>
+			<Class ClassID="6024" ClassName="ClassName6024" Group="Gacha_HairAcc_Animal_TWN" ItemName="Poporion_Costume_Box_M" EquipType="None"/>
+			<Class ClassID="6025" ClassName="ClassName6025" Group="Gacha_HairAcc_Animal_TWN" ItemName="Poporion_Costume_Box_F" EquipType="None"/>
+			<Class ClassID="6026" ClassName="ClassName6026" Group="Gacha_HairAcc_Animal_TWN" ItemName="MoonRabbit_Box" EquipType="None"/>
+			<Class ClassID="6027" ClassName="ClassName6027" Group="Gacha_HairAcc_Animal_TWN" ItemName="2018_Christmas_Costume_Box2" EquipType="None"/>
+			<Class ClassID="6028" ClassName="ClassName6028" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634116" EquipType="weapon"/>
+			<Class ClassID="6029" ClassName="ClassName6029" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634115" EquipType="weapon"/>
+			<Class ClassID="6030" ClassName="ClassName6030" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634111" EquipType="weapon"/>
+			<Class ClassID="6031" ClassName="ClassName6031" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634112" EquipType="weapon"/>
+			<Class ClassID="6032" ClassName="ClassName6032" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634108" EquipType="weapon"/>
+			<Class ClassID="6033" ClassName="ClassName6033" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634109" EquipType="weapon"/>
+			<Class ClassID="6034" ClassName="ClassName6034" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634114" EquipType="weapon"/>
+			<Class ClassID="6035" ClassName="ClassName6035" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634113" EquipType="weapon"/>
+			<Class ClassID="6036" ClassName="ClassName6036" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634120" EquipType="weapon"/>
+			<Class ClassID="6037" ClassName="ClassName6037" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634119" EquipType="weapon"/>
+			<Class ClassID="6038" ClassName="ClassName6038" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634117" EquipType="weapon"/>
+			<Class ClassID="6039" ClassName="ClassName6039" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634118" EquipType="weapon"/>
+			<Class ClassID="6040" ClassName="ClassName6040" Group="Gacha_HairAcc_Animal_TWN" ItemName="Artefact_634110" EquipType="weapon"/>
+			<Class ClassID="6041" ClassName="ClassName6041" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628312" EquipType="hair_costume"/>
+			<Class ClassID="6042" ClassName="ClassName6042" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628311" EquipType="hair_costume"/>
+			<Class ClassID="6043" ClassName="ClassName6043" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628299" EquipType="hair_costume"/>
+			<Class ClassID="6044" ClassName="ClassName6044" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628321" EquipType="hair_costume"/>
+			<Class ClassID="6045" ClassName="ClassName6045" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_629009" EquipType="hair_costume"/>
+			<Class ClassID="6046" ClassName="ClassName6046" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628089" EquipType="hair_costume"/>
+			<Class ClassID="6047" ClassName="ClassName6047" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628182" EquipType="hair_costume"/>
+			<Class ClassID="6048" ClassName="ClassName6048" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628180" EquipType="hair_costume"/>
+			<Class ClassID="6049" ClassName="ClassName6049" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628014" EquipType="hair_costume"/>
+			<Class ClassID="6050" ClassName="ClassName6050" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628079" EquipType="hair_costume"/>
+			<Class ClassID="6051" ClassName="ClassName6051" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628248" EquipType="hair_costume"/>
+			<Class ClassID="6052" ClassName="ClassName6052" Group="Gacha_HairAcc_Animal_TWN" ItemName="Hat_628237" EquipType="hair_costume"/>
+			<Class ClassID="6053" ClassName="ClassName6053" Group="Gacha_HairAcc_Animal_TWN" ItemName="Drug_MSPD2_1h_TA" EquipType="None"/>
+			<Class ClassID="6054" ClassName="ClassName6054" Group="Gacha_HairAcc_Animal_TWN" ItemName="Premium_repairPotion_TA" EquipType="None"/>
+			<Class ClassID="6055" ClassName="ClassName6055" Group="Gacha_HairAcc_Animal_TWN" ItemName="Drug_RedApple100_TA" EquipType="None"/>
+			<Class ClassID="6056" ClassName="ClassName6056" Group="Gacha_HairAcc_Animal_TWN" ItemName="Drug_BlueApple100_TA" EquipType="None"/>
+		</subcategory>
+	</category>
+</idspace>

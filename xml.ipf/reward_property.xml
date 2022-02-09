@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="reward_property">
+	<Category Name="QusetReward">
+		<Class ClassID="1" ClassName="FIRETOWER_44_HQ_01" Property="STR" Value="1"/>
+		<Class ClassID="2" ClassName="SIAUL_WEST_HQ_01" Property="MSTA" Value="5"/>
+		<Class ClassID="3" ClassName="CHAPLE_57_6_HQ_01" Property="MSTA" Value="5"/>
+		<Class ClassID="4" ClassName="ROKAS_26_HQ_01" Property="MSTA" Value="5"/>
+		<Class ClassID="5" ClassName="FIRETOWER_45_HQ_02" Property="MSTA" Value="5"/>
+		<Class ClassID="6" ClassName="KLAIPE_HQ_02" Property="DEX" Value="1"/>
+		<Class ClassID="7" ClassName="HUEVILLAGE_58_3_HQ_01" Property="CON" Value="1"/>
+		<Class ClassID="8" ClassName="ROKAS_30_HQ_01" Property="INT" Value="1"/>
+		<Class ClassID="9" ClassName="THORN_23_HQ_01" Property="MNA" Value="1"/>
+		<Class ClassID="10" ClassName="ZACHARIEL_35_HQ_01" Property="MHP" Value="50"/>
+		<Class ClassID="11" ClassName="KATYN_10_HQ_01" Property="MHP" Value="50"/>
+		<Class ClassID="12" ClassName="GELE_57_3_HQ_01" Property="MSP" Value="20"/>
+		<Class ClassID="13" ClassName="KATYN_7_2_HQ_01" Property="MSP" Value="20"/>
+		<Class ClassID="14" ClassName="SIAULIAI_16_HQ_01" Property="MSP" Value="20"/>
+		<Class ClassID="15" ClassName="FEDIMIAN_HQ_01" Property="MSP" Value="20"/>
+		<Class ClassID="16" ClassName="ROKAS_25_HQ_01" Property="MaxWeight" Value="100"/>
+		<Class ClassID="17" ClassName="HIGHLANDER_HQ_02" Property="MaxWeight" Value="100"/>
+		<Class ClassID="18" ClassName="REMAINS_40_HQ_01" Property="MaxWeight" Value="100"/>
+		<Class ClassID="19" ClassName="FEDIMIAN_HQ_02" Property="MaxWeight" Value="100"/>
+		<Class ClassID="20" ClassName="KATYN_14_HQ_01" Property="MaxWeight" Value="100"/>
+		<Class ClassID="21" ClassName="FTOWER43_MQ_05" Property="MaxWeight" Value="50"/>
+		<Class ClassID="22" ClassName="REMAIN38_MQ05" Property="MaxWeight" Value="50"/>
+		<Class ClassID="23" ClassName="BRACKEN42_1_SQ10" Property="STR" Value="1"/>
+		<Class ClassID="24" ClassName="CORAL_32_2_SQ_9" Property="STR" Value="1"/>
+		<Class ClassID="25" ClassName="LIMESTONE_52_5_MQ_10" Property="DEX" Value="1"/>
+		<Class ClassID="26" ClassName="BRACKEN43_3_SQ11" Property="DEX" Value="1"/>
+		<Class ClassID="27" ClassName="REMAINS37_3_SQ_100" Property="CON" Value="1"/>
+		<Class ClassID="28" ClassName="SIAULIAI_46_1_MQ_05" Property="INT" Value="1"/>
+		<Class ClassID="29" ClassName="WTREES_21_1_SQ_11" Property="INT" Value="1"/>
+		<Class ClassID="30" ClassName="VPRISON515_MQ_07" Property="MNA" Value="1"/>
+		<Class ClassID="31" ClassName="FIRETOWER691_MQ_5" Property="MNA" Value="1"/>
+		<Class ClassID="32" ClassName="CATACOMB_04_SQ_09" Property="MaxWeight" Value="100"/>
+		<Class ClassID="33" ClassName="ABBEY_35_4_SQ_8" Property="AchievePoint" Value="1"/>
+		<Class ClassID="34" ClassName="PRISON_82_SQ_2" Property="AchievePoint" Value="1"/>
+		<Class ClassID="35" ClassName="LIMESTONE_52_5_SQ_1" Property="AchievePoint" Value="1"/>
+		<Class ClassID="36" ClassName="F_NICOPOLIS_81_1_SQ_04" Property="STR" Value="1"/>
+		<Class ClassID="37" ClassName="F_NICOPOLIS_81_2_SQ_12" Property="CON" Value="1"/>
+		<Class ClassID="38" ClassName="F_NICOPOLIS_81_3_SQ_06" Property="INT" Value="1"/>
+	</Category>
+	<Category Name="Journey_Shop_QusetReward">
+		<Class ClassID="1001" ClassName="JS_Quest_Reward_CMINE6_TO_KATYN7_2" RewardItem1="Moru_Silver" RewardCount1="1" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1002" ClassName="JS_Quest_Reward_CHAPLE577_MQ_10" RewardItem1="Premium_dungeoncount_Event" RewardCount1="2" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1003" ClassName="JS_Quest_Reward_ABBAY_64_3_MQ050" RewardItem1="QuestReward_repairPotion" RewardCount1="2" RewardItem2="Scroll_Warp_quest" RewardCount2="2" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1004" ClassName="JS_Quest_Reward_CASTLE65_3_MQ09" RewardItem1="QuestReward_repairPotion" RewardCount1="2" RewardItem2="Scroll_Warp_quest" RewardCount2="2" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1005" ClassName="JS_Quest_Reward_ZACHA5F_MQ_05" RewardItem1="Moru_Silver" RewardCount1="1" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1006" ClassName="JS_Quest_Reward_FTOWER45_MQ_06" RewardItem1="Premium_SkillReset_14d" RewardCount1="1" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1007" ClassName="JS_Quest_Reward_VPRISON515_MQ_07" RewardItem1="Premium_dungeoncount_Event" RewardCount1="2" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1008" ClassName="JS_Quest_Reward_REMAINS37_1_SQ_080" RewardItem1="QuestReward_repairPotion" RewardCount1="4" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1009" ClassName="JS_Quest_Reward_FLASH_29_1_SQ_070" RewardItem1="Scroll_Warp_quest" RewardCount1="4" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1010" ClassName="JS_Quest_Reward_UNDERFORTRESS_69_MQ060" RewardItem1="Premium_StatReset14" RewardCount1="1" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1011" ClassName="JS_Quest_Reward_KATYN_45_3_SQ_14" RewardItem1="Moru_Silver" RewardCount1="1" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1012" ClassName="JS_Quest_Reward_PRISON_82_MQ_11" RewardItem1="Premium_dungeoncount_Event" RewardCount1="2" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1013" ClassName="JS_Quest_Reward_CASTLE_20_1_SQ_10" RewardItem1="Moru_Silver" RewardCount1="1" RewardItem2="None" RewardCount2="0" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+		<Class ClassID="1014" ClassName="JS_Quest_Reward_F_DCAPITAL_20_6_SQ_110" RewardItem1="QuestReward_repairPotion" RewardCount1="3" RewardItem2="Scroll_Warp_quest" RewardCount2="3" RewardItem3="None" RewardCount3="0" RewardItem4="None" RewardCount4="0" RewardItem5="None" RewardCount5="0"/>
+	</Category>
+</idspace>

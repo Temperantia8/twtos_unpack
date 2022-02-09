@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="worldmap2_data">
+	<Category Name="city">
+		<Class ClassID="1" ClassName="city_klapeda" Name="Episode1" CityName="클라페다" Type="city" Coordinate_X="-810" Coordinate_Y="-90" ImageName="worldmap2_btn_epi_01" SubmapImageName="worldmap2_submap_01" SubmapIconName="worldmap2_icon_Sepi_01" Ordinal="1"/>
+		<Class ClassID="2" ClassName="city_fedimian" Name="Episode5" CityName="페디미안" Type="city" Coordinate_X="-70" Coordinate_Y="30" ImageName="worldmap2_btn_epi_05" SubmapImageName="worldmap2_submap_05" SubmapIconName="worldmap2_icon_Sepi_05" Ordinal="5"/>
+		<Class ClassID="3" ClassName="city_orsha" Name="Episode Orsha" CityName="오르샤" Type="city" Coordinate_X="-350" Coordinate_Y="300" ImageName="worldmap2_btn_epi_13" SubmapImageName="worldmap2_submap_13" SubmapIconName="worldmap2_icon_Sepi_13" Ordinal="19"/>
+	</Category>
+	<Category Name="episode">
+		<Class ClassID="101" ClassName="EP2" Name="Episode2" CityName="None" Type="episode" Coordinate_X="-630" Coordinate_Y="10" ImageName="worldmap2_btn_epi_02" SubmapImageName="worldmap2_submap_02" SubmapIconName="worldmap2_icon_Sepi_02" Ordinal="2"/>
+		<Class ClassID="102" ClassName="EP3" Name="Episode3" CityName="None" Type="episode" Coordinate_X="-465" Coordinate_Y="-30" ImageName="worldmap2_btn_epi_03" SubmapImageName="worldmap2_submap_03" SubmapIconName="worldmap2_icon_Sepi_03" Ordinal="3"/>
+		<Class ClassID="103" ClassName="EP4" Name="Episode4" CityName="None" Type="episode" Coordinate_X="-280" Coordinate_Y="10" ImageName="worldmap2_btn_epi_04" SubmapImageName="worldmap2_submap_04" SubmapIconName="worldmap2_icon_Sepi_04" Ordinal="4"/>
+		<Class ClassID="104" ClassName="EP6" Name="Episode6" CityName="None" Type="episode" Coordinate_X="145" Coordinate_Y="260" ImageName="worldmap2_btn_epi_06" SubmapImageName="worldmap2_submap_06" SubmapIconName="worldmap2_icon_Sepi_06" Ordinal="6"/>
+		<Class ClassID="105" ClassName="EP7_1" Name="Episode7-1" CityName="None" Type="episode" Coordinate_X="-562" Coordinate_Y="-260" ImageName="worldmap2_btn_epi_07_1" SubmapImageName="worldmap2_submap_07_1" SubmapIconName="worldmap2_icon_Sepi_07_1" Ordinal="7"/>
+		<Class ClassID="106" ClassName="EP7_2" Name="Episode7-2" CityName="None" Type="episode" Coordinate_X="-400" Coordinate_Y="-200" ImageName="worldmap2_btn_epi_07_2" SubmapImageName="worldmap2_submap_07_2" SubmapIconName="worldmap2_icon_Sepi_07_2" Ordinal="8"/>
+		<Class ClassID="107" ClassName="EP7_3" Name="Episode7-3" CityName="None" Type="episode" Coordinate_X="125" Coordinate_Y="5" ImageName="worldmap2_btn_epi_07_3" SubmapImageName="worldmap2_submap_07_3" SubmapIconName="worldmap2_icon_Sepi_07_3" Ordinal="9"/>
+		<Class ClassID="108" ClassName="EP8_1" Name="Episode8-1" CityName="None" Type="episode" Coordinate_X="-40" Coordinate_Y="290" ImageName="worldmap2_btn_epi_08_1" SubmapImageName="worldmap2_submap_08_1" SubmapIconName="worldmap2_icon_Sepi_08_1" Ordinal="10"/>
+		<Class ClassID="109" ClassName="EP8_2" Name="Episode8-2" CityName="None" Type="episode" Coordinate_X="205" Coordinate_Y="-180" ImageName="worldmap2_btn_epi_08_2" SubmapImageName="worldmap2_submap_08_2" SubmapIconName="worldmap2_icon_Sepi_08_2" Ordinal="11"/>
+		<Class ClassID="110" ClassName="EP9_1" Name="Episode9-1" CityName="None" Type="episode" Coordinate_X="-570" Coordinate_Y="220" ImageName="worldmap2_btn_epi_09_1" SubmapImageName="worldmap2_submap_09_1" SubmapIconName="worldmap2_icon_Sepi_09_1" Ordinal="12"/>
+		<Class ClassID="111" ClassName="EP9_2" Name="Episode9-2" CityName="None" Type="episode" Coordinate_X="560" Coordinate_Y="-270" ImageName="worldmap2_btn_epi_09_2" SubmapImageName="worldmap2_submap_09_2" SubmapIconName="worldmap2_icon_Sepi_09_2" Ordinal="13"/>
+		<Class ClassID="112" ClassName="EP10" Name="Episode10" CityName="None" Type="episode" Coordinate_X="330" Coordinate_Y="20" ImageName="worldmap2_btn_epi_10" SubmapImageName="worldmap2_submap_10" SubmapIconName="worldmap2_icon_Sepi_10" Ordinal="14"/>
+		<Class ClassID="113" ClassName="EP11_1" Name="Episode11 수역" CityName="None" Type="episode" Coordinate_X="330" Coordinate_Y="200" ImageName="worldmap2_btn_epi_11_1" SubmapImageName="worldmap2_submap_11_1" SubmapIconName="worldmap2_icon_Sepi_11_1" Ordinal="15"/>
+		<Class ClassID="114" ClassName="EP11_2" Name="Episode11 삼중성벽" CityName="None" Type="episode" Coordinate_X="585" Coordinate_Y="0" ImageName="worldmap2_btn_epi_11_2" SubmapImageName="worldmap2_submap_11_2" SubmapIconName="worldmap2_icon_Sepi_11_2" Ordinal="16"/>
+		<Class ClassID="115" ClassName="EP11_3" Name="Episode11 단풍숲" CityName="None" Type="episode" Coordinate_X="370" Coordinate_Y="-320" ImageName="worldmap2_btn_epi_11_3" SubmapImageName="worldmap2_submap_11_3" SubmapIconName="worldmap2_icon_Sepi_11_3" Ordinal="17"/>
+		<Class ClassID="116" ClassName="EP12" Name="Episode12" CityName="None" Type="episode" Coordinate_X="730" Coordinate_Y="-150" ImageName="worldmap2_btn_epi_12" SubmapImageName="worldmap2_submap_12" SubmapIconName="worldmap2_icon_Sepi_12" Ordinal="18"/>
+	</Category>
+	<Category Name="sub_episode">
+		<Class ClassID="201" ClassName="sub_episode1" Name="영면지" CityName="None" Type="sub_episode" Coordinate_X="-220" Coordinate_Y="-135" ImageName="None" SubmapImageName="worldmap2_submap_sq_01" SubmapIconName="None" Ordinal="20"/>
+		<Class ClassID="202" ClassName="sub_episode2" Name="연안" CityName="None" Type="sub_episode" Coordinate_X="330" Coordinate_Y="430" ImageName="None" SubmapImageName="worldmap2_submap_sq_02" SubmapIconName="None" Ordinal="21"/>
+		<Class ClassID="203" ClassName="sub_episode3" Name="폐도 외곽" CityName="None" Type="sub_episode" Coordinate_X="360" Coordinate_Y="-130" ImageName="None" SubmapImageName="worldmap2_submap_sq_03" SubmapIconName="None" Ordinal="22"/>
+		<Class ClassID="204" ClassName="sub_episode4" Name="해안" CityName="None" Type="sub_episode" Coordinate_X="0" Coordinate_Y="450" ImageName="None" SubmapImageName="worldmap2_submap_sq_04" SubmapIconName="None" Ordinal="23"/>
+		<Class ClassID="205" ClassName="sub_episode5" Name="흰 나무 숲" CityName="None" Type="sub_episode" Coordinate_X="540" Coordinate_Y="-400" ImageName="None" SubmapImageName="worldmap2_submap_sq_05" SubmapIconName="None" Ordinal="24"/>
+		<Class ClassID="206" ClassName="sub_episode6" Name="니코폴리스" CityName="None" Type="sub_episode" Coordinate_X="-130" Coordinate_Y="-210" ImageName="None" SubmapImageName="worldmap2_submap_sq_06" SubmapIconName="None" Ordinal="25"/>
+		<Class ClassID="207" ClassName="sub_episode7" Name="기념구" CityName="None" Type="sub_episode" Coordinate_X="510" Coordinate_Y="-110" ImageName="None" SubmapImageName="worldmap2_submap_sq_07" SubmapIconName="None" Ordinal="26"/>
+	</Category>
+</idspace>

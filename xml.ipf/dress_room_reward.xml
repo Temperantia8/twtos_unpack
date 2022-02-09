@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+ClassName     - UI 그릴때 카테고리로 활용
+PropList  - 테마 수집 완료시 적용되는 효과
+-->
+<idspace id="dress_room_reward">
+	<Class ClassID="1" ClassName="honored_rose_thema" Name="아너드 로즈" PropList="ALLSTAT_BM/15;"/>
+	<Class ClassID="2" ClassName="curtain_call_thema" Name="커튼콜" PropList="ALLSTAT_BM/15;"/>
+</idspace>

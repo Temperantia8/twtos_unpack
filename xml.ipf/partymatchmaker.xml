@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- deprecated -->
+<idspace id="PartyMatchMaker">
+	<Category>
+		<Class ClassID="1000" ClassName="Normal" RecommendMent="이 파티에 가장 잘 어울릴만한 플레이어를 찾았습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신의 참가를 요청한 파티가 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1001" ClassName="Memcount" RecommendMent="이 파티에 가장 잘 어울릴만한 플레이어를 찾았습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신의 참가를 요청한 파티가 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1002" ClassName="Distance" RecommendMent="마침 가까운 곳에 비슷한 플레이어가 있습니다. 이 사람을 파티에 초대하세요!" InviteMent="가까운 곳에 있는 파티에서 당신의 참가를 요청하고 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1003" ClassName="Jobval" RecommendMent="당신의 파티에 어울릴만한 플레이어가 있습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신의 참가를 요청한 파티가 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1004" ClassName="Quest" RecommendMent="같은 퀘스트를 진행중인 플레이어가 가까이에 있습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신과 같은 퀘스트를 진행중인 파티가 당신의 참가를 요청하고 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1005" ClassName="Level" RecommendMent="비슷한 레벨을 가진 플레이어를 발견했습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신과 비슷한 레벨의 파티가 당신의 참가를 요청하고 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1006" ClassName="RelationScore" RecommendMent="이전에 함께 플레이 했던 동료를 찾았습니다. 이 사람을 다시 파티에 초대하세요!" InviteMent="함께 플레이 했던 동료들이 당신을 다시 초대하고 있습니다. 이 파티에 다시 합류하세요!"/>
+		<Class ClassID="1007" ClassName="ItemGrade" RecommendMent="이 파티에 가장 잘 어울릴만한 플레이어를 찾았습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신의 참가를 요청한 파티가 있습니다. 이 파티에 합류하세요!"/>
+		<Class ClassID="1008" ClassName="Reputation" RecommendMent="이 파티에 가장 잘 어울릴만한 플레이어를 찾았습니다. 이 사람을 파티에 초대하세요!" InviteMent="당신의 참가를 요청한 파티가 있습니다. 이 파티에 합류하세요!"/>
+	</Category>
+</idspace>

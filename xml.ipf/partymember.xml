@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="PartyMember">
+	<Category>
+		<Class ClassID="2" ClassName="PartyMember" Name="None" Auth_Inv_NT="0" Auth_Survey_NT="0" Auth_Raid="0" Shared_Quest_NT="0" Before_Quest_NT="0" Before_Quest_State_NT="0" Shared_Progress_NT="0"/>
+	</Category>
+</idspace>

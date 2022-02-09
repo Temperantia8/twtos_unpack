@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by MinstFaith (EMBRACE) -->
+<idspace id="PC">
+	<Category>
+		<Name>PC</Name>
+		<Class ClassID="2" ClassName="PC" CP_EnchantMainWeaponDamageRate_NT="SCR_GET_ENCHANT_MAIN_WEAPON_DAMAGE_RATE" CP_EnchantSubWeaponDamageRate_NT="SCR_GET_ENCHANT_SUB_WEAPON_DAMAGE_RATE" CP_EnchantBossDamageRate_NT="SCR_GET_ENCHANT_BOSS_DAMAGE_RATE" CP_EnchantMeleeReducedRate_NT="SCR_GET_ENCHANT_MELEE_REDUCED_RATE" CP_EnchantMagicReducedRate_NT="SCR_GET_ENCHANT_MAGIC_REDUCED_RATE" CP_EnchantPVPDamageRate_NT="SCR_GET_ENCHANT_PVP_DAMAGE_RATE" CP_EnchantPVPReducedRate_NT="SCR_GET_ENCHANT_PVP_REDUCED_RATE" CP_EnchantCriticalDamage_Rate_NT="SCR_GET_ENCHANT_CRITICAL_DAMAGE_RATE" CP_EnchantCriticalHitRate_NT="SCR_GET_ENCHANT_CRITICAL_HIT_RATE" CP_EnchantCriticalDodgeRate_NT="SCR_GET_ENCHANT_CRITICAL_DODGE_RATE" CP_EnchantHitRate_NT="SCR_GET_ENCHANT_HIT_RATE" CP_EnchantDodgeRate_NT="SCR_GET_ENCHANT_DODGE_RATE" CP_EnchantBlockBreakRate_NT="SCR_GET_ENCHANT_BLOCKBREAK_RATE" CP_EnchantBlockRate_NT="SCR_GET_ENCHANT_BLOCK_RATE" CP_EnchantMSPD_NT="SCR_GET_ENCHANT_MSPD" CP_EnchantSR_NT="SCR_GET_ENCHANT_SR"/>
+	</Category>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->

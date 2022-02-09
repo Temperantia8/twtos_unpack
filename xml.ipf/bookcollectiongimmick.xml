@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!--droprate에는 드랍률 보정할 요일이 기입됩니다. 일요일을 1로, 이후 값을 1씩 증가시켜 표기하며 토요일이 7로 표기됩니다. 0은 보정이 없는 것으로 간주하며 해당 범위 외의 값은 0과 동일하게 취급합니다.-->
+<idspace id="bookcollectiongimmick">
+	<Category>
+		<Class ClassID="1" ClassName="NICOPOLIS_BOOK" Name="니코폴리스의 기원" DropRate="1"/>
+		<Class ClassID="2" ClassName="ZACHARIEL_ROYAL_TOMB_BOOK02" Name="왕릉의 전설" DropRate="2"/>
+		<Class ClassID="3" ClassName="LOWLV_MASTER_ENCY_BOOK03" Name="현대 마스터 총람 3권" DropRate="3"/>
+		<Class ClassID="4" ClassName="ABOUT_BORUTA_BOOK" Name="태고의 사건들 : 보루타에 관하여" DropRate="4"/>
+		<Class ClassID="5" ClassName="HERRMUN_MADALE_BOOK01" Name="허먼메데일 도하 사건" DropRate="5"/>
+		<Class ClassID="6" ClassName="TAOKAKA_BOOK" Name="타오카카의 모험" DropRate="6"/>
+		<Class ClassID="7" ClassName="MATARDOR_MASTER_BOOK01" Name="크리델라 오테로 이야기 1권" DropRate="7"/>
+		<Class ClassID="8" ClassName="MATARDOR_MASTER_BOOK02" Name="크리델라 오테로 이야기 2권" DropRate="0"/>
+		<Class ClassID="9" ClassName="ZEALOT_MASTER_BOOK01" Name="질럿 마스터 이야기 1권" DropRate="0"/>
+		<Class ClassID="10" ClassName="SHADOWMANCER_MASTER_BOOK01" Name="섀도우맨서 마스터의 실험기 1권" DropRate="0"/>
+		<Class ClassID="11" ClassName="BULLET_MARKER_MASTER_BOOK01" Name="겨울의 부싯돌" DropRate="0"/>
+		<Class ClassID="12" ClassName="Book3" Name="페디미안의 은화" DropRate="0"/>
+		<Class ClassID="13" ClassName="Book9" Name="클라페다의 내기꾼" DropRate="0"/>
+		<Class ClassID="14" ClassName="Klapeda_book_18" Name="네토 숲의 단풍화에 대한 소견서" DropRate="0"/>
+	</Category>
+</idspace>

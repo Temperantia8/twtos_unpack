@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="ZoneObject">
+	<Class ClassID="1" ClassName="ZoneObject" Mon_Phase="0" Law_Phase="0" Law_Line="None" Patrol_Line="None" Hero_Line="None" Mon_Line="None" EventName="None" EventOwner="None" EventNextTrack="None" Started="0" BossMonCount="0" NpcCount="0" Count1="0" killMonCount="0" JaqBoxLock="0" Check1="0" Check2="0" Check3="0" Check4="0" Check5="0" Check6="0" Check7="0" MonCnt1="0" Kill_1_NT="0" Kill_2_NT="0"/>
+</idspace>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->

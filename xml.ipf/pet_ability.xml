@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Pet_Ability">
+	<Category>
+		<Class ClassID="1" ClassName="ATK" Icon="ability_compa_attack"/>
+		<Class ClassID="2" ClassName="DEF" Icon="ability_compa_defens"/>
+		<Class ClassID="3" ClassName="MDEF" Icon="ability_compa_defens"/>
+		<Class ClassID="4" ClassName="MHP" Icon="ability_compa_vit"/>
+		<Class ClassID="5" ClassName="HR" Icon="ability_compa_dex"/>
+		<Class ClassID="6" ClassName="CRTHR" Icon="ability_compa_dex"/>
+		<Class ClassID="7" ClassName="DR" Icon="ability_compa_dex"/>
+	</Category>
+</idspace>

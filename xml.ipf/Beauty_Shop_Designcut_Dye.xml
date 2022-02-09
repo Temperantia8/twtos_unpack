@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- subcategory, Group = 해당 아이템 ClassName -->
+<idspace id="Designcut_Dye_List">
+	<category Name="고스로리 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="1" ClassName="ClassName1" Group="DesignCut_HAIR_F_133" DyeName="default" IconName="Dye_gothloli"/>
+			<Class ClassID="2" ClassName="ClassName2" Group="DesignCut_HAIR_F_133" DyeName="blond" IconName="Dye_gothloli_blond"/>
+			<Class ClassID="3" ClassName="ClassName3" Group="DesignCut_HAIR_F_133" DyeName="mint" IconName="Dye_gothloli_mint"/>
+			<Class ClassID="4" ClassName="ClassName4" Group="DesignCut_HAIR_F_133" DyeName="lightbrown" IconName="Dye_gothloli_lightbrown"/>
+			<Class ClassID="5" ClassName="ClassName5" Group="DesignCut_HAIR_F_133" DyeName="red" IconName="Dye_gothloli_red"/>
+			<Class ClassID="6" ClassName="ClassName6" Group="DesignCut_HAIR_F_133" DyeName="purple" IconName="Dye_gothloli_purple"/>
+			<Class ClassID="7" ClassName="ClassName7" Group="DesignCut_HAIR_F_133" DyeName="gray" IconName="Dye_gothloli_gray"/>
+			<Class ClassID="8" ClassName="ClassName8" Group="DesignCut_HAIR_F_133" DyeName="blue" IconName="Dye_gothloli_blue"/>
+		</subcategory>
+	</category>
+	<category Name="노블 웨이브 포니테일 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="51" ClassName="ClassName51" Group="DesignCut_HAIR_M_134" DyeName="default" IconName="Dye_redbridge"/>
+			<Class ClassID="52" ClassName="ClassName52" Group="DesignCut_HAIR_M_134" DyeName="blond" IconName="Dye_redbridge_blond"/>
+			<Class ClassID="53" ClassName="ClassName53" Group="DesignCut_HAIR_M_134" DyeName="paleblue" IconName="Dye_redbridge_paleblue"/>
+			<Class ClassID="54" ClassName="ClassName54" Group="DesignCut_HAIR_M_134" DyeName="brown" IconName="Dye_redbridge_brown"/>
+			<Class ClassID="55" ClassName="ClassName55" Group="DesignCut_HAIR_M_134" DyeName="black" IconName="Dye_redbridge_black"/>
+			<Class ClassID="56" ClassName="ClassName56" Group="DesignCut_HAIR_M_134" DyeName="white" IconName="Dye_redbridge_white"/>
+			<Class ClassID="57" ClassName="ClassName57" Group="DesignCut_HAIR_M_134" DyeName="gray" IconName="Dye_redbridge_gray"/>
+			<Class ClassID="58" ClassName="ClassName58" Group="DesignCut_HAIR_M_134" DyeName="purple" IconName="Dye_redbridge_purple"/>
+		</subcategory>
+	</category>
+	<category Name="바니보이 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="101" ClassName="ClassName101" Group="DesignCut_HAIR_M_132" DyeName="default" IconName="Dye_bunnyboy"/>
+			<Class ClassID="102" ClassName="ClassName102" Group="DesignCut_HAIR_M_132" DyeName="blond" IconName="Dye_bunnyboy_blond"/>
+			<Class ClassID="103" ClassName="ClassName103" Group="DesignCut_HAIR_M_132" DyeName="paleblue" IconName="Dye_bunnyboy_paleblue"/>
+			<Class ClassID="104" ClassName="ClassName104" Group="DesignCut_HAIR_M_132" DyeName="dark" IconName="Dye_bunnyboy_dark"/>
+			<Class ClassID="105" ClassName="ClassName105" Group="DesignCut_HAIR_M_132" DyeName="black" IconName="Dye_bunnyboy_black"/>
+			<Class ClassID="106" ClassName="ClassName106" Group="DesignCut_HAIR_M_132" DyeName="pink" IconName="Dye_bunnyboy_pink"/>
+			<Class ClassID="107" ClassName="ClassName107" Group="DesignCut_HAIR_M_132" DyeName="red" IconName="Dye_bunnyboy_red"/>
+			<Class ClassID="108" ClassName="ClassName108" Group="DesignCut_HAIR_M_132" DyeName="blue" IconName="Dye_bunnyboy_blue"/>
+		</subcategory>
+	</category>
+	<category Name="투톤 댄디 컷 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="151" ClassName="ClassName151" Group="DesignCut_HAIR_M_133" DyeName="default" IconName="Dye_mintpink"/>
+			<Class ClassID="152" ClassName="ClassName152" Group="DesignCut_HAIR_M_133" DyeName="blond" IconName="Dye_mintpink_blond"/>
+			<Class ClassID="153" ClassName="ClassName153" Group="DesignCut_HAIR_M_133" DyeName="ashblue" IconName="Dye_mintpink_ashblue"/>
+			<Class ClassID="154" ClassName="ClassName154" Group="DesignCut_HAIR_M_133" DyeName="brown" IconName="Dye_mintpink_brown"/>
+			<Class ClassID="155" ClassName="ClassName155" Group="DesignCut_HAIR_M_133" DyeName="black" IconName="Dye_mintpink_black"/>
+			<Class ClassID="156" ClassName="ClassName156" Group="DesignCut_HAIR_M_133" DyeName="blue" IconName="Dye_mintpink_blue"/>
+			<Class ClassID="157" ClassName="ClassName157" Group="DesignCut_HAIR_M_133" DyeName="gray" IconName="Dye_mintpink_gray"/>
+			<Class ClassID="158" ClassName="ClassName158" Group="DesignCut_HAIR_M_133" DyeName="white" IconName="Dye_mintpink_white"/>
+		</subcategory>
+	</category>
+	<category Name="사이드 포니테일 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="201" ClassName="ClassName201" Group="DesignCut_HAIR_F_134" DyeName="default" IconName="Dye_waveponytail"/>
+			<Class ClassID="202" ClassName="ClassName202" Group="DesignCut_HAIR_F_134" DyeName="brown" IconName="Dye_waveponytail_brown"/>
+			<Class ClassID="203" ClassName="ClassName203" Group="DesignCut_HAIR_F_134" DyeName="mint" IconName="Dye_waveponytail_mint"/>
+			<Class ClassID="204" ClassName="ClassName204" Group="DesignCut_HAIR_F_134" DyeName="darkblue" IconName="Dye_waveponytail_darkblue"/>
+			<Class ClassID="205" ClassName="ClassName205" Group="DesignCut_HAIR_F_134" DyeName="blond" IconName="Dye_waveponytail_blond"/>
+			<Class ClassID="206" ClassName="ClassName206" Group="DesignCut_HAIR_F_134" DyeName="gray" IconName="Dye_waveponytail_gray"/>
+			<Class ClassID="207" ClassName="ClassName207" Group="DesignCut_HAIR_F_134" DyeName="purple" IconName="Dye_waveponytail_purple"/>
+			<Class ClassID="208" ClassName="ClassName208" Group="DesignCut_HAIR_F_134" DyeName="midnightblue" IconName="Dye_waveponytail_midnightblue"/>
+		</subcategory>
+	</category>
+	<category Name="쳐피뱅 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="251" ClassName="ClassName251" Group="DesignCut_HAIR_F_135" DyeName="default" IconName="Dye_pinkgradation"/>
+			<Class ClassID="252" ClassName="ClassName252" Group="DesignCut_HAIR_F_135" DyeName="blond" IconName="Dye_pinkgradation_blond"/>
+			<Class ClassID="253" ClassName="ClassName253" Group="DesignCut_HAIR_F_135" DyeName="mint" IconName="Dye_pinkgradation_mint"/>
+			<Class ClassID="254" ClassName="ClassName254" Group="DesignCut_HAIR_F_135" DyeName="lightbrown" IconName="Dye_pinkgradation_lightbrown"/>
+			<Class ClassID="255" ClassName="ClassName255" Group="DesignCut_HAIR_F_135" DyeName="black" IconName="Dye_pinkgradation_black"/>
+			<Class ClassID="256" ClassName="ClassName256" Group="DesignCut_HAIR_F_135" DyeName="gray" IconName="Dye_pinkgradation_gray"/>
+			<Class ClassID="257" ClassName="ClassName257" Group="DesignCut_HAIR_F_135" DyeName="red" IconName="Dye_pinkgradation_red"/>
+			<Class ClassID="258" ClassName="ClassName258" Group="DesignCut_HAIR_F_135" DyeName="white" IconName="Dye_pinkgradation_white"/>
+		</subcategory>
+	</category>
+	<category Name="레트로 레이어드 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="301" ClassName="ClassName301" Group="DesignCut_HAIR_M_125" DyeName="default" IconName="Dye_brown"/>
+			<Class ClassID="302" ClassName="ClassName306" Group="DesignCut_HAIR_M_125" DyeName="blue" IconName="Dye_gothloli_blue"/>
+			<Class ClassID="303" ClassName="ClassName307" Group="DesignCut_HAIR_M_125" DyeName="gray" IconName="Dye_gray"/>
+			<Class ClassID="304" ClassName="ClassName308" Group="DesignCut_HAIR_M_125" DyeName="lightsalmon" IconName="Dye_lightsalmon"/>
+			<Class ClassID="305" ClassName="ClassName302" Group="DesignCut_HAIR_M_125" DyeName="red" IconName="Dye_red"/>
+			<Class ClassID="306" ClassName="ClassName303" Group="DesignCut_HAIR_M_125" DyeName="midnightblue" IconName="Dye_midnightblue"/>
+			<Class ClassID="307" ClassName="ClassName304" Group="DesignCut_HAIR_M_125" DyeName="blond" IconName="Dye_blond"/>
+			<Class ClassID="308" ClassName="ClassName305" Group="DesignCut_HAIR_M_125" DyeName="white" IconName="Dye_white"/>
+		</subcategory>
+	</category>
+	<category Name="로맨틱 번헤어 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="351" ClassName="ClassName351" Group="DesignCut_HAIR_F_126" DyeName="default" IconName="Dye_orange"/>
+			<Class ClassID="352" ClassName="ClassName356" Group="DesignCut_HAIR_F_126" DyeName="black" IconName="Dye_dark"/>
+			<Class ClassID="353" ClassName="ClassName357" Group="DesignCut_HAIR_F_126" DyeName="gray" IconName="Dye_gray"/>
+			<Class ClassID="354" ClassName="ClassName358" Group="DesignCut_HAIR_F_126" DyeName="blue" IconName="Dye_gothloli_blue"/>
+			<Class ClassID="355" ClassName="ClassName352" Group="DesignCut_HAIR_F_126" DyeName="white" IconName="Dye_white"/>
+			<Class ClassID="356" ClassName="ClassName353" Group="DesignCut_HAIR_F_126" DyeName="blond" IconName="Dye_blond"/>
+			<Class ClassID="357" ClassName="ClassName354" Group="DesignCut_HAIR_F_126" DyeName="red" IconName="Dye_red"/>
+			<Class ClassID="358" ClassName="ClassName355" Group="DesignCut_HAIR_F_126" DyeName="midnightblue" IconName="Dye_midnightblue"/>
+		</subcategory>
+	</category>
+	<category Name="숏 리젠트 헤어 디자인 컷">
+		<subcategory Name="">
+			<Class ClassID="401" ClassName="ClassName401" Group="DesignCut_HAIR_M_137" DyeName="default" IconName="Dye_gray"/>
+			<Class ClassID="402" ClassName="ClassName402" Group="DesignCut_HAIR_M_137" DyeName="black" IconName="Dye_dark"/>
+			<Class ClassID="403" ClassName="ClassName403" Group="DesignCut_HAIR_M_137" DyeName="flame" IconName="Dye_red"/>
+			<Class ClassID="404" ClassName="ClassName404" Group="DesignCut_HAIR_M_137" DyeName="violet" IconName="Dye_Lavender"/>
+		</subcategory>
+	</category>
+	<category Name="피쉬 테일 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="451" ClassName="ClassName451" Group="DesignCut_HAIR_F_138" DyeName="default" IconName="Dye_gray"/>
+			<Class ClassID="452" ClassName="ClassName452" Group="DesignCut_HAIR_F_138" DyeName="charcoal" IconName="Dye_Charcoal"/>
+			<Class ClassID="453" ClassName="ClassName453" Group="DesignCut_HAIR_F_138" DyeName="copper" IconName="Dye_brown"/>
+			<Class ClassID="454" ClassName="ClassName454" Group="DesignCut_HAIR_F_138" DyeName="pink" IconName="Dye_pink"/>
+		</subcategory>
+	</category>
+	<category Name="트윈테일 시뇽 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="461" ClassName="ClassName461" Group="DesignCut_HAIR_F_139" DyeName="default" IconName="Dye_gray"/>
+			<Class ClassID="462" ClassName="ClassName462" Group="DesignCut_HAIR_F_139" DyeName="black" IconName="Dye_black"/>
+			<Class ClassID="463" ClassName="ClassName463" Group="DesignCut_HAIR_F_139" DyeName="applemint" IconName="Dye_mint"/>
+		</subcategory>
+	</category>
+	<category Name="투블럭 포니테일 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="471" ClassName="ClassName471" Group="DesignCut_HAIR_M_138" DyeName="default" IconName="Dye_gray"/>
+			<Class ClassID="472" ClassName="ClassName472" Group="DesignCut_HAIR_M_138" DyeName="blond" IconName="Dye_blond"/>
+			<Class ClassID="473" ClassName="ClassName473" Group="DesignCut_HAIR_M_138" DyeName="rightviolet" IconName="Dye_Lavender"/>
+		</subcategory>
+	</category>
+	<category Name="프렌치 보브 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="481" ClassName="ClassName481" Group="DesignCut_HAIR_F_140" DyeName="default" IconName="Dye_white"/>
+			<Class ClassID="482" ClassName="ClassName482" Group="DesignCut_HAIR_F_140" DyeName="rightgreen" IconName="Dye_mint"/>
+			<Class ClassID="483" ClassName="ClassName483" Group="DesignCut_HAIR_F_140" DyeName="rightpink" IconName="Dye_bunnyboy_pink"/>
+		</subcategory>
+	</category>
+	<category Name="사이드 스윕트 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="491" ClassName="ClassName491" Group="DesignCut_HAIR_M_139" DyeName="default" IconName="Dye_redbridge_brown"/>
+			<Class ClassID="492" ClassName="ClassName492" Group="DesignCut_HAIR_M_139" DyeName="orange" IconName="Dye_orange"/>
+			<Class ClassID="493" ClassName="ClassName493" Group="DesignCut_HAIR_M_139" DyeName="green" IconName="Dye_rightgreen"/>
+		</subcategory>
+	</category>
+	<category Name="브레이드 롱 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="501" ClassName="ClassName501" Group="DesignCut_HAIR_F_141" DyeName="default" IconName="Dye_pinkgradation_lightbrown"/>
+			<Class ClassID="502" ClassName="ClassName502" Group="DesignCut_HAIR_F_141" DyeName="blond" IconName="Dye_blond"/>
+			<Class ClassID="503" ClassName="ClassName503" Group="DesignCut_HAIR_F_141" DyeName="rightorange" IconName="Dye_orange"/>
+		</subcategory>
+	</category>
+	<category Name="볼륨 웨이브 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="511" ClassName="ClassName511" Group="DesignCut_HAIR_M_140" DyeName="default" IconName="Dye_pinkgradation_lightbrown"/>
+			<Class ClassID="512" ClassName="ClassName512" Group="DesignCut_HAIR_M_140" DyeName="blue" IconName="Dye_gothloli_blue"/>
+			<Class ClassID="513" ClassName="ClassName513" Group="DesignCut_HAIR_M_140" DyeName="ashgrey" IconName="Dye_gray"/>
+		</subcategory>
+	</category>
+	<category Name="클래식 보브 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="521" ClassName="ClassName521" Group="DesignCut_HAIR_F_142" DyeName="default" IconName="Dye_pinkgradation_lightbrown"/>
+			<Class ClassID="522" ClassName="ClassName522" Group="DesignCut_HAIR_F_142" DyeName="black" IconName="Dye_black"/>
+			<Class ClassID="523" ClassName="ClassName523" Group="DesignCut_HAIR_F_142" DyeName="pink" IconName="Dye_pink"/>
+		</subcategory>
+	</category>
+	<category Name="슬라이트 웨이비 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="531" ClassName="ClassName531" Group="DesignCut_HAIR_M_141" DyeName="default" IconName="Dye_redbridge_gray"/>
+			<Class ClassID="532" ClassName="ClassName532" Group="DesignCut_HAIR_M_141" DyeName="ashblue" IconName="Dye_midnightblue"/>
+			<Class ClassID="533" ClassName="ClassName533" Group="DesignCut_HAIR_M_141" DyeName="ashgreen" IconName="Dye_green"/>
+		</subcategory>
+	</category>
+	<category Name="트윈 덤플링 롱 웨이브 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="541" ClassName="ClassName541" Group="DesignCut_HAIR_F_143" DyeName="default" IconName="Dye_blond"/>
+			<Class ClassID="542" ClassName="ClassName542" Group="DesignCut_HAIR_F_143" DyeName="rubywine" IconName="Dye_red"/>
+			<Class ClassID="543" ClassName="ClassName543" Group="DesignCut_HAIR_F_143" DyeName="ashwine" IconName="Dye_ashwine"/>
+		</subcategory>
+	</category>
+	<category Name="웨이비 포니테일 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="551" ClassName="ClassName551" Group="DesignCut_HAIR_M_142" DyeName="default" IconName="Dye_waveponytail_blond"/>
+			<Class ClassID="552" ClassName="ClassName552" Group="DesignCut_HAIR_M_142" DyeName="whiteviolet" IconName="Dye_whiteviolet"/>
+			<Class ClassID="553" ClassName="ClassName553" Group="DesignCut_HAIR_M_142" DyeName="rightmint" IconName="Dye_lightmint"/>
+		</subcategory>
+	</category>
+	<category Name="벙거지 아이롱 펌 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="561" ClassName="ClassName561" Group="DesignCut_HAIR_M_143" DyeName="default" IconName="Dye_lightpink"/>
+			<Class ClassID="562" ClassName="ClassName562" Group="DesignCut_HAIR_M_143" DyeName="green" IconName="Dye_ashgreen"/>
+			<Class ClassID="563" ClassName="ClassName563" Group="DesignCut_HAIR_M_143" DyeName="black" IconName="Dye_black"/>
+		</subcategory>
+	</category>
+	<category Name="아이롱 펌 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="571" ClassName="ClassName571" Group="DesignCut_HAIR_M_144" DyeName="default" IconName="Dye_Neon"/>
+			<Class ClassID="572" ClassName="ClassName572" Group="DesignCut_HAIR_M_144" DyeName="green" IconName="Dye_ashgreen"/>
+			<Class ClassID="573" ClassName="ClassName573" Group="DesignCut_HAIR_M_144" DyeName="silvergreen" IconName="Dye_silvergreen"/>
+		</subcategory>
+	</category>
+	<category Name="스냅백 브릿지 롱 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="581" ClassName="ClassName581" Group="DesignCut_HAIR_F_147" DyeName="default" IconName="Dye_black"/>
+			<Class ClassID="582" ClassName="ClassName582" Group="DesignCut_HAIR_F_147" DyeName="white" IconName="Dye_white"/>
+			<Class ClassID="583" ClassName="ClassName583" Group="DesignCut_HAIR_F_147" DyeName="orange" IconName="Dye_orange"/>
+		</subcategory>
+	</category>
+	<category Name="브릿지 롱 디자인 컷">
+		<subcategory Name=" ">
+			<Class ClassID="591" ClassName="ClassName591" Group="DesignCut_HAIR_F_148" DyeName="default" IconName="Dye_black"/>
+			<Class ClassID="592" ClassName="ClassName592" Group="DesignCut_HAIR_F_148" DyeName="white" IconName="Dye_white"/>
+			<Class ClassID="593" ClassName="ClassName593" Group="DesignCut_HAIR_F_148" DyeName="orange" IconName="Dye_orange"/>
+		</subcategory>
+	</category>
+</idspace>

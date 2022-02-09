@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="TransformToMonster">
+	<Category>
+		<Class ClassID="1" ClassName="Onion" CT_Jump="NO" CT_Skill="YES"/>
+		<Class ClassID="2" ClassName="Pawndel" CT_Jump="NO" CT_Skill="YES"/>
+		<Class ClassID="3" ClassName="pawnd" CT_Jump="NO" CT_Skill="YES"/>
+	</Category>
+</idspace>

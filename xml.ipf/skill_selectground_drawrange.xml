@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by asd (IMCGames Co., Ltd) -->
+<idspace id="SelectGroundDrawRange">
+	<Category Name="Swordman">
+		<Class ClassID="11407" ClassName="Dragoon_DragonFall" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="70" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="10306" ClassName="Hoplite_ThrouwingSpear" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="65" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="10105" ClassName="Peltasta_ShieldLob" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="11902" ClassName="Retiarii_ThrowingFishingNet" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="SCP_GET_RANGE_Retiarii_ThrowingFishingNet"/>
+	</Category>
+	<Category Name="Wizard">
+		<Class ClassID="21708" ClassName="Bokor_Damballa" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20804" ClassName="Chronomancer_Slow" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="27.5" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20809" ClassName="Chronomancer_TimeForward" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20208" ClassName="Cryomancer_FrostPillar" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20202" ClassName="Cryomancer_IciclePike" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21802" ClassName="Daoshi_StormCalling" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21804" ClassName="Daoshi_TriDisaster" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20610" ClassName="Elementalist_FireClaw" DrawType="Arrow" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="1" ArrowDirCnt="8" ArrowEffectName="F_sys_arrow_pc" ScpFuncName="None"/>
+		<Class ClassID="20603" ClassName="Elementalist_Hail" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="65" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20605" ClassName="Elementalist_Meteor" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="140" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="SCP_GET_RANGE_Elementalist_Meteor"/>
+		<Class ClassID="20609" ClassName="Elementalist_StormDust" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="SCP_GET_RANGE_Elementalist_StormDust"/>
+		<Class ClassID="20903" ClassName="Necromancer_FleshCannon" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21608" ClassName="Onmyoji_GreenwoodShikigami" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21612" ClassName="Onmyoji_Toyou" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="150" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20308" ClassName="Psychokino_HeavyGravity" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="120" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20305" ClassName="Psychokino_MagneticForce" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20303" ClassName="Psychokino_Swap" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="20" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20105" ClassName="Pyromancer_FirePillar" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20109" ClassName="Pyromancer_Prominence" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="120" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21301" ClassName="RuneCaster_Hagalaz" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="75" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21306" ClassName="RuneCaster_Stan" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="80" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21411" ClassName="Sage_HoleOfDarkness" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="80" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21403" ClassName="Sage_MicroDimension" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21404" ClassName="Sage_UltimateDimension" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21613" ClassName="Shadowmancer_InfernalShadow" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="40" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21606" ClassName="Shadowmancer_ShadowFatter" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20709" ClassName="Sorcerer_Evocation" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="105" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="SCP_GET_RANGE_Sorcerer_Evocation"/>
+		<Class ClassID="21902" ClassName="TerraMancer_SandWall" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="25" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21204" ClassName="Warlock_Mastema" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="21201" ClassName="Warlock_PoleofAgony" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="40.75" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="20002" ClassName="Wizard_Lethargy" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="37.5" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+	</Category>
+	<Category Name="Archer">
+		<Class ClassID="30001" ClassName="Archer_Multishot" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31103" ClassName="Cannoneer_SiegeBurst" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31106" ClassName="Cannoneer_SmokeGrenade" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="55" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31008" ClassName="Falconer_BlisteringThrash" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31005" ClassName="Falconer_Pheasant" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31013" ClassName="Falconer_Tomahawk" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="70" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="30805" ClassName="Fletcher_MagicArrow" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="20" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31806" ClassName="Matross_CanisterShot" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="120" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="SCP_GET_RANGE_Matross_CanisterShot"/>
+		<Class ClassID="31405" ClassName="Mergen_ArrowRain" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="31201" ClassName="Musketeer_CoveringFire" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="30506" ClassName="Wugushi_JincanGu" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="SCP_GET_RANGE_Wugushi_JincanGu"/>
+		<Class ClassID="30505" ClassName="Wugushi_ThrowGuPot" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="30202" ClassName="QuarrelShooter_ScatterCaltrop" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="35" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+	</Category>
+	<Category Name="Cleric">
+		<Class ClassID="41905" ClassName="Crusader_Retaliation" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="85" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="40906" ClassName="Druid_Chortasmata" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="75" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="40909" ClassName="Druid_HengeStone" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41803" ClassName="Exorcist_AquaBenedicta" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41807" ClassName="Exorcist_Katadikazo" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="70" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41401" ClassName="Inquisitor_IronMaiden" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="20" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41404" ClassName="Inquisitor_PearofAnguish" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="35" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41204" ClassName="Kabbalist_Merkabah" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="100" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41202" ClassName="Kabbalist_Nachash" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="60" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41211" ClassName="Kabbalist_TheTreeOfSepiroth" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="80" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41603" ClassName="Miko_Hamaya" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="41011" ClassName="Oracle_Foretell" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="80" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="40501" ClassName="Sadhu_OutofBody" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="70" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+	</Category>
+	<Category Name="Scout">
+		<Class ClassID="50402" ClassName="Corsair_IronHook" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="30" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="51001" ClassName="Schwarzereiter_ConcentratedFire" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="40" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="50603" ClassName="Thaumaturge_Reversi" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="50" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+		<Class ClassID="51201" ClassName="Arditi_Granata" DrawType="Circle" DrawColor="0,250,0,255" DrawBlinkColor="0,250,0,255" DrawRange="70" DrawTime="0.01" ArrowDirCnt="0" ArrowEffectName="None" ScpFuncName="None"/>
+	</Category>
+</idspace>

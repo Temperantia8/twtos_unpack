@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="OptionGroup">
+	<Category>
+		<Class ClassID="1" ClassName="SwordOption1" OptionGroup="Opt_Weapon" Rate="0;100;1;200;2;400"/>
+		<Class ClassID="2" ClassName="SwordOption2" OptionGroup="Staff2" Rate="0;100;1;200;2;600"/>
+	</Category>
+</idspace>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!--꼭 소문자로만 쓰세요-->
+<idspace id="dismount_ani">
+	<Category Name="Dismount_Ani">
+		<Class ClassID="1" ClassName="hammering"/>
+		<Class ClassID="2" ClassName="sitwater"/>
+		<Class ClassID="3" ClassName="weeding"/>
+		<Class ClassID="4" ClassName="flask"/>
+		<Class ClassID="5" ClassName="draw"/>
+	</Category>
+</idspace>

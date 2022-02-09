@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by IMCGames Co., Ltd (IMCGames Co., Ltd) -->
+<idspace id="minigametext">
+	<Category>
+		<Class ClassID="1" ClassName="MiniTextGame1" QuestText="123을 입력하세요" Answer="123" SuccessScr="None"/>
+		<Class ClassID="2" ClassName="MiniTextGame2" QuestText="abc를 입력하세요" Answer="abc" SuccessScr="TEST_SUCCESSS_SCR"/>
+	</Category>
+</idspace>

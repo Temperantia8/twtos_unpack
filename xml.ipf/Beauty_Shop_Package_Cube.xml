@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="Beauty_Shop_Package_Cube">
+	<Category Name="뷰티샵 패키지 및 큐브">
+		<SecondCategory Name="패키지"/>
+		<SecondCategory Name="큐브">
+			<!-- <Class ClassID="2501" ClassName="Gacha_HairAcc_001" Category="Cube" Gender="None" ItemClassName="Gacha_HairAcc_001" EquipType="None" Price="30" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="Gacha_HairAcc_001" IsPremium="NO" TAG="None" ItemAddDate="None"/> -->
+			<!-- <Class ClassID="2502" ClassName="Gacha_HairAcc_010" Category="Cube" Gender="None" ItemClassName="Gacha_HairAcc_010" EquipType="None" Price="300" PriceRatio="0" JobOnly="None" SellStartTime="None" SellEndTime="None" StampCount="0" PackageList="Gacha_HairAcc_001" IsPremium="NO" TAG="None" ItemAddDate="None"/> -->
+		</SecondCategory>
+	</Category>
+</idspace>

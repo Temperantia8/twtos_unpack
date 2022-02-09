@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="item_ark_option" keyid="Item">
+	<Class ClassID="1" ClassName="Ark_str" CT_MaxArkLv="7"/>
+	<Class ClassID="2" ClassName="Ark_dex" CT_MaxArkLv="7"/>
+	<Class ClassID="3" ClassName="Ark_int" CT_MaxArkLv="7"/>
+	<Class ClassID="4" ClassName="Ark_mna" CT_MaxArkLv="7"/>
+	<Class ClassID="5" ClassName="Ark_wind" CT_MaxArkLv="10"/>
+	<Class ClassID="6" ClassName="Ark_thunderbolt" CT_MaxArkLv="10"/>
+	<Class ClassID="7" ClassName="Ark_storm" CT_MaxArkLv="10"/>  
+	<Class ClassID="9" ClassName="Ark_dispersion" CT_MaxArkLv="10"/>
+	<Class ClassID="10" ClassName="Ark_punishment" CT_MaxArkLv="10"/>
+	<Class ClassID="11" ClassName="Ark_overpower" CT_MaxArkLv="10"/>
+	<Class ClassID="12" ClassName="Ark_dummy" CT_MaxArkLv="10"/>
+</idspace>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by asdasd (IMCGames Co., Ltd) -->
+<idspace id="PVPIndun">
+	<Category Name="PVPIndun">
+		<Class ClassID="1" ClassName="pvp_Mine" Name="자원 쟁탈전: 유니폼 모드" Category="자원 쟁탈전" DungeonType="pvpMine" GroupID="600" MapImage="Map_Pvp_Mine" Level="300" Day="day" StartHour="21" StartMin="10" EndHour="21" EndMin="15"/>
+		<Class ClassID="2" ClassName="pvp_Mine_2" Name="자원 쟁탈전: 일반 모드" Category="자원 쟁탈전" DungeonType="pvpMine" GroupID="600" MapImage="Map_Pvp_Mine" Level="300" Day="day" StartHour="21" StartMin="30" EndHour="21" EndMin="35"/>
+		<Class ClassID="3" ClassName="Indun_teamBattle" Name="팀 배틀리그" Category="팀 배틀리그" WorldPVPType="1" DungeonType="teamBattle" GroupID="700" MapImage="Map_Pvp_Tournament" Level="300" Day="day" StartHour="22" StartMin="00" EndHour="24" EndMin="00"/>
+	</Category>
+</idspace>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+ConsumeItem : 한번 겜블에 소모시킬 아이템/개수 (구분자 ;) ex: misc_ore23/1000 - 한번에 시에라 가루 1000개 소모
+ConsumeItemCount : 소모할 아이템 종류의 개수
+RewardItemList : 보상 아이템의 목록 (구분자 ;) ClassName/count/anounce_flag
+RewardItemCount : 보상 아이템의 목록 개수
+CT_AbleMap : 겜블을 허용할 맵 이름
+ -->
+ <!-- 
+eventgamble에서만 쓰는 프로퍼티
+Name : UI에 표기될 이름
+RewardItemGrade : 보상 아이템의 등급 (구분자 ;) Legend or Unique or Magic or Normal RewardItemList와 같은 순서로 읽는다
+ -->
+<idspace id="common_gamble_property_reward">
+	<Class ClassID="1" ClassName="CONTENTS_TOTAL_POINT" CT_Icon="icon_item_silver_gacha_ticket" CT_Name="콘텐츠 통합 포인트" />
+</idspace>

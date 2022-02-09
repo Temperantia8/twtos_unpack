@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by IMC (IMCGames Co., Ltd) -->
+<idspace id="legendCardReinforce">
+	<category Name="Legend_Card">
+		<subcategory Name="Legend_Card">
+			<Class ClassID="1" CardLevel="1" GivePoint="10" NeedPoint="20" DestroyReward="None" ItemProperty="0" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="2"/>
+			<Class ClassID="2" CardLevel="2" GivePoint="20" NeedPoint="40" DestroyReward="None" ItemProperty="0" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="3"/>
+			<Class ClassID="3" CardLevel="3" GivePoint="30" NeedPoint="70" DestroyReward="None" ItemProperty="0" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="4"/>
+			<Class ClassID="4" CardLevel="4" GivePoint="40" NeedPoint="100" DestroyReward="None" ItemProperty="0" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="5"/>
+			<Class ClassID="5" CardLevel="5" GivePoint="50" NeedPoint="140" DestroyReward="None" ItemProperty="0" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="6"/>
+			<Class ClassID="6" CardLevel="6" GivePoint="60" NeedPoint="180" DestroyReward="legend_reinforce_card_lv2" ItemProperty="141100" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="7"/>
+			<Class ClassID="7" CardLevel="7" GivePoint="70" NeedPoint="230" DestroyReward="legend_reinforce_card_lv3" ItemProperty="310500" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="8"/>
+			<Class ClassID="8" CardLevel="8" GivePoint="80" NeedPoint="280" DestroyReward="legend_reinforce_card_lv3" ItemProperty="683100" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="9"/>
+			<Class ClassID="9" CardLevel="9" GivePoint="90" NeedPoint="340" DestroyReward="legend_reinforce_card_lv4" ItemProperty="1502900" ReinforceType="LegendCard" NeedReinforceItem="legend_card_reinforce_misc" NeedReinforceItemCount="10"/>
+			<Class ClassID="10" CardLevel="10" GivePoint="100" NeedPoint="0" DestroyReward="None" ItemProperty="0" ReinforceType="LegendCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+		</subcategory>
+	</category>
+	<category Name="Card">
+		<subcategory Name="Normal_Card">
+			<Class ClassID="101" CardLevel="1" GivePoint="1" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="102" CardLevel="2" GivePoint="2" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="103" CardLevel="3" GivePoint="3" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="104" CardLevel="4" GivePoint="4" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="105" CardLevel="5" GivePoint="5" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="106" CardLevel="6" GivePoint="6" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="107" CardLevel="7" GivePoint="7" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="108" CardLevel="8" GivePoint="8" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="109" CardLevel="9" GivePoint="9" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="110" CardLevel="10" GivePoint="10" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="Card" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+		</subcategory>
+	</category>
+	<category Name="ReinForce_Card">
+		<subcategory Name="ReinForce_Card">
+			<Class ClassID="1001" CardLevel="1" GivePoint="5" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1002" CardLevel="2" GivePoint="10" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1003" CardLevel="3" GivePoint="15" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1004" CardLevel="4" GivePoint="20" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1005" CardLevel="5" GivePoint="25" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1006" CardLevel="6" GivePoint="30" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1007" CardLevel="7" GivePoint="35" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1008" CardLevel="8" GivePoint="40" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1009" CardLevel="9" GivePoint="45" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+			<Class ClassID="1010" CardLevel="10" GivePoint="50" NeedPoint="0" DestroyReward="None" ItemProperty="None" ReinforceType="ReinForceCard" NeedReinforceItem="None" NeedReinforceItemCount="0"/>
+		</subcategory>
+	</category>
+</idspace>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<idspace id="fluting_scale">
+	<Category>
+		<Class ClassID="1" ClassName="scaleslot1" Desc="None" Icon="Icon_piedpiper_note_1octave_1" Scale="C" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute1" Sound="piedpiper_0octave_do"/>
+		<Class ClassID="2" ClassName="scaleslot2" Desc="None" Icon="Icon_piedpiper_note_1octave_2" Scale="D" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute2" Sound="piedpiper_0octave_re"/>
+		<Class ClassID="3" ClassName="scaleslot3" Desc="None" Icon="Icon_piedpiper_note_1octave_3" Scale="E" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute3" Sound="piedpiper_0octave_mi"/>
+		<Class ClassID="4" ClassName="scaleslot4" Desc="None" Icon="Icon_piedpiper_note_1octave_4" Scale="F" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute4" Sound="piedpiper_0octave_fa"/>
+		<Class ClassID="5" ClassName="scaleslot5" Desc="None" Icon="Icon_piedpiper_note_1octave_5" Scale="G" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute5" Sound="piedpiper_0octave_so"/>
+		<Class ClassID="6" ClassName="scaleslot6" Desc="None" Icon="Icon_piedpiper_note_1octave_6" Scale="A" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute6" Sound="piedpiper_0octave_la"/>
+		<Class ClassID="7" ClassName="scaleslot7" Desc="None" Icon="Icon_piedpiper_note_1octave_7" Scale="B" Octave="1" IsSharp="NO" HotKey="QuickSlotExecute7" Sound="piedpiper_0octave_ti"/>
+		<Class ClassID="8" ClassName="scaleslot8" Desc="None" Icon="Icon_piedpiper_note_2octave_1" Scale="C" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute11" Sound="piedpiper_1octave_do"/>
+		<Class ClassID="9" ClassName="scaleslot9" Desc="None" Icon="Icon_piedpiper_note_2octave_2" Scale="D" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute12" Sound="piedpiper_1octave_re"/>
+		<Class ClassID="10" ClassName="scaleslot10" Desc="None" Icon="Icon_piedpiper_note_2octave_3" Scale="E" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute13" Sound="piedpiper_1octave_mi"/>
+		<Class ClassID="11" ClassName="scaleslot11" Desc="None" Icon="Icon_piedpiper_note_2octave_4" Scale="F" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute14" Sound="piedpiper_1octave_fa"/>
+		<Class ClassID="12" ClassName="scaleslot12" Desc="None" Icon="Icon_piedpiper_note_2octave_5" Scale="G" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute15" Sound="piedpiper_1octave_so"/>
+		<Class ClassID="13" ClassName="scaleslot13" Desc="None" Icon="Icon_piedpiper_note_2octave_6" Scale="A" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute16" Sound="piedpiper_1octave_la"/>
+		<Class ClassID="14" ClassName="scaleslot14" Desc="None" Icon="Icon_piedpiper_note_2octave_7" Scale="B" Octave="2" IsSharp="NO" HotKey="QuickSlotExecute17" Sound="piedpiper_1octave_ti"/>
+		<Class ClassID="15" ClassName="scaleslot15" Desc="None" Icon="icon_rest_gem" Scale="C" Octave="1" IsSharp="YES" HotKey="QuickSlotExecute1" Sound="piedpiper_0octave_do_semitone"/>
+		<Class ClassID="16" ClassName="scaleslot16" Desc="None" Icon="icon_rest_gem" Scale="D" Octave="1" IsSharp="YES" HotKey="QuickSlotExecute2" Sound="piedpiper_0octave_re_semitone"/>
+		<Class ClassID="17" ClassName="scaleslot17" Desc="None" Icon="icon_rest_gem" Scale="F" Octave="1" IsSharp="YES" HotKey="QuickSlotExecute4" Sound="piedpiper_0octave_fa_semitone"/>
+		<Class ClassID="18" ClassName="scaleslot18" Desc="None" Icon="icon_rest_gem" Scale="G" Octave="1" IsSharp="YES" HotKey="QuickSlotExecute5" Sound="piedpiper_0octave_so_semitone"/>
+		<Class ClassID="19" ClassName="scaleslot19" Desc="None" Icon="icon_rest_gem" Scale="A" Octave="1" IsSharp="YES" HotKey="QuickSlotExecute6" Sound="piedpiper_0octave_la_semitone"/>
+		<Class ClassID="20" ClassName="scaleslot20" Desc="None" Icon="icon_rest_gem" Scale="C" Octave="2" IsSharp="YES" HotKey="QuickSlotExecute11" Sound="piedpiper_1octave_do_semitone"/>
+		<Class ClassID="21" ClassName="scaleslot21" Desc="None" Icon="icon_rest_gem" Scale="D" Octave="2" IsSharp="YES" HotKey="QuickSlotExecute12" Sound="piedpiper_1octave_re_semitone"/>
+		<Class ClassID="22" ClassName="scaleslot22" Desc="None" Icon="icon_rest_gem" Scale="F" Octave="2" IsSharp="YES" HotKey="QuickSlotExecute14" Sound="piedpiper_1octave_fa_semitone"/>
+		<Class ClassID="23" ClassName="scaleslot23" Desc="None" Icon="icon_rest_gem" Scale="G" Octave="2" IsSharp="YES" HotKey="QuickSlotExecute15" Sound="piedpiper_1octave_so_semitone"/>
+		<Class ClassID="24" ClassName="scaleslot24" Desc="None" Icon="icon_rest_gem" Scale="A" Octave="2" IsSharp="YES" HotKey="QuickSlotExecute16" Sound="piedpiper_1octave_la_semitone"/>
+		<Class ClassID="25" ClassName="scaleslot25" Desc="None" Icon="Icon_piedpiper_note_3octave_1" Scale="C" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute21" Sound="piedpiper_2octave_do"/>
+		<Class ClassID="26" ClassName="scaleslot26" Desc="None" Icon="Icon_piedpiper_note_3octave_2" Scale="D" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute22" Sound="piedpiper_2octave_re"/>
+		<Class ClassID="27" ClassName="scaleslot27" Desc="None" Icon="Icon_piedpiper_note_3octave_3" Scale="E" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute23" Sound="piedpiper_2octave_mi"/>
+		<Class ClassID="28" ClassName="scaleslot28" Desc="None" Icon="Icon_piedpiper_note_3octave_4" Scale="F" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute24" Sound="piedpiper_2octave_fa"/>
+		<Class ClassID="29" ClassName="scaleslot29" Desc="None" Icon="Icon_piedpiper_note_3octave_5" Scale="G" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute25" Sound="piedpiper_2octave_so"/>
+		<Class ClassID="30" ClassName="scaleslot30" Desc="None" Icon="Icon_piedpiper_note_3octave_6" Scale="A" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute26" Sound="piedpiper_2octave_la"/>
+		<Class ClassID="31" ClassName="scaleslot31" Desc="None" Icon="Icon_piedpiper_note_3octave_7" Scale="B" Octave="3" IsSharp="NO" HotKey="QuickSlotExecute27" Sound="piedpiper_2octave_ti"/>
+		<Class ClassID="32" ClassName="scaleslot32" Desc="None" Icon="icon_rest_gem" Scale="C" Octave="3" IsSharp="YES" HotKey="QuickSlotExecute21" Sound="piedpiper_2octave_do_semitone"/>
+		<Class ClassID="33" ClassName="scaleslot33" Desc="None" Icon="icon_rest_gem" Scale="D" Octave="3" IsSharp="YES" HotKey="QuickSlotExecute22" Sound="piedpiper_2octave_re_semitone"/>
+		<Class ClassID="34" ClassName="scaleslot34" Desc="None" Icon="icon_rest_gem" Scale="F" Octave="3" IsSharp="YES" HotKey="QuickSlotExecute24" Sound="piedpiper_2octave_fa_semitone"/>
+		<Class ClassID="35" ClassName="scaleslot35" Desc="None" Icon="icon_rest_gem" Scale="G" Octave="3" IsSharp="YES" HotKey="QuickSlotExecute25" Sound="piedpiper_2octave_so_semitone"/>
+		<Class ClassID="36" ClassName="scaleslot36" Desc="None" Icon="icon_rest_gem" Scale="A" Octave="3" IsSharp="YES" HotKey="QuickSlotExecute26" Sound="piedpiper_2octave_la_semitone"/>
+	</Category>
+</idspace>
