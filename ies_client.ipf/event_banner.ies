@@ -1,6 +1,4 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
-999901,202201,251000,202201,291000,203012,150000,203012,100000,0,0,"inGame_E1","虎嘯祥瑞禮包","inGame_E1","https://tos.omg.com.tw/New/?NID=13382","time_del","","",""
-999902,202201,181000,202201,221000,203012,150000,203012,100000,0,0,"inGame_E2","改版公告","inGame_E2","https://tos.omg.com.tw/New/?NID=13330","time_del","","",""
-999903,202201,181000,202201,221000,203012,150000,203012,100000,0,0,"inGame_E3","聖者&花郎禮包","inGame_E3","https://tos.omg.com.tw/New/?NID=13363","time_del","","",""
-999905,202111,231000,202111,281000,203012,150000,203012,100000,0,0,"inGame_E5","魔神的誘惑13(健身/復刻2)","inGame_E5","https://tos.omg.com.tw/New/?NID=13331","time_del","","",""
+999901,202201,181000,202201,221000,203012,150000,203012,100000,0,0,"inGame_E1","雷堤夏魔方(北歐神話)","inGame_E1","https://tos.omg.com.tw/New/?NID=13400","time_del","","",""
+999902,202201,181000,202201,221000,203012,150000,203012,100000,0,0,"inGame_E2","魔神的誘惑14(北歐神話)","inGame_E2","https://tos.omg.com.tw/New/?NID=13399","time_del","","",""
 999906,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E6","臉書","inGame_E6","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
