@@ -1,5 +1,4 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
-999901,202203,151000,202203,201000,203012,150000,203012,100000,0,0,"inGame_E1","TP 10% 回饋","inGame_E1","https://tos.omg.com.tw/New/?NID=13455","time_del","","",""
 999902,202203,151000,202203,201000,203012,150000,203012,100000,0,0,"inGame_E2","新世界樹網頁寶箱(紅利點數)","inGame_E2","https://tos.omg.com.tw/New/?NID=13443","time_del","","",""
 999903,202203,151000,202203,201000,203012,150000,203012,100000,0,0,"inGame_E3","EP14 混沌再臨","inGame_E3","https://tos.omg.com.tw/New/?NID=13411","time_del","","",""
 999904,202203,151000,202203,201000,203012,150000,203012,100000,0,0,"inGame_E4","虎虎生風活動","inGame_E4","https://tos.omg.com.tw/New/?NID=13412","time_del","","",""
