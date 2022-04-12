@@ -3505,6 +3505,10 @@
 		<image name="icon_item_ep13maid_mace" file="\icon\weapon\icon_item_ep13maid_mace.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_ep13maid_staff" file="\icon\weapon\icon_item_ep13maid_staff.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_ep13maid_sword" file="\icon\weapon\icon_item_ep13maid_sword.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_ep13animal_mace" file="\icon\weapon\icon_item_ep13animal_mace.png" imgrect="0 0 256 256" CMM_Caption="2021_3 테마 4종"/>
+		<image name="icon_item_ep13animal_rod" file="\icon\weapon\icon_item_ep13animal_rod.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_ep13animal_thmace" file="\icon\weapon\icon_item_ep13animal_thmace.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_ep13animal_thsword" file="\icon\weapon\icon_item_ep13animal_thsword.png" imgrect="0 0 256 256"/>
 	</imagelist>
 	<imagelist category="acc_item">
 		<image name="item_necklace_01" file="\icon\acc\item_necklace_1.png" imgrect="0 0 256 256" CMM_Caption="목걸이"/>
@@ -4306,6 +4310,10 @@
 		<image name="icon_item_accessory_6th_glasses" file="\icon\hairacc\icon_item_accessory_6th_glasses.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_accessory_ep13maid01" file="\icon\hairacc\icon_item_accessory_ep13maid01.png" imgrect="0 0 256 256" CMM_Caption="2022 2월 여신의 큐브 2종"/>
 		<image name="icon_item_accessory_ep13maid02" file="\icon\hairacc\icon_item_accessory_ep13maid02.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_accessory_ep13animal01" file="\icon\hairacc\icon_item_accessory_ep13animal01.png" imgrect="0 0 256 256" CMM_Caption="2022 3월 테마 2종"/>
+		<image name="icon_item_accessory_ep13animal02" file="\icon\hairacc\icon_item_accessory_ep13animal02.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_helmet_ep13animal01" file="\icon\hairacc\icon_item_helmet_ep13animal01.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_helmet_ep13animal02" file="\icon\hairacc\icon_item_helmet_ep13animal02.png" imgrect="0 0 256 256"/>
 	</imagelist>
 	<imagelist category="collection_item">
 		<image name="icon_collitem_collection" file="\icon\colletion\icon_item_collection.tga" imgrect="0 0 673 419" CMM_Caption="월계수"/>
@@ -8812,6 +8820,9 @@
 		<image name="icon_item_selectbox_ep13stem03_2" file="\icon\payment\icon_item_selectbox_ep13stem03_2.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_wing_ep13stem" file="\icon\payment\icon_item_wing_ep13stem.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_wing_ep13stem02" file="\icon\payment\icon_item_wing_ep13stem02.png" imgrect="0 0 256 256"/>
+		<image name="item_icon_pet_twnocelot" file="\icon\payment\item_icon_pet_twnocelot.png" imgrect="0 0 256 256" CMM_Caption="대만 5주년 오셀롯_컴패니언 알"/>
+		<image name="item_icon_wing_ocelotbag" file="\icon\payment\item_icon_wing_ocelotbag.png" imgrect="0 0 256 256" CMM_Caption="대만 5주년 오셀롯_가방"/>
+		<image name="item_icon_wing_twnocelot" file="\icon\payment\item_icon_wing_twnocelot.png" imgrect="0 0 256 256" CMM_Caption="대만 5주년 오셀롯_풍선"/>
 		<image name="icon_item_magnifier_blue_460" file="\icon\payment\icon_item_magnifier_blue_460.png" imgrect="0 0 256 256" CMM_Caption="[Lv.460] 신비한 돋보기 블루"/>
 		<image name="icon_item_magnifier_red_460" file="\icon\payment\icon_item_magnifier_red_460.png" imgrect="0 0 256 256" CMM_Caption="[Lv.460] 장인의 돋보기 레드"/>
 		<image name="icon_item_unique_glass_1line_460" file="\icon\payment\icon_item_unique_glass_1line_460.png" imgrect="0 0 256 256" CMM_Caption="[Lv.460] 신드라의 미세 감정 돋보기"/>
@@ -9084,6 +9095,14 @@
 		<image name="icon_item_selectbox_ep13maid02" file="\icon\payment\icon_item_selectbox_ep13maid02.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_selectbox_ep13maid02_1" file="\icon\payment\icon_item_selectbox_ep13maid02_1.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_wing_ep13maid" file="\icon\payment\icon_item_wing_ep13maid.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_selectbox_ep13maid02_tr" file="\icon\payment\icon_item_selectbox_ep13maid02_tr.png" imgrect="0 0 256 256" CMM_Caption="이벤트 코스튬 상자"/>
+		<image name="icon_item_ep13animal01_m" file="\icon\payment\icon_item_ep13animal01_m.png" imgrect="0 0 256 256" CMM_Caption="2022 3월 동물유치원 테마"/>
+		<image name="icon_item_ep13animal01_f" file="\icon\payment\icon_item_ep13animal01_f.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_ep13animal01_1_m" file="\icon\payment\icon_item_ep13animal01_1_m.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_ep13animal01_1_f" file="\icon\payment\icon_item_ep13animal01_1_f.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_selectbox_ep13animal01" file="\icon\payment\icon_item_selectbox_ep13animal01.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_selectbox_ep13animal01_1" file="\icon\payment\icon_item_selectbox_ep13animal01_1.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_wing_ep13animal" file="\icon\payment\icon_item_wing_ep13animal.png" imgrect="0 0 256 256"/>
 	</imagelist>
 	<imagelist category="seal">
 		<image name="icon_seal_yellow_cc_A1" file="\icon\seal\seal_yellow_cc_A1.tga" imgrect="0 0 80 80"/>
