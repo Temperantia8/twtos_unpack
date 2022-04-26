@@ -1551,3 +1551,4 @@ ClassID,BlendIn,BlendOut,Priority,OffsetValue,ClassName,Main,Loop,Freeze,Additiv
 1599,0,0,4,0,"SKL_INFINITEASSAULT_LOOP_STD_RIDE","YES","YES","NO","NO","YES","NO","NO","","NO","Attack"
 1604,0,0,4,0,"RUN_EP13ANIMAL","YES","YES","NO","NO","YES","NO","NO","","NO","Stand"
 1605,0,0,4,0,"WLK_EP13ANIMAL","YES","YES","NO","NO","YES","NO","NO","","NO","Stand"
+1606,0,0,4,0,"GACHA_MACHINE","YES","YES","NO","NO","YES","NO","NO","","NO","Stand"

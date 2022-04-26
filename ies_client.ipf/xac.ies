@@ -5773,6 +5773,7 @@ ClassID,ClassName,Mesh,Path,ArmbandInfo,UseAlpha,IsJiggleBoneHair
 201838,"ep14_1_catapult","char_hi\npc\ep14_1_catapult\ep14_1_catapult.xac","char_texture\npc\ep14_1_catapult\","","NO",""
 201839,"artefact_metaldetector_proto","item_hi\pc_item\weapon\metaldetector.xac","item_texture\brown\","","NO",""
 201840,"boss_DelmoreCastleGate_kruvina_ball","char_hi\npc\ep14_1_catapult\ep14_kruvina_ball.xac","char_texture\npc\ep14_1_catapult\","","NO",""
+201842,"gacha_machine","char_hi\npc\gacha_machine\gacha_machine_set.xac","char_texture\npc\gacha_machine\","","NO",""
 205001,"warrior_f_hair_lightsalmon","char_hi\pc\faces\warrior_f\shorthair\shorthair_Warrior_f_hair_std.xac","char_texture\pc\face\hair_f_lightsalmon\","","NO",""
 205002,"warrior_f_hair2_lightsalmon","char_hi\pc\faces\warrior_f\longhair\longhair_Warrior_f_hair_std.xac","char_texture\pc\face\hair_f_lightsalmon\","","NO",""
 205003,"warrior_f_hair3_lightsalmon","char_hi\pc\faces\warrior_f\semilonghair\semilonghair_Warrior_f_hair_std.xac","char_texture\pc\face\hair_f_lightsalmon\","","NO",""
