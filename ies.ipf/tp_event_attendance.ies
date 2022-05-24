@@ -21,3 +21,4 @@ ClassID,TotalNumberDays,ClassName,Name,AttendancePass,StartTime,EndTime
 114,30,"SeasonNewWorldEvent","시즌 서버 정착 보상","NO","2020-02-11 00:01:00","2020-05-12 23:59:00"
 124,7,"Event_Attendance_GR","성장 지원 출석체크","NO","2021-09-07 00:01:00","2022-09-06 23:59:00"
 125,30,"EventUserSupport","신규/복귀 유저 정착 지원","NO","",""
+126,5,"202203ArborDay","식목일 접속 이벤트","NO","2022-05-30 00:00:00","2022-06-06 06:00:00"
