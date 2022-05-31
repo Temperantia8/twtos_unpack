@@ -11420,6 +11420,7 @@
 		<image name="companion_pet_ep13dessert" file="\icon\companion_Velhider.tga" imgrect="400 400 80 80"/>
 		<image name="companion_twnocelot" file="\icon\companion_Velhider.tga" imgrect="480 400 80 80"/>
 		<image name="companion_pet_skunk" file="\icon\companion_Velhider.tga" imgrect="560 80 80 80"/>
+		<image name="companion_pet_twn6th_TI" file="\icon\companion_Velhider.tga" imgrect="560 160 80 80"/>
 		<image name="bg_w" file="\skin\button.tga" imgrect="252 974 50 50"/>
 		<image name="barrack_signboard" file="\skin\barrack.tga" imgrect="356 0 257 192"/>
 		<image name="barrack_attack_icon" file="\skin\barrack.tga" imgrect="59 720 55 61"/>
@@ -14115,6 +14116,7 @@
 		<image name="icon_tribulation_PatternCategory" file="\icon\buff_icon6.tga" imgrect="640 256 128 128" CMM_Caption="패턴카테고리"/>
 		<image name="icon_buff_ridepet_ep13animal" file="\icon\buff_icon6.tga" imgrect="768 256 128 128" CMM_Caption="목마 탈 것 버프"/>
 	<image name="icon_Event_2203_ARBOR_DAY_BUFF" file="\icon\buff_icon6.tga" imgrect="896 256 128 128" CMM_Caption="자연의 축복"/>
+		<image name="icon_buff_pet_twn6th_TI" file="\icon\buff_icon6.tga" imgrect="128 768 128 128" CMM_Caption="말레이맥 버프"/>
 	</imagelist>
 	<imagelist category="housing_bufficon">
 		<image name="icon_Weapon_Klaida" file="\icon\icon_hosing_buff.tga" imgrect="0 0 128 128"/>

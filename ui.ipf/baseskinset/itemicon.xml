@@ -4324,6 +4324,7 @@
 		<image name="icon_item_helmet_ep13animal02" file="\icon\hairacc\icon_item_helmet_ep13animal02.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_accessory_ep14magical01" file="\icon\hairacc\icon_item_accessory_ep14magical01.png" imgrect="0 0 256 256" CMM_Caption="2022.4월 테마_2종"/>
 		<image name="icon_item_accessory_ep14magical02" file="\icon\hairacc\icon_item_accessory_ep14magical02.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_accessary_twn6th_bubble_hairband" file="\icon\hairacc\icon_item_accessary_twn6th_bubble_hairband.png" imgrect="0 0 256 256" CMM_Caption="대만 버블티 머리띠"/>
 	</imagelist>
 	<imagelist category="collection_item">
 		<image name="icon_collitem_collection" file="\icon\colletion\icon_item_collection.tga" imgrect="0 0 673 419" CMM_Caption="월계수"/>
@@ -9167,6 +9168,13 @@
 		<image name="icon_item_lens_holy_pink" file="\icon\payment\icon_item_lens_holy_pink.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_wing_ep14magical01" file="\icon\payment\icon_item_wing_ep14magical01.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_wing_ep14magical02" file="\icon\payment\icon_item_wing_ep14magical02.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_costume_twn6th_bubble_m" file="\icon\payment\icon_item_costume_twn6th_bubble_m.png" imgrect="0 0 256 256" CMM_Caption="대만 버블티 테마_남"/>
+		<image name="icon_item_costume_twn6th_bubble_f" file="\icon\payment\icon_item_costume_twn6th_bubble_f.png" imgrect="0 0 256 256" CMM_Caption="대만 버블티 테마_여"/>
+		<image name="icon_item_helmet_twn6th_TI" file="\icon\payment\icon_item_helmet_twn6th_TI.png" imgrect="0 0 256 256" CMM_Caption="대만 말레이맥 헬멧"/>
+		<image name="icon_item_costume_twn6th_TI_m" file="\icon\payment\icon_item_costume_twn6th_TI_m.png" imgrect="0 0 256 256" CMM_Caption="대만 말레이맥 코스튬_남"/>
+		<image name="icon_item_costume_twn6th_TI_f" file="\icon\payment\icon_item_costume_twn6th_TI_f.png" imgrect="0 0 256 256" CMM_Caption="대만 말레이맥 코스튬_여"/>
+		<image name="icon_item_pet_twn6th_TI" file="\icon\payment\icon_item_pet_twn6th_TI.png" imgrect="0 0 256 256" CMM_Caption="대만 말레이맥 알"/>
+		<image name="icon_item_effect_twn6th_bubble" file="\icon\payment\icon_item_effect_twn6th_bubble.png" imgrect="0 0 256 256" CMM_Caption="대만 버블티 이펙트"/>
 	</imagelist>
 	<imagelist category="seal">
 		<image name="icon_seal_yellow_cc_A1" file="\icon\seal\seal_yellow_cc_A1.tga" imgrect="0 0 80 80"/>
