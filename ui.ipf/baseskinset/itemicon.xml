@@ -9175,6 +9175,8 @@
 		<image name="icon_item_costume_twn6th_TI_f" file="\icon\payment\icon_item_costume_twn6th_TI_f.png" imgrect="0 0 256 256" CMM_Caption="대만 말레이맥 코스튬_여"/>
 		<image name="icon_item_pet_twn6th_TI" file="\icon\payment\icon_item_pet_twn6th_TI.png" imgrect="0 0 256 256" CMM_Caption="대만 말레이맥 알"/>
 		<image name="icon_item_effect_twn6th_bubble" file="\icon\payment\icon_item_effect_twn6th_bubble.png" imgrect="0 0 256 256" CMM_Caption="대만 버블티 이펙트"/>
+		<image name="icon_item_box_twn6th_TI" file="\icon\payment\icon_item_box_twn6th_TI.png" imgrect="0 0 256 256" CMM_Caption="말레이맥 코스튬 상자"/>
+		<image name="icon_item_box_twn6th_bubble" file="\icon\payment\icon_item_box_twn6th_bubble.png" imgrect="0 0 256 256" CMM_Caption="버블티 코스튬 선택상자"/>
 	</imagelist>
 	<imagelist category="seal">
 		<image name="icon_seal_yellow_cc_A1" file="\icon\seal\seal_yellow_cc_A1.tga" imgrect="0 0 80 80"/>
