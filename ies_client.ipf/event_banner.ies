@@ -1,5 +1,5 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
+999901,202206,281000,202207,11000,202207,50000,202207,20000,0,0,"inGame_E1","TP 20% 回饋","inGame_E1","https://tos.omg.com.tw/New/?NID=13545","","","",""
 999902,202206,211000,202206,261000,202207,50000,202206,300000,0,0,"inGame_E2","女神的祝福(小飛俠)","inGame_E2","https://tos.omg.com.tw/New/?NID=13536","","","",""
 999903,202206,211000,202206,261000,202207,260000,202207,210000,0,0,"inGame_E3","6週年活動","inGame_E3","https://tos.omg.com.tw/New/?NID=13537","","","",""
-999904,202206,141000,202206,191000,202206,280000,202206,230000,0,0,"inGame_E4","金魚禮包","inGame_E4","https://tos.omg.com.tw/New/?NID=13531","","","",""
 999906,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E6","臉書","inGame_E6","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
