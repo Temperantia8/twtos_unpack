@@ -6,6 +6,7 @@ ClassID,ClassName,LoadingType,FileName,FAQ_Hide,Tooltip_Hide
 5,"img5","LoadingFirst","33.jpg","YES","YES"
 6,"img6","LoadingFirst","35.jpg","YES","YES"
 7,"img7","LoadingFirst","36.jpg","YES","YES"
+8,"img8","LoadingFirst","37.jpg","YES","YES"
 1001,"img1001","LoadingDefault","1.jpg","YES","YES"
 1002,"img1002","LoadingDefault","2.jpg","YES","YES"
 1003,"img1003","LoadingDefault","3.jpg","YES","YES"
