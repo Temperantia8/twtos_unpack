@@ -1,7 +1,8 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
 999901,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E1","LINE@好友募集","inGame_E1","https://tos.omg.com.tw/New/?NID=13576","time_del","","",""
-999902,202208,21000,202208,71000,202208,160000,202208,110000,0,0,"inGame_E2","雷堤夏魔方","inGame_E2","https://tos.omg.com.tw/New/?NID=23679","","","",""
-999903,202207,261000,202207,311000,202208,300000,202208,250000,0,0,"inGame_E3","新遠征-沉沒的海盜船","inGame_E3","https://tos.omg.com.tw/New/?NID=13565","","","",""
-999904,202207,261000,202207,311000,202208,300000,202208,250000,0,0,"inGame_E4","夏季慶典活動","inGame_E4","https://tos.omg.com.tw/New/?NID=13567","","","",""
-999905,202207,261000,202207,311000,202208,230000,202208,180000,0,0,"inGame_E5","喇嘛職業禮包","inGame_E5","https://tos.omg.com.tw/New/?NID=13566","","","",""
-999906,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E6","臉書","inGame_E6","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
+999902,202208,91000,202208,141000,202208,230000,202208,180000,0,0,"inGame_E2","深海禮包","inGame_E2","https://tos.omg.com.tw/New/?NID=23681","","","",""
+999903,202208,21000,202208,71000,202208,160000,202208,110000,0,0,"inGame_E3","雷堤夏魔方","inGame_E3","https://tos.omg.com.tw/New/?NID=23679","","","",""
+999904,202207,261000,202207,311000,202208,300000,202208,250000,0,0,"inGame_E4","新遠征-沉沒的海盜船","inGame_E4","https://tos.omg.com.tw/New/?NID=13565","","","",""
+999905,202207,261000,202207,311000,202208,300000,202208,250000,0,0,"inGame_E5","夏季慶典活動","inGame_E5","https://tos.omg.com.tw/New/?NID=13567","","","",""
+999906,202207,261000,202207,311000,202208,230000,202208,180000,0,0,"inGame_E6","喇嘛職業禮包","inGame_E6","https://tos.omg.com.tw/New/?NID=13566","","","",""
+999907,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E7","臉書","inGame_E7","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
