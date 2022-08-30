@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
 <!-- edited with XMLSpy v2008 sp1 http://www.altova.com by MintPC Mi -->
 <skinset name="Base">
 	<imagelist category="item_tooltip_icon">
@@ -4349,10 +4349,6 @@
 		<image name="icon_item_helmet_fivebird02" file="\icon\hairacc\icon_item_helmet_fivebird02.png" imgrect="0 0 256 256"/>
 		<image name="helmet_ep14fivebird02_1_icon" file="\icon\hairacc\helmet_ep14fivebird02_1_icon.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_helmet_fivebird03" file="\icon\hairacc\icon_item_helmet_fivebird03.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_accessary_twnocelot_hairband_black" file="\icon\hairacc\icon_item_accessary_twnocelot_hairband_black.png" imgrect="0 0 256 256" CMM_Caption="대만 오셀롯_4종"/>
-		<image name="icon_item_accessary_twnocelot_hairband_white" file="\icon\hairacc\icon_item_accessary_twnocelot_hairband_white.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_helmet_twnocelot_black" file="\icon\hairacc\icon_item_helmet_twnocelot_black.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_helmet_twnocelot_white" file="\icon\hairacc\icon_item_helmet_twnocelot_white.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_accessory_ep14zemina01" file="\icon\hairacc\icon_item_accessory_ep14zemina01.png" imgrect="0 0 256 256" CMM_Caption="2022.06테마_2종"/>
 		<image name="item_icon_accessory_ep14zemina02" file="\icon\hairacc\item_icon_accessory_ep14zemina02.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_helmet_ep14rider01" file="\icon\hairacc\icon_item_helmet_ep14rider01.png" imgrect="0 0 256 256" CMM_Caption="2022.07테마_5종"/>
@@ -9251,22 +9247,6 @@
 		<image name="icon_item_selectbox_ep14fivebird03" file="\icon\payment\icon_item_selectbox_ep14fivebird03.png" imgrect="0 0 256 256"/>
 		<image name="item_icon_pet_ep14fivebird" file="\icon\payment\item_icon_pet_ep14fivebird.png" imgrect="0 0 256 256"/>
 		<image name="item_icon_selectbox_pet_ep14fivebird" file="\icon\payment\item_icon_selectbox_pet_ep14fivebird.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_costume_twnocelot_black_m" file="\icon\payment\icon_item_costume_twnocelot_black.png" imgrect="0 0 256 256" CMM_Caption="대만 오셀롯_13종"/>
-		<image name="icon_item_costume_twnocelot_white_m" file="\icon\payment\icon_item_costume_twnocelot_white.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_costume_twnocelot_black_f" file="\icon\payment\icon_item_costume_twnocelot_black.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_costume_twnocelot_white_f" file="\icon\payment\icon_item_costume_twnocelot_white.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_pet_twnocelot_black" file="\icon\payment\icon_item_pet_twnocelot_black.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_pet_twnocelot_white" file="\icon\payment\icon_item_pet_twnocelot_white.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_selectbox_ocelot_accessary" file="\icon\payment\icon_item_selectbox_ocelot_accessary.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_selectbox_ocelot_bag" file="\icon\payment\icon_item_selectbox_ocelot_bag.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_selectbox_ocelot_balloon" file="\icon\payment\icon_item_selectbox_ocelot_balloon.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_selectbox_ocelot_cosutme_set" file="\icon\payment\icon_item_selectbox_ocelot_cosutme_set.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_selectbox_ocelot_pet" file="\icon\payment\icon_item_selectbox_ocelot_pet.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_wing_ocelotbag_black" file="\icon\payment\icon_item_wing_ocelotbag_black.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_wing_ocelotbag_white" file="\icon\payment\icon_item_wing_ocelotbag_white.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_wing_twnocelot_black" file="\icon\payment\icon_item_wing_twnocelot_black.png" imgrect="0 0 256 256"/>
-		<image name="icon_item_wing_twnocelot_white" file="\icon\payment\icon_item_wing_twnocelot_white.png" imgrect="0 0 256 256"/>
-
 		<image name="icon_item_doll_zemina" file="\icon\payment\icon_item_doll_zemina.png" imgrect="0 0 256 256" CMM_Caption="2022.06테마_9종"/>
 		<image name="icon_item_ep14zemina01_f" file="\icon\payment\icon_item_ep14zemina01_f.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_ep14zemina01_m" file="\icon\payment\icon_item_ep14zemina01_m.png" imgrect="0 0 256 256"/>
@@ -9283,6 +9263,9 @@
 		<image name="icon_item_selectbox_ep14rider01" file="\icon\payment\icon_item_selectbox_ep14rider01.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_selectbox_ep14rider02" file="\icon\payment\icon_item_selectbox_ep14rider02.png" imgrect="0 0 256 256"/>
 		<image name="icon_item_toy_ep14rider" file="\icon\payment\icon_item_toy_ep14rider.png" imgrect="0 0 256 256"/>
+		<image name="icon_item_doll_laima" file="\icon\payment\icon_item_doll_laima.png" imgrect="0 0 256 256" CMM_Caption="라이마 인형"/>
+		<image name="icon_item_doll_medeina" file="\icon\payment\icon_item_doll_medeina.png" imgrect="0 0 256 256" CMM_Caption="메데이나 인형"/>
+		<image name="icon_item_wing_vakarine" file="\icon\payment\icon_item_wing_vakarine.png" imgrect="0 0 256 256" CMM_Caption="시즌서버 날개"/>
 	</imagelist>
 	<imagelist category="seal">
 		<image name="icon_seal_yellow_cc_A1" file="\icon\seal\seal_yellow_cc_A1.tga" imgrect="0 0 80 80"/>

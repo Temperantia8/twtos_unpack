@@ -11447,8 +11447,6 @@
 		<image name="companion_twnocelot" file="\icon\companion_Velhider.tga" imgrect="480 400 80 80"/>
 		<image name="companion_pet_skunk" file="\icon\companion_Velhider.tga" imgrect="560 80 80 80"/>
 		<image name="companion_pet_twn6th_TI" file="\icon\companion_Velhider.tga" imgrect="560 160 80 80"/>
-		<image name="companion_twnocelot_white" file="\icon\companion_Velhider.tga" imgrect="560 240 80 80"/>
-		<image name="companion_twnocelot_black" file="\icon\companion_Velhider.tga" imgrect="560 320 80 80"/>
 		<image name="bg_w" file="\skin\button.tga" imgrect="252 974 50 50"/>
 		<image name="barrack_signboard" file="\skin\barrack.tga" imgrect="356 0 257 192"/>
 		<image name="barrack_attack_icon" file="\skin\barrack.tga" imgrect="59 720 55 61"/>
@@ -14177,8 +14175,6 @@
 		<image name="icon_Jellyzele_summon_Blue" file="\icon\buff_icon6.tga" imgrect="0 768 128 128" CMM_Caption="파랑 덤블아이"/>
 		<image name="icon_buff_ridepet_ep14fivebird" file="\icon\buff_icon6.tga" imgrect="256 768 128 128" CMM_Caption="5월 테마 버프"/>
 		<image name="icon_cler_kabal_anagram" file="\icon\buff_icon6.tga" imgrect="384 768 128 128" CMM_Caption="게부라 버프 아이콘"/>
-		<image name="icon_pet_twnocelot_white_buff" file="\icon\buff_icon6.tga" imgrect="512 768 128 128" CMM_Caption="화이트 오셀롯"/>
-		<image name="icon_pet_twnocelot_black_buff" file="\icon\buff_icon6.tga" imgrect="640 768 128 128" CMM_Caption="블랙 오셀롯"/>
 		<image name="icon_buff_ridepet_ep14rider" file="\icon\buff_icon6.tga" imgrect="128 1024 128 128" CMM_Caption="7월 테마 버프"/>
 	</imagelist>
 	<imagelist category="housing_bufficon">
