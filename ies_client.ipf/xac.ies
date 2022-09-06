@@ -25331,6 +25331,8 @@ ClassID,ClassName,Mesh,Path,ArmbandInfo,UseAlpha,IsJiggleBoneHair
 727142,"head91_eye01_emerald","char_hi\pc\faces\jigglebone\F\head.xac","char_texture\pc\face\jigglebone\F\head\eye01_emerald\","","NO","YES"
 727143,"head91_eye01_cateye_blue","char_hi\pc\faces\jigglebone\F\head.xac","char_texture\pc\face\jigglebone\F\head\eye01_cateyeblue\","","NO","YES"
 727144,"head91_eye01_cateye_brown","char_hi\pc\faces\jigglebone\F\head.xac","char_texture\pc\face\jigglebone\F\head\eye01_cateyebrown\","","NO","YES"
+727151,"doll_laima","char_hi\monster\doll_laima_set.xac","char_texture\monster\doll_laima\","","NO",""
+727152,"doll_medeina","char_hi\monster\doll_medeina_set.xac","char_texture\monster\doll_medeina\","","NO",""
 727154,"doll_zemina","char_hi\monster\doll_zemina_set.xac","char_texture\monster\doll_zemina\","","NO",""
 727155,"doll_zanas","char_hi\monster\doll_zanas_set.xac","char_texture\monster\doll_zanas\","","NO",""
 727156,"doll_santa_guilty","char_hi\monster\doll_santa_guilty_set.xac","char_texture\monster\doll_santa_guilty\","","NO",""

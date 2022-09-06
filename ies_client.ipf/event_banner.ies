@@ -1,6 +1,7 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
 999901,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E1","LINE@好友募集","inGame_E1","https://tos.omg.com.tw/New/?NID=13576","time_del","","",""
-999902,202208,301000,202208,251000,202209,130000,202209,80000,0,0,"inGame_E2","聖物禮包","inGame_E2","https://tos.omg.com.tw/New/?NID=23707","","","",""
-999903,202208,301000,202208,251000,202210,40000,202209,300000,0,0,"inGame_E3","中秋露營活動","inGame_E3","https://tos.omg.com.tw/New/?NID=23704","","","",""
-999904,202208,231000,202208,281000,202209,60000,202209,10000,0,0,"inGame_E4","女神的祝福 - 搖滾重金屬","inGame_E4","https://tos.omg.com.tw/New/?NID=23697","","","",""
+999902,202209,61000,202209,111000,202209,200000,202209,150000,0,0,"inGame_E2","2022中秋復刻轉蛋","inGame_E2","https://tos.omg.com.tw/New/?NID=23721","","","",""
+999903,202209,61000,202209,111000,202209,200000,202209,150000,0,0,"inGame_E3","滿額回饋活動","inGame_E3","https://tos.omg.com.tw/New/?NID=23722","","","",""
+999904,202208,301000,202208,251000,202209,130000,202209,80000,0,0,"inGame_E4","聖物禮包","inGame_E4","https://tos.omg.com.tw/New/?NID=23707","","","",""
+999905,202208,301000,202208,251000,202210,40000,202209,300000,0,0,"inGame_E5","中秋露營活動","inGame_E5","https://tos.omg.com.tw/New/?NID=23704","","","",""
 999907,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E7","臉書","inGame_E7","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
