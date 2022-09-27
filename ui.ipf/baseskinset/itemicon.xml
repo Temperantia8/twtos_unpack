@@ -6659,6 +6659,7 @@
 		<image name="icon_item_evolve_stone_460" file="\icon\item\icon_item_evolve_stone_460.png" imgrect="0 0 256 256" CMM_Caption="[Lv.460] 진화석"/>
 		<image name="icon_item_potion_resetAbility_Class" file="\icon\item\icon_item_potion_resetAbility_Class.png" imgrect="0 0 256 256" CMM_Caption="클래스 특성 초기화 포션"/>
 		<image name="icon_item_misc_reinforce_percentUp_460" file="\icon\item\icon_item_misc_reinforce_percentUp_460.png" imgrect="0 0 256 256" CMM_Caption="[Lv.460] 빛나는 강화 보조제"/>
+		<image name="icon_item_misc_reinforce_percentUp_480" file="\icon\item\icon_item_misc_reinforce_percentUp_480.png" imgrect="0 0 256 256" CMM_Caption="[Lv.480] 빛나는 강화 보조제"/>
 		<image name="icon_item_misc_reinforce_percentUp_NoTrade_460" file="\icon\item\icon_item_misc_reinforce_percentUp_NoTrade_460.png" imgrect="0 0 256 256" CMM_Caption="[Lv.460] 강화 보조제"/>
 		<image name="icon_item_awakemisc01_460" file="\icon\item\icon_item_awakemisc01_460.png" imgrect="0 0 128 128" CMM_Caption="각성 연마제 파랑"/>
 		<image name="icon_item_goddess_fragments_gabiaA" file="\icon\item\icon_item_goddess_fragments_gabiaA.png" imgrect="0 0 128 128" CMM_Caption=""/>
