@@ -1,5 +1,9 @@
 function GET_LIMITATION_TO_BUY(tpItemID)
-    local tpItemObj = GetClassByType('TPitem', tpItemID);    
+    local tpItemObj = GetClassByType('TPitem', tpItemID);
+    if IS_SEASON_SERVER() == 'YES' then
+        tpItemObj = GetClassByType('TPitem_SEASON', tpItemID);
+    end
+    
     if tpItemObj == nil then
         return 'NO', 0;
     end
@@ -36,6 +40,9 @@ function GET_LIMITATION_TO_BUY_WITH_SHOPTYPE(tpItemID, shopType)
         tpItemObj = GetClassByType('TPitem_User_New', tpItemID);
     else
         tpItemObj = GetClassByType('TPitem', tpItemID);
+        if IS_SEASON_SERVER() == 'YES' then
+            tpItemObj = GetClassByType('TPitem_SEASON', tpItemID);
+        end
     end
     
     if tpItemObj == nil then
@@ -296,4 +303,17 @@ function SET_GODDESS_EVOLVED_EFFECT_INFO(self, guid, equip)
             SetAuraInfoByItem(self, guid, "");
         end
     end
+end
+
+-- dress room
+function IS_REGISTER_ENABLE_COSTUME(item)
+    if item == nil then
+        return false
+    end
+
+    if TryGetProp(item, "TeamBelonging", 0) == 1 then
+        return false, "CantRegisterCuzTeamBelonging"
+    end
+
+    return true
 end

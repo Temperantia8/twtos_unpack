@@ -23,6 +23,8 @@ local function make_cabinet_required_item_list()
     category_list['Skillgem'] = 1
     --
     category_list['Relicgem'] = 1
+    category_list['Artefact'] = 1
+
     for k, v in pairs(category_list) do
         g_cabinet_required_item_list[k] = {} -- 카테고리 생성
     end
@@ -295,6 +297,28 @@ local function make_cabinet_required_item_list()
             end
         end
     end
+
+    local class_list,cnt = GetClassList('cabinet_artefact')
+    for i =0,cnt -1 do
+        local entry_cls = GetClassByIndexFromList(class_list,i)
+        if entry_cls ~=nil then
+            local item_name = TryGetProp(entry_cls,'ClassName','None')
+            local max_lv    = TryGetProp(entry_cls,'MaxUpgrade',1)
+            local item_cls  = GetClass('Item',item_name)
+            if item_cls ~= nil and TryGetProp(entry_cls,'Basic',0) == 0 then
+                if g_cabinet_required_item_list['Artefact'][item_name] == nil then
+                    g_cabinet_required_item_list['Artefact'][item_name] = {}
+                end
+                local lv = 1
+                for lv = 1 ,max_lv do
+                    if g_cabinet_required_item_list['Artefact'][item_name][lv] ==nil then
+                        g_cabinet_required_item_list['Artefact'][item_name][lv] ={}
+                    end
+                    g_cabinet_required_item_list['Artefact'][item_name][lv][item_name] = 1
+                end
+            end
+        end
+    end
 end
 
 make_cabinet_required_item_list()
@@ -547,7 +571,6 @@ end
 
 function CHECK_ENCHANT_VALIDATION(target_item, category, type, aObj, pc)
     if target_item == nil then return end
-    
     if TryGetProp(target_item, 'ItemGrade', 1) < 6 then        
         return false, "OnlyEquipGoddessItemOnSlot";
     end
@@ -566,6 +589,8 @@ function CHECK_ENCHANT_VALIDATION(target_item, category, type, aObj, pc)
         idspace = 'cabinet_weapon'
     elseif category == 'Armor' then
         idspace = 'cabinet_armor'
+    elseif category == 'Artefact' then
+        idspace = 'cabinet_artefact'
     end    
     
     if idspace == 'None' then         
@@ -593,6 +618,10 @@ function CHECK_ENCHANT_VALIDATION(target_item, category, type, aObj, pc)
 
     if TryGetProp(target_item, 'InheritanceItemName', 'None') == TryGetProp(inheritance_item_name_cls, 'ClassName', 'None') then        
         return false, "AlreadyPrefixOption";
+    end
+
+    if TryGetProp(target_item, 'BriquettingIndex', 'None') == TryGetProp(inheritance_item_name_cls, 'ClassID', 'None') then        
+        return false, "AlreadyBriquet";
     end
 
     if TryGetProp(inheritance_item_name_cls, 'ClassType', 'None') == 'Arcane' then        
@@ -877,6 +906,9 @@ local cabinet_armor_list_type = nil
 local cabinet_item_acc_list = nil
 local cabinet_acc_list_type = nil
 
+local cabinet_item_luci_acc_list = nil
+local cabinet_luci_acc_list_type = nil
+
 local cabinet_item_ark_list = nil
 local cabinet_ark_list_type = nil
 
@@ -901,6 +933,10 @@ function init_cabinet_item_armor_list()
 end
 function init_cabinet_item_acc_list()
     if cabinet_item_acc_list ~= nil then
+        return
+    end
+
+    if cabinet_item_luci_acc_list ~= nil then
         return
     end
 
@@ -930,6 +966,34 @@ function init_cabinet_item_acc_list()
     cabinet_item_acc_list['piktis'] = {}
     table.insert(cabinet_item_acc_list['piktis'], 'EP12_NECK05_HIGH_005')
     table.insert(cabinet_item_acc_list['piktis'], 'EP12_BRC05_HIGH_005')
+
+    cabinet_luci_acc_list_type = {'isgariti_2', 'juoda_2', 'kantrybe_2', 'triukas_2', 'predeti_2', 'piktis_2'}
+    cabinet_item_luci_acc_list = {}
+
+    cabinet_item_luci_acc_list['isgariti_2'] = {}
+    table.insert(cabinet_item_luci_acc_list['isgariti_2'], 'EP12_NECK06_HIGH_002')
+    table.insert(cabinet_item_luci_acc_list['isgariti_2'], 'EP12_BRC06_HIGH_002')
+
+    cabinet_item_luci_acc_list['juoda_2'] = {}
+    table.insert(cabinet_item_luci_acc_list['juoda_2'], 'EP12_NECK06_HIGH_001')
+    table.insert(cabinet_item_luci_acc_list['juoda_2'], 'EP12_BRC06_HIGH_001')
+
+    cabinet_item_luci_acc_list['kantrybe_2'] = {}
+    table.insert(cabinet_item_luci_acc_list['kantrybe_2'], 'EP12_NECK06_HIGH_003')
+    table.insert(cabinet_item_luci_acc_list['kantrybe_2'], 'EP12_BRC06_HIGH_003')
+
+    cabinet_item_luci_acc_list['triukas_2'] = {}
+    table.insert(cabinet_item_luci_acc_list['triukas_2'], 'EP12_NECK06_HIGH_005')
+    table.insert(cabinet_item_luci_acc_list['triukas_2'], 'EP12_BRC06_HIGH_005')
+
+    cabinet_item_luci_acc_list['predeti_2'] = {}
+    table.insert(cabinet_item_luci_acc_list['predeti_2'], 'EP12_NECK06_HIGH_006')
+    table.insert(cabinet_item_luci_acc_list['predeti_2'], 'EP12_BRC06_HIGH_006')
+
+    cabinet_item_luci_acc_list['piktis_2'] = {}
+    table.insert(cabinet_item_luci_acc_list['piktis_2'], 'EP12_NECK06_HIGH_004')
+    table.insert(cabinet_item_luci_acc_list['piktis_2'], 'EP12_BRC06_HIGH_004')
+
 end
 function init_cabinet_item_ark_list()
     if cabinet_item_ark_list ~= nil then
@@ -979,6 +1043,21 @@ function GET_CABINET_ITEM_ACC_TYPE_LIST()
 end
 function GET_CABINET_ITEM_ACC_LIST(name)
     return cabinet_item_acc_list[name]
+end
+
+function GET_CABINET_LUCI_ACC_INDEX(type)
+    for i = 1, #cabinet_armor_list_type do
+        if cabinet_luci_acc_list_type[i] == type then
+            return i
+        end
+    end
+    return 0
+end
+function GET_CABINET_ITEM_LUCI_ACC_TYPE_LIST()
+    return cabinet_luci_acc_list_type
+end
+function GET_CABINET_ITEM_LUCI_ACC_LIST(name)
+    return cabinet_item_luci_acc_list[name..'_2']
 end
 
 function GET_CABINET_ARK_INDEX(type)
@@ -1103,6 +1182,32 @@ function IS_VALID_CREATE_CABINET_ITEM_ACC2_OPEN(acc, type)
     end
     
     return 0
+end
+
+--루시페리 개방권 전용
+function IS_VALID_CABINET_ITEM_LUCI_ACC_OPEN(acc, type)
+    local list = GET_CABINET_ITEM_ACC_LIST(type)
+    if list == nil then
+        return 0, 'NotValidItem'
+    end
+
+    for _, v in pairs(list) do
+        local cls = GetClass('cabinet_accessory', v)
+        if cls == nil then
+            return 0, 'NotValidItem'
+        end
+        local prop = TryGetProp(cls, 'AccountProperty', 'None')
+        local prop_2 = TryGetProp(cls, 'UpgradeAccountProperty', 'None')
+        if prop == 'None' or prop_2 == 'None' then
+            return 0, 'NotValidItem'
+        end
+
+        if TryGetProp(acc, prop_2, 0) == 2 then
+            return 0
+        end
+    end
+    
+    return 1
 end
 
 function IS_VALID_CABINET_ITEM_ARK_OPEN(acc, type)
