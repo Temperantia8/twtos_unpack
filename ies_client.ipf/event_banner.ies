@@ -1,6 +1,6 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
-999901,202210,181000,202210,231000,202211,10000,202210,270000,0,0,"inGame_E1","復刻轉蛋_貓熊和動物農場","inGame_E1","https://tos.omg.com.tw/New/?NID=23762","","","",""
-999902,202210,111000,202210,161000,202210,250000,202210,200000,0,0,"inGame_E2","激動之核禮包","inGame_E2","https://tos.omg.com.tw/New/?NID=23748","","","",""
+999901,202210,251000,202210,301000,202211,80000,202211,30000,0,0,"inGame_E1","雷堤夏的秘密魔方","inGame_E1","https://tos.omg.com.tw/New/?NID=23768","","","",""
+999902,202210,181000,202210,231000,202211,10000,202210,270000,0,0,"inGame_E2","復刻轉蛋_貓熊和動物農場","inGame_E2","https://tos.omg.com.tw/New/?NID=23762","","","",""
 999903,202210,41000,202210,91000,202211,80000,202211,30000,0,0,"inGame_E3","改版_激動之核","inGame_E3","https://tos.omg.com.tw/New/?NID=23736","","","",""
 999904,202210,41000,202210,91000,202211,80000,202211,30000,0,0,"inGame_E4","和諧之樹活動","inGame_E4","https://tos.omg.com.tw/New/?NID=23741","","","",""
 999907,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E7","臉書","inGame_E7","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
