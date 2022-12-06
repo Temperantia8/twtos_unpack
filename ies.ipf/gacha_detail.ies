@@ -178,3 +178,5 @@ ClassID,Count,Price,ClassName,ItemClassName,Group,GachaType,RewardGroup,PreCheck
 210,11,300,"Gacha_6TH_010_TWN","Gacha_6TH_010_TWN","CUBE","hair","Gacha_6TH_001_TWN","","Gacha_6TH_001_TWN","1","CUBE","NO","",""
 213,11,999,"GACHA_TWN_RESALE_001","GACHA_TWN_RESALE_001","CUBE","hair","GACHA_TWN_RESALE_001","","GACHA_TWN_RESALE_001","1","CUBE","YES","",""
 215,11,999,"GACHA_TWN_ANIMAL_010","GACHA_TWN_ANIMAL_010","CUBE","hair","GACHA_TWN_ANIMAL_001","","GACHA_TWN_ANIMAL_001","1","CUBE","NO","",""
+216,1,999,"Gacha_HairAcc_Christmas001_GLOBAL","Gacha_HairAcc_Christmas001_GLOBAL","CUBE","hair","Gacha_HairAcc_Christmas","","Gacha_HairAcc_Christmas","1","CUBE","NO","",""
+217,11,999,"Gacha_HairAcc_Christmas010_GLOBAL","Gacha_HairAcc_Christmas010_GLOBAL","CUBE","hair","Gacha_HairAcc_Christmas","","Gacha_HairAcc_Christmas","1","CUBE","NO","",""

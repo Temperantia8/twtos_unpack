@@ -1,6 +1,4 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3,ShowType
-999901,202211,220000,202211,270000,202212,60000,202212,10000,0,0,"inGame_E1","雷堤夏魔方","inGame_E1","https://tos.omg.com.tw/New/?NID=23803","","","",""
-999902,202211,151000,202211,201000,202211,290000,202211,240000,0,0,"inGame_E2","女神的祝福-塔羅大秘儀","inGame_E2","https://tos.omg.com.tw/New/?NID=23798","","","",""
+999901,202212,61000,202212,111000,202212,200000,202212,240000,0,0,"inGame_E1","聖誕復刻轉蛋","inGame_E1","https://tos.omg.com.tw/New/?NID=23811","","","",""
 999903,202211,81000,202211,131000,202212,130000,202212,80000,0,0,"inGame_E3","幽靈少女的委託活動","inGame_E3","https://tos.omg.com.tw/New/?NID=23778","","","",""
-999904,202211,11000,202211,61000,202211,270000,202211,220000,0,0,"inGame_E4","週末狂熱","inGame_E4","https://tos.omg.com.tw/New/?NID=23775","","","",""
 999907,202011,151000,202011,201000,203012,150000,203012,100000,0,0,"inGame_E7","臉書","inGame_E7","http://gapi.omg.com.tw/Epaper/EdmRedirect.aspx?id=39AC836E-E4F5-4053-B8D8-4DC8E186BEDD","time_del","","",""
