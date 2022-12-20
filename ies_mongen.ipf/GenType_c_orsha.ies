@@ -84,4 +84,5 @@ ClassID,GenType,Lv,Range,GenRange,RespawnTime,MaxPop,Minimap,Hide,UseAIOufOfPC,A
 5284,5284,1,40,1,1,1,2,0,0,1,0,0,"npc_MasterHwarang","[화랑 마스터]{nl}사라함","","","","","","","MASTER_HWARANG_NPC","","","NO","YES","NO","Neutral","","","",""
 5286,5286,1,40,1,60000,1,0,0,0,0,0,0,"npc_rangdagirl_02","소녀의 환영","","","","","","StartLine3_TUTO_NPC_ALPHA","EP14_MULIA_NPC_3","","","NO","YES","NO","Neutral","","","",""
 5288,5288,1,40,1,60000,1,1,0,0,0,0,0,"orsha_soldier_f_2","오르샤 입항 수속 담당자","","","","","","","EP14_F_CORAL_RAID_1_NPC_1","","","NO","YES","NO","Neutral","","","",""
+5293,5293,1,60,1,60000,1,2,0,0,0,0,0,"Ev_Npc_barrack_snowman","[겨울축제] 야크맘보 눈사람","","","","","","","EVENT_2212_LAST_CHRISTMAS_NPC","","","NO","YES","NO","Neutral","","","",""
 10001,50001,1,40,1,60000,1,2,0,0,0,0,0,"Board3_Event","이벤트 알림판","","","","","","","STEAM_TREASURE_EVENT","","","NO","YES","NO","Neutral","","","",""

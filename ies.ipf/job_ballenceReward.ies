@@ -1,5 +1,5 @@
 ClassID,JobChangePoint,ClassName,Name,EngName,CtrlType,BaseClass,RewardDay_Start,RewardDay_End,RewardItem_1,RewardItem_2,RewardItem_3,RewardItem_4,RewardItem_5,RewardItem_6
-1,0,"JobChangeDate","날짜설정","","","RANKRESET_220928","2021/10/4","2021/10/18","","","","","",""
+1,0,"JobChangeDate","날짜설정","","","RANKRESET_221220","2022/12/20","2023/1/3","","","","","",""
 1001,0,"Char1_1","[소드맨]","Warrior","Warrior","Base","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
 1002,1000,"Char1_2","[하이랜더]","Highlander","Warrior","","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
 1003,1000,"Char1_3","[펠타스타]","Peltasta","Warrior","","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
@@ -95,4 +95,5 @@ ClassID,JobChangePoint,ClassName,Name,EngName,CtrlType,BaseClass,RewardDay_Start
 5015,1000,"Char5_15","[랑다]","Rangda","Scout","","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
 5016,1000,"Char5_16","[클로운]","Clown","Scout","","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
 5017,1000,"Char5_17","[하카펠리테르]","Hakkapeliter","Scout","","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
+5018,1000,"Char5_18","[재규어]","Jaguar","Scout","","","","Premium_SkillReset_14d","Premium_Abillitypoint_14d","","","",""
 9001,0,"Char4_99","[GM]","GM","Cleric","","","","","","","","",""
